@@ -1,6 +1,6 @@
 body {
       background-color: cyan; 
-      color: #031B3F; 
+      color: #6495ED; 
       font-family: arial, helvetica, sans-serif; 
       padding:15px; 
       line-height:2em;
@@ -35,7 +35,7 @@ a:hover {
     text-decoration: underline;
 }
 #citation-link > a:hover {
-    color: #C8AC80;
+    color: #6495ED;
 }
 
 /* Navbar */
@@ -304,18 +304,3 @@ section.textAnalysis figure img {flex:5;
 section.textAnalysis figure figcaption {flex:1;
 ;}
 
-/* Fulltext color codings */
-span.beast {color:blue;}
-#beast-legend {color:blue;}
-span.person {color:orange;}
-#person-legend {color:orange;}
-span.location {color:purple;}
-#location-legend {color:purple;}
-span.pos {color:green;}
-#positive-legend {color:green;}
-span.neg {color:red;}
-#negative-legend {color:red;}
-span.foot {color:gray;}
-
-/* Exceptions for Poem titles */
-#fulltext > h2 > a > span {color: #000000;}
