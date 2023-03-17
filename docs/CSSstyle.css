@@ -52,7 +52,7 @@ a:hover {
 }
 
 div.button { 
-  background-color: white; 
+  background-color: gray; 
   border: double black;
   color: black;
   padding: 15px 32px;
@@ -73,8 +73,8 @@ div.button {
   text-align: center;
   text-decoration: none;
   outline: none;
-  color: #fff;
-  background-color: #4CAF50;
+  color: white;
+  background-color: gray;
   border: none;
   border-radius: 15px;
   box-shadow: 0 9px #999;
@@ -180,7 +180,7 @@ div {
     width: 100%;
     display: flex;
     padding:5vw;
-    background-color:#FAF9F6 
+    background-color: #747070
 }
           
  section.Gallery  {
