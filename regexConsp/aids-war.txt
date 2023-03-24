@@ -1,4 +1,4 @@
-
+<xml><p>
                       Taken from KeelyNet BBS (214) 324-3501
                            Sponsored by Vangard Sciences
                                     PO BOX 1031
@@ -729,4 +729,4 @@
                  Jerry at (214) 324-8741 or Ron at (214) 484-3189
        --------------------------------------------------------------------
 
- 
+ </xml>

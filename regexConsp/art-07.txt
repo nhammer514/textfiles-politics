@@ -1,4 +1,4 @@
-Volume : SIRS 1991 History, Article 02                                
+<xml><p>Volume : SIRS 1991 History, Article 02                                
 Subject: Keyword(s) : KENNEDY and ASSASSINATION
 Title  : A Remembrance of Kennedy                                              
 Author : Jim Henderson                                                         
@@ -151,3 +151,4 @@ American character, slivers of the dream and the nightmare.
 fretful and all-consuming search for itself, a long and howling    
 rage against the dying of the light.                               
                                                                    
+</xml>

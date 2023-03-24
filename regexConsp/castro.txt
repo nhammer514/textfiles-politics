@@ -1,4 +1,4 @@
-</p>
+<xml><p></p>
 
 <p>            CUBA, CASTRO, and the UNITED STATES</p>
 
@@ -760,4 +760,4 @@ Downloaded from Just Say Yes. 2 lines, More than 1500 files online!
 
 <p>                         "Raw Data for Raw Nerves"</p>
 
-<p>
+<p></xml>

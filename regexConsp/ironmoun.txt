@@ -1,4 +1,4 @@
-Newsgroups: alt.conspiracy
+<xml><p>Newsgroups: alt.conspiracy
 From: pierce@lanai.cs.ucla.edu (Brad Pierce)
 Subject: "Report from Iron Mountain" (an electronic version) - LONG
 Organization: UCLA, Computer Science Department
@@ -2672,4 +2672,4 @@ studies to date, what has blocked the logical extension of new
 analytic techniques has been a general failure to understand and
 properly evaluate the nonmilitary functions of war.</p>
 
-<p>
+<p></xml>

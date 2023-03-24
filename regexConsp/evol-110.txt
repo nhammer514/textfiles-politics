@@ -1,4 +1,4 @@
-</p>
+<xml><p></p>
 
 <p>      ."".                           "NO STONE UNTURNED" 
     ."    ". R A R A T  REPORT       
@@ -500,3 +500,4 @@ introductory packet of Creationist material. </p>
 <p>*  We invite letters to the editor.  We will print those that will make a 
 contribution to the overall discussion. 
 
+</xml>

@@ -1,4 +1,4 @@
-Article 1577 of misc.activism.progressive:
+<xml><p>Article 1577 of misc.activism.progressive:
 From: dave@ratmandu.corp.sgi.com (dave "who can do? ratmandu!" ratcliffe)
 Newsgroups: misc.activism.progressive
 Subject: will BCCI happen again?  bank on it. (part 1 of 2)
@@ -1220,4 +1220,4 @@ Approved: map@pencil.cs.missouri.edu
        in turmoil.  3. life out of balance.  4. life disintegrating.
          5. a state of life that calls for another way of living.
 
-
+</xml>

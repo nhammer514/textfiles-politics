@@ -1,4 +1,4 @@
-            82 page printout, pages 238 to 319 of 322
+<xml><p>            82 page printout, pages 238 to 319 of 322
                            CHAPTER VII</p>
 
 <p>                  THE "TRIUMPH" OF CHRISTIANITY</p>
@@ -5427,4 +5427,4 @@ AN APPEAL TO REASON. . . . . . . . . . . . . . . . . . . . .  311</p>
 <p>                         Bank of Wisdom
                   Box 926, Louisville, KY 40201
                               322
-
+</xml>

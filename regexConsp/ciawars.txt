@@ -1,4 +1,4 @@
-
+<xml><p>
                         John Stockwell
                 The Secret Wars of the CIA</p>
 
@@ -1231,3 +1231,4 @@ today, and do it, what they can, every day of their lives."</p>
 <p>                          "Raw Data for Raw Nerves"</p>
 
 <p>X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
+</xml>

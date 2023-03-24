@@ -1,4 +1,4 @@
-                             QUOTES THAT GUIDE US
+<xml><p>                             QUOTES THAT GUIDE US
 
 
           "Ere many generations pass, our machinery will be driven  by
@@ -60,4 +60,4 @@
 
 
 
-@
+@</xml>

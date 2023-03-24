@@ -1,4 +1,4 @@
-</p>
+<xml><p></p>
 
 <p>Skolnick COMMENTARY #002
 ========================</p>
@@ -78,3 +78,4 @@ Oglesby (sp?), Chicago, 60617.</p>
 <p>For the latest on courts, banks, espionage agencies, political 
 assassinations and the news media. On 24 hours.
 
+</xml>

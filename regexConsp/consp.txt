@@ -1,4 +1,4 @@
-EDITOR'S NOTE:</p>
+<xml><p>EDITOR'S NOTE:</p>
 
 <p>I have only compiled this list.  I claim no responsibility for errors,
 discrepensies, bogus entries, repeated or contradictiory entries,
@@ -1606,3 +1606,4 @@ through the long wait; the cattle WILL find their way home.</p>
 <p>Pete Faust
 
 Institute For Relearning
+</xml>

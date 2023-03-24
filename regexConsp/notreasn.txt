@@ -1,4 +1,4 @@
-NO TREASON: THE CONSTITUTION OF NO AUTHORITY</p>
+<xml><p>NO TREASON: THE CONSTITUTION OF NO AUTHORITY</p>
 
 <p>By Lysander Spooner</p>
 
@@ -1847,3 +1847,4 @@ exist.</p>
 <p>                          "Raw Data for Raw Nerves"
 
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
+</xml>

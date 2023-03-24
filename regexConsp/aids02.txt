@@ -1,4 +1,4 @@
-Title  : AIDS: The Facts</p>
+<xml><p>Title  : AIDS: The Facts</p>
 
 <p>Source : American Red Cross</p>
 
@@ -204,4 +204,4 @@ ______________________________________________________________________________</
 
 <p>AIDS-1 Rev. May 1986</p>
 
-<p>
+<p></xml>

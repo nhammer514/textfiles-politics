@@ -1,4 +1,4 @@
-
+<xml><p>
 --THE TESLA SHIELD--
  
       Of particular interest is the hemispherical shell of energy which years 
@@ -292,3 +292,4 @@ predicted. Again we showed that we knew nothing of scalar electromagnetic
 weapons, and did not recognize one when we encountered its effects.
 
 (Continued)
+</xml>

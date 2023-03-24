@@ -1,4 +1,4 @@
-       From: NLNS
+<xml><p>       From: NLNS
     Subject: Project Censored</p>
 
 <p>By Carl Jensen,Ph.D.
@@ -646,3 +646,4 @@ Project Censored at Sonoma State University, Rohnert Park, California
 
 <p>-- SSU --
 
+</xml>

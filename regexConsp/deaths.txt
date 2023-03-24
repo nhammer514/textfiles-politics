@@ -1,4 +1,4 @@
-From "CROSSFIRE" by Jim Marrs
+<xml><p>From "CROSSFIRE" by Jim Marrs
 ISBN 0-88184-524-8
 Copyright (c) 1989 by Jim Marrs
 First published by Carroll &amp; Graf 1989</p>
@@ -571,3 +571,4 @@ the news media reported the following deaths:</p>
                            if JFK limousine
 
 --- end
+</xml>

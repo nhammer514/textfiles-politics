@@ -1,4 +1,4 @@
-only one Jewish witness, a certain Dr. Bendel, and his is the
+<xml><p>only one Jewish witness, a certain Dr. Bendel, and his is the
 only testimony to the occurrence (Reitlinger, ibid., p. 457).
 This situation is generally typical. When it comes down to hard
 evidence, it is strangely elusive; the building was
@@ -837,4 +837,4 @@ very much alive to the falsehoods of concentration camp
 mythology, and he concludes: "In trying to assess the causes of
 the conditions found at Belsen one must be alerted to the
 tremendous visual display, ripe for the purposes of propaganda,
-that masses of starved corpses presented." To discuss such
+that masses of starved corpses presented." To discuss such</xml>

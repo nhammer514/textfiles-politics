@@ -1,4 +1,4 @@
-              I N V I S I B L E   C O N T R A C T S
+<xml><p>              I N V I S I B L E   C O N T R A C T S
                          George Mercier</p>
 
 <p>                      FEDERAL RESERVE NOTES
@@ -1540,4 +1540,4 @@ With rare exception, all of the Patriot lawsuits I have examined never involved
 any form of Depositions or Interrogatories being take on the Defendant (and the
 Patriot wonders why he loses). All of that is neatly avoided by a few
 preventative steps.
-
+</xml>

@@ -1,4 +1,4 @@
-Carolee Boyles-Sprenkel			About 2650 words
+<xml><p>Carolee Boyles-Sprenkel			About 2650 words
 Route 3, Box 2180				Copyright 1989
 Quincy, FL 32351				Carolee Boyles-Sprenkel
 (904) 627-2254					Second Serial Rights</p>
@@ -387,3 +387,4 @@ avoid bringing home these unwanted freeloaders from the woods.</p>
 <p>                          "Raw Data for Raw Nerves"
 
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
+</xml>

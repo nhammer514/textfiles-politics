@@ -1,4 +1,4 @@
-Subject: JFK:  List of Convenient Deaths
+<xml><p>Subject: JFK:  List of Convenient Deaths
 Date: 26 Mar 91 01:10:57 GMT</p>
 
 <p>Here is the much requested list of people associated with the JFK 
@@ -421,3 +421,4 @@ version of events more than anything else.
 --
 
 		Steve Feinstein
+</xml>

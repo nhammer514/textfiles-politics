@@ -1,4 +1,4 @@
-                        27 page printout</p>
+<xml><p>                        27 page printout</p>
 
 <p>    Reproducible Electronic Publishing can defeat censorship.</p>
 
@@ -1714,4 +1714,4 @@ that America can again become what its Founders intended --</p>
 <p>                         Bank of Wisdom
                   Box 926, Louisville, KY 40201
                                27
-
+</xml>

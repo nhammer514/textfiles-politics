@@ -1,4 +1,4 @@
-             32 page printout, pages 24 to 55 of 322
+<xml><p>             32 page printout, pages 24 to 55 of 322
                      FORGERY IN CHRISTIANITY</p>
 
 <p>                    "Being crafty, I caught you with guile" ...
@@ -2038,4 +2038,4 @@ New York, 1914.</p>
                          Bank of Wisdom
                   Box 926, Louisville, KY 40201
                               55
-
+</xml>

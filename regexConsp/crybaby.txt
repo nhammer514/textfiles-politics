@@ -1,4 +1,4 @@
-I notice the now-ancient Gauquelin "Mars Effect" affair continues to 
+<xml><p>I notice the now-ancient Gauquelin "Mars Effect" affair continues to 
 crop up, perennially, with considerable time-honoured but still-fuzzy 
 rhetoric about an alleged CSICOP "cover up", including copious 
 laudatory mentions of Dennis Rawlins's ALSO-ancient jeremiad 
@@ -947,4 +947,4 @@ INTERNET: moen@f207.n914.z8.RBBS-NET.ORG
 
  Robert Sheaffer, Nov., 1991] 
 -- 
-Rick Moen - via RBBS-
+Rick Moen - via RBBS-</xml>

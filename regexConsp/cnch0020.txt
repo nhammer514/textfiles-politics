@@ -1,4 +1,4 @@
-The following pamphlet was written in 1989 by a minister (now
+<xml><p>The following pamphlet was written in 1989 by a minister (now
 deceased) who had the courage and inspiration to explain in
 very simple and uncluttered language -- how it is that we
 are presently being ENSLAVED and IMPOVERISHED by the current
@@ -1633,3 +1633,4 @@ ___________________________________________________________________________</p>
 
 <p>   ********************************************************
 
+</xml>

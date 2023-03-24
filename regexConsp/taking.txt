@@ -1,4 +1,4 @@
-Path: ns-mx!hobbes.physics.uiowa.edu!zaphod.mps.ohio-state.edu!mips!spool.mu.edu!olivea!sgigate!odin!ratmandu.esd.sgi.com!dave
+<xml><p>Path: ns-mx!hobbes.physics.uiowa.edu!zaphod.mps.ohio-state.edu!mips!spool.mu.edu!olivea!sgigate!odin!ratmandu.esd.sgi.com!dave
 From: dave@ratmandu.esd.sgi.com (dave "who can do? ratmandu!" ratcliffe)
 Newsgroups: alt.activism,alt.conspiracy.jfk,alt.conspiracy
 Subject: Book Intro:  "The Taking Of America, 1-2-3"
@@ -9882,4 +9882,4 @@ ROBERT W. EDGAR, PA.
 
 <p>              --- Abraham Lincoln (quoted in Jack London's "The Iron Heel").</p>
 
-<p>
+<p></xml>

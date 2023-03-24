@@ -1,4 +1,4 @@
-
+<xml><p>
     CHRONOLOGY OF SECRET SOCIETIES
     Excerpted from THE OCCULT CONSPIRACY
     by Michael Howard
@@ -248,4 +248,4 @@
 <p>    <special>EOF</special>
     5 January 1991</p>
 
-<p>
+<p></xml>

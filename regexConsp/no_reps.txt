@@ -1,4 +1,4 @@
-
+<xml><p>
 (DRAFT -- SSU NEWS RELEASE -- CJ -- 5/17/87)</p>
 
 <p>May 21, 1987 # Contact: Barbara Foote'</p>
@@ -220,3 +220,4 @@ Karl Grossman.</p>
 
 <p>--	SSU --
 
+</xml>

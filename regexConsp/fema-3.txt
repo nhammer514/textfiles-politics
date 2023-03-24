@@ -1,4 +1,4 @@
-
+<xml><p>
 [PeaceNet forward from AML (ACTIV-L) -- see bottom for more info]
 ------------------------------------------------------------------
 
@@ -688,3 +688,4 @@ courtesy of the Pentagon.
 
 =================================================================
 Psi-Tech and alien brain-wave research -- Whats going on at Los Alamos?
+</xml>

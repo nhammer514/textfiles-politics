@@ -1,4 +1,4 @@
-</p>
+<xml><p></p>
 
 <p>Subject: Corporate buyout of the Democratic Party</p>
 
@@ -111,4 +111,4 @@ very little influence over the choices.  Those decisions have
 already been made for us.  We should feel glad about it, now
 we don't have to make the difficult decisions...</p>
 
-<p>
+<p></xml>

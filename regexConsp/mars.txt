@@ -1,4 +1,4 @@
-FILE:     MARS.TXT
+<xml><p>FILE:     MARS.TXT
 AUTHOR:   David Reynolds
 DATE:     03-01-88
 SUBJECT:  Excerpt from the book The Truth About Mars
@@ -1096,4 +1096,4 @@ FOR MORE INFORMATION:
 CONTACT THE UNARIUS ACADEMY OF SCIENCE
 145 SO. MAGNOLIA AVE.
 EL CAJON, CA. 92020-4522
-(619)447-4170                                
+(619)447-4170                                </xml>

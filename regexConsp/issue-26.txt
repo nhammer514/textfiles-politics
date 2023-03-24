@@ -1,4 +1,4 @@
-Issue Number 26, July 1985</p>
+<xml><p>Issue Number 26, July 1985</p>
 
 <p>Saving our Precious Planet
      from Becoming
@@ -923,4 +923,4 @@ that all their stocks have been bought out through the end of the summer.
 "because they know the government will only tax it even more."</p>
 
 <p>                               230
-
+</xml>

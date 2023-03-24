@@ -1,4 +1,4 @@
-This file is the abstracts or text of 26 articles with references to the
+<xml><p>This file is the abstracts or text of 26 articles with references to the
 Justice Department's participation in the Inslaw scandal. There are also
 references to Danny Casolaro's mysterious death (spelled murder). The
 articles were published in 1991 and 1992.</p>
@@ -2067,4 +2067,4 @@ Summary:   Gross annual sales: $6,000,000
 Category:  Software, Applications
              Government/Public Administration
              Legal Services
-
+</xml>

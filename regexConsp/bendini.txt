@@ -1,4 +1,4 @@
-&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#
+<xml><p>&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#
 %#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;
 #&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%
 &amp;%#                                                                        &amp;%#
@@ -492,4 +492,4 @@ above 100%.</p>
 <p>The end. Typed by (_&gt;Shadow Hawk 1&lt;_). May be distributed anywhere as long as you keep
 the credits. I dont give a shit what you do with it either.</p>
 
-<p>DOWNLOADED FROM P-80 SYSTEMS......
+<p>DOWNLOADED FROM P-80 SYSTEMS......</xml>

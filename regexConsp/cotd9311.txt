@@ -1,4 +1,4 @@
-Subject: Conspiracy for the Day -- November 3, 1993
+<xml><p>Subject: Conspiracy for the Day -- November 3, 1993
 From: bfrg9732@uxa.cso.uiuc.edu (Brian F. Redman)
 Date: 3 Nov 1993 00:02:07 GMT</p>
 
@@ -137,3 +137,4 @@ Brian Francis Redman
    :       -- Liber Proverbiorum  XXXI: 8-9          :
    :.................................................:
 (bfrg9732@uxa.cso.uiuc.edu)   (72567.3145@compuserve.com)
+</xml>

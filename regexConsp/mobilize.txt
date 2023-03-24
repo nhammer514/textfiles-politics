@@ -1,4 +1,4 @@
-MOBILIZE!
+<xml><p>MOBILIZE!
 =========</p>
 
 <p>Two years ago the FCC tried and (with your help and letters of protest)
@@ -70,3 +70,4 @@ Thanks for your help.
 
 Note: Most of the text for this Bulletin was copied from a message posted
       on the Fidonet Telecomm Echo network.
+</xml>

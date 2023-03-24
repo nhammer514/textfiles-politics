@@ -1,4 +1,4 @@
-Issue No. 19, December 1984</p>
+<xml><p>Issue No. 19, December 1984</p>
 
 <p>	For the White Race, Jewish democracy has
 been an Unmitigated Disester.</p>
@@ -500,4 +500,4 @@ must polarize in order to survive.</p>
 <p>	    * * * * *
 
                 105
-
+</xml>

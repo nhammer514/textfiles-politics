@@ -1,4 +1,4 @@
-MAIL SURVEILLANCE
+<xml><p>MAIL SURVEILLANCE
 
 COPYRIGHT (C) 1991 BY FULL DISCLOSURE. ALL RIGHTS RESERVED.
 
@@ -124,4 +124,4 @@ Return to: Full Disclosure, Box 903, Libertyville, Illinois 60048
 
 
 
-
+</xml>

@@ -1,4 +1,4 @@
-"The Bermuda Triangle and Parapsychology" By Dave Beall</p>
+<xml><p>"The Bermuda Triangle and Parapsychology" By Dave Beall</p>
 
 <p>.    Although not embraced by the parapsychological community, the Bermuda
 Triangle phenomena is an intriguing topic to the public.  Jane Roberts' Seth
@@ -40,4 +40,4 @@ which readily conform to known physical principles.  On the other hand, many
 esoteric or metaphysical ideas may someday be explainable in purely physical
 terms.  In an attempt to understand paranormal occurences, an individual should
 remain open and objective until all of the evidence is in so that the
-temptation towards premature and unfounded conclusions can be overcome.
+temptation towards premature and unfounded conclusions can be overcome.</xml>

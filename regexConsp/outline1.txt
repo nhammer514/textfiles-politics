@@ -1,4 +1,4 @@
- </p>
+<xml><p> </p>
 
 <p>  AN ILLUMINATI OUTLINE OF HISTORY</p>
 
@@ -698,3 +698,4 @@ AD 30 -- Assassination of the radical Jesus, allegedly on
 <p>From "The Illuminoids"  c. Neil Wilgus &amp; various sources</p>
 
 <p> 
+</xml>

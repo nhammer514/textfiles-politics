@@ -1,4 +1,4 @@
- (The Elkhorn Manifesto) </p>
+<xml><p> (The Elkhorn Manifesto) </p>
 
 <p> SHADOW OF THE SWASTIKA:</p>
 
@@ -2421,4 +2421,4 @@ Victory! Thank you r </p>
 
 <p> </p>
 
-<p>
+<p></xml>

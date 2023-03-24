@@ -1,4 +1,4 @@
-Issue No. 20, January 1985</p>
+<xml><p>Issue No. 20, January 1985</p>
 
 <p>The Time has come for
 The White Race to establish
@@ -665,3 +665,4 @@ tempt, derision and loathing.</p>
 <p>			* * * * *</p>
 
 <p>			   119
+</xml>

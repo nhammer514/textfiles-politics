@@ -1,4 +1,4 @@
-Path: uuwest!spies!mips!zaphod.mps.ohio-state.edu!magnus.acs.ohio-state.edu!usenet.ins.cwru.edu!cleveland.Freenet.Edu!aq817
+<xml><p>Path: uuwest!spies!mips!zaphod.mps.ohio-state.edu!magnus.acs.ohio-state.edu!usenet.ins.cwru.edu!cleveland.Freenet.Edu!aq817
 From: aq817@cleveland.Freenet.Edu (Steve Crocker)
 Newsgroups: alt.activism
 Subject: LaRouche Trial Fact Sheet (40K)
@@ -810,3 +810,4 @@ taken place behind closed doors.
 
                              --30--
 -30-
+</xml>

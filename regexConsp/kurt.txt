@@ -1,4 +1,4 @@
-[==================================================================]
+<xml><p>[==================================================================]
 [ Note. The original text was downloaded from the Nazi-4-Christ    ]
 [ network as the file KURT. It is presented here in it's original  ]
 [ text, except for a few modifications, listed below:              ]
@@ -2374,3 +2374,4 @@ called: "Stages in Accepting Death.</p>
    For  more  on  this complex subject, see Reisser, Reisser &amp; Weldon,
 NEW  AGE  MEDICINE,  Global,  Chattanooga,  TN.,  1988  and  Jane   D.
 Gumprecht, MD, HOLISTIC HEALTH, Ransom, Moscow, ID., 1986.
+</xml>

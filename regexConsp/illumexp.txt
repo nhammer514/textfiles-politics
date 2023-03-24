@@ -1,4 +1,4 @@
-
+<xml><p>
 THE ILLUMINATI EXPRESS
 BOLESKINE CHAPTER O.T.O.
 THE ORDO TEMPLI ORIENTIS HISTORIC EVOLUTION FLOWCHART
@@ -277,4 +277,4 @@ Grant  |         |        |Veritas-Metzger|
                         +---------------+      +------------+                  
         +-----------+</p>
 
-<p>
+<p></xml>

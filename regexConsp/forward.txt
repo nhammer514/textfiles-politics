@@ -1,4 +1,4 @@
-      ***********************  EXPLORING   **********************</p>
+<xml><p>      ***********************  EXPLORING   **********************</p>
 
 <p>        HHH    HHH HHH     HHH HHHHHHH    HHHHHHHHHH  HHHHHHH.
         HHH    HHH  HHH   HHH  HHHHHHHHH. HHHHHHHHHH  HHHHHHHHH
@@ -528,4 +528,4 @@ the pre-eminently profitable religious market. It isn't belief
 in the Bible that fomented the most vicious wars, but belief in 
 the infallible veracity of the publishers.</p>
 
-<p>
+<p></xml>

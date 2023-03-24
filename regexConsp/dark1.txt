@@ -1,4 +1,4 @@
-*************************************************************************** 
+<xml><p>*************************************************************************** 
 *************************************************************************** 
   
   
@@ -144,3 +144,4 @@ New developments are being announced every day and we promise to keep the
 public informed of these announcements as they occur via this newsletter. 
  
 Les Dark, Editor 
+</xml>

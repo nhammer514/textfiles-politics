@@ -1,4 +1,4 @@
-    This is a response to the file KURT.LZH, which has been circulating
+<xml><p>    This is a response to the file KURT.LZH, which has been circulating
     over MOODS. The LZH archive consists of the file KURT.DOC, which is
     available in XHATE10 (ZIP OR ARC), the archive you are reading this
     from.</p>
@@ -387,4 +387,4 @@ Godly principles for the salvation of our people and land.</p>
     experience NOW. With further erosion of the Supreme Court, it is
     obvious that the slide will continue into a true dark age of
     illiteracy and faith rather than academic excellence and knowledge.
-
+</xml>

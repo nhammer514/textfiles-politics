@@ -1,4 +1,4 @@
-Path: uuwest!control.spies.com!spies!sgiblab!sgigate!olivea!stratus!florida!lpb
+<xml><p>Path: uuwest!control.spies.com!spies!sgiblab!sgigate!olivea!stratus!florida!lpb
 From: lpb@florida.swdc.stratus.com (Len Bucuvalas)
 Newsgroups: alt.conspiracy
 Subject: Re: Executive Orders
@@ -1614,3 +1614,4 @@ courtesy of the Pentagon.</p>
 The accountability of government has gone to the point where the very
 use of the law is the instrument of illegality.
 		-- Ralph Nader @ Harvard Law School, 1/15/92
+</xml>

@@ -1,4 +1,4 @@
-THE HERITAGE OF ECONOMIC LIBERTY</p>
+<xml><p>THE HERITAGE OF ECONOMIC LIBERTY</p>
 
 <p>By RICHARD M. EBELING</p>
 
@@ -183,3 +183,4 @@ Copyright (c) 1990, The Future of Freedom Foundation,
 PO Box 9752, Denver, Colorado 80209, 303-777-3588.
 Permission granted to reprint; please give appropriate credit
 and send one copy of reprinted material to the Foundation.
+</xml>

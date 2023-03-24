@@ -1,4 +1,4 @@
-</p>
+<xml><p></p>
 
 <p>Skolnick COMMENTARY #010
 ========================</p>
@@ -101,3 +101,4 @@ South Oglesby, Chicago, [Illinois] 60617. For the latest on
 courts, banks, espionage agencies, political assassinations, and 
 the news media.
 
+</xml>

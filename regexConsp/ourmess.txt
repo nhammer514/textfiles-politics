@@ -1,4 +1,4 @@
-
+<xml><p>
 The following discussion of our country's budget crisis was
 taken from a Reader's Digest Feb. 91 issue. It was written
 by Fred Barnes. It is to be taken very seriously...</p>
@@ -311,3 +311,4 @@ It's time for taxpayers to remind them.</p>
 <p>                          "Raw Data for Raw Nerves"
 
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
+</xml>

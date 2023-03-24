@@ -1,4 +1,4 @@
-CONCENTRATION CAMP PLANS FOR U.S. CITIZENS</p>
+<xml><p>CONCENTRATION CAMP PLANS FOR U.S. CITIZENS</p>
 
 <p>Transcript of taped message concerning the implementation of a 
 dictatorial government in the United States.</p>
@@ -1235,4 +1235,4 @@ prevent the loss of our freedom as citizens of the United States.</p>
 
 <p>Thank you very much. (Conclusion of taped report.)</p>
 
-<p>
+<p></xml>

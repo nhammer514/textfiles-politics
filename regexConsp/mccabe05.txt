@@ -1,4 +1,4 @@
-                        27 page printout</p>
+<xml><p>                        27 page printout</p>
 
 <p>    Reproducible Electronic Publishing can defeat censorship.</p>
 
@@ -1685,4 +1685,4 @@ us, we need to give them back to America.</p>
 <p>                         Bank of Wisdon
                   Box 926, Louisville, KY 40201
                                27
-
+</xml>

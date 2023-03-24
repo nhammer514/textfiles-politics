@@ -1,4 +1,4 @@
-______________________________________________________________________________
+<xml><p>______________________________________________________________________________
 *                                                                            *
 *                                                                            *
 *                       Soviet intelligence                                  *
@@ -156,3 +156,4 @@ cool and look for file three in the night warrior series
 
 DOWNLOADED FROM P-80 SYSTEMS......
 Downloaded From P-80 International Information Systems 304-744-2253
+</xml>

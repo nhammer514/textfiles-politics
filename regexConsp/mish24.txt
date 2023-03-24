@@ -1,4 +1,4 @@
-THE TEMPEST METHOD OF COMPUTER DATA INTERCEPTION!
+<xml><p>THE TEMPEST METHOD OF COMPUTER DATA INTERCEPTION!
 -----------------by Al Muick for P-80 Systems, OCT 86----------
 
    Let me begin by a brief history of myself.  I spent the better part of six years in Uncle Sam's Country Club (better known as the US Army) working in the Intelligence and Security Command (better known as the ASA--Army Security Agency).  During that time, my primary duties were Cryptology, Cryptologic Intercept, Counterintelligence, and Field First Sergeant (whatta drag!).
@@ -155,4 +155,4 @@ BINARY     MEANING
 10111110   Unassigned control
 01111110   Escape
 11111110   Delete/Idle
-                                                                                                                                                                                 
+                                                                                                                                                                                 </xml>

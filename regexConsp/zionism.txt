@@ -1,4 +1,4 @@
-From: wmcguire@world.std.com (Wayne McGuire)
+<xml><p>From: wmcguire@world.std.com (Wayne McGuire)
 To: talk.politics.mideast
 Subject: The End of Zionism (Yet Another Failed Messianic Movement)
 Organization: The World Public Access UNIX, Brookline, MA
@@ -266,3 +266,4 @@ New York: Hill and Wang, 1993.</p>
 
 <p>Sicker, Martin. Judaism, Nationalism, and the Land of Israel.
 Boulder, CO. Westview Press, 1992.
+</xml>

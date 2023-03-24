@@ -1,4 +1,4 @@
-Article 11142 of alt.activism:
+<xml><p>Article 11142 of alt.activism:
 Xref: bilver alt.activism:11142 alt.conspiracy:5175
 Path: bil-
 ver!tous!peora!masscomp!usenet.coe.montana.edu!rpi!sci.ccny.cuny.edu!psinnt
@@ -206,4 +206,4 @@ Times":
        in turmoil.  3. life out of balance.  4. life disintegrating.
          5. a state of life that calls for another way of living.
 
-
+</xml>

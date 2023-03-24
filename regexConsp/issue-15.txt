@@ -1,4 +1,4 @@
-Issue No. 15, August 1984</p>
+<xml><p>Issue No. 15, August 1984</p>
 
 <p>Let Us Get Our Priorities Straight
  Who's Trying to Save
@@ -1154,3 +1154,4 @@ NEVER</p>
 <p>		*  *  *  *  *</p>
 
 <p>		     51
+</xml>

@@ -1,4 +1,4 @@
- Info pulled from the Usenet.  Air (atmosphere) Railway Systems.</p>
+<xml><p> Info pulled from the Usenet.  Air (atmosphere) Railway Systems.</p>
 
 <p>	Today and Yesterday
      -------------------------</p>
@@ -328,3 +328,4 @@ SoftQuad Inc., Toronto		 who sit down and count the cost
 utzoo!sq!msb, msb@sq.com	 of every thought and act."  -- Daniel Gooch</p>
 
 <p>This article is in the public domain.
+</xml>

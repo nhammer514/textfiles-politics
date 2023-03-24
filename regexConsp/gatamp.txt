@@ -1,4 +1,4 @@
-
+<xml><p>
           STACKING THE JURY IN GEORGIA</p>
 
 <p>     We have been informed by an alert correspondent of a likely 
@@ -35,3 +35,4 @@ personal-injury cases, and they tend to side with polluters
 against environmentalists, and with the establishment against 
 civil rights plaintiffs.  The Jury Commission is scrambling to 
 cover its tracks now that questions have been raised.
+</xml>

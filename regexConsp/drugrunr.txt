@@ -1,4 +1,4 @@
-
+<xml><p>
 CONTRAS USED COCAINE TO BUY ARMS
 BY VINCE BIELSKI and DENNIS BERNSTEIN</p>
 
@@ -207,3 +207,4 @@ Seattle Times, Minnieapolis Star and Tribune, and others.
 <p>                          "Raw Data for Raw Nerves"
 
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
+</xml>

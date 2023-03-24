@@ -1,4 +1,4 @@
-INTRODUCTION TO FREEMASONRY
+<xml><p>INTRODUCTION TO FREEMASONRY
 1 ENTERED APPRENTICE
 BY CARL H. CLAUDY</p>
 
@@ -1778,3 +1778,4 @@ learn Masonry, from M asons, and once again to be secret.  Finally he is
 urged to present only such candidates as he is sure will agree to all
 that he has agreed to.
 
+</xml>

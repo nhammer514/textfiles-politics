@@ -1,4 +1,4 @@
-EX-CIA OFFICIAL SPEAKS OUT</p>
+<xml><p>EX-CIA OFFICIAL SPEAKS OUT</p>
 
 <p>By Greg Kaza</p>
 
@@ -807,4 +807,4 @@ really worked.</p>
 could derive additional information. To my knowledge none of this stuff
 really worked.</p>
 
-<p>FD: Tha
+<p>FD: Tha</xml>

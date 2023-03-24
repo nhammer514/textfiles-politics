@@ -1,4 +1,4 @@
-
+<xml><p>
 The War and Peace Digest is a bimonthly international newsletter on issues
 of disarmament, government secrecy, media accountability, the nuclear
 threat (from both civilian power plants and the military weapons complex),
@@ -183,4 +183,4 @@ American nuclear exporters!
 
   ** End of text from cdp:gen.newsletter **
 
-
+</xml>

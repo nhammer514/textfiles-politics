@@ -1,4 +1,4 @@
-              I N V I S I B L E   C O N T R A C T S
+<xml><p>              I N V I S I B L E   C O N T R A C T S
                          George Mercier</p>
 
 <p>                    THE CITIZENSHIP CONTRACT
@@ -2428,4 +2428,4 @@ place at Nuremberg, see THE RESPONSIBILITY OF THE INDIVIDUAL UNDER
 INTERNATIONAL LAW by Ernst Schneedberger in 35 Georgetown Law Journal, 481
 (1947). =============================================================[576]</p>
 
-<p>
+<p></xml>

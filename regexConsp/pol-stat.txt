@@ -1,4 +1,4 @@
-
+<xml><p>
 The Police State</p>
 
 <p>by MC5 &amp; MC11</p>
@@ -152,4 +152,4 @@ causes of crime and all other oppression.</p>
 Publishing Company, 1989), p. 438.
 3. Washington Post National Weekly Edition 3/4/91, p.29.</p>
 
-<p>
+<p></xml>

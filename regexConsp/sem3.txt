@@ -1,4 +1,4 @@
-</p>
+<xml><p></p>
 
 <p>      Here is explained a new kind of resonance: scalar EM resonance, or 
 electrogravitational resonance. </p>
@@ -202,3 +202,4 @@ four days to drain off and discharge. At the end of four days of discharge,
 all clocks and watches returned to normal.
 
 (Continued)
+</xml>

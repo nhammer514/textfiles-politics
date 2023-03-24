@@ -1,4 +1,4 @@
-
+<xml><p>
 SUBJECT: FEMA GULAG</p>
 
 <p> 
@@ -1526,4 +1526,4 @@ over the common carriers' facilities.  That research was prepared
 by  NSTAC  at the DoD's request and is contained in a  series  of
 internal Pentagon documents obtained by Omni.   Collectively this
 series is known as the Satellite Survivability Report.  Completed
-in  1984,  it  is  the  on
+in  1984,  it  is  the  on</xml>

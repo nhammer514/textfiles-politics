@@ -1,4 +1,4 @@
-</p>
+<xml><p></p>
 
 <p>World Bank
 --------------------------------
@@ -43,4 +43,4 @@ and the World Bank Group, rev. ed. (1966); Mason, E. S., and Asher, R. E., The
 World Bank since Bretton Woods (1973); Reid, Escott, Strengthening the World
 Bank (1973); Van de Laar, J. M., The World Bank and the World's Poor (1976).
 
-973); Reid, Escott, Strengthening the Worl
+973); Reid, Escott, Strengthening the Worl</xml>

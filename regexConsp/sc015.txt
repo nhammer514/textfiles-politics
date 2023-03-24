@@ -1,4 +1,4 @@
-</p>
+<xml><p></p>
 
 <p>Skolnick COMMENTARY #015
 ========================</p>
@@ -104,3 +104,4 @@ involved with the KGB in narco-trafficking. The amount of cash
 allegedly paid to Ames was "far more than in most treason-for- 
 money cases."
 
+</xml>

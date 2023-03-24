@@ -1,4 +1,4 @@
---------------------------------------------------------------------------
+<xml><p>--------------------------------------------------------------------------
 The Wrong Number BBS * ParaNet<special>sm</special> Pi *  (201) 451-3063  24 hrs.  14.4 HST
 --------------------------------------------------------------------------
 
@@ -343,4 +343,4 @@ FILE NAME:  INS-RICH.TXT
   ko.yan.nis.qatsi (from the Hopi Language)  n.  1. crazy life.  2. life
       in turmoil.  3. life out of balance.  4. life disintegrating.
         5. a state of life that calls for another way of living.
-
+</xml>

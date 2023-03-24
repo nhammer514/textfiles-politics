@@ -1,4 +1,4 @@
-SEE NOTES AT END FOR INFO ON SOURCES OF THESE DOCUMENTS</p>
+<xml><p>SEE NOTES AT END FOR INFO ON SOURCES OF THESE DOCUMENTS</p>
 
 <p>                          CENTRAL INTELLIGENCE AGENCY
                              WASHINGTON 25, D. C.</p>
@@ -884,3 +884,4 @@ ward thwarting the techniques themselves.</p>
 <p>                          "Raw Data for Raw Nerves"
 
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
+</xml>

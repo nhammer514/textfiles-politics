@@ -1,4 +1,4 @@
-INTRODUCTION TO FREEMASONRY
+<xml><p>INTRODUCTION TO FREEMASONRY
 II
 FELLOWCRAFT
 BY CARL H. CLAUDY</p>
@@ -1867,3 +1867,4 @@ Craft.  Such in our own day is the spirit and practice of Masonic
 universality, and from that position, we may be very sure, the
 Craft will never recede.
 
+</xml>

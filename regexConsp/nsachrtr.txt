@@ -1,4 +1,4 @@
-
+<xml><p>
 The Charter is part of a recent FOIA request. - CJS
 ****************************************************************
     At  12:01 ON the  morning of November 4,  1952, a new federal
@@ -311,3 +311,4 @@ to COMINT.</p>
 <p>                          "Raw Data for Raw Nerves"</p>
 
 <p>X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
+</xml>

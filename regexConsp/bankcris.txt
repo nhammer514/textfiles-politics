@@ -1,4 +1,4 @@
-</p>
+<xml><p></p>
 
 <p>                       The Next Banking Crisis: 
               ========================================= 
@@ -174,3 +174,4 @@ weekly magazine in America --  are $32 per year (47 issues):
 The Nation // Dept MAP // 72 Fifth Ave. // New York, NY 10011    
 Or a half-year subscription (24 issues) is $22.    
 
+</xml>

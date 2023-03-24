@@ -1,4 +1,4 @@
-                       Host Element Fusion</p>
+<xml><p>                       Host Element Fusion</p>
 
 <p>                                            Unpublished Work
                                             Copyright (c) 1990
@@ -187,4 +187,4 @@ convert to neutrinos</p>
 [(1.007825 amu + 1.007825 amu + 1.007226 amu - .001097 amu
 -2.015447128 amu + 1.9441763x10-03 amu - 1.007825 amu)] 
 x 931.5 Mev/amu =  Q = .42 Mev
-   
+   </xml>

@@ -1,4 +1,4 @@
-</p>
+<xml><p></p>
 
 <p>Skolnick COMMENTARY #005
 ========================</p>
@@ -89,3 +89,4 @@ Committee to Clean Up the Courts, 9800 South Oglesby, Chicago,
 agencies, political assassinations, and the news media. On 24 
 hours a day...
 
+</xml>

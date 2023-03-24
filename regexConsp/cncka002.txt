@@ -1,4 +1,4 @@
-        TRANSCRIPT OF AN INTERVIEW WITH MR. BRIAN MEE</p>
+<xml><p>        TRANSCRIPT OF AN INTERVIEW WITH MR. BRIAN MEE</p>
 
 <p>       CONCERNING THE FAMOUS BACKYARD RIFLE PHOTOGRAPHS</p>
 
@@ -2165,4 +2165,4 @@ taking so much of your time to answer my questions.</p>
 
 <p>MR. MEE.  You're quite welcome, and it was my pleasure.</p>
 
-<p>
+<p></xml>

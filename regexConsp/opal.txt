@@ -1,4 +1,4 @@
-Subject: OPAL FILE!-HERE IT IS! (CIAOBIL COS WORLD PLOT TO FUKUSALL)
+<xml><p>Subject: OPAL FILE!-HERE IT IS! (CIAOBIL COS WORLD PLOT TO FUKUSALL)
 Date: 16 Feb 91 00:56:13 GMT</p>
 
 <p>***************************************************************
@@ -1287,4 +1287,4 @@ January 1988.  Other countries on the takeover list include:
 
 <p>------------ END OF THE OPAL FILE ----------------
  
-
+</xml>

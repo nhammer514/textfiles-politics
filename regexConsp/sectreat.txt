@@ -1,4 +1,4 @@
-      From Prevailing Winds Research, Reprint #003 :
+<xml><p>      From Prevailing Winds Research, Reprint #003 :
 *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *</p>
 
 <p>	   "THE SECRET TREATY OF FORT HUNT"
@@ -41,4 +41,4 @@ through since then stands witness to the consequences."
 <p>----------------------------
 Transcribed by John DiNardo</p>
 
-<p>
+<p></xml>

@@ -1,4 +1,4 @@
-PETITION TO INDICT
+<xml><p>PETITION TO INDICT
 
 The Government of these United States of America, having been formed under the
 Constitution and having been duly elected and appointed by the people of these
@@ -177,4 +177,4 @@ Milton William Cooper
 (714) 680-9537
                                                                                 
 he government to cease aiding and abetting and concealing
-this Alien Nation 
+this Alien Nation </xml>

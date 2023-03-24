@@ -1,4 +1,4 @@
-Newsgroups: alt.politics.org.nsa,talk.politics.crypto
+<xml><p>Newsgroups: alt.politics.org.nsa,talk.politics.crypto
 From: grady@netcom.com (Grady Ward)
 Subject: NSA employee's security manual
 Organization: Moby lexical databases
@@ -1060,3 +1060,4 @@ In the final analysis, security is an individual responsibility.  As a
 participant in the activities of the National Security Agency organization, you
 are urged to be always mindful of the importance of the work being accomplished
 by NSA and of the unique sensitivity of the Agency's operations.
+</xml>

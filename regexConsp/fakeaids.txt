@@ -1,4 +1,4 @@
-
+<xml><p>
                         DESIGNER DISEASES</p>
 
 <p>           AIDS As Biological &amp; Psychological Warfare</p>
@@ -239,3 +239,4 @@ Co., 1300-D Space Park Way, Mountain View, CA  94043.</p>
 <p>This report was originally printed in - Critique - Exposing 
 Consensus Reality, P.O. Box 11368, Santa Rosa, CA  95406.  $15.00 
 for three issues (one year).
+</xml>

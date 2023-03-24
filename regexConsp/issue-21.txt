@@ -1,4 +1,4 @@
-Issue No. 21, February 1985</p>
+<xml><p>Issue No. 21, February 1985</p>
 
 <p>Confrontation - Sooner The Better</p>
 
@@ -601,4 +601,4 @@ but lose in the end.</p>
 White Race itself.</p>
 
 <p>                      133
-
+</xml>

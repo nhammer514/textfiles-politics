@@ -1,4 +1,4 @@
-              I N V I S I B L E   C O N T R A C T S
+<xml><p>              I N V I S I B L E   C O N T R A C T S
                          George Mercier</p>
 
 <p>                          INTRODUCTION
@@ -4212,4 +4212,4 @@ rid of the Gremlins themselves will end depressions -- but this is not the kind
 of talk that Gremlins want to hear propagated.
 =============================================================[117]</p>
 
-<p>
+<p></xml>

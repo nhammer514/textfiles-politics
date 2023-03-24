@@ -1,4 +1,4 @@
-To USSR-L subscribers,
+<xml><p>To USSR-L subscribers,
 There have been some postings lately asking what SOVSET is and
 who it serves.  In general it would not be proper to copy
 SOVSET's material and distribute in USSR-L, since SOVSET is
@@ -375,4 +375,4 @@ section which omits any mention of that court.  In the second
 version, the Supreme Court rather than the Constitutional Court
 would be involved in the impeachment process.</p>
 
-<p>
+<p></xml>

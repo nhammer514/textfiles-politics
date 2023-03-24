@@ -1,4 +1,4 @@
-</p>
+<xml><p></p>
 
 <p>Another mainstream article that would not have been allowed to be
 printed ten years ago.</p>
@@ -138,4 +138,4 @@ calf muscles? "An interesting question," Zuckerman said with a smile.</p>
 Bakken, regularly brings in researchers in the field of the paranormal and
 so-called alternative science for special lectures.</p>
 
-<p>
+<p></xml>

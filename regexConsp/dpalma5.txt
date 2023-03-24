@@ -1,4 +1,4 @@
-
+<xml><p>
                       HOMOPOLAR "FREE-ENERGY" GENERATOR TEST</p>
 
 <p>                                 Robert Kincheloe
@@ -854,3 +854,4 @@
 <p>                          "Raw Data for Raw Nerves"</p>
 
 <p>X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
+</xml>

@@ -1,4 +1,4 @@
- </p>
+<xml><p> </p>
 
 <p>   /==\ \  / /==\ \  /==                  /=================================\
    |  |  \/  |  | |\ |                    | The Resonant Gravity Field Coil |
@@ -301,3 +301,4 @@ your subjective reality!</p>
  ݰ����       The Gates of Hell are open Night and Day;        ������
  ݱ��   �     Smooth is the Descent and Easy is the Way      �   ����
  ��������������������������������������������������������������������
+</xml>

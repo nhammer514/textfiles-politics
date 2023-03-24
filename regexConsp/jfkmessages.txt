@@ -1,4 +1,4 @@
-Article 15606 of alt.conspiracy:
+<xml><p>Article 15606 of alt.conspiracy:
 Newsgroups: alt.conspiracy.jfk,alt.conspiracy,alt.activism,alt.society.civil-liberty,alt.individualism,alt.censorship,talk.politics.misc,misc.headlines,soc.culture.usa
 Path: cbnewsl!jad
 From: jad@cbnewsl.cb.att.com (John DiNardo)
@@ -6372,4 +6372,4 @@ Police, which oversees state government buildings and grounds.
 	The statue, which depicts a striding Kennedy, was dedicated May 29
 on what would have been Kennedy's 73rd birthday.</p>
 
-<p>
+<p></xml>

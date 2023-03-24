@@ -1,4 +1,4 @@
-*** NOTE: Excerpted from the Academic American Encyclopedia (electronic) ***</p>
+<xml><p>*** NOTE: Excerpted from the Academic American Encyclopedia (electronic) ***</p>
 
 <p>TITLE(s):        income tax  
   The income tax is a levy based on the income of individuals, families, and
@@ -334,4 +334,4 @@
 <p>  Bibliography:  Taylor, M. W., and Simonson, K. J., Tax Court Practice, 7th
  ed. (1990).                                                                  </p>
 
-<p>
+<p></xml>

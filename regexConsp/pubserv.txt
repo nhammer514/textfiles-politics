@@ -1,4 +1,4 @@
-
+<xml><p>
 
 LISTING OF YOUR U.S. HIGH LEVEL PUBLIC SERVANTS WHO SOLD YOU OUT TO FOREIGN
 INTERESTS
@@ -1543,3 +1543,4 @@ japanno:    An unauthorized translation of a best selling book in Japan
 matsushita.pbs    A PBS frontline special about how a Japanese cartel
                   wiped out the US TV industry and went on to take over
                   the rest of consumer electronics
+</xml>

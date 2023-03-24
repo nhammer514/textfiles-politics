@@ -1,4 +1,4 @@
-From: pierce@lanai.cs.ucla.edu (Brad Pierce)
+<xml><p>From: pierce@lanai.cs.ucla.edu (Brad Pierce)
 Newsgroups: alt.conspiracy,alt.save.the.earth,alt.individualism
 Subject: A plutonium economy vs. a free democracy
 <info type="Message-ID"> 1992Nov20.020820.1559@cs.ucla.edu</info>
@@ -269,3 +269,4 @@ many for so much for the sake of so little.</p>
 <p>[11] In Jungk, "Nuclear State, op. cit., p. 132.
 
 [12] In Ibid., p. 142
+</xml>

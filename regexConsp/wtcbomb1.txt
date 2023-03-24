@@ -1,4 +1,4 @@
-Wrong Number Filename:  WTCBOMB1.ZIP</p>
+<xml><p>Wrong Number Filename:  WTCBOMB1.ZIP</p>
 
 <p>                [From _The Village Voice_, March 30, 1993]</p>
 
@@ -644,4 +644,4 @@ Kahane been vigorously pursued, the World Trade Center bombing may never
 have happened.</p>
 
 <p>Wrong Number Filename:  WTCBOMB1.TXT
-
+</xml>

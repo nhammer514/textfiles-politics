@@ -1,4 +1,4 @@
-&lt;
+<xml><p>&lt;
 "Supreme Court Dictatorship in America"
 ( by Don Bell, _The CDL Report_, Issue 129, June 1990 )</p>
 
@@ -245,4 +245,4 @@ situations change, plans may also change:</p>
 ||                      Metairie, LA  70004
 ||                      James K. Warner, Editor</p>
 
-<p>
+<p></xml>

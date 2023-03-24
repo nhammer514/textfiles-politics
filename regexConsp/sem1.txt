@@ -1,4 +1,4 @@
-
+<xml><p>
 --SOVIET SCALAR ELECTROMAGNETIC WEAPONS--
  
      This briefing presents the basic concepts of Soviet Scalar 
@@ -324,4 +324,4 @@ Next:
  
 (Continued)</p>
 
-<p>
+<p></xml>

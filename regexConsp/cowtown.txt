@@ -1,4 +1,4 @@
-                        THE COWTOWN CONNECTION
+<xml><p>                        THE COWTOWN CONNECTION
                                   by
                              M. Duke Lane
                          (CIS ID: 76004,2356)</p>
@@ -942,4 +942,4 @@ actual time.</p>
 
 <p>60. Wilson interview</p>
 
-<p>
+<p></xml>

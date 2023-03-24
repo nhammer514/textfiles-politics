@@ -1,4 +1,4 @@
-
+<xml><p>
 PAPERS PLEASE!!!!</p>
 
 <p>  So here we go again!!!  Remember not to long ago when some one talked about
@@ -82,3 +82,4 @@ Ask Mr. oblivion.. he knows about me... </p>
 
 <p>                                           Youre parinoid friend
                                            IGNATOUS................
+</xml>

@@ -1,4 +1,4 @@
-                     5) THE NUREMBERG TRIALS</p>
+<xml><p>                     5) THE NUREMBERG TRIALS</p>
 
 <p>   The story of the Six Million was given judicial authority at
 the Nuremberg Trials of German leaders between 1945 and 1949,
@@ -837,4 +837,4 @@ Auschwitz in December 1944, I had not seen this building there"
 not: Reitlinger claims it was demolished and "completely burnt
 out in full view of the camp" in October, though Christopherson
 never saw this public demolition. Although it is said to have
-taken place "in full view of the camp", it was allegedly seen by
+taken place "in full view of the camp", it was allegedly seen by</xml>

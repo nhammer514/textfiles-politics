@@ -1,4 +1,4 @@
-To:.......... All people who value freedom
+<xml><p>To:.......... All people who value freedom
 From:........ Lance Rock, project leader
 Subj:........ Games played on us by Insurances firms, Banks and others. 
 Project X.... Information has been provided by
@@ -329,3 +329,4 @@ drive less would pay less.
 .
 
 Downloaded From P-80 International Information Systems 304-744-2253
+</xml>

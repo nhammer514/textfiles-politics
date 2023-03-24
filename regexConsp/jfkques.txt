@@ -1,4 +1,4 @@
-Article 6526 of alt.conspiracy:
+<xml><p>Article 6526 of alt.conspiracy:
 From: plemkin@igc.org (Peter Lemkin)
 Newsgroups: alt.conspiracy
 Subject: 100 CONSPIRACY Q'S ON JFK ASSASSIN
@@ -433,4 +433,4 @@ DO NOT ACTIVELY WORK TO PRESERVE YOUR RIGHTS AND FREEDOMS AND OUR
 DEMOCRACY, REMEMBER - SOMEONE ELSE WILL BE  ACTIVELY  WORKING  TO
 DESTROY THEM!  </p>
 
-<p>
+<p></xml>

@@ -1,4 +1,4 @@
-
+<xml><p>
 Lt. Col. James Bo Gritz (ret.)
 Verses
 Those U.S. Government Officials Whose Golden
@@ -2561,4 +2561,4 @@ will not respond I propose empaneling a Citizen's Investigative Committee.</p>
    6950 E. Continental Blvd  Ste. 7000                                        
    Scottsdale AZ  85257                                                       </p>
 
-<p>
+<p></xml>

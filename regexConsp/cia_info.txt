@@ -1,4 +1,4 @@
-     "Our Presidents should not be able to conduct secret
+<xml><p>     "Our Presidents should not be able to conduct secret
 operations which violate our principles, jeopardize our rights,
 and have not been subject to the checks and balances which
 normally keep policies in line."</p>
@@ -1747,4 +1747,4 @@ enemies on or shortly after his arrival in Katanga.  The
 Church Committee investigation found that "the toxic
 substances were never used.  But there is, however, no
 suggestion of a connection between the assassination plot and
-the events which actually led to Lumumba's death". 
+the events which actually led to Lumumba's death". </xml>

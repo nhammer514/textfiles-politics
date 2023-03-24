@@ -1,4 +1,4 @@
-Volume : SIRS 1991 History, Article 02                                
+<xml><p>Volume : SIRS 1991 History, Article 02                                
 Subject: Keyword(s) : KENNEDY and ASSASSINATION
 Title  : Conspiracy Theories: Doubts Refuse to Die                             
 Author : Bob Dudney                                                            
@@ -305,3 +305,4 @@ States."
                                                                    
      Twenty years later, that is still the case.                   
                                                                    
+</xml>

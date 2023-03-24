@@ -1,4 +1,4 @@
-From alt.conspiracy
+<xml><p>From alt.conspiracy
 From: vincent@dreamon.com (The Bok)
 Subject: The History and Significance of the New World Order
 Date: Sun, 09 Feb 1997 03:30:54 GMT
@@ -1175,3 +1175,4 @@ itself will make us strong! </p>
 <p>National Alliance Home Page
 http://www,natvan.com
 
+</xml>

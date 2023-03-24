@@ -1,4 +1,4 @@
-                        28 page printout</p>
+<xml><p>                        28 page printout</p>
 
 <p>    Reproducible Electronic Publishing can defeat censorship.</p>
 
@@ -1785,4 +1785,4 @@ blood for a century and a half will enter upon a new phase.</p>
 <p>                         Bank of Wisdom
                   Box 926, Louisville, KY 40201
                                28
-
+</xml>

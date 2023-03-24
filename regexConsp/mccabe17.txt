@@ -1,4 +1,4 @@
-                        28 page printout</p>
+<xml><p>                        28 page printout</p>
 
 <p>    Reproducible Electronic Publishing can defeat censorship.</p>
 
@@ -1779,4 +1779,4 @@ that darken the earth.</p>
 <p>                         Bank of Wisdom
                   Box 926, Louisville, KY 40201
                                28
-
+</xml>

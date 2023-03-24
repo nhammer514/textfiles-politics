@@ -1,4 +1,4 @@
-
+<xml><p>
 Skolnick COMMENTARY #001
 ========================</p>
 
@@ -97,4 +97,4 @@ Chicago, Illinois  60617</p>
 <p>The number I called was (312) 731-1100. I have an alternate 
 listing for them at (312) 731-1505.</p>
 
-<p>
+<p></xml>

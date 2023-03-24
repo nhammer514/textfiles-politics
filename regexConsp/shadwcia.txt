@@ -1,4 +1,4 @@
-INSIDE THE SHADOW CIA</p>
+<xml><p>INSIDE THE SHADOW CIA</p>
 
 <p>by</p>
 
@@ -416,3 +416,4 @@ Wackenhut's other tentacles extend.</p>
 <p>Additional reporting by Erzc Reguly, Margie Sloan and Wendell Smith</p>
 
 <p>** End of article **
+</xml>

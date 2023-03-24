@@ -1,4 +1,4 @@
-Volume : SIRS 1991 History, Article 56                                
+<xml><p>Volume : SIRS 1991 History, Article 56                                
 Subject: Keyword(s) : KENNEDY and ASSASSINATION
 Title  : Do Assassinations Alter the Course of History?                        
 Author : Simon Freeman and Ronald Payne                                        
@@ -210,3 +210,4 @@ ruling statesmen even in the bad old days. Soviet leaders
 understood the realities of power well enough to know that such    
 acts were unlikely to further their cause.                         
                                                                    
+</xml>

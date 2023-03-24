@@ -1,4 +1,4 @@
-
+<xml><p>
 8/21: |HOAX REVEALED - OLIVER STONE TO DO MOVIE!
 Name: Iceman #14 @6989
 Date: Tue May 19 22:08:47 1992
@@ -176,3 +176,4 @@ that once you evaluate all of the valid evidence, you will be
 angered by this conspiracy, and motivated to do something about
 the scum who perpetated this hoax. 
 
+</xml>

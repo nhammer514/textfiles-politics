@@ -1,4 +1,4 @@
-Volume : SIRS 1991 History, Article 02                                
+<xml><p>Volume : SIRS 1991 History, Article 02                                
 Subject: Keyword(s) : KENNEDY and ASSASSINATION
 Title  : The Day John Kennedy Died                                             
 Author : Bryan Woolley                                                         
@@ -423,3 +423,4 @@ became the 36th President of the United States. The big jet's
 engines already were screaming. "Now, let's get airborne," he      
 said.                                                              
                                                                    
+</xml>

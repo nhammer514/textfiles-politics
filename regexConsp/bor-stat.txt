@@ -1,4 +1,4 @@
-           Feel free to copy this article far and wide, but please
+<xml><p>           Feel free to copy this article far and wide, but please
            keep my name and this sentence on it.</p>
 
 <p>                      The Bill of Rights, a Status Report
@@ -573,3 +573,4 @@
            they are justly entitled.  To preserve our rights for
            ourselves in the future, we must defend them for everybody
            today.
+</xml>

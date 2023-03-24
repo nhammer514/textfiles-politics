@@ -1,4 +1,4 @@
-Article 638 of alt.conspiracy:
+<xml><p>Article 638 of alt.conspiracy:
 Path: bilver!tarpit!peora!masscomp!think.com!mintaka!mit-eddie!bu.edu!
 lll-winken!sun-barr!newstop!sunaus.oz!softway!peg!nexus
 From: nexus@peg.UUCP
@@ -1696,3 +1696,4 @@ confirming that your name has been added to the list. Other addresses
 to try (only) if the above fails are: "LISTSERV@UMCVMB.MISSOURI.EDU"
 or "ucscc!umcvmb.missouri.edu!LISTSERV"]
 
+</xml>

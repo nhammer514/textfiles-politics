@@ -1,4 +1,4 @@
-</p>
+<xml><p></p>
 
 <p>Skolnick COMMENTARY #004
 ========================</p>
@@ -92,3 +92,4 @@ Citizen's Committee to Clean Up the Courts, 9800 South Oglesby,
 Chicago, [Illinois] 60617. For the latest on courts, banks, 
 espionage agencies, political assassinations...
 
+</xml>

@@ -1,4 +1,4 @@
-              I N V I S I B L E   C O N T R A C T S
+<xml><p>              I N V I S I B L E   C O N T R A C T S
                          George Mercier</p>
 
 <p>                   FEDERAL LICENSING PROGRAMS
@@ -75,4 +75,4 @@ competitive operating atmosphere, with those businessmen who don't need to
 concern themselves with competitive pressures.]  Yes, MINIMALISM rules in all
 uncompetitive environments, Commercial and otherwise.
 
-
+</xml>

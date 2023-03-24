@@ -1,4 +1,4 @@
-From: Alan Lustiger <special>alu@pruxp.pr.att.com</special>
+<xml><p>From: Alan Lustiger <special>alu@pruxp.pr.att.com</special>
 Newsgroups: rec.humor.funny
 Subject: 25 QUESTIONS AND ANSWERS ABOUT THE "ATOM BOMB"
 <info type="Message-ID"> S4dc.13e2@looking.on.ca</info>
@@ -211,4 +211,4 @@ Alan Lustiger	INTERNET:lustiger@att.com  	UUCP:att!pruxp!alu
 
 --
 Selected by Maddi Hausmann.  MAIL your joke (jokes ONLY) to funny@clarinet.com.
- 
+ </xml>

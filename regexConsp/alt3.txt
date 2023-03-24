@@ -1,4 +1,4 @@
- -Here's the lowdown on "ALTERNATIVE 3" from a TV-movie compendium.         
+<xml><p> -Here's the lowdown on "ALTERNATIVE 3" from a TV-movie compendium.         
 "ALTERNATIVE 3" (GB 1977; 52m, colour)
 Amusing spoof do commentary about the disappearance of various high-IQ
 citizens, allegedly to form nucleus of a standby civilization on Mars against
@@ -661,4 +661,4 @@ bought all the remaining copies from the British publisher and those quickly
 sold out.  If the book is reprinted, you can be sure we'll let you know and 
 we'll carry it in the Windwords bookstore.</p>
 
-<p>
+<p></xml>

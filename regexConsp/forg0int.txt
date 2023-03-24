@@ -1,4 +1,4 @@
-           24 page printout, page 1 to 23+note of 322</p>
+<xml><p>           24 page printout, page 1 to 23+note of 322</p>
 
 <p>    Reproducible Electronic Publishing can defeat censorship.</p>
 
@@ -1519,4 +1519,4 @@ very familiar -- my chief ecclesiastical authorities, towit:</p>
                   Box 926, Louisville, KY 40201
 
                        UNCOUNTED NOTE PAGE
-
+</xml>

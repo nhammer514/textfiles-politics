@@ -1,4 +1,4 @@
-                        CELINE'S LAWS
+<xml><p>                        CELINE'S LAWS
                       by  Hagbard Celine</p>
 
 <p>   As  every thinking person has noticed, our national  life  has 
@@ -511,4 +511,4 @@ I am mad.  </p>
 
 <p>                         "Raw Data for Raw Nerves"</p>
 
-<p>
+<p></xml>

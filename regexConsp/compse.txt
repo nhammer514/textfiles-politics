@@ -1,4 +1,4 @@
- 
+<xml><p> 
                      The Computational Self
                 by Robert M. Galatzer-Levy, M.D.
                     180 North Michigan Avenue
@@ -678,4 +678,4 @@ central activity of the self so to I believe development should be
 the central goal of our intellectual activities. Thus if this
 paper, despite its flaws does nothing more then stimulate some of
 you to think along these lines and to help me do so more cogently
-I will be satisfied.
+I will be satisfied.</xml>

@@ -1,4 +1,4 @@
-
+<xml><p>
                                  OUR SENATE?
                                           
                "This  has  been  a  tough  election and I'm happy it's
@@ -306,3 +306,4 @@
 <p>                          PLEASE REGISTER....
 
                       READ 'SALES PITCH' CHAPTER....
+</xml>

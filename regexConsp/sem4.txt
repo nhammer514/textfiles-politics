@@ -1,4 +1,4 @@
-</p>
+<xml><p></p>
 
 <p>      If we interfere two transmitters in a region of great energy--such as 
 the molten core of the earth itself--and bias the transmitters negatively, we
@@ -166,3 +166,4 @@ anomalous density distribution, differing from that of all other clouds in
 the area... 
 
 (Continued)
+</xml>

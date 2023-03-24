@@ -1,4 +1,4 @@
- </p>
+<xml><p> </p>
 
 <p>                   A QUICK LESSON IN DO-IT-YOURSELF EMBALMING</p>
 
@@ -78,3 +78,4 @@ MEDICAL SCHOOL, AND HERE'S WHAT HE HAS TO SAY ABOUT IT:</p>
 <p>                          "Raw Data for Raw Nerves"
 
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
+</xml>

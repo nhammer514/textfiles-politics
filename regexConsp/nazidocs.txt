@@ -1,4 +1,4 @@
-The following are excerpts from original Nazi documents, relating
+<xml><p>The following are excerpts from original Nazi documents, relating
 directly to the extermination of Jews and others which was carried
 out by the Nazis during WW2. The purpose of this collection is both
 to present such documents in an easily accessible form, and to
@@ -2365,4 +2365,4 @@ SS-Standartenfuehrer</p>
        ��ͼ FIDONET 1:352/333 206-786-9629  14.4 v32b ��ͻ
        �������������������������������������������������ͼ</p>
 
-<p>
+<p></xml>

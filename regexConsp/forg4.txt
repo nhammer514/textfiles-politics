@@ -1,4 +1,4 @@
-            36 page printout, pages 112 to 147 of 322
+<xml><p>            36 page printout, pages 112 to 147 of 322
                            CHAPTER IV</p>
 
 <p>               THE SAINTLY "FATHERS" OF THE FAITH</p>
@@ -2289,4 +2289,4 @@ us, we need to give them back to America.</p>
 <p>                         Bank of Wisdom
                   Box 926, Louisville, KY 40201
                               147
-
+</xml>

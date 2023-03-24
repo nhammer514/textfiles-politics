@@ -1,4 +1,4 @@
-    WIRELESS TRANSMISSION OF POWER</p>
+<xml><p>    WIRELESS TRANSMISSION OF POWER</p>
 
 <p>    Resonating Planet Earth</p>
 
@@ -505,4 +505,4 @@
     of  power experiments in 1899 in Colorado Springs.  Mr. Grotz  received
     his B.S.E.E. from the University of Connecticut in 1973.
 
-
+</xml>

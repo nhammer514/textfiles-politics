@@ -1,4 +1,4 @@
-                THE TRUE HISTORY OF THE HOLOCAUST</p>
+<xml><p>                THE TRUE HISTORY OF THE HOLOCAUST</p>
 
 <p>                       BY RICHARD HARWOOD</p>
 
@@ -969,4 +969,4 @@ Contemporary Jewish Documentation at Tel-Aviv. Attempts to find
 "veiled allusions" to genocide in speeches like that of
 Himmler's to his S.S. Obergruppenfuhrers at Posen in 1943 are
 likewise hopeless. Nuremberg statements extracted after the war,
-invariably under duress, are examined in the following chapter.
+invariably under duress, are examined in the following chapter.</xml>

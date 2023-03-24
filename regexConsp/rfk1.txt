@@ -1,4 +1,4 @@
-                      RFK1.TXT</p>
+<xml><p>                      RFK1.TXT</p>
 
 <p>The following extract is submitted to resurrect long
 forgotten material concerning the assassination of Robert F,
@@ -316,4 +316,4 @@ RFK..."</p>
 
 <p>                 -----------------</p>
 
-<p>
+<p></xml>

@@ -1,4 +1,4 @@
-</p>
+<xml><p></p>
 
 <p>Skolnick COMMENTARY #023
 ========================</p>
@@ -107,4 +107,4 @@ Courts, 9800 South Oglesby, Chicago, [Illinois] 60617. For the
 latest on courts, banks, espionage agencies, political 
 assassinations, and the news media. On 24 hours a day.</p>
 
-<p>
+<p></xml>

@@ -1,4 +1,4 @@
-From: aq817@cleveland.Freenet.Edu (Steve Crocker)
+<xml><p>From: aq817@cleveland.Freenet.Edu (Steve Crocker)
 Newsgroups: alt.conspiracy
 Subject: Repost - Barrons Article on Inslaw
 <info type="Message-ID"> 1992Aug22.093924.11815@usenet.ins.cwru.edu</info>
@@ -1366,3 +1366,4 @@ Lines: 877</p>
          5. a state of life that calls for another way of living.
 <special>end reposted material</special>
 -Steve Crocker
+</xml>

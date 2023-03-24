@@ -1,4 +1,4 @@
-	FEVERFEW: A HERBAL REMEDY FOR MIGRAINE?
+<xml><p>	FEVERFEW: A HERBAL REMEDY FOR MIGRAINE?
 	
 	"Some of the world's most effective medicines began their
 careers as herbal remedies: digitalis came from foxglove, aspirin
@@ -65,4 +65,4 @@ treatments for a very unpleasant disorder."
 	Quoted from the April 1986 edition of the Harvard Medical
 School Health Letter, reporting on research appearing in the
 British Medical Journal, August 31, 1985.
-
+</xml>

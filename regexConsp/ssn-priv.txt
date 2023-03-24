@@ -1,4 +1,4 @@
-Archive-Name: ssn-privacy</p>
+<xml><p>Archive-Name: ssn-privacy</p>
 
 <p>       What to do when they ask for your Social Security Number</p>
 
@@ -256,3 +256,4 @@ hibbert@xanadu.com        or           Xanadu Operating Company
                                        550 California Ave, Suite 101
                                        Palo Alto, CA 94306
 
+</xml>

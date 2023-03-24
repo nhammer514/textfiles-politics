@@ -1,4 +1,4 @@
-[What follows is an incomplete transcript of Issue #1 of "Now What", Waves
+<xml><p>[What follows is an incomplete transcript of Issue #1 of "Now What", Waves
 Forest's periodical. It is explicitly anticopyrighted and so may be freely
 reproduced and distributed.]</p>
 
@@ -1988,4 +1988,4 @@ the cars they'd included.
 up?"
   "Oh, so you're back, eh? I see we can add Giving False Names to the list of
 charges."
-  "Not at all. 
+  "Not at all. </xml>

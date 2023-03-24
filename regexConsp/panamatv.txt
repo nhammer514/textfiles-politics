@@ -1,4 +1,4 @@
-[From the January-February 1990 issue of "Extra!", a publication of FAIR.]</p>
+<xml><p>[From the January-February 1990 issue of "Extra!", a publication of FAIR.]</p>
 
 <p>                          The Media Goes to War:
                   HOW TELEVISION SOLD THE PANAMA INVASION</p>
@@ -755,3 +755,4 @@ appeared in the July 4 issue of the "San Francisco Bay Guardian":
     responded by saying that was crap, and that lasers were only used by
     the U.S. Air Force to pinpoint targets," Trent recalled.
 
+</xml>

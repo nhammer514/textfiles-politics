@@ -1,4 +1,4 @@
-
+<xml><p>
       Sadly, the bureaucratic smugness of orthodox Western scientists has 
 materially assisted the Soviet deception process. Most Western managerial 
 scientists -particularly in weapons development activities - have continued 
@@ -176,3 +176,4 @@ few unorthodox researchers by the National Academy of Sciences to fund the
 proven creation and detection of electrogravitational waves... </p>
 
 <p>(Continued)
+</xml>

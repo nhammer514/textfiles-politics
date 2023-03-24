@@ -1,4 +1,4 @@
-</p>
+<xml><p></p>
 
 <p>           The Strange Case of Maj. Gen. Edwin A. Walker</p>
 
@@ -553,3 +553,4 @@ East-West relations. As the Russian standard of living improves, the
 Russian people will begin to understand that there is another way of
 life, he said...
 =============================================================================
+</xml>

@@ -1,4 +1,4 @@
-
+<xml><p>
 --TERMINAL ABM SYSTEM--
  
       Very neat things can be done if one "nests" several Tesla shields -- 
@@ -133,3 +133,4 @@ deliberate ordering of virtual particle  flux into deterministic patterns,
 the master control system can readily be entered with scalar techniques to
 induce disease and disorder at will...
 
+</xml>

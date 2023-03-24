@@ -1,4 +1,4 @@
-
+<xml><p>
 INTERVIEW WITH SHERMAN SKOLNICK -- MARCH 2, 1995
  
 I spoke by phone with Sherman Skolnick of the Citizens' Committee
@@ -760,3 +760,4 @@ Thank you.
 CONSPIRACY NATION:
 O.K. 'Bye.
 
+</xml>

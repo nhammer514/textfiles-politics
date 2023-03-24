@@ -1,4 +1,4 @@
-FREE TRADE VERSUS PROTECTIONISM</p>
+<xml><p>FREE TRADE VERSUS PROTECTIONISM</p>
 
 <p>By RICHARD M. EBELING</p>
 
@@ -191,3 +191,4 @@ Copyright (c) 1991, The Future of Freedom Foundation,
 PO Box 9752, Denver, Colorado 80209, 303-777-3588.
 Permission granted to reprint; please give appropriate credit
 and send one copy of reprinted material to the Foundation.
+</xml>

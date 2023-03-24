@@ -1,4 +1,4 @@
-Foresight Background
+<xml><p>Foresight Background
 No. 4, Rev. 0
  Copyright 1989 The Foresight Institute.
 All rights reserved by the author.
@@ -352,3 +352,4 @@ science-based technologies that lie ahead.</p>
 <p>Dr. Kantrowitz is a professor at the Thayer School of Engineering at
 Dartmouth, and former Chairman of Avco-Everett Research Lab.  He
 serves as an Advisor to the Foresight Institute.
+</xml>

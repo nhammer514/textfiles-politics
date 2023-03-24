@@ -1,4 +1,4 @@
-SOLDIER OF FORTUNE DIES MYSTERIOUSLY AFTER
+<xml><p>SOLDIER OF FORTUNE DIES MYSTERIOUSLY AFTER
 TALKING TO CONGRESSIONAL INVESTIGATORS</p>
 
 <p>by Vince Bielski and Dennis Bernstein</p>
@@ -177,4 +177,4 @@ unfortunate," Winer said.
 -----------------------------------------------------------------
 
 e, and I think that is very
-unfortunate,"
+unfortunate,"</xml>

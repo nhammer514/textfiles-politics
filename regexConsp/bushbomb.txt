@@ -1,4 +1,4 @@
-Wrong Number BBS FILE NAME:  BUSHBOMB.TXT
+<xml><p>Wrong Number BBS FILE NAME:  BUSHBOMB.TXT
 
 
 
@@ -104,4 +104,4 @@ physique and that miraculous survival, he would have been, too."
 international terrorist crimes when it clamped harsh sanctions on Libya
 last April, faces a tougher challenge:  How to deal with a case of aerial
 mass murder in which the principal suspect happens to be THE INCUMBENT
-PRESIDENT OF THE UNITED STATES.
+PRESIDENT OF THE UNITED STATES.</xml>

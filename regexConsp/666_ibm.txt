@@ -1,4 +1,4 @@
-
+<xml><p>
 I scanned this excerpt in from the book, "The Delicate Balance" ,
 written by John Zajac. 1989-1990 . ISBN Number 0-910311-57-9 .</p>
 
@@ -355,4 +355,4 @@ chairman of one of the largest banks says, "It's ready; we just need a major
 catastrophe."</p>
 
 <p>** End Excerpt **
-
+</xml>

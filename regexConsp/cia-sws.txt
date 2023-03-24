@@ -1,4 +1,4 @@
-
+<xml><p>
 Article: 569 of sgi.talk.ratical
 From: dave@ratmandu.esd.sgi.com (dave "who can do? ratmandu!" ratcliffe)
 Subject:  Top Secret:  How To Kill--"The CIA's Secret Weapons Systems"
@@ -313,4 +313,4 @@ Lines: 321</p>
 <p>   ko.yan.nis.qatsi (from the Hopi Language)  n.  1. crazy life.  2. life
        in turmoil.  3. life out of balance.  4. life disintegrating.  
          5. a state of life that calls for another way of living.
-t                                                                                    
+t                                                                                    </xml>

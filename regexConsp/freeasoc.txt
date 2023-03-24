@@ -1,4 +1,4 @@
-Subject: Leaflet: Freemasonry and Society</p>
+<xml><p>Subject: Leaflet: Freemasonry and Society</p>
 
 <p>This is the text of a leaflet published by by the Board of
 General Purposes of the United Grand Lodge of England in 1987.</p>
@@ -64,3 +64,4 @@ contrary to the principles of Freemasonry.</p>
 
 * On inquiry for acceptable reasons, Freemsons are free and will be
   proud to acknowledge their own membership.
+</xml>

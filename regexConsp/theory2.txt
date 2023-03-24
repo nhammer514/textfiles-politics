@@ -1,4 +1,4 @@
-                            TESLA  COIL THEORY
+<xml><p>                            TESLA  COIL THEORY
 
        LINE  VOLTAGE  IS STEPPED UP BY THE HIGH-VOLTAGE  TRANSFORMER  TO  A
     MAGNITUDE SUFFICIENT TO CHARGE THE CAPACITOR AND FORCE THE SPARK GAP TO
@@ -51,4 +51,4 @@
 
 
 
-
+</xml>

@@ -1,4 +1,4 @@
-Inside The Postal Mail Cover
+<xml><p>Inside The Postal Mail Cover
 
 COPYRIGHT (C) 1991 BY FULL DISCLOSURE. ALL RIGHTS RESERVED.
 
@@ -83,4 +83,4 @@ Return to: Full Disclosure, Box 903, Libertyville, Illinois 60048
 
 
 
-
+</xml>

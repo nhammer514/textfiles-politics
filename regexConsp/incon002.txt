@@ -1,4 +1,4 @@
-              I N V I S I B L E   C O N T R A C T S
+<xml><p>              I N V I S I B L E   C O N T R A C T S
                          George Mercier</p>
 
 <p>            THIRD PARTY INTERFERENCE WITH A CONTRACT
@@ -1926,4 +1926,4 @@ totally different from us. For an abstract theoretical model in how to do so,
 see Wayne Grennan in ARGUMENT EVALUATION [University Press of America, Lanham,
 Maryland (1984)].</p>
 
-<p>
+<p></xml>

@@ -1,4 +1,4 @@
-Article: 468 of sgi.talk.ratical
+<xml><p>Article: 468 of sgi.talk.ratical
 From: dave@ratmandu.esd.sgi.com (dave "who can do? ratmandu!" ratcliffe)
 Subject: memorandum by J.E. Hoover on 11/29/63 re: his meeting with LBJ
 Keywords: J.E. Hoover's FBI "spoon fed" the Warren Comission its data
@@ -529,4 +529,4 @@ Lines: 577</p>
 
 <p>                                   - 6 -</p>
 
-<p>
+<p></xml>

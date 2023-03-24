@@ -1,4 +1,4 @@
-Issue Number 25, June 1985
+<xml><p>Issue Number 25, June 1985
 We have the Means</p>
 
 <p>AROUSE THE SLUMBER-
@@ -752,4 +752,4 @@ Race.
                              *  *  *  *  *</p>
 
 <p>                                  209
-
+</xml>

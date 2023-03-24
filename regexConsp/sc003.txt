@@ -1,4 +1,4 @@
-</p>
+<xml><p></p>
 
 <p>Skolnick COMMENTARY #003
 ========================</p>
@@ -80,3 +80,4 @@ Chicago, 60617.</p>
 <p>The latest on courts, banks, espionage agencies, political 
 assassinations and the news media.
 
+</xml>

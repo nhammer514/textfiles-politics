@@ -1,4 +1,4 @@
-************FEATURE*************** </p>
+<xml><p>************FEATURE*************** </p>
 
 <p>WITH A NEW ITALIAN GOVERNMENT THAT INCLUDES THE SELF-DECLARED NEOFASCIST PARTY, THE ROLE
 OF AGENCIES WITHIN THE U.S. GOVERNMENT IN PUSHING ITALIAN POLITICS TO THE RIGHT IS MORE
@@ -501,3 +501,4 @@ didn't stop the U.S. from trying to destroy the left. The total cost to American
 aid programs was $4 billion from the end of the war to 1953. *9 And that was just the beginning of the U.S. assault on
 Italian sovereignty. 
 
+</xml>

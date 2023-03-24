@@ -1,4 +1,4 @@
-
+<xml><p>
  Unified Conspiracy Theory - Part 1</p>
 
 <p>Except no substitutes, here is the Unified Field Theory of Conspiracies!</p>
@@ -1053,4 +1053,4 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
             Milton William Cooper
             1/10/89</p>
 
-<p>
+<p></xml>

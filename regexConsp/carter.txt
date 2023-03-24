@@ -1,4 +1,4 @@
-
+<xml><p>
 -------------------------------------------------------------------------------
                        CARTER'S TRUE LEGACY SHOCKING</p>
 
@@ -110,3 +110,4 @@ to The Spotlight appears, including this address:</p>
                         300 Independence Avenue, SE
                            Washington, DC  20003
 
+</xml>

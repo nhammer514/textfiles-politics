@@ -1,4 +1,4 @@
-</p>
+<xml><p></p>
 
 <p>TOTALITARIANISM </p>
 
@@ -246,3 +246,4 @@ betrayed. </p>
 
 <p>Hitlerian Ultra-Racialist Fascism + totalitarianism = Nazism
 
+</xml>

@@ -1,4 +1,4 @@
-                            JOHN STOCKWELL</p>
+<xml><p>                            JOHN STOCKWELL</p>
 
 <p>                      THE SECRET WARS OF THE CIA</p>
 
@@ -1386,4 +1386,4 @@ do it, what they can, every day of their lives'.</p>
       The Violations of War on Both Sides.
       ??, .</p>
 
-<p>
+<p></xml>

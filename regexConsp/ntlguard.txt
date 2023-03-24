@@ -1,4 +1,4 @@
-
+<xml><p>
 Subject: the national guards (military consolidating control of info and comm)
 Keywords: we don't appreciate how quickly our society is being locked up.
 
@@ -475,3 +475,4 @@ CONTRIBUTED TO PARANET BY: Donald Goldberg
 	              ( 6 1 7 )  4 8 2  -  6 3 5 6
 
 
+</xml>

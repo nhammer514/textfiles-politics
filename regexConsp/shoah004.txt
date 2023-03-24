@@ -1,4 +1,4 @@
-conditions "naively in terms of 'goodness' and 'badness' is to
+<xml><p>conditions "naively in terms of 'goodness' and 'badness' is to
 ignore the constituent factors...."</p>
 
 <p>                        FAKE PHOTOGRAPHS</p>
@@ -654,4 +654,4 @@ with the University of London. Mr. Harwood turned to the vexed
 subject of war crimes under the influence of Professor Paul
 Rassinier, to whose monumental work this little volume is
 greatly indebted. The author is now working on a sequel in this
-series on the Main Nuremberg Trial, 1945-1946.
+series on the Main Nuremberg Trial, 1945-1946.</xml>

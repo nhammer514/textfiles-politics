@@ -1,4 +1,4 @@
-            42 page printout, pages 196 to 237 of 322
+<xml><p>            42 page printout, pages 196 to 237 of 322
                            CHAPTER VI</p>
 
 <p>                     THE CHURCH FORGERY MILL</p>
@@ -2649,4 +2649,4 @@ us, we need to give them back to America.</p>
 <p>                         Bank of Wisdom
                   Box 926, Louisville, KY 40201
                               237
-
+</xml>

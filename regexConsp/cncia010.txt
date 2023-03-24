@@ -1,4 +1,4 @@
-
+<xml><p>
 SUBJECT: FEMA GULAG</p>
 
 <p> 
@@ -1563,4 +1563,4 @@ courtesy of the Pentagon.</p>
 <p>=================================================================
 Psi-Tech and alien brain-wave research -- Whats going on at Los Alamos?</p>
 
-<p>
+<p></xml>

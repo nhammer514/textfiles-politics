@@ -1,4 +1,4 @@
-Date: Sun, 8 Jan 1995 08:21:07 -0500
+<xml><p>Date: Sun, 8 Jan 1995 08:21:07 -0500
 From: James Daugherty <special>jhdaugh@a-albionic.com</special>
 Newsgroups: alt.conspiracy
 Subject: Carroll Quigley Examined; Multicultural Strategy of Ruling Class?</p>
@@ -1326,4 +1326,4 @@ message: info prj                   |      <special>ftp://ftp.a-albionic.com/</s
          get prj gopher/keytogopher |      <special>gopher.a-albionic.com 9006</special>
 ////////////////////////////////////*\\\\\\\\\\\<special>ftp.a-albionic.com</special>\\\\\\\\</p>
 
-<p>
+<p></xml>

@@ -1,4 +1,4 @@
-From TIME Magazine, May 6, 1991:
+<xml><p>From TIME Magazine, May 6, 1991:
 
                  THE THRIVING CULT OF GREED AND POWER
 
@@ -648,4 +648,4 @@ Justice Department's Organized Crime Strike Force.
 
 
 
-
+</xml>

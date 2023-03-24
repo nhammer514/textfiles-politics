@@ -1,4 +1,4 @@
-SECRET TEAM OF WEAPONS DEALERS
+<xml><p>SECRET TEAM OF WEAPONS DEALERS
 by Vince Bielski</p>
 
 <p>     A "secret team" of former CIA and military officials and
@@ -202,4 +202,4 @@ business..."</p>
 <p>) started their own private assassination
 business..."</p>
 
-<p>-----------------------
+<p>-----------------------</xml>

@@ -1,4 +1,4 @@
-Article 6208 of alt.conspiracy:
+<xml><p>Article 6208 of alt.conspiracy:
 Path:  bilver!tarpit!peora!masscomp!usenet.coe.montana.edu!decwrl
 !uunet!sun-barr!cronkite.Central.Sun.COM!jethro!finess.Corp.Sun.COM
 !rburns
@@ -636,4 +636,4 @@ lightly. Without a recognition of this central fact, scandal will follow
 scandal. The nation's moral capital will continue to be squandered.  And
 the country's real, legitimate security interests will be seriously and
 repeatedly damaged by the twisted values of self-appointed "patriots."
-
+</xml>

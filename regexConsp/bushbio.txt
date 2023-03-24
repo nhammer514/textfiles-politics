@@ -1,4 +1,4 @@
-Article 15189 of alt.activism:
+<xml><p>Article 15189 of alt.activism:
 From: covici@ccs.covici.com (John Covici)
 Newsgroups: alt.activism
 Subject: Part 1: Unauthorized Biography Of George Bush
@@ -3652,3 +3652,4 @@ this group.</p>
 <p>	 John Covici
 
 coviciccs.covici.com
+</xml>

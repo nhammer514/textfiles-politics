@@ -1,4 +1,4 @@
-</p>
+<xml><p></p>
 
 <p>                      ANNOTATED BIBLIOGRAPHY
                                OF
@@ -254,4 +254,4 @@ that the British government tried desperately (and
 unsuccessfully) to prevent from being published. The book is a 
 treasure trove of accounts of American, British, and Soviet 
 intelligence operations. The intrigues and conspiricies run wild 
-in this one.
+in this one.</xml>

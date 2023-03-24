@@ -1,4 +1,4 @@
-</p>
+<xml><p></p>
 
 <p>Copyright (c) 1991 by Chip Berlet. All rights reserved.</p>
 
@@ -3892,4 +3892,4 @@ with which we seek to build coalitions.</p>
 
 <p>--------------------------------------------------------------------</p>
 
-<p>
+<p></xml>

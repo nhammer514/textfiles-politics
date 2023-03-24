@@ -1,4 +1,4 @@
-(From the Weekly World News, June 7, 1994)</p>
+<xml><p>(From the Weekly World News, June 7, 1994)</p>
 
 <p>Shocking confessions rock nation's capital!</p>
 
@@ -116,3 +116,4 @@ the Rockefeller family, which has been powerful in both politics and
 business for several generations. John Glenn was one of the first U.S. 
 astronauts, and participated in Projects Mercury, Gemini, and Apollo.)
 
+</xml>

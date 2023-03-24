@@ -1,4 +1,4 @@
-</p>
+<xml><p></p>
 
 <p>The following articles are extracted from New Dawn magazine,
 Volume No. 1 &amp; 2. (C) Copyright April 1992. Subscription rates are
@@ -927,3 +927,4 @@ weekend. The following report is courtesy of The Final Call.
 	to kill us all." The Minister added that the drug will be
 	offered to all who need it "regardless of race, creed or
 	colour."**
+</xml>

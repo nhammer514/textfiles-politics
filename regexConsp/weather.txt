@@ -1,4 +1,4 @@
-     In the best-selling 1962 spy thriller SEVEN DAYS IN MAY, the 
+<xml><p>     In the best-selling 1962 spy thriller SEVEN DAYS IN MAY, the 
 Joint Chiefs of Staff plot to overthrow the U.S. president. Their 
 conspiracy centers on a place called Mount Thunder, a secret 
 subterranean command post where government leaders would go in the 
@@ -234,4 +234,4 @@ EMERGENCY DUTIES WITH THE FEDERAL GOVERNMENT. REQUEST FULL
 ASSISTANCE AND UNRESTRICTED MOVEMENT BE AFFORDED THE PERSON TO 
 WHOM THIS CARD IS ISSUED.
 
-
+</xml>

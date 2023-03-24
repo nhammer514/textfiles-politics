@@ -1,4 +1,4 @@
-
+<xml><p>
 -------------------------------------------------------------------------------
                        DICTATORSHIP POSSIBLE HERE</p>
 
@@ -97,4 +97,4 @@ to The Spotlight appears, including this address:</p>
                         300 Independence Avenue, SE
                            Washington, DC  20003</p>
 
-<p>
+<p></xml>

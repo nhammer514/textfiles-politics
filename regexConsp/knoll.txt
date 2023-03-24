@@ -1,4 +1,4 @@
-
+<xml><p>
            Circumstantial Evidence of a Head Shot From The Grassy Knoll
                  (c) - Copyright 1993 by W. Anthony Marsh
          Presented at The Third Decade conference June 18-20, 1993</p>
@@ -311,4 +311,4 @@ urge other researchers to look for new evidence and perform new analyses.</p>
    Press, 1987), pp. 210-224. Also HSCA Vol. I, pp. 428-442.
 2. House Select Committee on Assassinations, Report, p.80, footnote 16</p>
 
-<p>
+<p></xml>

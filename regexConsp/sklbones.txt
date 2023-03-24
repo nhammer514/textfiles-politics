@@ -1,4 +1,4 @@
-From COVERT ACTION INFORMATION BULLETIN Number 33
+<xml><p>From COVERT ACTION INFORMATION BULLETIN Number 33
  
 Bush's Boys Club: Skull and Bones
  
@@ -152,4 +152,4 @@ Henry Luce of Time-Life fame.
       This old (and new) boys network helps to illustrate the old
 adage "it's not what you know, it's who you know." Given the
 extent of Bones members in intelligence, it is also "how you come
-to know it."       
+to know it."       </xml>

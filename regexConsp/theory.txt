@@ -1,4 +1,4 @@
-
+<xml><p>
       THE HOLLOW EARTH: A MADDENING THEORY THAT CAN'T BE DISPROVED
        From OMNI Magazine (October 1983), Games section (p. 128)</p>
 
@@ -101,4 +101,4 @@ hollow Earth.  Abdelkader says that the only way to test the theory's
 validity is to drill a tunnel straight through the earth.  Until such an
 experiment is performed, he writes, "it seems ... that the odds are
 strongly in favor of [a hollow Earth] being our actual universe."
-
+</xml>

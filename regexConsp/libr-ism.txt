@@ -1,4 +1,4 @@
-            The Moral Case _For_ Taking Federal Matching Funds</p>
+<xml><p>            The Moral Case _For_ Taking Federal Matching Funds</p>
 
 <p>                            by Michael Emerling</p>
 
@@ -112,3 +112,4 @@ government for liberty.</p>
 <p>------------------------------------------------------------------------
 This text appeared in a brochure distributed by the Marrou for President
 campaign in November 1990.
+</xml>

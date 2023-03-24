@@ -1,4 +1,4 @@
-From: dona@bilver.uucp (Don Allen)
+<xml><p>From: dona@bilver.uucp (Don Allen)
 Newsgroups: alt.conspiracy
 Subject: JFK Text: Echoes of Conspiracy - INTRO
 <info type="Message-ID"> 1991Dec26.194623.19758@bilver.uucp</info>
@@ -2547,4 +2547,4 @@ up ]</p>
 USnail: 1818G Landing Dr, Sanford Fl 32771 \X/ Why use anything else? :-)
 UUCP: ..uunet!tarpit!bilver!dona - Why did the JUSTICE DEPT steal PROMIS?
 /\/\ What is research but a blind date with knowledge. William Henry /\/\
- 
+ </xml>

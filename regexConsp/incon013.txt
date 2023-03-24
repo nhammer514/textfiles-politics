@@ -1,4 +1,4 @@
-              I N V I S I B L E   C O N T R A C T S
+<xml><p>              I N V I S I B L E   C O N T R A C T S
                          George Mercier</p>
 
 <p>                     THE RESIDENCY CONTRACT
@@ -560,4 +560,4 @@ year only to wind up in the pockets of some Special Interest Group, and here
 you are, actually GETTING AWAY WITH what they did not know how to do
 themselves, and what is nowhere documented in statutes.</p>
 
-<p>
+<p></xml>

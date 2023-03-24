@@ -1,4 +1,4 @@
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-</p>
+<xml><p>=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-</p>
 
 <p>                           THE KENNEDY FILES
                                 FILE #3</p>
@@ -232,4 +232,4 @@ questionable ventures and also about his trips to Laos to attempt
 rescues of American POWs who are still held by Vietnam.</p>
 
 <p>=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-
+</xml>

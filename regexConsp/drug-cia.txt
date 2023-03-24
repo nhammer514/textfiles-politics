@@ -1,4 +1,4 @@
-
+<xml><p>
  			WBAI Pacifica Radio New York 
 			 Interview with Mark Swaney
 			    By: Paul DeRienzo.</p>
@@ -461,3 +461,4 @@ country to danger. It works the same in any country.</p>
 
 <p>						Hermann Goering, 1936
 
+</xml>

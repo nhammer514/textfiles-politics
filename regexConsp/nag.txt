@@ -1,4 +1,4 @@
-The War On Privacy Hits You In The Pocket Book!</p>
+<xml><p>The War On Privacy Hits You In The Pocket Book!</p>
 
 <p>COPYRIGHT (C) 1991 BY FULL DISCLOSURE. ALL RIGHTS RESERVED.</p>
 
@@ -176,4 +176,4 @@ following form, or supply the information on a plain piece of paper:</p>
 
 <p>Return to: Full Disclosure, Box 903, Libertyville, Illinois 60048
 
-
+</xml>

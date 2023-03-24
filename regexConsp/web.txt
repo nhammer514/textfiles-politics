@@ -1,4 +1,4 @@
-From: dona@bilver.uucp (Don Allen)
+<xml><p>From: dona@bilver.uucp (Don Allen)
 Newsgroups: alt.alien.visitors,alt.conspiracy
 Subject: Web of Conspiracy intro/README
 <info type="Message-ID"> 1991Aug8.055902.24581@bilver.uucp</info>
@@ -2434,4 +2434,4 @@ Washington, 98507.</p>
 <p>              --------------------------------------
 
 -------- EOF ------------------------------------------------------------------
- 
+ </xml>
