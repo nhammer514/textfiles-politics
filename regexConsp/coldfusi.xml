@@ -1,18 +1,18 @@
-<xml><p>                       Host Element Fusion</p>
+<xml><p>     Host Element Fusion</p>
 
-<p>                                            Unpublished Work
-                                            Copyright (c) 1990
-                                            Earl Laurence Lovings</p>
+<p>        Unpublished Work
+        Copyright (c) 1990
+        Earl Laurence Lovings</p>
 
 <p>1.  Proton (1 Hydrogen 1) Energy: 938.3 Mev = 1.007825 amu
 2.  Neutron (1 Neutron 0) Energy: 939.6 Mev = 1.008665 amu
 3.  Deuterium (2 Hydrogen 1) = 2.014102 amu
 4.  [(1 Neutron 0)  + (1 Hydrogen 1) - electron] =  
-    (939.6 Mev + 938.3 Mev - .511 Mev) = 1877.389 Mev = 
-    2.015447128 amu
+  (939.6 Mev + 938.3 Mev - .511 Mev) = 1877.389 Mev = 
+  2.015447128 amu
 5.  [(1 Neutron 0) - (1 Hydrogen 1) + electron] =
-    (939.6 Mev - 938.3 Mev + .511 Mev) = 1.811 Mev = 
-    1.9441763 x 10 - 03 amu
+  (939.6 Mev - 938.3 Mev + .511 Mev) = 1.811 Mev = 
+  1.9441763 x 10 - 03 amu
 6.  (105 Palladium 46) = 104.905064 amu
 7.  (103 Rhodium 45) = 102.905511 amu</p>
 
@@ -57,7 +57,7 @@ fusion.</p>
 (1877.389 Mev) + (1.811 Mev) - (2 Hydrogen 1)] x 931.5 Mev  or,</p>
 
 <p>Q = [(2.014102 amu + 2.014102 amu + .01394653 amu - 2.015447 amu 
-     + 1.944176 x 10-03 amu - 2.014102 amu)] x 931.5 Mev</p>
+   + 1.944176 x 10-03 amu - 2.014102 amu)] x 931.5 Mev</p>
 
 <p>Q = 13.55 Mev</p>
 
@@ -66,13 +66,13 @@ you have to have a host element before Deuterium will fuse.
 My equation also theoretically works for known Deuterium fusion
 processes.</p>
 
-<p>    Known Equation:</p>
+<p>  Known Equation:</p>
 
 <p>1.  [(2 Hydrogen 1) + (2 Hydrogen 1)] -&gt; (3 Helium 2) + 
-     (1 Neutron 0)] = or,</p>
+   (1 Neutron 0)] = or,</p>
 
-<p>   [(2.014102 amu + 2.014102 amu - 3.016030 amu - 1.008665 amu) x
-    (931.5 Mev/amu)] =  Q = 3.27 Mev</p>
+<p> [(2.014102 amu + 2.014102 amu - 3.016030 amu - 1.008665 amu) x
+  (931.5 Mev/amu)] =  Q = 3.27 Mev</p>
 
 <p>My Equation: </p>
 
@@ -98,12 +98,12 @@ convert to electrons</p>
 
 <p>Q = 3.27 Mev</p>
 
-<p>    Known Equation:</p>
+<p>  Known Equation:</p>
 
 <p>2.  [(2 Hydrogen 1) + (2 Hydrogen 1) -&gt; (4 Helium 2)] = or,
-    [(2.014102 amu + 2.014102 amu - 4.002603 amu)] x 
-     (931.5 Mev/amu) =     Q = 23.85 Mev
-     
+  [(2.014102 amu + 2.014102 amu - 4.002603 amu)] x 
+   (931.5 Mev/amu) =   Q = 23.85 Mev
+   
 My Equation: </p>
 
 <p>Host Element = (4 Helium 2)
@@ -127,10 +127,10 @@ convert to electrons</p>
 
 <p>Q = 23.85 Mev</p>
 
-<p>    Known Equation:</p>
+<p>  Known Equation:</p>
 
 <p>3.  [(2 Hydrogen 1) + (2 Hydrogen 1) -&gt; (3 Hydrogen 1) + 
-    (1 Hydrogen 1) = or,</p>
+  (1 Hydrogen 1) = or,</p>
 
 <p>[(2.014102 amu + 2.014102 amu - 3.016050 amu - 1.007825 amu)] x
  (931.5 Mev/amu) = Q = 4.03 Mev</p>
@@ -158,11 +158,11 @@ convert to electrons</p>
  1.944176x10-03 amu - 2.014102 amu)] x (931.5 Mev/amu) =
 Q = 4.03 Mev</p>
 
-<p>    Known Equation:</p>
+<p>  Known Equation:</p>
 
 <p>4.  [(1 Hydrogen 1) + (1 Hydrogen) -&gt; (2 Hydrogen 1) +(electron)=
-    [(1.007825 amu + 1.007825 amu - 2 electrons - 2.014102 amu)]
-     x (931.5 Mev/amu) =     Q = .42 Mev</p>
+  [(1.007825 amu + 1.007825 amu - 2 electrons - 2.014102 amu)]
+   x (931.5 Mev/amu) =   Q = .42 Mev</p>
 
 <p>My Equation:</p>
 
@@ -187,4 +187,4 @@ convert to neutrinos</p>
 [(1.007825 amu + 1.007825 amu + 1.007226 amu - .001097 amu
 -2.015447128 amu + 1.9441763x10-03 amu - 1.007825 amu)] 
 x 931.5 Mev/amu =  Q = .42 Mev
-   </p></xml>
+  </p></xml>

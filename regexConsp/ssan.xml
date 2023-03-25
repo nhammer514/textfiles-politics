@@ -1,4 +1,4 @@
-<xml><p>    \RBBS\DL\SSAN.TXT                                                                                                         </p>
+<xml><p>  \RBBS\DL\SSAN.TXT                   </p>
 
 <p>FROM: Barbara Bennett
 SUBJECT: The Social Security Number</p>
@@ -32,36 +32,36 @@ the Area, Group, and Serial.  For the most part, (there are exceptions), the
 Area is determined by where the individual APPLIED for SSN (before 1972) or
 RESIDED at time of application (after 1972). The areas are assigned follows:</p>
 
-<p>000     unused   387-399 WI    528-529 UT
-001-003 NH       400-407 KY    530     NV
-004-007 ME       408-415 TN    531-539 WA
-008-009 VT       416-424 AL    540-544 OR
-010-034 MA       425-428 MS    545-573 CA
-035-039 RI       429-432 AR    574     AK
-040-049 CT       433-439 LA    575-576 HI
-050-134 NY       440-448 OK    577-579 DC
-135-158 NJ       449-467 TX    580     VI Virgin Islands
-159-211 PA       468-477 MN    581-584 PR Puerto Rico
-212-220 MD       478-485 IA    585     NM
-221-222 DE       486-500 MO    586     PI Pacific Islands*
-223-231 VA       501-502 ND    587-588 MS
-232-236 WV       503-504 SD    589-595 FL
-237-246 NC       505-508 NE    596-599 PR Puerto Rico
-247-251 SC       509-515 KS    600-601 AZ
-252-260 GA       516-517 MT    602-626 CA
-261-267 FL       518-519 ID    *Guam, American Samoa,
-268-302 OH       520     WY     Northern Mariana Islands,
-303-317 IN       521-524 CO     Philippine Islands
-318-361 IL       525     NM
-362-386 MI       526-527 AZ</p>
+<p>000   unused 387-399 WI  528-529 UT
+001-003 NH 400-407 KY  530   NV
+004-007 ME 408-415 TN  531-539 WA
+008-009 VT 416-424 AL  540-544 OR
+010-034 MA 425-428 MS  545-573 CA
+035-039 RI 429-432 AR  574   AK
+040-049 CT 433-439 LA  575-576 HI
+050-134 NY 440-448 OK  577-579 DC
+135-158 NJ 449-467 TX  580   VI Virgin Islands
+159-211 PA 468-477 MN  581-584 PR Puerto Rico
+212-220 MD 478-485 IA  585   NM
+221-222 DE 486-500 MO  586   PI Pacific Islands*
+223-231 VA 501-502 ND  587-588 MS
+232-236 WV 503-504 SD  589-595 FL
+237-246 NC 505-508 NE  596-599 PR Puerto Rico
+247-251 SC 509-515 KS  600-601 AZ
+252-260 GA 516-517 MT  602-626 CA
+261-267 FL 518-519 ID  *Guam, American Samoa,
+268-302 OH 520   WY   Northern Mariana Islands,
+303-317 IN 521-524 CO   Philippine Islands
+318-361 IL 525   NM
+362-386 MI 526-527 AZ</p>
 
 <p>627-699 unassigned, for future use</p>
 
 <p>700-728 Railroad workers through 1963, then discontinued
 729-899 unassigned, for future use
 900-999 not valid SSNs, but were used for program purposes
-          when state aid to the aged, blind and disabled was
-          converted to a federal program administered by SSA.</p>
+  when state aid to the aged, blind and disabled was
+  converted to a federal program administered by SSA.</p>
 
 <p>As the Areas assigned to a locality are exhausted, new areas from the pool
 are assigned. This is why some states have non-contiguous groups of Areas.</p>
@@ -90,4 +90,4 @@ manual assignment such as a person refusing a number with 666 in it!</p>
 05-10633) provides an explanation of the SSN's structure and
 the method of assigning and validating Social Security numbers.</p>
 
-<p>0633) provide</p></xml>
+<p> 0633) provide</p></xml>
