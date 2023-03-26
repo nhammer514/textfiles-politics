@@ -1,0 +1,6 @@
+start = xml
+xml = element xml {p+}
+p = element p {mixed{(special | info)*}}
+special = element special {text}
+info = element info {type, text}
+type = attribute type {"Message-ID"}
