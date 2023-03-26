@@ -153,15 +153,15 @@ from the grassy knoll.</p>
 
 <p>Figure 2.
 origin tape time  spacing *1.043  *18.3  Z-frame  Z-frame
-TSBD   137.702      162  176
+TSBD   137.702    162  176
     &gt; 1.566   1.633 29.89
-TSBD   139.268      192  206
+TSBD   139.268    192  206
     &gt; 1.071   1.117 20.44
-TSBD   140.339      212  226
+TSBD   140.339    212  226
     &gt; 4.556   4.752 86.96
-Knoll  144.895      299  313
+Knoll  144.895    299  313
     &gt; 0.713   0.744 13.61
-TSBD   145.608      313  327</p>
+TSBD   145.608    313  327</p>
 
 <p>   The first problem we notice with the HSCA version is that the first shot
 is much too early. No other evidence supports a shot that early and clearly
@@ -229,7 +229,7 @@ Frames  Group
 <p>HSCA Z-# hit?  origin  jiggle Marsh  Z-# hit?   origin  jiggle
 137.70 161 miss  TSBD  D  137.702  179 miss   TSBD VI#1  B
 139.27 191 JFK/JBC TSBD  B  139.268  209 JFK  TSBD VI#1
-[140.32]      140.339  230 Connally TSBD VI#10 C
+[140.32]    140.339  230 Connally TSBD VI#10 C
 144.90 297 miss  knoll E  144.895  312.6 JFK  knoll  A1
 145.61 312 JFK   TSBD  A1 145.608  328 Connally TSBD VI#1  A2
    

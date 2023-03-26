@@ -19,7 +19,7 @@
   X(L) = X(C)  THE CIRCUT RESISTANCE (CAPACITOR, COIL AND  INTERMEDIATE
   WIRING) LIMITS THE OVERALL EFFICIENCY OF THE TANK CIRCUT. EFFICIENCY IS
   RATED IN TERMS OF "QUALITY FACTOR", REPRESENTED AS 'Q':
-     Q  =  W(L)/R  =  X(C)/R
+   Q  =  W(L)/R  =  X(C)/R
 
   INCREASING  RESISTANCE  REDUCES Q, THEREBY REDUCING  EFFICIENCY.  THE
   EFFECT  IS MINIMIZED BY WINDING THE PRIMARY WITH A FEW TURNS  OF  HEAVY
@@ -51,4 +51,4 @@
 
 
 
-                                                               </p></xml>
+                                       </p></xml>

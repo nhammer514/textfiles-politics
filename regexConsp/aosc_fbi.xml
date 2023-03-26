@@ -236,10 +236,10 @@ lists are presented later in this column with the detailed Ohio data.</p>
 
 <p>Frequency Plan:</p>
 
-<p>   A-1 167.3375     B-1 167.600
-   A-2 167.4875     B-2 167.675
+<p>   A-1 167.3375   B-1 167.600
+   A-2 167.4875   B-2 167.675
    A-3 167.425    B-3 167.7375
-   A-4 167.5625     B-4 167.5625
+   A-4 167.5625   B-4 167.5625
    A-5 163.9875/167.3375  B-5 162.8625/167.600
    A-6 Unconfirmed    B-6 Unconfirmed
    A-7 163.8625/167.5375  B-7 163.8625/167.5375
@@ -676,16 +676,16 @@ following are common ranges reported nationwide:</p>
 
 <p>FBI COMMON TEN CODES</p>
 
-<p>   10-0 Negative     10-29 O.L. Check
+<p>   10-0 Negative   10-29 O.L. Check
    10-4 Affirmative    10-42 Residence
    10-7 Out-of-Service   10-58 Mileage
    10-8 In-Service   10-66 Alarm (?)
    10-9 Repeat   10-76 Enroute
    10-16  Message Check  10-77 Bank Alarm
-   10-20  Location     10-85 Meet w/agent ...
+   10-20  Location   10-85 Meet w/agent ...
    10-21  Telephone Call   10-90 Bank Robbery
    10-22  Report to Office   10-91 BR In Progress
-   10-23  Stand-By     10-99 Assist Agent
+   10-23  Stand-By   10-99 Assist Agent
    10-26  N.C.I.C. Check
    10-28  Registration check</p>
 

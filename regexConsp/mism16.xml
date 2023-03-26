@@ -1,14 +1,14 @@
 <xml><p>&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#
 %#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;
 #&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%
-&amp;%#            &amp;%#
-%#&amp;     Axon Industries Present    %#&amp;
-#&amp;%            #&amp;%
+&amp;%#        &amp;%#
+%#&amp;   Axon Industries Present    %#&amp;
+#&amp;%        #&amp;%
 &amp;%#    The Kromery Converter/Free Electricity    &amp;%#
-%#&amp;            %#&amp;
+%#&amp;        %#&amp;
 #&amp;%  Original articles by John Bedini, Eike Mueller, and Tom Bearden.  #&amp;%
 &amp;%#  Retyped Without Permission 07/04/86 by (_&gt;Shadow Hawk 1&lt;_)  &amp;%#
-%#&amp;            %#&amp;
+%#&amp;        %#&amp;
 #&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%
 &amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#
 %#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;
@@ -126,9 +126,9 @@ at the end of the lane.
   And when we do, lets give John Bedini, and men like him the credit and appre-
 ciation they so richly deserve.
 
-      Tom Bearden
+    Tom Bearden
 
-      April 13,1984
+    April 13,1984
 
 
 
@@ -194,18 +194,18 @@ itself.
   First, the battery, controller, and generator are interconnected as shown
 in figure 3. (See also Figure 1)
 
-       
+     
  /-----\    /-----\  
  o-12v | |===|  ||  | 14v.o  
  [Motor==| |==||===Gen. ]  
  o+  | |===|  ||  |  .o  
  \-----/ Mass \-----/  
-     Controller  
-       
-       
-       
+   Controller  
+     
+     
+     
   Figure 1: The Kromery Converter  
-       
+     
 
    __________    
    = Brush 1   
@@ -215,17 +215,17 @@ in figure 3. (See also Figure 1)
   | x*x=|_________   _o--o1  
   \ \x/ /Brush 2   /|  
  \_ _/  2o--/  
-   -     
+   -   
    = Brush 3  o--o3  
    __________ Equivelant 
-     Circuit   
-       
+   Circuit   
+     
   Figure 2: Controller Construction  
-       
+     
 
  3O To controller 1O To controller   
   | brush #3 | brush #1  
-  |    |     
+  |    |   
   | Mass   | 2O To controller  
   |  Gen. Motor|  | brush #2 
   |  ____ = ____ |  |    
@@ -233,9 +233,9 @@ in figure 3. (See also Figure 1)
   /--O- |-=-| -O--+---To batt -  
   |  ---- = ----  |    
   \---------------/    
-       
+     
   Figure 3: Schematic of the device  
-       
+     
 
 Let's begin by stating certain facts. The ions move backwards under charging
 conditions and in reverse under discharging conditions. So here we start
@@ -355,20 +355,20 @@ The result of this test was the light bulb was lit up. However after 15 minutes
 the batrery  voltage had  dropped from  11.05 V  to  9.10 V.  The speed  of the
 converter was stabale at 1020 rpm.
 
-   /----------\ /----\       
-    /--O Kromery +O----+--O+12v|       
+   /----------\ /----\     
+    /--O Kromery +O----+--O+12v|     
     |/-OConverter-O---+---O- |   FIGURE K - 1    
-    || \----------/ ||  \----/       
-    ||    ||         
-    || /------------/|     KROMERY CONVERTER   
-    |\-------.   |         
-    |  |  / \  |         
-    |  | /FW \ |     TEST SETUP #1   
-    |  \-Bridg+--(X)-/         
-    |  \ / Bulb        
-    | \ /        
-    \--------.         
-             
+    || \----------/ ||  \----/     
+    ||    ||       
+    || /------------/|   KROMERY CONVERTER   
+    |\-------.   |       
+    |  |  / \  |       
+    |  | /FW \ |   TEST SETUP #1   
+    |  \-Bridg+--(X)-/       
+    |  \ / Bulb      
+    | \ /      
+    \--------.       
+         
 
 In the next  test we introduced  a seperate battery  (battery #2)  for charging
 from  the  converter.
@@ -376,20 +376,20 @@ from  the  converter.
 We recharged the  battery #2 from 12.30 V to 12.40 V  within 4 minutes,  and we
 measured a current flow into the battery #2 of 0.8 amperes.
 
-   /----------\ /----\       
-    /--O Kromery +O-------O+12v|       
+   /----------\ /----\     
+    /--O Kromery +O-------O+12v|     
     |/-OConverter-O-------O-#1 |   FIGURE K - 2    
-    || \----------/ \----/       
-    ||           
+    || \----------/ \----/     
+    ||       
     || /-------------\  /----\   KROMERY CONVERTER   
-    |\-------.   \--O-12*|       
-    |  |  / \  /--O+#2 |       
+    |\-------.   \--O-12*|     
+    |  |  / \  /--O+#2 |     
     |  | /FW \ |  \----/   TEST SETUP #2   
-    |  \-Bridg+--(/)-/         
-    |  \ / Ampere *Note difference     
-    | \ / Meter in polarity from     
-    \--------.    battery #1.      
-             
+    |  \-Bridg+--(/)-/       
+    |  \ / Ampere *Note difference   
+    | \ / Meter in polarity from   
+    \--------.    battery #1.    
+         
 
 Figure  K-2  shows  the  second  test  setup.  Because  the  kromery  converter
 ran  too slow on  one 12 V battery,  we decided to drive the converter using 
@@ -412,7 +412,7 @@ in Figure K-3.
  THE BATTERY CHARGER NEEDED 119 MINUTES
 
  TO RAISE THE BATTERY VOLTAGE FROM 11.51 V TO 12.41 V
-          FIGURE K - 3
+      FIGURE K - 3
 
  THE KROMERY CONVERTER NEEDED 11 MINUTES
 
@@ -435,7 +435,7 @@ the output load,  we  decided  to  measure the input energy and speed when  the
 output was shorted. Again, the input energy dropped and the speed increased.
 
   Measurement  No Load  Loaded With  Shorted  Corrected
-      Battery  Fact. 5.535
+    Battery  Fact. 5.535
   ============================================================
 
   Input Voltage  25.30 25.00  24.90   
@@ -479,7 +479,7 @@ contradictory to the conventional laws of physics.
 
 
   Measurement No Load  Loaded With Loaded w/ Loaded w/
-     Lamp &amp; Batt 13.5 Ohms 0.63 Ohms
+   Lamp &amp; Batt 13.5 Ohms 0.63 Ohms
   ============================================================
 
   Input Voltage  25.40 25.30  20.00  21.90  
@@ -521,4 +521,4 @@ well above 100%.
 
 
 The end. Typed by (_&gt;Shadow Hawk 1&lt;_). May be distributed anywhere as long as
-you keep the credits. I dont give a shit what you do with it either.DOWNLOADED FROM P-80 SYSTEMS.....                                                                                           </p></xml>
+you keep the credits. I dont give a shit what you do with it either.DOWNLOADED FROM P-80 SYSTEMS.....                                                                                         </p></xml>

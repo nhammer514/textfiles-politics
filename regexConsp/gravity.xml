@@ -73,7 +73,7 @@ references and watch their eyes pop as they find out the speed of light is NOT
 constant.</p>
 
 <p>______________________________________________________________________________
-|      Parts List      |
+|    Parts List    |
 ------------------------------------------------------------------------------</p>
 
 <p>   This, actually, is the hardest part. You will either have to spend a lot
@@ -136,7 +136,7 @@ with screwholes (and gaskets if available.)</p>
 paraffin wax to fill the inside.</p>
 
 <p>______________________________________________________________________________
-|       Construction     |
+|     Construction   |
 ------------------------------------------------------------------------------</p>
 
 <p>(1) Wind a 28" (about, must center inside the hollow part of the plastic donut)
@@ -163,31 +163,31 @@ See illustration 3 for a cutaway view.</p>
 
 <p>Illustration 1:
 ______________________________________________________________________________
-  Top View      Side View</p>
+  Top View    Side View</p>
 
-<p>  __        ||
+<p>  __      ||
   ___/--\ ----- 1000 turns #16 magnetwire  ----- __//|
- |  |        __/||
-  ---\__/       ||--</p>
+ |  |      __/||
+  ---\__/     ||--</p>
 
 <p>------------------------------------------------------------------------------</p>
 
 <p>Illustration 2:
 ______________________________________________________________________________
-  Top View      Side View</p>
+  Top View    Side View</p>
 
-<p>    ___      /-------------\
+<p>    ___    /-------------\
    \\|//    / / / | | | \ \ \
   |\/ \/| --- Outer Layer of #20 ---| | | | | | | | |
   |- -|   or #22 magnetwire   | | | | | | | | |
-  |/\ /\|     | | | | | | | | |
+  |/\ /\|   | | | | | | | | |
    //|\\    \ \ \ | | | / / /
-    ---      \-------------/
+    ---    \-------------/
 ------------------------------------------------------------------------------</p>
 
 <p>Illustration 3:
 ______________________________________________________________________________
-      Cutaway (side) View</p>
+    Cutaway (side) View</p>
 
 <p>    _____________________________________________________
    / / / / / // / / // / / / | | | \ \ \ \\ \ \ \\ \ \ \ \
@@ -208,7 +208,7 @@ Outer later of #20 or #22 magnetwire/ |  coil of wire.
 <p>------------------------------------------------------------------------------</p>
 
 <p>______________________________________________________________________________
-|      Building The Power Supplies
+|    Building The Power Supplies
 ------------------------------------------------------------------------------</p>
 
 <p>   If you are unfamiliar with electronics, you may need some help with this
@@ -217,12 +217,12 @@ section, as I am only presenting the schematics. Here they are:</p>
 <p>For both 50VDC power supplies:
 ______________________________________________________________________________</p>
 
-<p>   /---\     /\
+<p>   /---\   /\
    v |  100V Piv 15A diode    /  \
     _mmmmm_+__  ___|\|__+__________________/0-15\__+
    / Variac )||( |/|  |  1000 uF @ 80 V  \DC A/
  =)======  110)||(48   ---  electrolytic  \  /
-   \__________)||(_____  /-\     \/
+   \__________)||(_____  /-\   \/
   120 VAC   110V to 48V  \  |-
 Grounded Plug 10A Transformer \_+__________________________-</p>
 
@@ -236,29 +236,29 @@ ______________________________________________________________________________</
 <p>   /---\
    v |
   _mmmmm_+__  ____________________+___________+_____________________
- / Variac )||(     _|_   _|_ HV
+ / Variac )||(   _|_   _|_ HV
 =)=====  110)||(8-10KV |/  \ /14KV PIV /-\cap
  \__________)||(_____________||_ _v_ TV HV  |
   120 VAC  100V to 8-10KV  |\ \ |  Diode  +____+______
 Grrounded Plug  100uA Transformer  ^ \__+   | _|_   \
-      800-1000 pf 10KV \  TV HV-^-  \ /TV HV|
-      capacitor   \ diode/ \  -v-diode|
-       \ -|- |   _|_ /\
-        \_______+  +  HV /-\  /  \
+    800-1000 pf 10KV \  TV HV-^-  \ /TV HV|
+    capacitor   \ diode/ \  -v-diode|
+     \ -|- |   _|_ /\
+      \_______+  +  HV /-\  /  \
   Note that all unmarked parts    |  |  cap |  / 0- \
   have the same value as their    | |/ |  +_/ 1000 \_
   marked counterparts.    +_||_+_   | \  /
-        |\ \ -^- \ uA /
-          HV cap | / \  \  /
-           | -|- \/
-           |  | \
-           \____/  TV HV
-           diode</p>
+      |\ \ -^- \ uA /
+      HV cap | / \  \  /
+       | -|- \/
+       |  | \
+       \____/  TV HV
+       diode</p>
 
 <p>------------------------------------------------------------------------------</p>
 
 <p>______________________________________________________________________________
-|      Usage     |
+|    Usage   |
 ------------------------------------------------------------------------------</p>
 
 <p>   To connect the power supplies to the coil, connect the wires leading out
@@ -282,18 +282,18 @@ kind that doesnt melt near the temperature of boiling wax) plastic.</p>
 <p>   Have phun, and don't do anything you wouldnt want perpetuated throughout
 your subjective reality!</p>
 
-<p>      (_&gt;Shadow Hawk&lt;_)</p>
+<p>    (_&gt;Shadow Hawk&lt;_)</p>
 
 <p>==============================================================================
-|Call theese fine boards:        |
-|            |
-| Ripco         (312)-528-5020 |
-| Wildfire         Invitation Only |
-| Pirate 80         (304)-744-2253 |
+|Call theese fine boards:      |
+|        |
+| Ripco       (312)-528-5020 |
+| Wildfire       Invitation Only |
+| Pirate 80       (304)-744-2253 |
 ==============================================================================
 
  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
- ݰ 10-22-89   The PIRATES' HOLLOW     @@
+ ݰ 10-22-89   The PIRATES' HOLLOW   @@
  ݰ   Gfile Distribution Center / MASS Megs  @@
  ݰ 415/236/2371  RoR - Alucard   415/236/2371 @@
  ݰ  Sysops: Doctor Murdock ~ Sir Death ~ Dark Nite ~ Ratsnatcher  @@

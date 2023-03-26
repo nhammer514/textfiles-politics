@@ -1,14 +1,14 @@
 <xml><p>&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#
 %#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;
 #&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%
-&amp;%#            &amp;%#
-%#&amp;     Axon Industries Present    %#&amp;
-#&amp;%            #&amp;%
+&amp;%#        &amp;%#
+%#&amp;   Axon Industries Present    %#&amp;
+#&amp;%        #&amp;%
 &amp;%#    The Kromery Converter/Free Electricity    &amp;%#
-%#&amp;            %#&amp;
+%#&amp;        %#&amp;
 #&amp;%  Original articles by John Bedini, Eike Mueller, and Tom Bearden.  #&amp;%
 &amp;%#  Retyped Without Permission 07/04/86 by (_&gt;Shadow Hawk 1&lt;_)  &amp;%#
-%#&amp;            %#&amp;
+%#&amp;        %#&amp;
 #&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%
 &amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#
 %#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;</p>
@@ -123,9 +123,9 @@ e can all afford them - including the shivering little old  lady at the end of t
 <p>  And when we do, lets give John Bedini, and men like him the credit and appreciation
 they so richly deserve.</p>
 
-<p>      Tom Bearden</p>
+<p>    Tom Bearden</p>
 
-<p>      April 13,1984</p>
+<p>    April 13,1984</p>
 
 <p>John Bedini</p>
 
@@ -185,17 +185,17 @@ then utilize a special means to cause the battery to recharge itself.</p>
 <p>  First, the battery, controller, and generator are interconnected as shown in figure
 3. (See also Figure 1)</p>
 
-<p>       
+<p>     
  /-----\    /-----\  
  o-12v | |===|  ||  | 14v.o  
  [Motor==| |==||===Gen. ]  
  o+  | |===|  ||  |  .o  
  \-----/ Mass \-----/  
-     Controller       
-       
-       
+   Controller     
+     
+     
   Figure 1: The Kromery Converter  
-       </p>
+     </p>
 
 <p>   __________    
    = Brush 1   
@@ -205,17 +205,17 @@ then utilize a special means to cause the battery to recharge itself.</p>
   | x*x=|_________   _o--o1  
   \ \x/ /Brush 2   /|  
  \_ _/  2o--/  
-   -     
+   -   
    = Brush 3  o--o3  
    __________ Equivelant 
-     Circuit   
-       
+   Circuit   
+     
   Figure 2: Controller Construction  
-       </p>
+     </p>
 
 <p> 3O To controller 1O To controller   
   | brush #3 | brush #1  
-  |    |     
+  |    |   
   | Mass   | 2O To controller  
   |  Gen. Motor|  | brush #2 
   |  ____ = ____ |  |    
@@ -223,9 +223,9 @@ then utilize a special means to cause the battery to recharge itself.</p>
   /--O- |-=-| -O--+---To batt -  
   |  ---- = ----  |    
   \---------------/    
-       
+     
   Figure 3: Schematic of the device  
-       </p>
+     </p>
 
 <p>Let's begin by stating certain facts. The ions move backwards under charging
 conditions and in reverse under discharging conditions. So here we start our new
@@ -342,19 +342,19 @@ positive line  a  12 V light bulb.</p>
 batrery  voltage had  dropped from  11.05 V  to  9.10 V.  The speed  of the converter
 was stabale at 1020 rpm.</p>
 
-<p>   /----------\ /----\       
-   /--O Kromery +O----+--O+12v|        
+<p>   /----------\ /----\     
+   /--O Kromery +O----+--O+12v|      
 |/-OConverter-O---+---O- |   FIGURE K - 1    || \--
---------/ ||  \----/         ||  
-   ||         || /------------/| 
-   KROMERY CONVERTER     |\-------.   |  
-         |  |  / \  |  
-        |  | /FW \ |   
- TEST SETUP #1     |  \-Bridg+--(X)-/    
-       |  \ / Bulb     
-      | \ /        
-     \--------.        
-             </p>
+--------/ ||  \----/       ||  
+   ||       || /------------/| 
+   KROMERY CONVERTER   |\-------.   |  
+       |  |  / \  |  
+      |  | /FW \ |   
+ TEST SETUP #1   |  \-Bridg+--(X)-/    
+     |  \ / Bulb   
+    | \ /      
+   \--------.      
+         </p>
 
 <p>In the next  test we introduced  a seperate battery  (battery #2)  for charging from 
 the  converter.</p>
@@ -362,19 +362,19 @@ the  converter.</p>
 <p>We recharged the  battery #2 from 12.30 V to 12.40 V  within 4 minutes,  and we measured
 a current flow into the battery #2 of 0.8 amperes.</p>
 
-<p>   /----------\ /----\       
-   /--O Kromery +O-------O+12v|        
+<p>   /----------\ /----\     
+   /--O Kromery +O-------O+12v|      
 |/-OConverter-O-------O-#1 |   FIGURE K - 2    || \--
---------/ \----/         ||  
-          || /-------------\ 
-/----\   KROMERY CONVERTER     |\-------.   \--O-
-12*|         |  |  / \  /--O+#2 |  
-        |  | /FW \ |  \----/   
- TEST SETUP #2     |  \-Bridg+--(/)-/    
-       |  \ / Ampere *Note difference  
-      | \ / Meter in polarity from   
-     \--------.    battery #1.     
-             
+--------/ \----/       ||  
+      || /-------------\ 
+/----\   KROMERY CONVERTER   |\-------.   \--O-
+12*|       |  |  / \  /--O+#2 |  
+      |  | /FW \ |  \----/   
+ TEST SETUP #2   |  \-Bridg+--(/)-/    
+     |  \ / Ampere *Note difference  
+    | \ / Meter in polarity from   
+   \--------.    battery #1.   
+         
 Figure  K-2  shows  the  second  test  setup.  Because  the  kromery  converter ran 
 too slow on  one 12 V battery,  we decided to drive the converter using  24 V via tw
 o 12  V batteries, connected in series.</p>
@@ -392,8 +392,8 @@ battery voltage had reached 12.41 V.  The measurement is depicted in Figure K-3.
 
 <p> THE BATTERY CHARGER NEEDED 119 MINUTES</p>
 
-<p> TO RAISE THE BATTERY VOLTAGE FROM 11.51 V TO 12.41 V      
-     FIGURE K - 3</p>
+<p> TO RAISE THE BATTERY VOLTAGE FROM 11.51 V TO 12.41 V    
+   FIGURE K - 3</p>
 
 <p> THE KROMERY CONVERTER NEEDED 11 MINUTES</p>
 
@@ -414,7 +414,7 @@ measure the input energy and speed when  the output was shorted. Again, the inpu
 dropped and the speed increased.</p>
 
 <p>  Measurement  No Load  Loaded With  Shorted  Corrected
-      Battery  Fact. 5.535
+    Battery  Fact. 5.535
   ============================================================</p>
 
 <p>  Input Voltage  25.30 25.00  24.90   </p>
@@ -452,7 +452,7 @@ the  more  we  load  down the  output side.  This  effect  is  totally contradic
 to the conventional laws of physics.</p>
 
 <p>  Measurement No Load  Loaded With Loaded w/ Loaded w/
-     Lamp &amp; Batt 13.5 Ohms 0.63 Ohms
+   Lamp &amp; Batt 13.5 Ohms 0.63 Ohms
   ============================================================</p>
 
 <p>  Input Voltage  25.40 25.30  20.00  21.90  </p>
