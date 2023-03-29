@@ -1,8 +1,10 @@
+###### Original name checker thing ######
+
 import spacy
 from collections import Counter
 import re as regex
 import os
-# Uncomment this line if you need the language model.
+# nlp = spacy.cli.download("en_core_web_lg")
 # If you already have it, comment it ou.
 # Let's try the different spaCy language models for this. We can compare _lg with _md or _sm
 workingDir = os.getcwd()
@@ -25,7 +27,6 @@ def readTextFiles(filepath):
         tokens = nlp(cleanedFile)
 
         listEntities = entitycollector(tokens)
-        print(listEntities)
 
 def entitycollector(tokens):
     entities = []
@@ -34,6 +35,7 @@ def entitycollector(tokens):
             with open("outputNames.txt", 'a') as f:
                 f.write("\n" + entity.text)
                 print("Writing in outputNames.txt: " + entity.text)
+            ## Below includes entity values and stuf
             # print(entity.text, entity.label_, spacy.explain(entity.label_))
             entities.append(entity.text)
         return entities
