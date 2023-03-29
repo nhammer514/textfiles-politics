@@ -76,6 +76,16 @@ Find:\(?\d{3}-?\)? ?\d{3}-?\d{4}
 Replace with:<data type="phoneNumber">\0</digit>
 ```
 
+Fixing number format:
+Find: `(\d+?) 1/2`
+Replace with: `\1.5`
+
+Find: `(\d+?) 1/8`
+Replace with: `\1.125`
+
+Find: `(\d+?) 3/4`
+Replace with: `\1.75`
+
 Finding percentages:
 ```
 Find:\d*-*\d*\.?\d+%

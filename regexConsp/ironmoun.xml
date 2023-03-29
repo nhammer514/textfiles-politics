@@ -2643,10 +2643,10 @@ useful, techniques, see Norman C. Dalkey's {Games and Simulations}
 <p>45. A primer-level example of the obvious and long overdue need
 for such translation is furnished by Kahn (in {Thinking About the
 Unthinkable}, p. 102). Under the heading "Some Awkward Choices" he
-compares four hypothetical policies: a certain loss of $3,000; a
-.1 chance of loss of $300,000; a
-.01 chance of loss of $30,000,000; and a .001 chance of loss
-of $3,000,000,000. A government decision-maker would "very likely"
+compares four hypothetical policies: a certain loss of $3000; a
+.1 chance of loss of $300000; a
+.01 chance of loss of $30000000; and a .001 chance of loss
+of $3000000000. A government decision-maker would "very likely"
 choose in that order. But what if "lives are at stake rather than
 dollars"? Kahn suggests that the order of choice would be reversed,
 although current experience does not support this opinion. Rational
@@ -2672,4 +2672,4 @@ studies to date, what has blocked the logical extension of new
 analytic techniques has been a general failure to understand and
 properly evaluate the nonmilitary functions of war.</p>
 
-<p></p></xml>
+</xml>

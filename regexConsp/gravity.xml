@@ -1,10 +1,4 @@
-<xml><p> </p>
-
-<p> /==\ \  / /==\ \  /==    /=================================\
- |  |  \/  |  | |\ |    | The Resonant Gravity Field Coil |
- +==+  ||  |  | ||||  Systems Present:  | (or: how to manipulate reality  |
- |  |  /\  |  | | \|    |  in a 530 square inch area) |
-===/  \=/  \=\==/=/  \    \=================================/</p>
+<xml>
 
 <p>______________________________________________________________________________
 | By (_&gt;Shadow Hawk&lt;_) | Theory, concept, and Idea by: ????????????????????? |
@@ -21,7 +15,7 @@ of this device, if used in a careless manner, can be EXTREMELY DANGEROUS.</p>
 
 <p>  You are probably thinking, "how can gravity possibly be resonant?" This is
 a good question. As discovered by Thomas Townsend Brown, electricity is
-directly related to gravity (see his U.S. patents 1,974,483, 3,187,206 in
+directly related to gravity (see his U.S. patents 1974483, 3187206 in
 particular.) If this is so, it is most likely a vectorial relationship (law of
 opposites), and since there is already an electromagnetic vector (2
 dimensional), a gravitational vector would be at 90 degrees to both the
@@ -165,47 +159,17 @@ See illustration 3 for a cutaway view.</p>
 ______________________________________________________________________________
   Top View    Side View</p>
 
-<p>  __      ||
-  ___/--\ ----- 1000 turns #16 magnetwire  ----- __//|
- |  |      __/||
-  ---\__/     ||--</p>
-
-<p>------------------------------------------------------------------------------</p>
+<div>------------------------------------------------------------------------------</div>
 
 <p>Illustration 2:
 ______________________________________________________________________________
   Top View    Side View</p>
 
-<p>    ___    /-------------\
-   \\|//    / / / | | | \ \ \
-  |\/ \/| --- Outer Layer of #20 ---| | | | | | | | |
-  |- -|   or #22 magnetwire   | | | | | | | | |
-  |/\ /\|   | | | | | | | | |
-   //|\\    \ \ \ | | | / / /
-    ---    \-------------/
-------------------------------------------------------------------------------</p>
-
 <p>Illustration 3:
 ______________________________________________________________________________
     Cutaway (side) View</p>
 
-<p>    _____________________________________________________
-   / / / / / // / / // / / / | | | \ \ \ \\ \ \ \\ \ \ \ \
-  / / / / / // / / / | | | | _____ | | | | \ \ \ \\ \ \ \ \
-   / / / / / / | | | | _______/*****\_______ | | | | \ \ \ \ \
-   | | | | | |  ______/*******=======*******\_______ | | | | |
-  Plastic Donut ---|*******=====================*******| | | | | |
- (hidden by wire)| |*******=====================*******| | | | | |
-   | | | | | |  ------\***** &lt;-\ ======*****/------- | | | | |
-   \ \ \ \ \ \ | | | | -----\ \ === /----- | | | | / / / / /
-  \ \ \ \ \ \\ \ \ \ | | | |  |  ^ | | | | / / / // / / / /
-   \ \ \ \ \ \\ \ \ \\ \ \ \  |  | / / / // / / // / / / /
-    ----------------------- ^ |  | --------------------
-  Torodial Plastic "Donut"----^ | |  \-The ='s represent the inner "hoop"
-Outer later of #20 or #22 magnetwire/ |  coil of wire.
-  The *'s represent the wax misture-/</p>
-
-<p>------------------------------------------------------------------------------</p>
+<div>------------------------------------------------------------------------------</div>
 
 <p>______________________________________________________________________________
 |    Building The Power Supplies
@@ -217,45 +181,7 @@ section, as I am only presenting the schematics. Here they are:</p>
 <p>For both 50VDC power supplies:
 ______________________________________________________________________________</p>
 
-<p>   /---\   /\
-   v |  100V Piv 15A diode    /  \
-    _mmmmm_+__  ___|\|__+__________________/0-15\__+
-   / Variac )||( |/|  |  1000 uF @ 80 V  \DC A/
- =)======  110)||(48   ---  electrolytic  \  /
-   \__________)||(_____  /-\   \/
-  120 VAC   110V to 48V  \  |-
-Grounded Plug 10A Transformer \_+__________________________-</p>
-
-<p>  (2) of theese are required. Note that
-  the stepdown transformer must be 50kv isolated.
-------------------------------------------------------------------------------</p>
-
-<p>For the 100 KVDC power supply:
-______________________________________________________________________________</p>
-
-<p>   /---\
-   v |
-  _mmmmm_+__  ____________________+___________+_____________________
- / Variac )||(   _|_   _|_ HV
-=)=====  110)||(8-10KV |/  \ /14KV PIV /-\cap
- \__________)||(_____________||_ _v_ TV HV  |
-  120 VAC  100V to 8-10KV  |\ \ |  Diode  +____+______
-Grrounded Plug  100uA Transformer  ^ \__+   | _|_   \
-    800-1000 pf 10KV \  TV HV-^-  \ /TV HV|
-    capacitor   \ diode/ \  -v-diode|
-     \ -|- |   _|_ /\
-      \_______+  +  HV /-\  /  \
-  Note that all unmarked parts    |  |  cap |  / 0- \
-  have the same value as their    | |/ |  +_/ 1000 \_
-  marked counterparts.    +_||_+_   | \  /
-      |\ \ -^- \ uA /
-      HV cap | / \  \  /
-       | -|- \/
-       |  | \
-       \____/  TV HV
-       diode</p>
-
-<p>------------------------------------------------------------------------------</p>
+<div>------------------------------------------------------------------------------</div>
 
 <p>______________________________________________________________________________
 |    Usage   |

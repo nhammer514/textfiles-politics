@@ -178,11 +178,11 @@ is (1 Hydrogen 1)</p>
 convert to neutrinos</p>
 
 <p>(1.007226 amu x 931.5 Mev/amu) / (.42 Mev/neutrinos) =
-2,233.884 neutrinos</p>
+2233.884 neutrinos</p>
 
 <p>Now the fusion of 1 Hydrogen 1 atoms</p>
 
-<p>[(1 Hydrogen 1) + (1 Hydrogen 1) + 2,234 neutrinos - 2 electrons
+<p>[(1 Hydrogen 1) + (1 Hydrogen 1) + 2234 neutrinos - 2 electrons
 - 1877.389 Mev + 1.811 Mev - (1 Hydrogen)] x 931.5 Mev/amu =
 [(1.007825 amu + 1.007825 amu + 1.007226 amu - .001097 amu
 -2.015447128 amu + 1.9441763x10-03 amu - 1.007825 amu)] 

@@ -125,7 +125,7 @@ they so richly deserve.</p>
 
 <p>    Tom Bearden</p>
 
-<p>    April 13,1984</p>
+<p>    April 131984</p>
 
 <p>John Bedini</p>
 
@@ -185,47 +185,11 @@ then utilize a special means to cause the battery to recharge itself.</p>
 <p>  First, the battery, controller, and generator are interconnected as shown in figure
 3. (See also Figure 1)</p>
 
-<p>     
- /-----\    /-----\  
- o-12v | |===|  ||  | 14v.o  
- [Motor==| |==||===Gen. ]  
- o+  | |===|  ||  |  .o  
- \-----/ Mass \-----/  
-   Controller     
-     
-     
-  Figure 1: The Kromery Converter  
-     </p>
+<p>Figure 1: The Kromery Converter</p>
 
-<p>   __________    
-   = Brush 1   
-  _-_   * =shaft   
- /xxx\ xxx=copper  
-  /x/x\x\ = =brush   
-  | x*x=|_________   _o--o1  
-  \ \x/ /Brush 2   /|  
- \_ _/  2o--/  
-   -   
-   = Brush 3  o--o3  
-   __________ Equivelant 
-   Circuit   
-     
   Figure 2: Controller Construction  
-     </p>
 
-<p> 3O To controller 1O To controller   
-  | brush #3 | brush #1  
-  |    |   
-  | Mass   | 2O To controller  
-  |  Gen. Motor|  | brush #2 
-  |  ____ = ____ |  |    
-  \----O+ |-=-| +O-/  \-To batt +  
-  /--O- |-=-| -O--+---To batt -  
-  |  ---- = ----  |    
-  \---------------/    
-     
-  Figure 3: Schematic of the device  
-     </p>
+<p>Figure 3: Schematic of the device  </p>
 
 <p>Let's begin by stating certain facts. The ions move backwards under charging
 conditions and in reverse under discharging conditions. So here we start our new
@@ -342,40 +306,13 @@ positive line  a  12 V light bulb.</p>
 batrery  voltage had  dropped from  11.05 V  to  9.10 V.  The speed  of the converter
 was stabale at 1020 rpm.</p>
 
-<p>   /----------\ /----\     
-   /--O Kromery +O----+--O+12v|      
-|/-OConverter-O---+---O- |   FIGURE K - 1    || \--
---------/ ||  \----/       ||  
-   ||       || /------------/| 
-   KROMERY CONVERTER   |\-------.   |  
-       |  |  / \  |  
-      |  | /FW \ |   
- TEST SETUP #1   |  \-Bridg+--(X)-/    
-     |  \ / Bulb   
-    | \ /      
-   \--------.      
-         </p>
-
 <p>In the next  test we introduced  a seperate battery  (battery #2)  for charging from 
 the  converter.</p>
 
 <p>We recharged the  battery #2 from 12.30 V to 12.40 V  within 4 minutes,  and we measured
 a current flow into the battery #2 of 0.8 amperes.</p>
 
-<p>   /----------\ /----\     
-   /--O Kromery +O-------O+12v|      
-|/-OConverter-O-------O-#1 |   FIGURE K - 2    || \--
---------/ \----/       ||  
-      || /-------------\ 
-/----\   KROMERY CONVERTER   |\-------.   \--O-
-12*|       |  |  / \  /--O+#2 |  
-      |  | /FW \ |  \----/   
- TEST SETUP #2   |  \-Bridg+--(/)-/    
-     |  \ / Ampere *Note difference  
-    | \ / Meter in polarity from   
-   \--------.    battery #1.   
-         
-Figure  K-2  shows  the  second  test  setup.  Because  the  kromery  converter ran 
+<p>Figure  K-2  shows  the  second  test  setup.  Because  the  kromery  converter ran 
 too slow on  one 12 V battery,  we decided to drive the converter using  24 V via tw
 o 12  V batteries, connected in series.</p>
 
@@ -421,13 +358,13 @@ dropped and the speed increased.</p>
 
 <p>  Input Current 3.90  3.00 2.20   </p>
 
-<p>  ------------------------------------------------------------</p>
+<div>  ------------------------------------------------------------</div>
 
 <p>  Watts In   98.67 75.00  54.78   </p>
 
 <p>  Watts Out   N/A  10.26 N/A  56.78 </p>
 
-<p>  ------------------------------------------------------------</p>
+<div>  ------------------------------------------------------------</div>
 
 <p>  Speed In Rev/Sec 40.00 65.00  73.00   </p>
 
@@ -437,7 +374,7 @@ dropped and the speed increased.</p>
 
 <p>  Watts In/Out  N/A   7.31 N/A 1.32 </p>
 
-<p>  ============================================================</p>
+<div>  ============================================================</div>
 
 <p>    Table K - 1</p>
 
@@ -459,7 +396,7 @@ to the conventional laws of physics.</p>
 
 <p>  Input Current 3.90  3.90 3.39   2.30  </p>
 
-<p>  ------------------------------------------------------------</p>
+<div>  ------------------------------------------------------------</div>
 
 <p>  Watts In   99.06 98.67  67.80  50.37  </p>
 
@@ -474,11 +411,11 @@ to the conventional laws of physics.</p>
 
 <p>  Output Current  N/A   0.75 N/A  N/A   </p>
 
-<p>  ------------------------------------------------------------</p>
+<div>  ------------------------------------------------------------</div>
 
 <p>  Watts In/Out  N/A   0.85 0.37  0.08 </p>
 
-<p>  ============================================================</p>
+<div>  ============================================================</div>
 
 <p>    Table K - 2</p>
 

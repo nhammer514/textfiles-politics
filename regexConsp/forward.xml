@@ -1,21 +1,4 @@
-<xml><p>  ***********************  EXPLORING **********************</p>
-
-<p>  HHH  HHH HHH   HHH HHHHHHH  HHHHHHHHHH  HHHHHHH.
-  HHH  HHH  HHH HHH  HHHHHHHHH. HHHHHHHHHH  HHHHHHHHH
-  HHHHHHHHHH HHH HHH HHH  HHH HHH______ HHH  HHH
-  HHHHHHHHHH  'HHH'  HHHHHHHHH  HHHHHHHHH HHHHHHHHH
-  HHH  HHH   HHH   HHHHHHH' HHH   HHHHHHH'
-  HHH  HHH   HHH   HHH  HHHHHHHHHH  HHH  HHH
-  HHH  HHH   HHH   HHH  HHHHHHHHHH  HHH HHH.</p>
-
-<p>  .HHHHHHHH HHHHHHH.  HHH  .HHHHHHH  HHHHHHHHH
- HHHHHHHHHH HHHHHHHHH. HHHHH  HHHHHHHHH  HHHHHHHHH
- HHH_____   HHH  HHH  HHH HHH  HHH'  HHH_____
-  HHHHHHHH  HHHHHHHHH  HHH___HHH  (HH(   HHHHHHHH
-  HHH HHHHHHH'  HHHHHHHHHHH  HHH.  HHH
- HHHHHHHHH  HHH  HHH HHH  HHHHHHHHH  HHHHHHHHH
- HHHHHHHH'  HHH  .HHH   HHH. 'HHHHHHH  HHHHHHHHH</p>
-
+<xml><div>  ***********************  EXPLORING **********************</div>
 <p>    in
   *********************  EVERYDAY LIFE  ********************</p>
 
@@ -32,7 +15,7 @@
    I    CANADA    I
    I______________________________I </p>
 
-<p>**********************  FORWARD  **********************</p>
+<div>**********************  FORWARD  **********************</div>
 
 <p>   Thank you for participating in a pioneering publishing </p>
 
@@ -440,7 +423,7 @@ believe that anyone may freely copy published material in any </p>
 
 <p>publishers for paper versions of my disc books. These discs hold </p>
 
-<p>the beginning of a 75,000 word paper book, heavily illustrated </p>
+<p>the beginning of a 75000 word paper book, heavily illustrated </p>
 
 <p>with animated illustrations included on disc, under the title </p>
 
@@ -507,7 +490,7 @@ subject to the same legal strictures. The magazine publishers do
 not assign its readers the right to make copies of their text to 
 give to their friends, much less sell.</p>
 
-<p>---------------------------------------------------------------</p>
+<div>---------------------------------------------------------------</div>
 
 <p>*2 The most heavily edited and censored book in the world is 
 the Holy Bible, yet its readers are convinced every copy is the 
@@ -528,4 +511,4 @@ the pre-eminently profitable religious market. It isn't belief
 in the Bible that fomented the most vicious wars, but belief in 
 the infallible veracity of the publishers.</p>
 
-<p>                                        </p></xml>
+</xml>
