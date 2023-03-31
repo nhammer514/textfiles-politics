@@ -2,7 +2,7 @@
 
 <p> What to do when they ask for your Social Security Number</p>
 
-<p>   by Chris Hibbert</p>
+<p>   by <ent type = 'person'>Chris Hibbert</ent></p>
 
 <p>    Computer Professionals
     for Social Responsibility</p>
@@ -30,7 +30,7 @@ don't like.</p>
 <p>Social Security numbers were introduced by the Social Security Act of
 1935.  They were originally intended to be used only by the social
 security program, and public assurances were given at the time that
-use would be strictly limited.  In 1943 Roosevelt signed Executive
+use would be strictly limited.  In 1943 <ent type = 'person'>Roosevelt</ent> signed Executive
 Order 9397 which required federal agencies to use the number when
 creating new record-keeping systems.  In 1961 the IRS began to use it
 as a taxpayer ID number.  The Privacy Act of 1974 required
@@ -238,7 +238,7 @@ printing Social Security Numbers on mailing labels when they send out
 tax forms and related correspondance.  The other challenges Virginia's
 requirement of a Social Security Number in order to register to vote.</p>
 
-<p>Dr. Peter Zilahy Ingerman filed suit against the IRS in Federal
+<p>Dr. <ent type = 'person'>Peter Zilahy Ingerman</ent> filed suit against the IRS in Federal
 District Court in 1991, and CPSR filed a friend of the court brief in
 August.</p>
 
@@ -251,7 +251,7 @@ voter lists the state publishes include Social Security Numbers.</p>
 
 <p>If you have suggestions for improving this document please send them
 to me at:
-     Chris Hibbert
+     <ent type = 'person'>Chris Hibbert</ent>
 hibbert@xanadu.com  or   Xanadu Operating Company
      550 California Ave, Suite 101
      Palo Alto, CA 94306

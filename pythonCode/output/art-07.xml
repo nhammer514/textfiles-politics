@@ -1,7 +1,7 @@
 <xml><p>Volume : SIRS 1991 History, Article 02    
-Subject: Keyword(s) : KENNEDY and ASSASSINATION
-Title  : A Remembrance of Kennedy      
-Author : Jim Henderson       
+Subject: Keyword(s) : <ent type = 'person'>KENNEDY</ent> and ASSASSINATION
+Title  : A Remembrance of <ent type = 'person'>Kennedy</ent>      
+Author : <ent type = 'person'>Jim Henderson</ent>       
 Source : Dallas Times Herald (Dallas, Texas)   
 Publication Date : Nov. 20, 1983 
 Page Number(s) : Special Sec. 1+
@@ -11,8 +11,8 @@ Page Number(s) : Special Sec. 1+
   (Dallas, Texas)            
   Nov. 20, 1983, Special Section, pp. 1+         
         
-    A REMEMBRANCE OF KENNEDY   
-    by Jim Henderson   
+    A REMEMBRANCE OF <ent type = 'person'>KENNEDY</ent>   
+    by <ent type = 'person'>Jim Henderson</ent>   
     Staff Writer   
        
 `Let the word go forth from this time and place...that the torch 
@@ -46,7 +46,7 @@ a slow-moving caisson, a young boy saluting the honor guard
 carrying his father to Arlington National Cemetery, the lighting 
 of the eternal flame.      
        
-   On the day John F. Kennedy was buried, Alistair Cooke wrote:  
+   On the day John F. <ent type = 'person'>Kennedy</ent> was buried, <ent type = 'person'>Alistair Cooke</ent> wrote:  
 "He was snuffed out. In that moment, all the decent grief of a   
 nation was taunted and outraged. So along with the sorrow, there 
 is a desperate and howling note from over the land. We may pray  
@@ -69,7 +69,7 @@ duration, seemed endless.
 bulletin notified the republic that its President had been shot  
 in Dallas, the city stood motionless and helpless, waiting for   
 the firestorm of scorn. It came in searing, overlapping bursts.  
-"Are these human beings or are these animals?" Adlai Stevenson   
+"Are these human beings or are these animals?" <ent type = 'person'>Adlai Stevenson</ent>   
 had asked moments after he escaped from a violent crowd in Dallas  
 a month earlier.       
        
@@ -82,7 +82,7 @@ cried in public. Rage and shame and guilt and dread melted into
 one great immobilizing glob of emotional turmoil.    
        
    An eternity, two hours and 20 minutes, passed before the  
-truth would be known. Kennedy's assassin was not of Dallas, was  
+truth would be known. <ent type = 'person'>Kennedy</ent>'s assassin was not of Dallas, was  
 far removed from the nation's perception of the city and the 
 city's own worst fears of itself.    
        
@@ -113,12 +113,12 @@ marching into Vietnam and returning in body bags, campus radicals
 occupying the administration building at Columbia University,  
 rioting outside the Democratic National Convention in Chicago,   
 the fires of Watts and Newark and Detroit, Dr. Strangelove,  
-Apollo 11, Woodstock, Charles Manson, the cultural revolution,   
+Apollo 11, Woodstock, <ent type = 'person'>Charles Manson</ent>, the cultural revolution,   
 the counterculture revolution, the sexual revolution, the  
 yippies, the hippies, the peaceniks and the crazies.   
        
-   In 1968, Stuart Udall, secretary of interior for both   
-Kennedy and Johnson, was asked his opinion of the times, which   
+   In 1968, <ent type = 'person'>Stuart Udall</ent>, secretary of interior for both   
+<ent type = 'person'>Kennedy</ent> and <ent type = 'person'>Johnson</ent>, was asked his opinion of the times, which   
 seemed to be reeling out of control. He offered a sober, but 
 startling, observation.      
        
@@ -135,15 +135,15 @@ Wars would be harder to make, nuclear waste harder to conceal,
 books harder to burn, air harder to pollute, justice harder to   
 deny.      
        
-   America was starkly different. Kennedy's presidency and his 
+   America was starkly different. <ent type = 'person'>Kennedy</ent>'s presidency and his 
 assassination may have been essential to unlocking the passions  
 of the time, but what the land became was neither his legacy, nor  
-Oswald's nor Dallas.'      
+<ent type = 'person'>Oswald</ent>'s nor Dallas.'      
        
    After the trauma and shame and guilt were gone, the judgment  
-of history would be that Kennedy and Oswald, Edwin Walker and  
-Martin Luther King, George Wallace and Stokely Carmichael, Angela  
-Davis and George Lincoln Rockwell, Dallas and Los Angeles,   
+of history would be that <ent type = 'person'>Kennedy</ent> and <ent type = 'person'>Oswald</ent>, Edwin Walker and  
+<ent type = 'person'>Martin Luther King</ent>, <ent type = 'person'>George Wallace</ent> and <ent type = 'person'>Stokely Carmichael</ent>, Angela  
+Davis and <ent type = 'person'>George Lincoln Rockwell</ent>, Dallas and Los Angeles,   
 Memphis and Birmingham, Detroit and Da Nang were fragments of the  
 American character, slivers of the dream and the nightmare.  
        

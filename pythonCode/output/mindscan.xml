@@ -1,15 +1,15 @@
 <xml><p>THEY'RE FUCKING WITH YOUR MIND.</p>
 
-<p>   Car salesman <person>Jeff Johnson</person> is enjoying a lazy night at
+<p>   Car salesman <ent type = 'person'><ent type = 'person'>Jeff</ent> Johnson</ent> is enjoying a lazy night at
 home, drinking a few beers and half-watching music videos on
 television.  The sounds are loud, the colors, intense.  The
-four millionth viewing of Madonna's video numbs him into
+four millionth viewing of <ent type = 'person'>Madonna</ent>'s video numbs him into
 semi-consciousness.  Not even the booming bass beat of the
 latest rap hit can lift him out of it.  More music videos go
-buy.  Pretty soon, out of left field, Jeff catches himself
+buy.  Pretty soon, out of left field, <ent type = 'person'>Jeff</ent> catches himself
 thinking that the President's a sharp guy, definitely shafted
 by the press.  "Yep, he is definitely okay.  Fuck the media."
-   <person>Jeff Johnson</person> has just been brainwashed, and it has
+   <ent type = 'person'><ent type = 'person'>Jeff</ent> Johnson</ent> has just been brainwashed, and it has
 happened so undetectably that there is absolutely nothing he
 could have done to prevent it.
    Sure, that's fiction--but the facts are real.  Using the
@@ -19,7 +19,7 @@ advertising agencies, Hollywood's movie and TV industries and
 Washington's political power structure are at this very
 moment shaping what you think about the key issues of the
 day, from abortion to elections.
-   "Today," say journalists Flo Conway and Jim Siegelman,
+   "Today," say journalists <ent type = 'person'>Flo <ent type = 'person'>Conway</ent></ent> and <ent type = 'person'>Jim <ent type = 'person'>Siegelman</ent></ent>,
 authors of Snapping, "American business and advertising have
 at their disposal the latest and most comprehensive body of
 knowledge concerning the manner in which human behavior can
@@ -30,7 +30,7 @@ without being assaulted." adds researcher Dr. Wilson Bryan
 Key.
    "I shudder to think about the propaganda and commercial
 manipulation that we are exposed to on a daily basis," says
-hypnotherapist Dick Sutphen.
+hypnotherapist <ent type = 'person'>Dick <ent type = 'person'>Sutphen</ent></ent>.
    There are numerous documented cases of covert mind
 manipulation techniques used to control behavior:
    In 1956 a New Jersey market researcher imbedded movies
@@ -66,7 +66,7 @@ sound of air conditioning-this system was tested on
 unsuspecting cadets in a police academy.  According to on
 researcher, "the result of the test was that nearly the
 entire class of cadets had become dehydrated."
-   Don't believe it?  join the club.  In one survey of
+   <ent type = 'person'>Don</ent>'t believe it?  join the club.  In one survey of
 influential business and civic leaders, 90% said they were
 sure there were laws against covert mind manipulation.
 What's more, 60% added that that stuff was a lot of hooey
@@ -77,7 +77,7 @@ religious leaders and the U.S. government want you to
 believe.  The more you believe that, the longer and more
 successfully the can secretly influence your purchasing and
 political decisions.  "We hear very little about the subject
-these days," leading brain researcher Dr. Barbara Brown
+these days," leading brain researcher Dr. <ent type = 'person'>Barbara <ent type = 'person'>Brown</ent></ent>
 admits.  But that is not because there is nothing to talk
 about.  On the contrary:  There is too much. "One always
 suspects government intervention when techniques to abuse
@@ -85,13 +85,13 @@ mankind are suddenly banished from discussion.  In any event,
 for some 20 years now there has been a steadfast denial of
 this extraordinary phenomenon by the experts."
    You may think you know what you know--but thinking so
-may be dangerous to your mental health.  As Dick Sutphen
+may be dangerous to your mental health.  As <ent type = 'person'>Dick <ent type = 'person'>Sutphen</ent></ent>
 says, "In the entire history of man, no one has ever been
 brainwashed and realized or believed that he had been
 brainwashed."  That's the terrifying part of brainwashing:
 Once it has happened to you, you will never know it.
    "It is very difficult to pass laws against this," says
-Dr. Patrick Flanagan, a Tucson, Arizona, inventor of
+Dr. <ent type = 'person'><ent type = 'person'>Pat</ent>rick <ent type = 'person'>Flanagan</ent></ent>, a Tucson, Arizona, inventor of
 sophisticated mind manipulation machinery. "There are so many
 ways around it."  What's more, much mind-control technology
 is abstract, putting it absolutely out of reach of any
@@ -110,10 +110,10 @@ THEY AREN'T.  THEY ARE EASY PREY FOR ANY MESSAGE THE PREACHER
 CHOOSES TO PUT FORTH.
    Effective as that technique is, there are scarier tools
 available to mind manipulators.  Particularly chilling
-research is reported by Dr. Barbara Brown, who says that
+research is reported by Dr. <ent type = 'person'>Barbara <ent type = 'person'>Brown</ent></ent>, who says that
 things as simple as the sounds of heartbeats can radically
 alter our reactions to pictures and ideas.  In one experiment
-cited by Brown, scientists tricked subjects into believing
+cited by <ent type = 'person'>Brown</ent>, scientists tricked subjects into believing
 they were hearing their own heartbeats while viewing
 photographs.  They weren't.  The heartbeats were prerecorded,
 yet as subjects heard faster heartbeats they automatically
@@ -124,7 +124,7 @@ sounds, and audience excitement will bolt upwards.  Lower it,
 and audience enthusiasm drops.  It is as elementary as that.
 The dimension this adds to political messages, advertising,
 and so on, is alarming.  "This begins to have frightening
-implications," admits Brown.  "It seems quite possible that
+implications," admits <ent type = 'person'>Brown</ent>.  "It seems quite possible that
 certain types of propaganda or techniques of persuasion will
 take advantage of this."
    Commonly employed not only in revivalist/fundamentalist
@@ -144,7 +144,7 @@ moving and dimly lit images and pictures do the same.  And
 here is the freaky part:  While there may be no conscious
 recollection of these data, the information is permanently
 stored in your mind.  Researchers, including Canadian
-neurosurgeon Dr. Wilder Penfield, have established that the
+neurosurgeon Dr. <ent type = 'person'>Wilder Penfield</ent>, have established that the
 subconscious and unconscious memory are vast storehouses,
 holding countless facts unavailable to the conscious mind.
    the unnerving discovery is that this unconsciously
@@ -156,7 +156,7 @@ words that rarely arouse the emotions, such as BUILDING,
 CARPET, NECKTIE and the like.  When the emotion-producing
 words are presented subliminally, there are strong changes in
 the reactions in the physiologic system, but no changes when
-the other neutral words are given," says Barbara Brown.
+the other neutral words are given," says <ent type = 'person'>Barbara <ent type = 'person'>Brown</ent></ent>.
    More proof of the impact of subliminals comes from one
 Texas university psychologist who began to salt his lectures
 with disguised slides showing graphic sex and violence at
@@ -167,7 +167,7 @@ than in the past, as reflected by test scores.  Test results
 indicated a significant increase in memory!
    Chief among the weapons for secretly influencing
 behavior-including yours-are subliminal commands.  As Dick
-Sutphen explains, "Subliminals are hidden suggestions that
+<ent type = 'person'>Sutphen</ent> explains, "Subliminals are hidden suggestions that
 only the subconscious perceives.  They can be audio, hidden
 behind music, or visual, flashed on a screen so fast that you
 don't consciously see them or cleverly incorporated into a
@@ -233,10 +233,10 @@ by virtually everyone who perceives them even for an instant.
    Key and his research associates have documented hundreds
 of cases of such imbeds in major advertisements, including
 ads run by Crest toothpaste, Vaseline, Johnnie Walker Scotch,
-Kent cigarettes, Calvert whiskey, Bacardi rum, Sprite, and
+Kent cigarettes, <ent type = 'person'>Calvert</ent> whiskey, Bacardi rum, Sprite, and
 Seagram's Gin.  In every instance, the goal is to use imbeds
 to arouse viewer attention and increase memory.
-   Imbeds are merely the tip of a gargantuan iceberg of
+   <ent type = 'person'>Imbeds</ent> are merely the tip of a gargantuan iceberg of
 mind control techniques.  Tachistoscopic projection, for
 instance, involves the high-speed flashing of words or
 images.  Commonly used in movies and TV commercials, this
@@ -266,64 +266,64 @@ highly receptive and accepting consciousness.  And colors, as
 proven by clothing designers, are directly associated with
 feelings and emotions.
    the potential for abuse of these techniques goes very
-far indeed.  Says Dick Sutphen: "The techniques are still
+far indeed.  Says <ent type = 'person'>Dick <ent type = 'person'>Sutphen</ent></ent>: "The techniques are still
 being used today by Christian revivalists, cults, human-
 potential trainings, some business rallies, and the United
 States Armed Services...to name a few."
-   Don't think politicians are not using such covert
+   <ent type = 'person'>Don</ent>'t think politicians are not using such covert
 methods.  Hundreds of millions of dollars are spent annually
 on political campaigns, and the high-level consultants hired
 by politicans are well versed in all methods of manipulation.
 Dr. Key even cites one example of sex imbeds being used by
 Congressional candidates in Virginia.  Another researcher
 discovered sex imbeds in an official portrait of President
-Jimmy Carter.
+<ent type = 'person'>Jimmy Carter</ent>.
    Besides imbeds, politicians are using a full range of
-techniques to influence voters.  Sutphen, a leading hypnotist
+techniques to influence voters.  <ent type = 'person'>Sutphen</ent>, a leading hypnotist
 , reports he has been approached by several political
 candidates to teach them how to do the characteristic "voice
 roll"-- a methodical, slow way of speaking used by hypnotists
 to induce trances in subjects.  Properly used, even so simple
 a technique as the voice roll will dramatically escalate an
 audience's receptivity to whatever the speaker says--from
-"Ban pornography" to "Vote for me!"  Sutphen has always
+"<ent type = 'person'>Ban</ent> pornography" to "Vote for me!"  <ent type = 'person'>Sutphen</ent> has always
 declined these jobs, but you can bet less scrupulous
 hypnotists do not.
    As powerful--and potentially dangerous--as subliminals,
 voice rolls, false heartbeats and so on are, there are more
 menacing tools available to mind controllers, and, as with
 subliminals, you need not assent or be aware you are being
-manipulated.  According to Dr. Andrija Puharich, at this very
+manipulated.  According to Dr. <ent type = 'person'>Andrija <ent type = 'person'>Puharich</ent></ent>, at this very
 moment the Soviet Union is intensively exploring extra-low
 frequency electromagnetic waves (ELFs) that have the
 potential to exert enormous influence on human behavior.  In
-one demonstration, Puharich sealed several volunteers wired
+one demonstration, <ent type = 'person'>Puharich</ent> sealed several volunteers wired
 to electroencephalographs (EEGs) in a metal room.  Within a
 few seconds, one-third of the people in the room were
-dramatically affected by the ELFs.  Notes Dick Sutphen:
+dramatically affected by the ELFs.  Notes <ent type = 'person'>Dick <ent type = 'person'>Sutphen</ent></ent>:
 "Their behavior followed the anticipated changes at very
 precise frequencies.  Waves below 6 cycles per second caused
 the subjects to become very emotionally upset and disrupted
 bodily functions.  At 8.2 cycles they felt very high...at 11
 to 11.3 cycles induced waves of depressed agitation leading
 to riotous behavior."
-   Puharich maintains that ELFs can travel not only through
+   <ent type = 'person'>Puharich</ent> maintains that ELFs can travel not only through
 metal but also many miles through the earth.  Are the
 Russians beaming ELFs at the United States today?  Nobody
 knows.  At least nobody is saying.  But this much is certain:
 ELFs exist and sooner or later somebody will begin using them
 to exert still further control on human behavior.
-   Closer to home, researcher Patrick Flanagan has already
+   Closer to home, researcher <ent type = 'person'><ent type = 'person'>Pat</ent>rick <ent type = 'person'>Flanagan</ent></ent> has already
 demonstrated the power of his "neurophone."  Tersely
-described by Dr. Flanagan as "an electronic way of accessing
+described by Dr. <ent type = 'person'>Flanagan</ent> as "an electronic way of accessing
 the brain," the neurophone is a soundless device that taps
 into the immense sensitivity of skin, which is packed with
 sensors for heat, light, vibration and so forth.  With the
 neurophone, an audience sees nothing and hears nothing--but
-its effects are felt nonetheless.  Relates Dick Sutphen: "In
-one of his recent tests, Pat conducted two identical seminars
+its effects are felt nonetheless.  Relates <ent type = 'person'>Dick <ent type = 'person'>Sutphen</ent></ent>: "In
+one of his recent tests, <ent type = 'person'>Pat</ent> conducted two identical seminars
 for a military audience.  When the first group proved to be
-very cool and unwilling to respond, Patrick spent the next
+very cool and unwilling to respond, <ent type = 'person'>Pat</ent>rick spent the next
 day making a special tape to play at the second seminar.  The
 tape instructed the audience to be extremely warm and
 responsive and for their hands to become tingly.  The tape
@@ -336,8 +336,8 @@ hands tingled and they responded according to programming."
    Granted, there is a futuristic, science-fiction quality
 to ELFs and the neurophone, but there is nothing more
 familiar than the television--and there just may be no more
-effective tool of mental manipulation.  As noted by Conway
-and Siegelman: "As important as the content of the
+effective tool of mental manipulation.  As noted by <ent type = 'person'>Conway</ent>
+and <ent type = 'person'>Siegelman</ent>: "As important as the content of the
 information that television puts out and its widespread
 social repercussions is the manner in which it may affect
 personality--not simply an individual's actions and behavior,
@@ -362,14 +362,14 @@ medium, is actually composted of millions of flickering
 lights that can easily put a large percentage of the audience
 into a low-grade hypnotic state.  Once in that state, they
 are far more receptive to suggestions and, possibly,
-commands.  Says Dick Sutphen: "Recent tests by researcher Dr.
-Herbert Krugman showed that while viewers were watching TV,
+commands.  Says <ent type = 'person'>Dick <ent type = 'person'>Sutphen</ent></ent>: "Recent tests by researcher Dr.
+<ent type = 'person'>Herbert Krugman</ent> showed that while viewers were watching TV,
 right-brain activity outnumbered left-brain activity by a
 ratio of two to one."
    A second series of experiments, by psychophysiologist
-Thomas Mulholland of the Veterans Hospital in Bedford,
+<ent type = 'person'>Thomas <ent type = 'person'>Mulholland</ent></ent> of the Veterans Hospital in Bedford,
 Massachusetts, uncovered still more eerie findings.
-Mulholland wired TV-watching children to an EEG.  Whenever
+<ent type = 'person'>Mulholland</ent> wired TV-watching children to an EEG.  Whenever
 brain-wave activity indicated the kids had entered a low-
 grade hypnotic trance, the TV automatically shut off.  Since
 the shows were ones the kids wanted to watch, they were
@@ -378,29 +378,29 @@ Virtually all the TVs flicked off within 30 seconds, which
 underlines how powerfully television propels viewers into
 semiconsciousness.
    Still more experiments have been conducted by
-psychologist Jacob Jacoby, who tested 2,700 viewers on the
+psychologist <ent type = 'person'>Jacob <ent type = 'person'>Jacoby</ent></ent>, who tested 2,700 viewers on the
 contents of television shows, such as BARNABY JONES, and
-commercials they had just finished watching.  Jacoby asked
+commercials they had just finished watching.  <ent type = 'person'>Jacoby</ent> asked
 very simple questions--yet, on average, these viewers missed
 one-fourth to one-third of the answers.  "Of course they
-did," explains Dick Sutphen, "they were going in and out of a
+did," explains <ent type = 'person'>Dick <ent type = 'person'>Sutphen</ent></ent>, "they were going in and out of a
 trance!"  And in trancelike states, we are far more likely to
 accept and believe information and commands which, if we
 were fully alert, we would immediately dismiss.  "The medium
-for takeover is here." Sutphen concludes.
+for takeover is here." <ent type = 'person'>Sutphen</ent> concludes.
    Indeed it is.  According to USA TODAY research, by age
 18 the typical teenager has digested more than 15,000 mind-
 numbing hours of television--or, to put it another way, the
 teenager has spent the virtual equivalent of two entire years
 sitting in front of the tube.
-   Don't think advertisers are unaware of the potential of
-TV to manipulate.  "More and more," according to Sutphen,
+   <ent type = 'person'>Don</ent>'t think advertisers are unaware of the potential of
+TV to manipulate.  "More and more," according to <ent type = 'person'>Sutphen</ent>,
 "radio and television commercials are using techniques that
 tend to alter consciousness to maximize effectiveness...Any
 time patterned voices, songs, music or visual patterns are
 used, this potential exists. "Plop..plop..fizz..fizz' is an
 excellent example."
-   Sutphen elaborates: "When you start to combine
+   <ent type = 'person'>Sutphen</ent> elaborates: "When you start to combine
 subliminal messages behind the music, subliminal visuals
 projected on the screen, hypnotically produced visual
 effects, sustained musical beats at a trance-inducing
@@ -414,12 +414,12 @@ continuously behind ten seconds of applause at the end of a
 60-second TV commercial."  Did the viewers follow
 instructions?  Absolutely! "Tests showed the instructions
 worked superbly," says Key.
-   Don't think the entrenched political and religious
+   <ent type = 'person'>Don</ent>'t think the entrenched political and religious
 groups are unaware of this potential.  Right-wing money
 sources have long funded the Christian Broadcasting Network,
 even vaulting one of its celebrities into Presidential
 candidate status.
-   Jerry Falwell and his minions also attempted to seize
+   <ent type = 'person'>Jerry Falwell</ent> and his minions also attempted to seize
 control of the mammoth CBS television network.  There is
 little need to wonder why.  Put a TV network under the
 control of political or religious extremists, and in short
@@ -442,7 +442,7 @@ of the mind-control stakes.
 possible future) hidden manipulators?  While experts agree on
 the scope and severity of the problem, there is little
 consensus about how to win a degree of self-protection.  Dick
-Sutphen speaks for most experts when he says: "I don't know
+<ent type = 'person'>Sutphen</ent> speaks for most experts when he says: "I don't know
 how the misuse of these techniques can be stopped."  This
 battle is critical--our free will is at stake.  Unfortunately
 , with the exception of turning off our TV sets, there are no

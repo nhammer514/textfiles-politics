@@ -1,13 +1,13 @@
 <xml><p></p>
 
-<p><person>Skolnick</person> COMMENTARY #002
+<p><ent type = 'person'>Skolnick</ent> COMMENTARY #002
 ========================</p>
 
 <p>[The following is a transcript of a recorded phone message put 
 out by a group in Chicago called "Citizens' Committee to Clean Up 
 the Courts." (312) 731-1100 and (312) 731-1505.]</p>
 
-<p>Hi. Sherman <person>Skolnick</person> (sp?), Citizens' Committee to Clean Up the 
+<p>Hi. Sherman <ent type = 'person'>Skolnick</ent> (sp?), Citizens' Committee to Clean Up the 
 Courts, 9800 Oglesby (sp?).</p>
 
 <p>Some years ago the federal government set up a special 

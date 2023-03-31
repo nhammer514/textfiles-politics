@@ -4,14 +4,14 @@ No. 4, Rev. 0
 All rights reserved by the author.
 Box 61058, Palo Alto, CA 94306 USA</p>
 
-<p>by Arthur Kantrowitz</p>
+<p>by Arthur <ent type = 'person'>Kantrowitz</ent></p>
 
 <p>Dartmouth College</p>
 
 <p>"The best weapon of a dictatorship is secrecy, but the best weapon of
 a democracy should be the weapon of openness."</p>
 
-<p>--Niels Bohr</p>
+<p>--Niels <ent type = 'person'>Bohr</ent></p>
 
 <p>Introduction</p>
 
@@ -21,7 +21,7 @@ for the making of public decisions. Increased public access (i.e. less
 secrecy) also gives information to adversaries, thereby increasing
 their strength. The "weapon of openness" is the net contribution that
 increased openness (i.e. less secrecy) makes to the survival of a
-society. Bohr believed that the gain in strength from openness in a
+society. <ent type = 'person'>Bohr</ent> believed that the gain in strength from openness in a
 democracy exceeded the gains of its adversaries, and thus openness was
 a weapon.</p>
 
@@ -31,14 +31,14 @@ jungle. Thus the strength of the weapon of openness has been tested
 and proven in battle and in imitation. Technology developed most
 vigorously in precisely those times, i.e. the industrial revolution,
 and precisely those places, western Europe and America, where the
-greatest openness existed. Gorbachev's glasnost is recognition that
+greatest openness existed. <ent type = 'person'>Gorbachev</ent>'s glasnost is recognition that
 this correlation is alive and well today.</p>
 
 <p>Let us note immediately that secrecy and surprise are clearly
 essential weapons of war and that even countries like the U.S., which
 justifiably prided itself on its openness, have made great and
 frequently successful efforts to use secrecy as a wartime weapon.
-Bohr's phrase was coined following WWII when his primary concern was
+<ent type = 'person'>Bohr</ent>'s phrase was coined following WWII when his primary concern was
 with living with nuclear weapons. This paper is concerned with the
 impact of secrecy vs. openness policy on the development of military
 technology in a long duration peacetime rivalry.</p>
@@ -91,7 +91,7 @@ understanding of the power of openness would bolster our faith that
 open societies would continue to be fittest to survive.</p>
 
 <p>Openness is necessary for the processes of trial and the elimination
-of error, Sir Karl Popper's beautiful description of the mechanism of
+of error, Sir <ent type = 'person'>Karl Popper</ent>'s beautiful description of the mechanism of
 progress in science. Let's try to understand what happens to each of
 these processes in a secret project and perhaps we can shed some light
 on how the peacetime military was able to justly acquire its
@@ -143,7 +143,7 @@ international jungle.</p>
 <p>Secrecy as an Instrument of Corruption</p>
 
 <p>The other side of the coin is the weakness which secrecy fosters as an
-instrument of corruption. This is well illustrated in Reagan's 1982
+instrument of corruption. This is well illustrated in <ent type = 'person'>Reagan</ent>'s 1982
 Executive Order #12356 on National Security (alarmingly tightening
 secrecy) which states {Sec. 1.6(a)};</p>
 
@@ -213,7 +213,7 @@ time, I am convinced that the results would have been quite different.</p>
 
 <p>Secrecy Exacerbates Divisiveness: the SDI Example</p>
 
-<p>Reagan's Executive Order, previously referred to, provides another
+<p><ent type = 'person'>Reagan</ent>'s Executive Order, previously referred to, provides another
 clue to the power of openness. The preamble states;</p>
 
 <p>It [this order] recognizes that it is essential that the public be
@@ -265,7 +265,7 @@ unprepared.</p>
 
 <p>We can learn something about the efficiency of secret vs. open
 programs in peacetime from the objections raised by Adm. Bobby R.
-Inman, former director of the National Security Agency, to open
+<ent type = 'person'>Inman</ent>, former director of the National Security Agency, to open
 programs in cryptography. NSA, which is a very large and very secret
 agency, claimed that open programs conducted by a handful of
 matheticians around the world, who had no access to NSA secrets, would
@@ -276,7 +276,7 @@ other countries could mount, would miss techniques which would be
 revealed by even a small open uncoupled program. If this is true for
 other countries is it not possible that it also applies to us?</p>
 
-<p>Inman (1985) asserted that "There is an overlap between technical
+<p><ent type = 'person'>Inman</ent> (1985) asserted that "There is an overlap between technical
 information and national security which inevitably produces tension.
 This tension results from the scientists' desire for unrestrained
 research and publication on the one hand, and the Federal Government's
@@ -316,10 +316,10 @@ military strength of its enemies.</p>
 
 <p>The Weapon of Openness and the Future</p>
 
-<p>Bohr's phrase which was the keynote of this article was invented in an
+<p><ent type = 'person'>Bohr</ent>'s phrase which was the keynote of this article was invented in an
 effort to adapt to the demands for social change required to live with
-advancing military technology. Unfortunately Bohr's effort, to
-persuade FDR and Churchhill of the desirability of more openness in
+advancing military technology. Unfortunately <ent type = 'person'>Bohr</ent>'s effort, to
+persuade <ent type = 'person'>FDR</ent> and <ent type = 'person'>Churchhill</ent> of the desirability of more openness in
 living with nuclear weapons, was a complete failure. There can be no
 doubt that the future will bring even more rapid rates of progress in
 science-based technology. Let's just mention three possibilities,
@@ -337,7 +337,7 @@ our ability to forecast limits.</p>
 at the Bottom" pointing out that miniaturization could aspire to the
 huge advances possible with the controlled assembly of individual
 atoms. When the possibility of the construction of assemblers which
-could reproduce themselves was added by Eric Drexler in his book
+could reproduce themselves was added by <ent type = 'person'>Eric Drexler</ent> in his book
 Engines of Creation, a very large expansion of the opportunities in
 atomic scale assembly were opened up. This pursuit, today known as
 nanotechnology, will also be driven by the enormous advantages it
@@ -349,7 +349,7 @@ satellites and arms control treaties, we have been able to live with
 nuclear weapons. We will need much more openness to live with the
 science-based technologies that lie ahead.</p>
 
-<p>Dr. Kantrowitz is a professor at the Thayer School of Engineering at
+<p>Dr. <ent type = 'person'>Kantrowitz</ent> is a professor at the Thayer School of Engineering at
 Dartmouth, and former Chairman of Avco-Everett Research Lab.  He
 serves as an Advisor to the Foresight Institute.
 </p></xml>

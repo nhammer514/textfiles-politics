@@ -8,7 +8,7 @@
 <p>  Is proposed by a member of the intelligence community who claims to 
   have seen the documents.</p>
 
-<p>  Claims that the Kennedy assassination was not because the military 
+<p>  Claims that the <ent type = 'person'>Kennedy</ent> assassination was not because the military 
   industrial complex wanted to make money off Vietnam, but because he was 
   going to go public with government secrets about UFOs.</p>
 
@@ -44,7 +44,7 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
 
 <p>    What follows is a transcript of a 45 minute lecture that I at-
   tended on 11-17-89 at the "Whole Life Expo." in Los Angeles,
-  California. Speaking was Mr. Milton William Cooper who I first
+  California. Speaking was Mr. <ent type = 'person'>Milton William <ent type = 'person'>Cooper</ent></ent> who I first
   became acquainted with through a text file I downloaded from a
   local computer BBS. The file dealt with the subject of UFO's and
   our government's concealment of the truth about them in such a
@@ -57,10 +57,10 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   hearing it first hand, I ask that you please spread it as far
   and wide as possible. Upload it to every BBS in your reach and
   please, don't change anything. Also, please give considerable
-  thought to Mr. Cooper's suggestions as to what we all can do to
+  thought to Mr. <ent type = 'person'>Cooper</ent>'s suggestions as to what we all can do to
   see that this information is confirmed by our government to make
   them stop what they are up to.
-   Thank you, and now, Milton Cooper:</p>
+   Thank you, and now, Milton <ent type = 'person'>Cooper</ent>:</p>
 
 <p>    "For those of you who don't know who I am, I was raised in a
   military family. My family, my ancestors, since they came to
@@ -103,16 +103,16 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
     "I then reported it to the officer of the deck. I didn't tell
   him what it was that I saw because my Daddy didn't raise no
   fools and in case nobody else saw it I didn't want to be the
-  only looney onboard the ship. So I asked the officer of the deck
+  only <ent type = 'person'>looney</ent> onboard the ship. So I asked the officer of the deck
   to help me cover that area, and he did, which is common for of-
   ficers and lookouts to help each other while on bridge watch be-
   cause they all hang together if something bad happens. After a
   few seconds of watching, the same craft, or another craft exact-
   ly like it, came down out of the clouds, tumbled again on its
-  own axis, and went into the water. Ensign Ball, who was the of-
+  own axis, and went into the water. Ensign <ent type = 'person'>Ball</ent>, who was the of-
   ficer of the deck, was literally shocked! What could I say? Sea-
-  man Dejeralimo, who was the starboard lookout, had also witnes-
-  sed this, and ensign Ball called the captain to the bridge who
+  man <ent type = 'person'>Dejeralimo</ent>, who was the starboard lookout, had also witnes-
+  sed this, and ensign <ent type = 'person'>Ball</ent> called the captain to the bridge who
   was followed by the chief quartermaster who brought a 35MM cam-
   era, and we watched for between 7 and 10 minutes the same craft,
   or different craft that looked exactly alike, enter and leave
@@ -141,11 +141,11 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   ligence from the people who lived around the harbor and the
   fishermen who transited the harbor, and maintain the safety and
   security of the harbor and the shipping. After about 5-months I
-  was sent up North to the DMZ, to a place called Qua Vieaf [sp],
+  was sent up North to the DMZ, to a place called <ent type = 'person'>Qua Vieaf</ent> [sp],
   on the Tacan [sp] river. Our base camp was at the river mouth.
   We were only 3-miles South of the North Vietnamese border and
   our job was to patrol the Tacan river from the river mouth to
-  Dang Ha [sp], and then up the Quang Tree [sp] cutoff to Quang
+  <ent type = 'person'>Dang Ha</ent> [sp], and then up the Quang Tree [sp] cutoff to Quang
   Tree city, again to get to know the people on the bank, gather
   intelligence, and to patrol every night and maintain the safety
   and security of the river and the river traffic."
@@ -201,7 +201,7 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   checking on. They just show them their identification and start
   asking questions and that's when you find out who's your friend
   and who's not, because a lot of people get scared and think,
-  `Bill just robbed a bank and I'm not talkin' to him anymore.'"
+  `<ent type = 'person'>Bill</ent> just robbed a bank and I'm not talkin' to him anymore.'"
     "Now once you get that it's called a `B.I.' and for those of
   you who have received a copy of my service record look on the
   first page, the DD-214 where it says `Security Clearance,' you
@@ -217,7 +217,7 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   ocean, and all the land masses in between. Believe it or not, if
   we go to war, if we ever go to war, it's the United States Navy
   that strikes the first blow and attempts to keep the enemy at
-  bey while we can get ourselves together, at least historically.
+  <ent type = 'person'>bey</ent> while we can get ourselves together, at least historically.
   Nuclear weapons have kind of done away with that concept, but
   military commanders like to talk about it anyway."
     "Because of this, and you have no conception of the amount of
@@ -247,7 +247,7 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   They were not successful despite what all these Nazi hunters
   want to tell you. If they had been successful, we would not have
   won the war, because you cannot beat those weapons! You cannot
-  outfly those craft, you can't even think about it with conven-
+  outfly those craft, you can't even think about it with <ent type = 'person'>conven</ent>-
   tional aircraft. If Germany had been successful, we would now
   have a German flag up in front of this podium."
     "They did make some headway. When we went into Punta Mundy
@@ -260,17 +260,17 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   ject Grudge I saw photographs of these dead aliens, of the
   craft, I saw photographs of live aliens, I saw photographs of
   autopsies, internal organs, I saw photographs of the alien des-
-  ignated `E.B.'[or Ebe] which was held in captivity from 1949 un-
+  ignated `E.B.'[or <ent type = 'person'>Ebe</ent>] which was held in captivity from 1949 un-
   til June the 2nd, 1952 when he died. I saw the history of what
   they had been able to at that time put together, from incidents
   in the 1800's which involved aliens and their craft."
     "I saw the names of projects. I saw a project that was to fly
-  recovered alien craft that had been recovered intact and undam-
-  aged, and some of them were recovered intact and undamaged, and
+  recovered alien craft that had been recovered intact and <ent type = 'person'>undam</ent>-
+  aged, and some of them were recovered intact and <ent type = 'person'>undam</ent>aged, and
   how that happened I have no idea. It was called `Project Red-
   light,' and first was conducted from the Tonopah test range in
   the Nevada test sight and then was moved to a specially built
-  area, ordered built by president Eisenhower, called `Area-51,'
+  area, ordered built by president <ent type = 'person'>Eisenhower</ent>, called `Area-51,'
   code named `Dreamland,' in the Groom [sp] dry lake area of the
   Nevada test sight, by secret executive order. It doesn't exist
   officially, if you ask anyone, or if you write letters to the
@@ -295,18 +295,18 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   ment technologically, since the end of World War II, has been
   due to the exchange of technology which occurs in the area
   called `Area-51' on a regular basis ...ongoing."
-    "When James Oberth, professor Oberth retired, many of you
+    "When <ent type = 'person'>James <ent type = 'person'>Oberth</ent></ent>, professor <ent type = 'person'>Oberth</ent> retired, many of you
   don't know who he is ...not too many space people in here. Pro-
-  fessor Oberth was probably one of the greatest rocket scientists
+  fessor <ent type = 'person'>Oberth</ent> was probably one of the greatest rocket scientists
   and space commentists that ever lived. When he retired, the gov-
   ernment gave him a special award, there was a press conference,
   all kinds of ceremony, and when he got up to speak he said,
-  `Gentlemen,' and I quote professor Oberth, he said, `Gentlemen,
+  `Gentlemen,' and I quote professor <ent type = 'person'>Oberth</ent>, he said, `Gentlemen,
   we cannot take credit for all the technological developments
   that we have had in the last decade. We have had help,' and
   that's where he stopped."
     "One of the reporters raised his hand and said, `Professor
-  Oberth, can you tell us what other country helped us?'"
+  <ent type = 'person'>Oberth</ent>, can you tell us what other country helped us?'"
     "He said, `It was those little guys from out in space,' and
   then he got down and and would not comment any further. Now this
   occurred in 1959. I can go on and on but time doesn't allow it."
@@ -337,7 +337,7 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   is. There IS a Unified Theory! We already know what it is, it's
   what makes these craft work. It's absolutely incredible what's
   going on."
-    "How many of you keep up with Billy Goodman's show on KVEG out
+    "How many of you keep up with <ent type = 'person'>Bill</ent>y Goodman's show on KVEG out
   of Las Vegas? For those of you who don't, I would try tuning in
   on any night between 10:00 PM and 1:00 AM. It's 840 on your AM
   dial, and the subject every night are those subjects that no
@@ -347,9 +347,9 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   you've got 3-minutes to say whatever you want to say as long as
   you don't cuss or swear or slander anyone, and every night
   they're helping to expose this."
-    "When John Lear and I first said what was going on out at
+    "When <ent type = 'person'>John Lear</ent> and I first said what was going on out at
   Groom Lake everybody said, `You're nuts, there's nothing going
-  on out at Groom Lake!' The listeners of the Billy Goodman radio
+  on out at Groom Lake!' The listeners of the <ent type = 'person'>Bill</ent>y Goodman radio
   show put together an excursion and went up to Groom Lake and
   they all, ever since, every night, they go up there and watch
   them test fly the alien craft ...every night! The first night
@@ -362,12 +362,12 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   where we WERE ...it's not where we're AT, and I'm really happy
   about that."
     "Now, if you want to see what's happening right now, keep
-  watching your movies, keep watching your television commercials,
-  your alien programs on television, read Whitley Streeper's
+  watching your movies, keep watching your <ent type = 'person'>televi</ent>sion commercials,
+  your alien programs on <ent type = 'person'>televi</ent>sion, read <ent type = 'person'>Whitley Streeper</ent>'s
   `Majestic' which is a part of the contingency plan called `Ma-
   jestic' to test the reaction of the population to the presence
   of aliens on the Earth. And I have just finished my study of
-  Whitley Streeper's book `Majestic,' and I'm gonna tell you right
+  <ent type = 'person'>Whitley Streeper</ent>'s book `Majestic,' and I'm gonna tell you right
   now that most of the documents in there, that he says are fic-
   tion, are real documents that came right out of Project Grudge.
   It is part of the government's campaign to leak information out
@@ -378,7 +378,7 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   that book. I'm telling you tonight they're real. Those are some
   of the same documents that I saw in Project Grudge back between
   1970 &amp; 1973, and where we have wondered before, now we know that
-  Whitley Streeper IS working for the government. And we had a
+  <ent type = 'person'>Whitley Streeper</ent> IS working for the government. And we had a
   suspicion anyway because in the front of his book he states that
   he got information and was helped by the research team of Moore,
   Shanderey, and Friedman. William Moore has publicly admitted on
@@ -399,13 +399,13 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   ted this would happen when they slapped the secret stamp all
   over all this stuff."
     "You know, there's really nothing wrong with what's been hap-
-  pening except for 3 things;" [Cooper forgot to mention the 3rd
+  pening except for 3 things;" [<ent type = 'person'>Cooper</ent> forgot to mention the 3rd
   thing, or was sidetracked, or included it into the 2nd thing.]
     Number one, when they decided to keep it secret they needed to
   finance it, they couldn't tell the public so they couldn't tell
   Congress. They decided to finance it with the sale, importation
   and sale, of drugs. Now in the documents that I read, in Opera-
-  tion Majority, it specifically stated that when George Bush was
+  tion Majority, it specifically stated that when <ent type = 'person'>George <ent type = 'person'>Bush</ent></ent> was
   the president and CEO of Sapata [sp] Oil, he, in conjunction
   with the CIA, organized the first large scale drug importation
   into this country from South and Central America by fishing
@@ -418,7 +418,7 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   from air controllers who have vectored the planes in, who have
   made sure that they're not interfered with in any way. We have
   affidavits from personnel at Homestead Air Force Base who say
-  the planes have been met by Zeb Bush, who's George Bush's son.
+  the planes have been met by <ent type = 'person'>Zeb <ent type = 'person'>Bush</ent></ent>, who's <ent type = 'person'>George <ent type = 'person'>Bush</ent></ent>'s son.
   We have affidavits from people who work in the Gulf of Mexico,
   in the offshore oil business, that yes indeed, the drugs are
   coming in, at least some of them, from the offshore oil plat-
@@ -432,34 +432,34 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   that's wrong is, to keep the secret, they killed a lot of people
   who tried to leak it out. And if I hadn't done it the way that I
   did it, you wouldn't be seeing me anywhere standing or walking
-  on this Earth now. They killed president Kennedy and during the
+  on this Earth now. They killed president <ent type = 'person'>Kennedy</ent> and during the
   workshop, for those of you haven't seen the tape, I will show
   you, on the tape, who shot the president and why. Between '70
   and '73, in Operation Majority it stated verbatim that President
-  Kennedy ordered MJ-12 to cease the importation and sale of drugs
+  <ent type = 'person'>Kennedy</ent> ordered MJ-12 to cease the importation and sale of drugs
   to the American people, that he ordered them to implement a plan
   to reveal the presence of aliens to the American people within
   the following year. His assassination was ordered by the policy
   committee of the Vilderbergers. MJ-12 implemented the plan and
   carried it out in Dallas. It involved agents of the CIA, Divis-
   ion-5 of the FBI, the Secret Service, and the office of Naval
-  Intelligence. President Kennedy was killed by the driver of his
-  car, his name was William Greer, he used a recoilless, electric-
+  Intelligence. President <ent type = 'person'>Kennedy</ent> was killed by the driver of his
+  car, his name was <ent type = 'person'>William Greer</ent>, he used a recoilless, electric-
   ally operated, gas-powered assassination pistol that was spe-
   cially built by the CIA to assassinate people at close range. It
   fired an explosive pellet which injected a large amount of
   shellfish poison into the brain, and that is why, in the docu-
-  ments, it stated that President Kennedy's brain was removed. If
+  ments, it stated that President <ent type = 'person'>Kennedy</ent>'s brain was removed. If
   you've studied the case, you will find that indeed his brain
   disappeared. The reason for that is so that they would not find
   the particles of the exploding pellet or the shellfish poison in
   his brain which would have proved conclusively that Lee Harvy
-  Oswald was NOT the assassin. In fact, Lee Harvy Oswald never
-  fired a shot, he was the patsy."
-    Mr. Cooper paused briefly, and a lady in the audience asked
+  Oswald was NOT the assassin. In fact, <ent type = 'person'>Lee Harvy Oswald</ent> never
+  fired a shot, he was the <ent type = 'person'>patsy</ent>."
+    Mr. <ent type = 'person'>Cooper</ent> paused briefly, and a lady in the audience asked
   the obvious question, "Why haven't YOU been assassinated?"
     "If they were to kill me right now, what would you think?"
-  Cooper posed.
+  <ent type = 'person'>Cooper</ent> posed.
     "That it's the truth," several people chimed.
     "I've got `em right where I want `em. If they touch me,
   everyone who's ever heard me talk is gonna be absolutely enraged
@@ -472,7 +472,7 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
     "Okay, I've tried to cover a lot of stuff, just briefly, be-
   cause there's no time in 45 minutes to get into anything very
   much."
-    Mr. Cooper then announced the scheduled workshop session the
+    Mr. <ent type = 'person'>Cooper</ent> then announced the scheduled workshop session the
   following day in which tangible proofs could be seen but regret-
   tably I was unable to attend. He then opened up the floor to
   questions and answers.
@@ -483,12 +483,12 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   they come forward? There must have been plenty."
     "There was, we know that there was at least 18 who were all
   murdered within 2-years of the event. The odds of that happening
-  are 1 in 300,000 trillion," Cooper replied.
+  are 1 in 300,000 trillion," <ent type = 'person'>Cooper</ent> replied.
     Again a muffled question, "Why did the DRIVER have to shoot
-  Kennedy?"
+  <ent type = 'person'>Kennedy</ent>?"
     "Because the other fools missed! There were a total of 3-shots
-  fired at President Kennedy, one hit him in the throat and didn't
-  kill him and 2 of them hit John Connelly [sp]. The one that was
+  fired at President <ent type = 'person'>Kennedy</ent>, one hit him in the throat and didn't
+  kill him and 2 of them hit <ent type = 'person'>John Connelly</ent> [sp]. The one that was
   fired from the grassy knoll hit the president in the throat. The
   other 2-shots came from directly behind the limousine, not the
   school book depository building, and hit Governor Connelly. Gov-
@@ -496,23 +496,23 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   `can do' man, because he took 2-hits and still kept his mouth
   shut."
     "How is it that the driver, sitting on the front, left-hand
-  side of the car was able to blow off the right side of Kennedy's
+  side of the car was able to blow off the right side of <ent type = 'person'>Kennedy</ent>'s
   brain when the bullet actually entered in, and it would have
   been virtually impossible..." another person asked.
-    Mr. Cooper seized the gist of his question and injected, "For
+    Mr. <ent type = 'person'>Cooper</ent> seized the gist of his question and injected, "For
   those of you who have been listening to all these talk show
   hosts, whose job it is to be a talk show host, and who have not
   done any legitimate research into this, if you come to the work-
   shop, I will show you, on the tape, how it was done. You will
-  see that Kennedy was, in fact slumped over against Jackie, his
+  see that <ent type = 'person'>Kennedy</ent> was, in fact slumped over against <ent type = 'person'>Jackie</ent>, his
   head was turned [this direction], it was very simple, it was
   easy and you will see it with your own eyes."
-    Another muffled, off-mike question from a member of the audi-
+    Another muffled, off-<ent type = 'person'>mike</ent> question from a member of the audi-
   ence inquiring why no one else had come forward with the infor-
-  mation Mr. Cooper was disseminating, and why those who knew it
+  mation Mr. <ent type = 'person'>Cooper</ent> was disseminating, and why those who knew it
   had kept it secret for so long was quickly answered, "It hasn't
-  been, I'm talkin' about it now. Bill English was talkin' about
-  it 8-years ago but everybody laughed at Bill English. John
+  been, I'm talkin' about it now. <ent type = 'person'>Bill</ent> English was talkin' about
+  it 8-years ago but everybody laughed at <ent type = 'person'>Bill</ent> English. John
   Lear's been talkin' about it for 3-years and everybody laughed
   at him. Now there's so many people have been talkin' about it,
   people are startin' to listen and it's about time. Because it's
@@ -522,38 +522,38 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   hear. The next one dealt with the alien technology and asked in
   essence, "Hasn't any one else [other than the government] come
   up with the energy technology that the aliens have?" to which
-  Mr. Cooper answered, "There's been quite a few people who've
+  Mr. <ent type = 'person'>Cooper</ent> answered, "There's been quite a few people who've
   come up with it and they've ALL been stopped, and they'll all
   continue to be stopped. Because once you have it you have FREE
   ENERGY. Once you have free energy they no longer have power over
   you. You understand? That's why they stop it."
     Another question asking, "In the film of the assassination
-  which was examined greatly by experts, why didn't THEY conclude
-  that Kennedy's driver shot him?", to which Cooper asked, "Exam-
+  which was examined greatly by experts, why didn't T<ent type = 'person'>HE</ent>Y conclude
+  that <ent type = 'person'>Kennedy</ent>'s driver shot him?", to which <ent type = 'person'>Cooper</ent> asked, "Exam-
   ined by WHO greatly?", and continued, "Most of the film that you
   can purchase has that segment cut out, and you can always tell
   it by the person running in the background, they'll run up to
   here... all of a sudden they'll be down here... running. You
-  will see in most of the clips that you've ever seen on televi-
+  will see in most of the clips that you've ever seen on <ent type = 'person'>televi</ent>-
   sion, or in the movies, or that you're able to get your hands
-  on, you'll see William Greer start to turn like this...", then a
-  muffled comment from the audience, then Cooper answered, "That's
+  on, you'll see <ent type = 'person'>William Greer</ent> start to turn like this...", then a
+  muffled comment from the audience, then <ent type = 'person'>Cooper</ent> answered, "That's
   because they clipped it out! And on a lot of them, I'll bet you
-  most of you, every time you've seen the clip on television,
+  most of you, every time you've seen the clip on <ent type = 'person'>televi</ent>sion,
   never looked at the driver anyway. If you're really honest with
   yourself, and with me, you know your eyes were right on
-  Kennedy."
+  <ent type = 'person'>Kennedy</ent>."
     A woman asked if any of the alien technology was being used in
   present-day military equipment and was answered, "Yes, there's a
   lot of alien technology contained in the Stealth bomber, that's
   right. The Stealth fighter was flying for 10-years before you
   even knew it existed."
     As the hour drew late another question, more clearly stated,
-  was asked of Mr. Cooper by a woman closer to my ears, "Before
+  was asked of Mr. <ent type = 'person'>Cooper</ent> by a woman closer to my ears, "Before
   you let us all out of here, there's a bunch of us here wondering
   what can we all do to help bring this all out?"
     A single word, "REVOLT" issued from several listeners simul-
-  taneously but Cooper responded, "Don't revolt. What you need to
+  taneously but <ent type = 'person'>Cooper</ent> responded, "<ent type = 'person'>Don</ent>'t revolt. What you need to
   do is what you should have been doing all along. You need to get
   involved with your government. The first thing you need to do is
   purchase a copy of the Constitution, which I know that most of
@@ -587,7 +587,7 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   subverting the Constitution and are ruining this country."
     A gentleman then asked, "What was traded to the aliens for
   their technology?"
-    "People and animals," replied Cooper succinctly.
+    "People and animals," replied <ent type = 'person'>Cooper</ent> succinctly.
     Another man asked, "Is the Soviet Union in on any of this?"
     "The Soviet Union and the United States of America have been
   close allies since the end of World War II and have been closely
@@ -603,7 +603,7 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   stick around and watch it!"
     A dubious woman then asked, "Why was the shellfish poison
   necessary? A lot of his brain was blown off anyway."
-    Cooper: "The shellfish poison? If you go to kill someone, one
+    <ent type = 'person'>Cooper</ent>: "The shellfish poison? If you go to kill someone, one
   thing I've learned, I learned it real good, I learned it espe-
   cially good when I went to Viet Nam; just `cause you shoot some-
   one doesn't mean they're gonna die. And if they don't die,
@@ -614,7 +614,7 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   sure that when you shoot them, they're dead. That way they can't
   hurt you, can't hurt you at all."
     Regrettably, the next question was totally unintelligible, I
-  was thankful however that Mr. Cooper had a good public address
+  was thankful however that Mr. <ent type = 'person'>Cooper</ent> had a good public address
   system to amplify his reply, "The first moon landing was May the
   22nd, 1962... or excuse me, that was the first landing on Mars.
   I'm sorry, May the 22nd, 1962 was the winged probe that used a
@@ -622,13 +622,13 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   ded on May the 22nd, 1962, was a joint United States / Russian
   endeavor. The first time that we landed on the moon was sometime
   during the ...probably middle 50's, because at the time when
-  President Kennedy stated that he wanted a man to set foot on the
+  President <ent type = 'person'>Kennedy</ent> stated that he wanted a man to set foot on the
   moon by the end of the decade we already had a base there."
     "What about Mars?" came another quick question.
-    "We have a base on Mars also," Cooper calmly replied.
+    "We have a base on Mars also," <ent type = 'person'>Cooper</ent> calmly replied.
     "When did that happen?"
     "I don't know the exact date but I know the project's name, it
-  was `Adam and Eve'."
+  was `<ent type = 'person'>Adam</ent> and Eve'."
     "How long have you known about this?"
     "Well, I revealed it publicly for the first time on July the
   2nd, 1989, and within 3-weeks of the time I revealed it public-
@@ -639,7 +639,7 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   Mars, it's impossible that there's a colony on Mars because Mars
   is a dead planet.' And it's NOT a dead planet, they've lied to
   you about Mars."
-    "My name is Dave [unintelligible], I'm a representative of the
+    "My name is <ent type = 'person'>Dave</ent> [unintelligible], I'm a representative of the
   Crystic Institute, and I'd like to know why it was that when we
   sent a representative down to your home, at your request, you
   failed to produce any documentation to substantiate your allega-
@@ -647,19 +647,19 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
     "In the first place it was NOT at my request, I have never
   contacted the Crystic Institute in my life. I was on the Carol
   Hemingway Show, she contacted the Crystic institute, she told
-  Daniel Shehan [sp] that I had just said something about Bush and
-  drugs on her show. HE called ME and told me he wanted to send an
+  <ent type = 'person'>Daniel Shehan</ent> [sp] that I had just said something about <ent type = 'person'>Bush</ent> and
+  drugs on her show. <ent type = 'person'>HE</ent> called <ent type = 'person'>ME</ent> and told me he wanted to send an
   investigator, in fact he told me to even help the investigator
-  because he was new at the job, his name was Wayne Nelson, he is
+  because he was new at the job, his name was <ent type = 'person'><ent type = 'person'><ent type = 'person'>Wayne</ent> Nel</ent>son</ent>, he is
   a very good gentleman, he stayed at my house for 2-days, slept
   overnight on my couch, I gave him everything I had. I never told
-  Daniel Shehan that I had any documents and I never told Wayne
-  Nelson that I had any documents. In fact what I told Wayne Nel-
-  son, and I quote, `Wayne, if I did have the documents I couldn't
-  admit it and I don't know you from Adam, and I don't know Daniel
-  Shehan from Adam and what makes you think I would give them to
+  <ent type = 'person'>Daniel Shehan</ent> that I had any documents and I never told <ent type = 'person'>Wayne</ent>
+  Nelson that I had any documents. In fact what I told <ent type = 'person'><ent type = 'person'>Wayne</ent> Nel</ent>-
+  son, and I quote, `<ent type = 'person'>Wayne</ent>, if I did have the documents I couldn't
+  admit it and I don't know you from <ent type = 'person'>Adam</ent>, and I don't know Daniel
+  Shehan from <ent type = 'person'>Adam</ent> and what makes you think I would give them to
   you.' Who am I going to give them to and how quick are they go-
-  ing to disappear, that was my thought. Wayne Nelson also came to
+  ing to disappear, that was my thought. <ent type = 'person'><ent type = 'person'><ent type = 'person'>Wayne</ent> Nel</ent>son</ent> also came to
   my house with a stack of documents this thick already substanti-
   ating the presence of aliens and extraterrestrial craft on this
   planet, and they are keeping it a secret, because they're afraid
@@ -667,8 +667,8 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
     "We need some patriots in this country, not people trying to
   make a name for themselves, trying to expose some drug runners,
   because those are just the bag-men. The real crook is in the
-  White House! And you can tell THAT to Daniel Shehan!"
-    "Why didn't Jackie Kennedy report [the source of the lethal
+  White House! And you can tell THAT to <ent type = 'person'>Daniel Shehan</ent>!"
+    "Why didn't <ent type = 'person'>Jackie</ent> <ent type = 'person'>Kennedy</ent> report [the source of the lethal
   shot]?" asked another audience member.
     "Who's she gonna tell? The Secret Service just killed her hus-
   band and they're assigned to protect the President. Also, who
@@ -683,13 +683,13 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
     "Alternative-3 is absolutely true and so is `Alternative-2'."
     Then a man in his late 20's or early 30's raised his hand,
   said something I couldn't hear, and was apparently recognized by
-  Mr. Cooper who asked him to take the podium and address the aud-
+  Mr. <ent type = 'person'>Cooper</ent> who asked him to take the podium and address the aud-
   ience.
-    "What I said was that I thanked him [Cooper] very much for
+    "What I said was that I thanked him [<ent type = 'person'>Cooper</ent>] very much for
   coming forward and saying something. A lot of my friends out
   here know that I was involved in the United States Special For-
   ces, UFO Tracking and Research from the years 1971 to 1975. My
-  name is Richard Murray, I was based out of the 71st Tac Controll
+  name is <ent type = 'person'>Richard <ent type = 'person'>Murray</ent></ent>, I was based out of the 71st Tac Controll
   Flight, McDill Air Force Base, Tampa, Florida. We were `Mobile
   Radar Command,' that was combat and war ready. We could be load-
   ed on aircraft within an hour and many times were taken into
@@ -699,25 +699,25 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   ous aircraft for their shrinkage and their dimension change dur-
   ing altered temperature. So, you know, I was told to shut up
   twice in 1982 and they finally threatened my parents life so I
-  stayed quiet, and, that's when Wendel Stevens was taken off the
+  stayed quiet, and, that's when <ent type = 'person'>Wendel <ent type = 'person'>Stevens</ent></ent> was taken off the
   streets... Just like that! And I hid for quite awhile, and deci-
-  ded to come back out when I heard that you're [Cooper] of such
+  ded to come back out when I heard that you're [<ent type = 'person'>Cooper</ent>] of such
   high rank as you were, and I felt just in saying that your cre-
   dentials are true, and that what you have to say, everything
   you've said here today, I've heard before behind closed doors.
-  And you've really tied the link for me to the Kennedy killing.
+  And you've really tied the link for me to the <ent type = 'person'>Kennedy</ent> killing.
   And there's a few more links that have to go on with the Colum-
   bia Cartel and the money laundering. I think there's more than
   one cartel involved, and they're shutting one of them down so
   one can maintain a power, it just seems to be the way it works."
     A muffled question then came from someone in the audience
-  regarding the person referred to as "Colonel Stevens."
-    "Uh, Colonel Stevens is out of jail now," replied Murray who
+  regarding the person referred to as "Colonel <ent type = 'person'>Stevens</ent>."
+    "Uh, Colonel <ent type = 'person'>Stevens</ent> is out of jail now," replied <ent type = 'person'>Murray</ent> who
   was quickly asked another question I couldn't hear to which he
   answered, "I sure hope to hell so, he is a wonderful man and I
   give him my utmost respect and it was one of the saddest days in
   my life to see what happened to him happen to him. But I don't
-  care what they say about Wendel Stevens, in my heart you can't
+  care what they say about <ent type = 'person'>Wendel <ent type = 'person'>Stevens</ent></ent>, in my heart you can't
   discredit that man to me. I don't care who the hell you are. I
   won't listen to it, I don't give a shit if he was screwin' ba-
   bies. You know... that doesn't... he's not that kind of a man, I
@@ -726,7 +726,7 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
 <p>    The lecture was then essentially over. The "Alternative-2 and
   -3" that were referred to briefly are, to the best of my know-
   ledge, two government contingency plans and I don't know which
-  is which, to 1: Declare Martial Law and invalidate the Constitu-
+  is which, to 1: Declare <ent type = 'person'>Martial Law</ent> and invalidate the Constitu-
   tion on the premise that a terrorist group had entered the coun-
   try with a Nuclear weapon with plans to detonate it in a major
   city. All dissidents would be rounded up and placed in concen-
@@ -735,11 +735,11 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   or if the aliens attempt a takeover, and 2: Another contingency
   plan to contain or delay the release of this information, the
   details of which I am probably wrong about anyway.
-    My own personal reaction to Milton William Cooper; Mr. Cooper
+    My own personal reaction to <ent type = 'person'>Milton William <ent type = 'person'>Cooper</ent></ent>; Mr. <ent type = 'person'>Cooper</ent>
   is a man who appears to be in his late fourties, of medium
   height and weight, and was dressed casually when I saw him. His
   hairline was receding slightly and he carried himself with con-
-  fidence and purpose. Bill Cooper, as he was called by several in
+  fidence and purpose. <ent type = 'person'>Bill</ent> <ent type = 'person'>Cooper</ent>, as he was called by several in
   attendance, is not a professional speaker. His presentation
   lacked the polish of repeated deliveries which all the other
   lectures I heard during the Expo. had, but what it lacked in
@@ -747,26 +747,26 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   not everyone in the audience was convinced of his sincerity I do
   not know, but the thunderous peal of applause which exploded as
   he concluded the session spoke for me and the majority of those
-  in attendance. I am convinced beyond any reasonable doubt that
-  Bill Cooper believes everything he said, and I'm about as
+  in attendance. I am convinced <ent type = 'person'>bey</ent>ond any reasonable doubt that
+  <ent type = 'person'>Bill</ent> <ent type = 'person'>Cooper</ent> believes everything he said, and I'm about as
   skeptical as they come.
-    Please read the attached file written by Milton William Cooper
+    Please read the attached file written by <ent type = 'person'>Milton William <ent type = 'person'>Cooper</ent></ent>
   which describes some of the government operations, projects, and
   code names that pertain to the above transcript. Perhaps from
   the two documents you can reach your own conclusions as to what
   "Alternative-2 and -3 are.</p>
 
 <p>  The following is the original file "OPER-MAJ.TXT" which
-  introduced Mr. Cooper to me.</p>
+  introduced Mr. <ent type = 'person'>Cooper</ent> to me.</p>
 
 <p>    OPERATION MAJORITY
     FINAL RELEASE
-    THERE WILL BE NO CORRECTIONS TO THIS FILE
+    T<ent type = 'person'>HE</ent>RE WILL BE NO CORRECTIONS TO THIS FILE
     C - COPYRIGHT 1989 BY MILTON WILLIAM COOPER
     ALL RIGHTS RESERVED
     YOU HAVE MY PERMISSION TO QUOTE FROM THIS INFORMATION IN PRESS
-  RELEASES, PERIODICALS, AND SPEECHES.  INCLUSION IN ANY OTHER
-  MEDIA REQUIRES MY EXPRESS WRITTEN PERMISSION.
+  RELEASES, PERIODICALS, AND SPEEC<ent type = 'person'>HE</ent>S.  INCLUSION IN ANY OT<ent type = 'person'>HE</ent>R
+  <ent type = 'person'>ME</ent>DIA REQUIRES MY EXPRESS WRITTEN PERMISSION.
    
     This file contains the absolute true information regarding the
   alien presence on earth and the US Government's involvement with
@@ -787,7 +787,7 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
     All in the last paragraph has been independently verified by 2
   different people who have no connection with each other. I will
   only list one for obvious reasons.
-    Tony Pelham, Journalist
+    <ent type = 'person'>Tony Pelham</ent>, Journalist
     Las Vegas Bullet, (Newspaper)
     300 West Boston
     Las Vegas, Nevada  89102
@@ -803,10 +803,10 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
     Please make copies of this file and send it to your
   Congressman, your Senator, the Attorney General of the United
   States, and to the Supreme Court.  Send it also to everyone you
-  know.  Attach copies of the Bill English file and John Lears
+  know.  Attach copies of the <ent type = 'person'>Bill</ent> English file and <ent type = 'person'>John Lear</ent>s
   file.  Send anything else you may have which tends to support
   the information.
-    I, Milton William Cooper, 1311 S. Highland #205, Fullerton,
+    I, <ent type = 'person'>Milton William <ent type = 'person'>Cooper</ent></ent>, 1311 S. Highland #205, Fullerton,
   California, 92632, (714) 680-9537, do solemnly swear that the
   information contained in this file is true and correct to the
   best of my knowledge.  I swear that I saw this information in
@@ -845,7 +845,7 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   of collected information has been used to advance the United
   States Space Program.
     MJ-12 is the name of the secret control group.  President
-  Eisenhower commissioned a secret society known as THE JASON
+  <ent type = 'person'>Eisenhower</ent> commissioned a secret society known as T<ent type = 'person'>HE</ent> JASON
   SOCIETY (JASON SCHOLARS) to sift through all the facts,
   evidence, technology, lies and deception and find the truth of
   the alien question.  The society was made up of 32 of the most
@@ -860,7 +860,7 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   people of the United States.  It was justified in that it would
   identify and eliminate the weak elements of our society.  The
   cost of funding the alien connected projects is higher than
-  anything you can imagine.  MJ-12 assassinated President Kennedy
+  anything you can imagine.  MJ-12 assassinated President <ent type = 'person'>Kennedy</ent>
   when he informed them that he was going to tell the public all
   the facts of the alien presence.  He was killed by the Secret
   Service agent driving his car and it is plainly visible in the
@@ -868,7 +868,7 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
     A secret meeting place was constructed for MJ-12 in MARYLAND
   and it was described as only accessible by air.  It contains
   full living, recreational, and other facilities for MJ-12 and
-  the JASON SOCIETY.  It is code named "THE COUNTRY CLUB". Only
+  the JASON SOCIETY.  It is code named "T<ent type = 'person'>HE</ent> COUNTRY CLUB". Only
   those with TOP SECRET/MAJIC clearance are allowed to go there.
     MAJI is the MAJORITY AGENCY FOR JOINT INTELLIGENCE.  All
   information, disinformation, and intelligence is gathered and
@@ -910,18 +910,18 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   killed.  The project was suspended at that time until the aliens
   agreed to help us.
     SNOWBIRD was established as a cover for project REDLIGHT.
-  Several flying saucer type craft were built using conventional
+  Several flying saucer type craft were built using <ent type = 'person'>conven</ent>tional
   technology.  They were unveiled to the press and flown in front
   of the press.  The purpose was to explain accidental sightings
   or disclosure of REDLIGHT as having been the SNOWBIRD craft.
-    LUNA is the alien base on the far side of the Moon.  It was
+    LUNA is the alien base on the far side of the <ent type = 'person'>Moon</ent>.  It was
   seen and filmed by the Apollo Astronauts.  A base, a mining
   operation using very large machines, and the very large alien
-  craft described in sighting reports as MOTHER SHIPS exist there.
-    NRO is the National Recon Organization based at Fort Carson,
+  craft described in sighting reports as MOT<ent type = 'person'>HE</ent>R SHIPS exist there.
+    <ent type = 'person'>NRO</ent> is the National Recon Organization based at Fort Carson,
   Colorado.  It is responsible for security for all alien or alien
   craft connected projects.
-    DELTA is the designation for the specific arm of the NRO which
+    DELTA is the designation for the specific arm of the <ent type = 'person'>NRO</ent> which
   is especially trained and tasked with security of these
   projects.
     JOSHUA is a project to develop a low frequency pulsed sound
@@ -944,15 +944,15 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   under hypnosis which alien belongs to which star.
     EBE is the name or designation given to the live alien
   captured at the 1949 Roswell crash.  He died in captivity.
-    KRLL OR KRLLL OR CRLL OR CRLLL pronounced Crill or Krill was
-  the hostage left with us at the first Holloman landing as a
+    KRLL OR KRLLL OR CRLL OR CRLLL pronounced <ent type = 'person'>Crill</ent> or <ent type = 'person'>Krill</ent> was
+  the hostage left with us at the first <ent type = 'person'>Holloman</ent> landing as a
   pledge that the aliens would carry out their part of the basic
   agreement reached during that meeting.  KRLL gave us the
   foundation of the yellow book which was completed by the guests
   at a later date.  KRLL became sick and was nursed by Dr. G.
   Mendoza who became the expert on alien biology and medicine.
   KRLL later died.  His information was disseminated under the
-  pseudonym O.H. Cril or Crill.
+  pseudonym O.H. Cril or <ent type = 'person'>Crill</ent>.
     GUESTS were aliens exchanged for humans who gave us the
   balance of the yellow book.  At the time I saw the information
   there were only 3 left alive.  They were called (P&amp;#'s) Alien
@@ -961,7 +961,7 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   through hybridization.  The papers said that RH-blood was proof
   of this.  They further claimed to have created all four major
   religions.  They showed a hologram of the crucifixion of Christ
-  which the Government filmed.  They claim that Jesus was created
+  which the Government filmed.  They claim that <ent type = 'person'>Jesus</ent> was created
   by them.
     ALIEN BASES exist in the four corners area of Utah, Colorado,
   New Mexico, and Nevada.  Six bases were described in the 1972
@@ -975,7 +975,7 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   again, Texas, Mexico, and other places.
     GENERAL DOOLITTLE made a prediction that one day we would have
   to reckon with the aliens and the document stated that it
-  appeared that General Doolittle was correct.
+  appeared that General <ent type = 'person'>Doolittle</ent> was correct.
     ABDUCTIONS were occurring long before 1972.  The document
   stated that humans and animals were being abducted and or
   mutilated.  Many vanished without a trace.  They were taking
@@ -986,12 +986,12 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   every 40 people had been implanted.  This implant was said to
   give the aliens total control of that human.</p>
 
-<p>    CONTINGENCY PLAN SHOULD THE INFORMATION BECOME PUBLIC OR
-  SHOULD THE ALIENS ATTEMPT A TAKEOVER.
+<p>    CONTINGENCY PLAN SHOULD T<ent type = 'person'>HE</ent> INFORMATION BECO<ent type = 'person'>ME</ent> PUBLIC OR
+  SHOULD T<ent type = 'person'>HE</ent> ALIENS ATTEMPT A TAKEOVER.
     This plan called for a public announcement that a terrorist
   group had entered the United States with an Atomic weapon.  It
   would be announced that the terrorists planned to detonate the
-  weapon in a major city.  Martial Law would be declared and all
+  weapon in a major city.  <ent type = 'person'>Martial Law</ent> would be declared and all
   persons with implants would be rounded up along with all
   dissidents and would be placed into concentration camps.  The
   press, radio, and TV would be nationalized and controlled.
@@ -1005,7 +1005,7 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   similarity to MJ-12.  It was designed to confuse memory and to
   result in a fruitless search for material which did not exist.</p>
 
-<p>    SOURCE OF MATERIAL CONTAINED IN THE DOCUMENTS WHICH I SAW
+<p>    SOURCE OF MATERIAL CONTAINED IN T<ent type = 'person'>HE</ent> DOCU<ent type = 'person'>ME</ent>NTS WHICH I SAW
     The source of the material was an ONI counter-intelligence
   operation against MJ-12 in order for the Navy to find out the
   truth of what was really going on.  The Navy (at that time or at
@@ -1023,9 +1023,9 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   so.  Please get this file into as many hands as you can and
   maybe that will protect me but I doubt it.</p>
 
-<p>    HISTORY WILL BE THE JUDGE OF ME AND THIS INFORMATION AND I
-  HAVE NO FEAR OF THAT JUDGEMENT.  I SWEAR THAT THIS INFORMATION
-  IS TRUE AND CORRECT TO THE BEST OF MY KNOWLEDGE.</p>
+<p>    HISTORY WILL BE T<ent type = 'person'>HE</ent> JUDGE OF <ent type = 'person'>ME</ent> AND THIS INFORMATION AND I
+  HAVE NO FEAR OF THAT JUDGE<ent type = 'person'>ME</ent>NT.  I SWEAR THAT THIS INFORMATION
+  IS TRUE AND CORRECT TO T<ent type = 'person'>HE</ent> BEST OF MY KNOWLEDGE.</p>
 
 <p>    I wish to thank all those people who have aided me in reaching
   this point and for their patience and understanding.  I owe you
@@ -1050,7 +1050,7 @@ your weirdness bit way past the Twilight Zone, and read on!</p>
   exact papers that I saw will surface and you will all see this
   exact information contained within them.
    
-    Milton William Cooper
+    <ent type = 'person'>Milton William <ent type = 'person'>Cooper</ent></ent>
     1/10/89</p>
 
 <p></p></xml>

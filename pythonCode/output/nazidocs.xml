@@ -12,7 +12,7 @@ so I have restricted myself to short excerpts. </p>
 
 <p>My remarks are inside square [...] brackets.</p>
 
-<p>-Daniel Keren (dk@lems.brown.edu).</p>
+<p>-<ent type = 'person'>Daniel Keren</ent> (dk@lems.brown.edu).</p>
 
 <p>The organization of this collection is as follows:</p>
 
@@ -25,7 +25,7 @@ so I have restricted myself to short excerpts. </p>
 6)  MEDICAL EXPERIMENTS II: FREEZING, LOW PRESSURE AND OTHERS
 7)  THE ECONOMIC PLUNDER
 8)  AUSCHWITZ
-9)  KRISTALLNACHT
+9)  <ent type = 'person'>KRISTALLNACHT</ent>
 10) VERDICT OF SS-COURT
 11) MISC - includes the following:
    a. Prosecution of a Jewish woman for selling her mother milk 
@@ -34,14 +34,14 @@ so I have restricted myself to short excerpts. </p>
   sentence was imposed on a Jew for allegedly having sex with 
   a German woman.
    c. Various excerpts from anti-semitic publications (mostly, 
-  "Der Stuermer").
+  "Der <ent type = 'person'>Stuermer</ent>").
    d. Letter about transporting to Germany "racially valuable 
   children" whose parents were slain by the Nazis.
    e. Order to hang any Pole who has sex with a German woman.
-   f. Reichsfuehrer-SS Himmler describing Russians and Slavs as 
+   f. <ent type = 'person'>Reich</ent>sfuehrer-SS Himmler describing <ent type = 'person'>Russ</ent>ians and Slavs as 
   "human animals" to be used for work.
    g. German plans for plundering Poland.
-   h. Order by Reichsfuehrer-SS Himmler to kill and destroy 
+   h. Order by <ent type = 'person'>Reich</ent>sfuehrer-SS Himmler to kill and destroy 
   everything in Nazi occupied Ukraine before evacuating it.
    i. A long and very detailed report about mass executions in 
   the Nazi occupied Baltics (the "Jager report").</p>
@@ -49,7 +49,7 @@ so I have restricted myself to short excerpts. </p>
 <p>STATMENTS BY LEADING NAZIS
 **************************</p>
 
-<p>Speech by Hitler, January 31, 1939
+<p>Speech by <ent type = 'person'>Hitler</ent>, January 31, 1939
 [Trials of War Criminals Before the Nuernberg Military Tribunals - 
 Washington, U.S Govt. Print. Off., 1949-1953, Vol XIII, p. 131]
 ---------------------------------------------------------------
@@ -59,7 +59,7 @@ a world war, then the result will not be the bolshevization of the earth,
 and thus the victory of Jewry, but the annihilation of the Jewish race in
 Europe!</p>
 
-<p>Adolph Hitler speaking to a crowd at the Sports Palace in Berlin,
+<p><ent type = 'person'>Adolph <ent type = 'person'>Hitler</ent></ent> speaking to a crowd at the Sports Palace in Berlin,
 30 January 1942. Quoted in "The Holocaust", by Martin Gilbert,
 Holt, Rinehart and Winston, NY, 1985, p. 285. Text as monitored by the 
 Foreign Broadcast Monitoring Service, Federal Communications Commission.
@@ -68,16 +68,16 @@ And we say that the war will not end as the Jews imagine it
 will, namely with the uprooting of the Aryans, but the result of
 this war will be the complete annihilation of the Jews.</p>
 
-<p>Excerpts from the meeting between Hitler and the Mufti,
-Haj Amin Husseini, on 28 November 1941. The notes were taken by
-Dr. Paul Otto Schmidt and are quoted in Fleming's "Hitler and the
-Final Solution", p. 101-104. Also geheime Reichssache 57 a/41, Records 
+<p>Excerpts from the meeting between <ent type = 'person'>Hitler</ent> and the Mufti,
+<ent type = 'person'>Haj Amin Husseini</ent>, on 28 November 1941. The notes were taken by
+Dr. <ent type = 'person'>Paul Otto Schmidt</ent> and are quoted in Fleming's "<ent type = 'person'>Hitler</ent> and the
+Final Solution", p. 101-104. Also geheime <ent type = 'person'>Reich</ent>ssache 57 a/41, Records 
 Dept. Foreign and  Commonwealth Office Pa/2.
 ---------------------------------------------------------------------
-The Fuehrer then made the following declaration, requesting
+The <ent type = 'person'>Fuehrer</ent> then made the following declaration, requesting
 the Mufti to lock it deep in his heart:</p>
 
-<p>1) He (the Fuehrer) would carry on the fight until the last
+<p>1) He (the <ent type = 'person'>Fuehrer</ent>) would carry on the fight until the last
  traces of the Jewish-Communist European hegemony had been
  obliterated.</p>
 
@@ -86,14 +86,14 @@ the Mufti to lock it deep in his heart:</p>
  the clearly foreseeable future - gain the southern exit of
  Caucasus.</p>
 
-<p>3) As soon as this breakthrough was made, the Fuehrer would
+<p>3) As soon as this breakthrough was made, the <ent type = 'person'>Fuehrer</ent> would
  offer the Arab world his personal assurance that the hour
  of liberation had struck. Thereafter, Germany's only
  remaining objective in the region would be limited to the
  annihilation of the Jews living under British protection
  in Arab lands.</p>
 
-<p>Adolf Hitler, quoted in "Hitler", by Joachim Fest, Vintage
+<p>Adolf <ent type = 'person'>Hitler</ent>, quoted in "<ent type = 'person'>Hitler</ent>", by Joachim Fest, Vintage
 Books Edition, 1974, p. 679-680:
 ---------------------------------------------------------------
 Nature is cruel; therefore we are also entitled to be cruel. When I
@@ -102,11 +102,11 @@ without feeling the slightest regret over the precious German blood
 that is being spilled, should I not also have the right to eliminate
 millions of an inferior race that multiplies like vermin?</p>
 
-<p>Speechs by Reichsfuehrer-SS Himmler before senior SS officers in Poznan, 
+<p><ent type = 'person'>Speechs</ent> by <ent type = 'person'>Reich</ent>sfuehrer-SS Himmler before senior SS officers in Poznan, 
 October 4 and 6, 1943
 [Trials of War Criminals Before the Nuernberg Military Tribunals - 
 Washington, U.S Govt. Print. Off., 1949-1953, Vol. XIII, p. 323, and 
-Himmler, Reichsfuehrer-SS - P. Padfield, Henry Holt and Co, NY, 1990, 
+Himmler, <ent type = 'person'>Reich</ent>sfuehrer-SS - P. Padfield, <ent type = 'person'>Henry Holt</ent> and Co, NY, 1990, 
 p. 469]
 ----------------------------------------------------------------------
 I mean the evacuation of the Jews, the extermination of the Jewish
@@ -130,13 +130,13 @@ solution. That is to say I do not consider myself justified in
 eradicating the men - so to speak killing or ordering them killed -
 and allowing the avengers in the shape of the children to grow up for
 our sons and grandsons. The difficult decision has to be taken, to
-cause this Volk [people] to disappear from the earth.</p>
+cause this <ent type = 'person'>Volk</ent> [people] to disappear from the earth.</p>
 
 <p>[This speech was recorded; the magnetic tapes are in the national
  archives in Washington, DC]</p>
 
 <p>  
-Speech by Reichsfuehrer-SS Himmler at Kharkow, April 1943
+Speech by <ent type = 'person'>Reich</ent>sfuehrer-SS Himmler at Kharkow, April 1943
 [Nazi Conspiracy and Aggression - Washington, U.S Govt. Print. 
 Off., 1946, Vol. IV, p. 572-574]
 ----------------------------------------------------------
@@ -148,20 +148,20 @@ mean antisemitism. Antisemitism is exactly the same as delousing.
 Getting rid of lice is not a question of ideology. It is a 
 matter of cleanliness.</p>
 
-<p>The Goebbels [Reich propaganda Minister] Diaries, February 14 1942
-[The Goebbels Diaries 1942-1943 - L.P. Lochner, Doubleday &amp; Co., 1948, 
+<p>The <ent type = 'person'>Goebbels</ent> [<ent type = 'person'>Reich</ent> propaganda Minister] Diaries, February 14 1942
+[The <ent type = 'person'>Goebbels</ent> Diaries 1942-1943 - L.P. Lochner, Doubleday &amp; Co., 1948, 
 p. 86]
 ----------------------------------------------------------------
 World Jewry will suffer a great catastrophe at the same time as
-Bolshevism. The Fuehrer once more expressed his determination to
+Bolshevism. The <ent type = 'person'>Fuehrer</ent> once more expressed his determination to
 clean up the Jews in Europe pitilessly. There must be no squeamish
 sentimentalism about it. The Jews have deserved the catastrophe that
 has now overtaken them. Their destruction will now go hand in hand
 with the destruction of our enemies. We must hasten this process
 with cold ruthlessness.</p>
 
-<p>The Goebbels [Reich propaganda Minister] diaries, March 27, 1942: 
-[The Goebbels Diaries 1942-1943 - L.P. Lochner, Doubleday &amp; Co., 1948, 
+<p>The <ent type = 'person'>Goebbels</ent> [<ent type = 'person'>Reich</ent> propaganda Minister] diaries, March 27, 1942: 
+[The <ent type = 'person'>Goebbels</ent> Diaries 1942-1943 - L.P. Lochner, Doubleday &amp; Co., 1948, 
 p. 147-148]
 -----------------------------------------------------------
 Beginning with Lublin, the Jews in the General Government 
@@ -171,7 +171,7 @@ Not much will remain of the Jews. On the whole it can be said that about
 60 per cent of them will have to be liquidated whereas only 40 per cent 
 can be used for forced labor.</p>
 
-<p>Speech by Frank [Governor of occupied Poland], to German soldiers
+<p>Speech by <ent type = 'person'>Frank</ent> [Governor of occupied Poland], to German soldiers
 in Poland, urging them to write home
 [Nazi Conspiracy and Aggression - Washington, U.S Govt. Print. 
 Off., 1946, Vol. II, p. 633-634]
@@ -191,14 +191,14 @@ necessary for us to accomplish everything within a year and
 right away, for what would otherwise be left for those who
 follow us to do?</p>
 
-<p>Speech by Frank [Governor of occupied Poland], December 16 1941
+<p>Speech by <ent type = 'person'>Frank</ent> [Governor of occupied Poland], December 16 1941
 [Documents on the Holocaust - Edited by Y. Arad, Y. Gutman, A. Margaliot,
 NY, Ktav Pub. House in Association with Yad-Vashem, 1981, p. 247, Nazi 
 Conspiracy and Aggression - Washington, U.S Govt. Print. 
 Off., 1946 Vol. II p. 634]
 ---------------------------------------------------------------
 One way or another -- I will tell you quite openly -- we must finish 
-off the Jews. The Fuehrer put it into words once: should united Jewry
+off the Jews. The <ent type = 'person'>Fuehrer</ent> put it into words once: should united Jewry
 again succeed in setting off a world war, then the blood sacrifice
 shall not be made only by the peoples driven into war, but then the
 Jew of Europe will have met his end....</p>
@@ -206,11 +206,11 @@ Jew of Europe will have met his end....</p>
 <p>But what should be done with the Jews? Can you believe that they will
 be accommodated in settlements in the Ostland? In Berlin we were told:
 why are you making all this trouble? We don't want them either, not in
-Ostland nor in the Reichskommissariat; liquidate them yourselves!
+Ostland nor in the <ent type = 'person'>Reich</ent>skommissariat; liquidate them yourselves!
 Gentlemen, I must ask you to steel yourselves against all
 considerations of compassion. We must destroy the Jews wherever we
 find them, and wherever it is at all possible, in order to maintain
-the whole structure of the Reich...</p>
+the whole structure of the <ent type = 'person'>Reich</ent>...</p>
 
 <p>The Jews represent for us also extraordinary malignant gluttons. We
 have now approximately 2,500,000 of them in the General Government
@@ -219,14 +219,14 @@ everything that goes with it, 3,500,000 Jews. We cannot shoot or
 poison those 3,500,000 Jews, but we shall nevertheless be able to take
 measures which will lead somehow to their annihilation, and this in
 connection with the gigantic measures to be determined in discussions
-with the Reich.</p>
+with the <ent type = 'person'>Reich</ent>.</p>
 
-<p>Letter from Hoppner, higher SS and Police leader in the Warthegau, to
+<p>Letter from <ent type = 'person'>Hoppner</ent>, higher SS and Police leader in the Warthegau, to
 SS-Obersturmbannfuehrer Eichmann, July 16 1941
 [Documents of Destruction - R. Hilberg, Quadrangle Books, Chicago, 1971, p. 87]
 -------------------------------------------------------------------
 Enclosed is a memorandum on the results of various discussions held
-locally in the office of the Reich Governor...</p>
+locally in the office of the <ent type = 'person'>Reich</ent> Governor...</p>
 
 <p>Subject: Solution of the Jewish question
  .
@@ -250,8 +250,8 @@ Washington, U.S Govt. Print. Off., 1949-1953, Vol. XIII, p. 210-216]
  .
  .
  II. At the beginning of the meeting the Chief of the Security
-Police and the SD, SS Lieutenant General Heydrich, reported his
-appointment by the Reich Marshal [Goering] to service as
+Police and the SD, SS Lieutenant General <ent type = 'person'>Heydrich</ent>, reported his
+appointment by the <ent type = 'person'>Reich</ent> Marshal [<ent type = 'person'>Goering</ent>] to service as
 Commissioner for the preparation of the Final Solution of the
 European Jewish Problem....</p>
 
@@ -259,7 +259,7 @@ European Jewish Problem....</p>
 Problem, approximately 11 million Jews are involved. They are
 distributed among individual countries as follows:</p>
 
-<p>A. Original Reich Territory [Altreich] 131,800
+<p>A. Original <ent type = 'person'>Reich</ent> Territory [Altreich] 131,800
  Austria   43,700
  Eastern territories   420,000
  Government General [Nazi occupied Poland] 2,284,000
@@ -276,7 +276,7 @@ distributed among individual countries as follows:</p>
  USSR     5,000,000
  .
  .
-   White Russia, excluding Bialystok  446,484</p>
+   White <ent type = 'person'>Russ</ent>ia, excluding <ent type = 'person'>Bialystok</ent>  446,484</p>
 
 <p>[Many countries deleted for brevity]</p>
 
@@ -304,15 +304,15 @@ Europe is combed through from the West to the East...
 In the course of the final solution plans, the Nuernberg laws
 are in a certain degree to form the basis, and accordingly the
 complete settlement of the problem is to include also the
-solution of the mixed marriage and the Mischling [people partly
+solution of the mixed marriage and the <ent type = 'person'>Mischling</ent> [people partly
 of Jewish descent]...</p>
 
-<p>The first degree Mischling excepted from the evacuation is to
+<p>The first degree <ent type = 'person'>Mischling</ent> excepted from the evacuation is to
 be sterilized in order to prevent any offspring and to settle
-the Mischling problem once and for all...</p>
+the <ent type = 'person'>Mischling</ent> problem once and for all...</p>
 
 <p>Excerpted from a memorandum dated 27 April, 1942 by Dr. Erhard 
-Wetzel  (a lawyer), who was serving as desk officer in the Reich 
+Wetzel  (a lawyer), who was serving as desk officer in the <ent type = 'person'>Reich</ent> 
 Ministry for  the Eastern Territories
 ["Nazism:  A History in Documents and Eyewitness Accounts, 1919-1945", 
 Volume II, J.Noakes and G.Pridham, editors. Schocken Books, New York, 
@@ -329,8 +329,8 @@ years to come and lose us the sympathies of people everywhere,
 particularly since our neighbors would be bound to reckon that 
 they would be treated in the same way when the time came. </p>
 
-<p>A letter to Rosenberg enclosing reports from Generalkommisar for
-white Russia, Kube, about the extermination of Jews in the east,
+<p>A letter to <ent type = 'person'>Rosenberg</ent> enclosing reports from Generalkommisar for
+white <ent type = 'person'>Russ</ent>ia, Kube, about the extermination of Jews in the east,
 June 18 1943
 [Nazi Conspiracy and Aggression - Washington, U.S Govt. Print. 
 Off., 1946, Vol I, p. 1001]
@@ -338,7 +338,7 @@ Off., 1946, Vol I, p. 1001]
  ...The fact that Jews receive special treatment requires no further
 discussion. However, it appears hardly believable that this is done
 in the way described in the report of the General Commissioner of
-1 June 1943. What is Katyn against that? Imagine only that these
+1 June 1943. What is <ent type = 'person'>Katyn</ent> against that? Imagine only that these
 occurrences would become known to the other side and exploited by them!
 Most likely such propaganda would have no effect only because
 people who hear who hear and read about it simply would not be ready
@@ -359,35 +359,35 @@ if possible.</p>
 <p>GAS CHAMBERS AND GASSING VANS (See also "AUSCHWITZ")
 ****************************************************</p>
 
-<p>Letter from Dr. Erhard Wetzel to Reichskommissar Lohse, October 25, 1941
-[Hitler and the Final Solution - G. Fleming, University of California
+<p>Letter from Dr. <ent type = 'person'>Erhard Wetzel</ent> to <ent type = 'person'>Reich</ent>skommissar Lohse, October 25, 1941
+[<ent type = 'person'>Hitler</ent> and the Final Solution - G. Fleming, University of California
 Press, 1984, p. 70]
 ------------------------------------------------------------------------
 With regard to my letter of 18 October 1941, please be informed that
-Oberdiensleiter [Chief Executive Officer] Brack from the Fuehrer's
+<ent type = 'person'>Oberdiensleiter</ent> [Chief Executive Officer] <ent type = 'person'>Brack</ent> from the <ent type = 'person'>Fuehrer</ent>'s
 Chancellory has stated his readiness to assist in the construction of
 the necessary accommodations and gassing apparatuses, so they must
-first be constructed. Brack's view is that, since construction of the
-apparatuses within the Reich would present far greater difficulties
+first be constructed. <ent type = 'person'>Brack</ent>'s view is that, since construction of the
+apparatuses within the <ent type = 'person'>Reich</ent> would present far greater difficulties
 than on-site production, the most expedient course of action is to
 send his people directly to Riga, in particular his chemist Dr.
-Kallmeyer, who will take the necessary steps from there.
-Oberdiensleiter Brack further points out that the procedure in
+<ent type = 'person'>Kallmeyer</ent>, who will take the necessary steps from there.
+<ent type = 'person'>Oberdiensleiter</ent> <ent type = 'person'>Brack</ent> further points out that the procedure in
 question is not without its hazards, and that therefore special safety
 precautions are needed. Under these circumstances, I ask you to
-contact Oberdiensleiter Brack in the Fuehrer's Chancellory through
+contact <ent type = 'person'>Oberdiensleiter</ent> <ent type = 'person'>Brack</ent> in the <ent type = 'person'>Fuehrer</ent>'s Chancellory through
 your higher SS and Police leader. Please request from him the
-dispatching of the chemist Dr. Kallmeyer and any further assistants
+dispatching of the chemist Dr. <ent type = 'person'>Kallmeyer</ent> and any further assistants
 that are needed. I might further point out that Sturmbannfuehrer
-Eichmann, the adviser on Jewish affairs in the Reich main security
+Eichmann, the adviser on Jewish affairs in the <ent type = 'person'>Reich</ent> main security
 office, is in complete accord with this procedure. According to the
-information received here from Sturmbannfuehrer Eichmann, camps for
+information received here from <ent type = 'person'>Sturmbannfuehrer Eichmann</ent>, camps for
 Jews will be set up in Riga and Minsk, where Jews from the Altreich
 [Germany proper] might also be sent. Jews are currently being
 evacuated from the Altreich to Lodz and other camps, from which those
 fit for work will be transferred to work forces in the east. Given the
 present situation, Jews who are not fit for work can be eliminated
-without qualms through use of the Brack device. Incidents such as
+without qualms through use of the <ent type = 'person'>Brack</ent> device. Incidents such as
 those that took place during the shootings of Jews in Vilna, according
 to a report I have on my desk, can hardly be sanctioned, keeping in
 mind that the executions were undertaken openly, and the new
@@ -397,7 +397,7 @@ the east. That the men and women in this latter group must be kept
 apart from each other goes without saying. Please keep me informed as
 to any further measures you take.</p>
 
-<p>Letter from Dr August Becker to SS-Obersturmbannfuehrer Rauff, 16 May 1942
+<p>Letter from Dr August <ent type = 'person'>Becker</ent> to SS-<ent type = 'person'>Obersturmbannfuehrer Rauff</ent>, 16 May 1942
 [Nazi Conspiracy and Aggression - Washington, U.S Govt. Print. 
 Off., 1946, Vol III, p. 418]
 ----------------------------------------------------------------------
@@ -434,7 +434,7 @@ death comes faster and the prisoners fall asleep peacefully. Distorted
 faces and excretions, such as could be seen before, are no longer
 noticed.</p>
 
-<p>Letter from Willy Just to SS-Obersturmbannfuehrer Walter Rauff, 5 June 1942
+<p>Letter from <ent type = 'person'>Willy</ent> Just to SS-<ent type = 'person'>Obersturmbannfuehrer Walter Rauff</ent>, 5 June 1942
 ["Nazism:  A History in Documents and Eyewitness Accounts, 1919-1945", 
 Volume II, J.Noakes and G.Pridham, editors. Schocken Books, New York, 
 (c)1988 by the Dept. of History and Archeology, University of Exeter.  
@@ -483,7 +483,7 @@ latch the door. Furthermore, it has been observed that the noise
 always begins when the doors are shut presumably because of fear
 brought on by the darkness.</p>
 
-<p>Letter from SS-Hauptsturmfuehrer Truehe to Reich security office, room 2D3A
+<p>Letter from SS-Hauptsturmfuehrer Truehe to <ent type = 'person'>Reich</ent> security office, room 2D3A
 [Nazi Conspiracy and Aggression - Washington, U.S Govt. Print. 
 Off., 1946, Vol. I, p. 1001]
 ------------------------------------------------------------------------
@@ -534,29 +534,29 @@ middle regions.</p>
 
 <p>The leading personalities in the business world.</p>
 
-<p>Members of the Soviet-Russian intelligence.</p>
+<p>Members of the Soviet-<ent type = 'person'>Russ</ent>ian intelligence.</p>
 
 <p>All Jews.</p>
 
 <p>All persons, who are found to be agitators of fanatical communists.</p>
 
-<p>Letter from Generalkommisar for white Russia, Kube, to Reichkommisar
+<p>Letter from Generalkommisar for white <ent type = 'person'>Russ</ent>ia, Kube, to <ent type = 'person'>Reich</ent>kommisar
 for the Ostland, Lohse, 31 July 1942
-['The Good Old Days' - E. Klee, W. Dressen, V. Riess, The Free Press, 
+['The Good Old Days' - E. Klee, W. Dressen, V. <ent type = 'person'>Riess</ent>, The Free Press, 
 NY, 1988, p. 180-181]
 --------------------------------------------------------------------
-During the course of extensive discussions with SS-Brigadefuehrer Zenner
-and the very competent Leiter of the SD, SS-Obersturmbannfuehrer Dr.
+During the course of extensive discussions with SS-<ent type = 'person'>Brigadefuehrer</ent> Zenner
+and the very competent <ent type = 'person'>Leiter</ent> of the SD, SS-Obersturmbannfuehrer Dr.
 Strauch, it was established that we have liquidated about 55,000 Jews
 in the past ten weeks...</p>
 
 <p>Naturally the SD and I would prefer to eliminate the Jews in the 
-Generalbezirk of white Russia once and for all as soon as the Jews 
+Generalbezirk of white <ent type = 'person'>Russ</ent>ia once and for all as soon as the Jews 
 are no longer needed by the Wehrmacht for economic reasons. For the time
 being, the Wehrmacht's requirements, as the principle employer of
 Jewish labor, are being taken into account.</p>
 
-<p>Report No. 51 of Reichsfuehrer-SS Himmler to Hitler about mass 
+<p>Report No. 51 of <ent type = 'person'>Reich</ent>sfuehrer-SS Himmler to <ent type = 'person'>Hitler</ent> about mass 
 executions in the east, 1942
 [Trials of War Criminals Before the Nuernberg Military Tribunals - 
 Washington, U.S Govt. Print. Off., 1949-1953, Vol. XIII, p. 269-272]
@@ -577,17 +577,17 @@ Jews executed   31,246 165,282  95,735 70,948
 Villages and localities
 Burned down or destroyed  35 12   20 92</p>
 
-<p>Letter from SS Major-General Stahlecker to SS General Heydrich, 
+<p>Letter from SS Major-General <ent type = 'person'>Stahlecker</ent> to SS General <ent type = 'person'>Heydrich</ent>, 
 January 31, 1942
 [The Final Solution: The Attempt to Exterminate the Jews of Europe,
 1939-1945 - G. Reitlinger, South Brunswick, T. Yosellof, 1968, p. 233]
 --------------------------------------------------------------------
 The complete removal of Jewry from the eastern territories has been
-substantially attained, with the exception of white Russia, as a result
+substantially attained, with the exception of white <ent type = 'person'>Russ</ent>ia, as a result
 of the execution up to the present time of 229,052 Jews.</p>
 
-<p>Daily situation report of the Einsatzgruppen (special task forces)
-in Russia, No. 124, October 25th, 1941
+<p>Daily situation report of the <ent type = 'person'>Einsatzgruppen</ent> (special task forces)
+in <ent type = 'person'>Russ</ent>ia, No. 124, October 25th, 1941
 [The Final Solution: The Attempt to Exterminate the Jews of Europe,
 1939-1945 - G. Reitlinger, South Brunswick, T. Yosellof, 1968, p. 133]
 --------------------------------------------------------------------
@@ -595,12 +595,12 @@ A second action consisted in applying special treatment to 812
 men and women, all persons without interest from the racial and
 intellectual point of view.</p>
 
-<p>Order by Reichskommissar Lohse to halt the killing of Jewish skilled
+<p>Order by <ent type = 'person'>Reich</ent>skommissar Lohse to halt the killing of Jewish skilled
 workers, December 2 1941
 [Documents on the Holocaust - Edited by Y. Arad, Y. Gutman, A. Margaliot,
 NY, Ktav Pub. House in Association with Yad-Vashem, 1981, p. 396]
 -----------------------------------------------------------------------
-Reichskommissar for Ostland   Riga, December 2 1941
+<ent type = 'person'>Reich</ent>skommissar for Ostland   Riga, December 2 1941
 IIa diary No. 220/41g</p>
 
 <p>The Chief Quartermaster (Chiefintendant) of the Wehrmacht Command in
@@ -614,10 +614,10 @@ as skilled workers in armament plants and repair workshops of the
 Wehrmacht who cannot be replaced by local personnel be prevented.</p>
 
 <p>Ereignismeldung UdSSR, No. 101, October 2 1941
-['The Good Old Days' - E. Klee, W. Dressen, V. Riess, The Free Press, 
+['The Good Old Days' - E. Klee, W. Dressen, V. <ent type = 'person'>Riess</ent>, The Free Press, 
 NY, 1988, p. 67]
 ---------------------------------------------------------------------
-Einsatzgruppen C
+<ent type = 'person'>Einsatzgruppen</ent> C
 Standort Kiev</p>
 
 <p>In collaboration with the group staff and two Kommandos of Police
@@ -625,7 +625,7 @@ Regiment South, on 29 and 30 September 1941, Sonderkommando 4a
 executed 33,771 Jews in Kiev.</p>
 
 <p>Ereignismlrdung UdSSR, No. 128, November 3 1941
-['The Good Old Days' - E. Klee, W. Dressen, V. Riess, The Free Press, 
+['The Good Old Days' - E. Klee, W. Dressen, V. <ent type = 'person'>Riess</ent>, The Free Press, 
 NY, 1988, p. 68]
 ----------------------------------------------------------------------
 In Kiev, difficulties that arose during the execution of a major action
@@ -658,7 +658,7 @@ be Jews, about half lived for the greater part in Simferopol
 that of the real Jews and the Gypsies in the Crimea took part
 place essentially until the beginning of December 1941.</p>
 
-<p>Weekly report from Frank's [Governor of occupied Poland] propaganda
+<p>Weekly report from <ent type = 'person'>Frank</ent>'s [Governor of occupied Poland] propaganda
 department, October 26, 1942
 [The Final Solution: The Attempt to Exterminate the Jews of Europe,
 1939-1945 - G. Reitlinger, South Brunswick, T. Yosellof, 1968, p. 283]
@@ -669,7 +669,7 @@ the Gestapo with those of the GPU. The railway wagons are said to
 be in such a bad state that it is impossible to prevent Jews breaking
 out. The result is that at wayside stations there occur wild shootings
 and regular man-hunts. It is also reported that corpses of shot Jews
-lie on the streets for days. Although the Reich Germans, as well as
+lie on the streets for days. Although the <ent type = 'person'>Reich</ent> Germans, as well as
 the foreign population, are convinced of the necessity of liquidating
 all Jews, it would still be more appropriate to carry this out in
 a manner that causes less sensation and offense.</p>
@@ -716,11 +716,11 @@ Communists) and to fix the time and place as well as burial place.</p>
 *******************************</p>
 
 <p>Letter from chief of institution for feeble-minded in Stetten to
-Reich Minister of justice Dr. Frank, September 6 1940
+<ent type = 'person'>Reich</ent> Minister of justice Dr. <ent type = 'person'>Frank</ent>, September 6 1940
 [Trials of War Criminals Before the Nuernberg Military Tribunals - 
 Washington, U.S Govt. Print. Off., 1949-1953, Vol. I, p. 854]
 -----------------------------------------------------------------
-Dear Reich Minister,</p>
+Dear <ent type = 'person'>Reich</ent> Minister,</p>
 
 <p>The measure being taken at present with mental patients of all
 kinds have caused a complete lack of confidence in justice among
@@ -739,11 +739,11 @@ similar way, as provided by the law for the prevention of
 Hereditarily affected Progeny?</p>
 
 <p>Letter from Dr. Wurm, of the Wuerttemberg Evangelical Provincial Church,
-to Reich Minister of interior Dr. Frick, September 5 1940
+to <ent type = 'person'>Reich</ent> Minister of interior Dr. <ent type = 'person'>Frick</ent>, September 5 1940
 [Nazi Conspiracy and Aggression - Washington, U.S Govt. Print. 
 Off., 1946, Supp. A, p. 1223]
 -----------------------------------------------------------------------
-Dear Reich Minister,</p>
+Dear <ent type = 'person'>Reich</ent> Minister,</p>
 
 <p>On July 19th I sent you a letter about the systematic extermination
 of lunatics, feeble-minded and epileptic persons. Since then this
@@ -756,17 +756,17 @@ by the measures ordered and that the feeling of legal insecurity
 is spreading which is regrettable from the point of view of national
 and state interest.</p>
 
-<p>Letter from Dr. Hilfrich, Bishop of Limburg, to the Reich Minister of
+<p>Letter from Dr. Hilfrich, Bishop of Limburg, to the <ent type = 'person'>Reich</ent> Minister of
 Justice, August 13 1941 
 [Trials of War Criminals Before the Nuernberg Military Tribunals - 
 Washington, U.S Govt. Print. Off., 1949-1953, Vol. I, p. 845-846]
 ---------------------------------------------------------------------
 Regarding the report submitted on July 16 by the Chairman of the Fulda
-Bishops' conference, Cardinal Dr. Bertram, I consider it my duty to
+Bishops' conference, Cardinal Dr. <ent type = 'person'>Bertram</ent>, I consider it my duty to
 present the following as a concrete illustration of destruction of
 so-called "useless life".</p>
 
-<p>About 8 Kilometers from Limburg in the little town of Hadamar, on a
+<p>About 8 Kilometers from Limburg in the little town of <ent type = 'person'>Hadamar</ent>, on a
 hill overlooking the town, there is an institution which had formerly
 served various purposes and of late had been used as a nursing home.
 This institution was renovated and furnished as a place in which, by
@@ -775,32 +775,32 @@ systematically practiced for months- approximately since February
 1941. This fact is, of course, known beyond the administrative
 district of Wiesbaden...</p>
 
-<p>Several times a week buses arrive in Hadamard with a considerable
+<p>Several times a week buses arrive in <ent type = 'person'>Hadamar</ent>d with a considerable
 number of such victims. School children of the vicinity know this
 vehicle and say "here comes the murder-box again". After the arrival
-of the vehicle, the citizens of Hadamar watch the smoke rise out of
+of the vehicle, the citizens of <ent type = 'person'>Hadamar</ent> watch the smoke rise out of
 the chimney...</p>
 
 <p>The effect of the principles at work here that children call each
 other names and say "you're crazy; you'll be sent to the baking oven
-in Hadamar"...</p>
+in <ent type = 'person'>Hadamar</ent>"...</p>
 
 <p>All God-fearing man consider this destruction of helpless beings a
 crass injustice...</p>
 
 <p>Officials of the State Police, it is said, are trying to suppress
-discussions of the Hadamar occurrences by means of severe threats...</p>
+discussions of the <ent type = 'person'>Hadamar</ent> occurrences by means of severe threats...</p>
 
-<p>I beg you most humbly, Herr Reich Minister, in the sense of the report
+<p>I beg you most humbly, Herr <ent type = 'person'>Reich</ent> Minister, in the sense of the report
 of the Episcopate of 16 July of this year, to prevent further
 transgressions of the Fifth Commandment of God.</p>
 
-<p>Letter from Reichsfuehrer-SS Himmler to SS-Oberfuehrer Brack, 
+<p>Letter from <ent type = 'person'>Reich</ent>sfuehrer-SS Himmler to SS-Oberfuehrer <ent type = 'person'>Brack</ent>, 
 19 December 1940
 [Trials of War Criminals Before the Nuernberg Military Tribunals - 
 Washington, U.S Govt. Print. Off., 1949-1953, Vol. I, p. 856]
 -----------------------------------------------------------------   
-Dear Brack,</p>
+Dear <ent type = 'person'>Brack</ent>,</p>
 
 <p>I hear there is great excitement on the Alb because of the Grafeneck
 Institution. 
@@ -821,28 +821,28 @@ Washington, U.S Govt. Print. Off., 1949-1953, Vol. X, p. 1195-1196]
 26 September 1941:
  .
  .
-h. Mental institutions in Army Group North. Russians regards the
+h. Mental institutions in Army Group North. <ent type = 'person'>Russ</ent>ians regards the
  feebleminded as sacred beings. Killing them is necessary,
  nontheless.</p>
 
 <p>MEDICAL EXPERIMENTS I: MASS STERILIZATION
 *****************************************</p>
 
-<p>Letter from SS-Oberfuehrer Brack to Reichsfuehrer-SS Himmler, June 23, 1942
+<p>Letter from SS-Oberfuehrer <ent type = 'person'>Brack</ent> to <ent type = 'person'>Reich</ent>sfuehrer-SS Himmler, June 23, 1942
 [Documents on the Holocaust - Edited by Y. Arad, Y. Gutman, A. Margaliot,
 NY, Ktav Pub. House in Association with Yad-Vashem, 1981, p. 272]
 --------------------------------------------------------------------
-Honorable Mr. Reichsfuehrer!</p>
+Honorable Mr. <ent type = 'person'>Reich</ent>sfuehrer!</p>
 
-<p>On instruction from Reichsleiter Bouhler I placed a part of my men at
-the disposal of Brigadefuehrer Globocnik some considerable time ago
+<p>On instruction from <ent type = 'person'>Reich</ent>sleiter Bouhler I placed a part of my men at
+the disposal of <ent type = 'person'><ent type = 'person'>Brigadefuehrer</ent> Globocnik</ent> some considerable time ago
 for his special task. Following a further request from him, I have
-now made available more personnel. On this occasion Brigadefuehrer 
+now made available more personnel. On this occasion <ent type = 'person'>Brigadefuehrer</ent> 
 Globocnik pressed the view that the whole action against the Jews 
 should be carried out as quickly as it is in any way possible, so
 that we will not some day be stuck in the middle should any kind
 of difficulty make it necessary to stop the action. you yourself,
-Mr. Reichsfuehrer, expressed the view to me at an earlier time that
+Mr. <ent type = 'person'>Reich</ent>sfuehrer, expressed the view to me at an earlier time that
 one must work as fast as possible, if only for reasons of concealment.
 Both views are more than justified according to my own experience,
 and basically they produce the same results. Nevertheless I beg to
@@ -867,22 +867,22 @@ unimportant at the present time whether those affected will then
 in the course of a few weeks or months realize by the effects that
 they are castrated.</p>
 
-<p>In the event, Mr. Reichsfuehrer, that you decide to choose these
-means in the interest of maintaining labor-material, Reichsleiter
+<p>In the event, Mr. <ent type = 'person'>Reich</ent>sfuehrer, that you decide to choose these
+means in the interest of maintaining labor-material, <ent type = 'person'>Reich</ent>sleiter
 Bouhler will be ready to provide the doctors and other personnel
 needed to carry out this work. He also instructed me to inform you
 that I should then order the required equipment as quickly as
 possible.</p>
 
-<p>Letter from Dr. Pokorny to Reichsfuehrer-SS Himmler, October 1941
+<p>Letter from Dr. <ent type = 'person'>Pokorny</ent> to <ent type = 'person'>Reich</ent>sfuehrer-SS Himmler, October 1941
 [Nazi Conspiracy and Aggression - Washington, U.S Govt. Print. 
 Off., 1946, Supp. A, p. 1279]
 -----------------------------------------------------------------
 Prompted by the thought that the enemy must not only be conquered but
 exterminated, I feel obliged to submit the following to you as the
-Reich Plenipotentiary for the Consolidation of German Folkdom:</p>
+<ent type = 'person'>Reich</ent> Plenipotentiary for the Consolidation of German Folkdom:</p>
 
-<p>Dr. Madous is publishing the results of his research into sterilization
+<p>Dr. <ent type = 'person'>Madous</ent> is publishing the results of his research into sterilization
 by medicaments (I enclose both works). In reading this article, I was
 struck by the enormous importance of this medicament in the present
 struggle of our people. Should it be possible to produce as soon as
@@ -894,7 +894,7 @@ captivity could be sterilized, so that they would be available for
 work but precluded from propagation, opens up the most far-reaching
 perspectives.</p>
 
-<p>Letter from SS-Oberfuehrer Gund to Reichsfuehrer-SS Himmler, 
+<p>Letter from SS-Oberfuehrer Gund to <ent type = 'person'>Reich</ent>sfuehrer-SS Himmler, 
 August 24, 1942
 [Trials of War Criminals Before the Nuernberg Military Tribunals - 
 Washington, U.S Govt. Print. Off., 1949-1953, Vol. I, p. 717]
@@ -917,28 +917,28 @@ research and human experiments could be undertaken by by an
 appropriately selected medical staff, basing their work on the
 Madaus animal experiments in cooperation with the pharmacological
 institute of the Faculty of Medicine of Vienna, on the persons of
-of the inmates of the Gypsy camp of Lackenbach in Lower Danube.</p>
+of the inmates of the <ent type = 'person'>Gypsy</ent> camp of Lackenbach in Lower Danube.</p>
 
-<p>Letter from Reichsfuehrer-SS Himmler to SS-Oberfuehrer Brack, 11 August 
+<p>Letter from <ent type = 'person'>Reich</ent>sfuehrer-SS Himmler to SS-Oberfuehrer <ent type = 'person'>Brack</ent>, 11 August 
 1942
 [Trials of War Criminals Before the Nuernberg Military Tribunals - 
 Washington, U.S Govt. Print. Off., 1949-1953, Vol. I, p. 722]
 -----------------------------------------------------------
-Dear Brack,</p>
+Dear <ent type = 'person'>Brack</ent>,</p>
 
 <p>It is only today that I have the opportunity of acknowledging the
 receipt of your letter of June 23. I am positively interested in
 seeing the sterilization by X-rays tried out at least once in one camp
 in a series of experiments.</p>
 
-<p>Letter from Blankenburg to Reichsfuehrer-SS Himmler, 29 April 1944
+<p>Letter from Blankenburg to <ent type = 'person'>Reich</ent>sfuehrer-SS Himmler, 29 April 1944
 [Trials of War Criminals Before the Nuernberg Military Tribunals - 
 Washington, U.S Govt. Print. Off., 1949-1953, Vol. I, 723]
 ------------------------------------------------------------------------
-By order of Reichsleiter Bouhler I submit to you as an enclosure a work
-of Dr. Horst Schumann on the influence of X-rays on human genital glands.</p>
+By order of <ent type = 'person'>Reich</ent>sleiter Bouhler I submit to you as an enclosure a work
+of Dr. <ent type = 'person'>Horst Schumann</ent> on the influence of X-rays on human genital glands.</p>
 
-<p>Previously you have asked Oberfuehrer Brack to perform this work, and
+<p>Previously you have asked Oberfuehrer <ent type = 'person'>Brack</ent> to perform this work, and
 you supported it by providing the adequate material in the concentration
 camp Auschwitz. I point especially to the second part of this work,
 which shows that by those means castration of males is almost impossible
@@ -948,13 +948,13 @@ can be performed more reliably and quicker than castration by X-rays.</p>
 
 <p>Soon I will be able to submit a continuation of this work to you.</p>
 
-<p>Letter from SS-Obersturmbannfuehrer Brandt to Prof. Clauberg, 10 July 1942
+<p>Letter from SS-<ent type = 'person'>Obersturmbannfuehrer <ent type = 'person'>Brandt</ent></ent> to Prof. <ent type = 'person'>Clauberg</ent>, 10 July 1942
 [Trials of War Criminals Before the Nuernberg Military Tribunals - 
 Washington, U.S Govt. Print. Off., 1949-1953, Vol. I, p. 729]
 --------------------------------------------------------------------
-Today the Reich Leader SS charged me with transmitting to you his wish
+Today the <ent type = 'person'>Reich</ent> Leader SS charged me with transmitting to you his wish
 that you go to Ravensbrueck after you have had another talk with
-SS-Obergruppenfuehrer Pohl and the camp physician of the women's
+SS-<ent type = 'person'><ent type = 'person'>Obergruppenfuehrer</ent> Pohl</ent> and the camp physician of the women's
 concentration camp Ravensbrueck, in order to perform the sterilization
 of Jewesses according to your method...</p>
 
@@ -965,23 +965,23 @@ changes have taken place. In some cases a practical experiment might
 be arranged by locking up a Jewess and a Jew together for a certain
 period and then seeing what results are achieved.</p>
 
-<p>Memorandum of SS-Obersturmbannfuehrer Brandt on discussion between
-Himmler, Gebhart, Gluecks, and Clauberg concerning sterilization
+<p>Memorandum of SS-<ent type = 'person'>Obersturmbannfuehrer <ent type = 'person'>Brandt</ent></ent> on discussion between
+Himmler, <ent type = 'person'>Gebhart</ent>, Gluecks, and <ent type = 'person'>Clauberg</ent> concerning sterilization
 experiments conducted on Jewesses
 [Trials of War Criminals Before the Nuernberg Military Tribunals - 
 Washington, U.S Govt. Print. Off., 1949-1953, Vol. I, p. 728]
 ------------------------------------------------------------------
-    Fuehrer Headquarters, July 1942</p>
+    <ent type = 'person'>Fuehrer</ent> Headquarters, July 1942</p>
 
-<p>On 7 July 1942 a discussion took place between the Reich Leader SS,
-SS-Brigadefuehrer Professor Dr. Gebhart, SS-Brigadefuehrer Gluecks,
-and SS-Brigadefuehrer Clauberg, Koenigshette. The topic of the
-discussion was the sterilization of Jewesses. The Reich Leader
-SS has promised Brigadefuehrer Professor Clauberg that Auschwitz
+<p>On 7 July 1942 a discussion took place between the <ent type = 'person'>Reich</ent> Leader SS,
+SS-<ent type = 'person'>Brigadefuehrer</ent> Professor Dr. <ent type = 'person'>Gebhart</ent>, SS-<ent type = 'person'><ent type = 'person'>Brigadefuehrer</ent> Gluecks</ent>,
+and SS-<ent type = 'person'>Brigadefuehrer</ent> <ent type = 'person'>Clauberg</ent>, Koenigshette. The topic of the
+discussion was the sterilization of Jewesses. The <ent type = 'person'>Reich</ent> Leader
+SS has promised <ent type = 'person'>Brigadefuehrer</ent> Professor <ent type = 'person'>Clauberg</ent> that Auschwitz
 concentration camp will be at his disposal for his experiments on
 human beings and animals. By means of some fundamental experiments,
 a method should be found which would lead to sterilization of persons
-without their knowledge. The Reich Leader SS wanted to get another
+without their knowledge. The <ent type = 'person'>Reich</ent> Leader SS wanted to get another
 report as soon as the result of these experiments was known, so
 that the sterilization of Jewesses could then be carried out in 
 actuality.</p>
@@ -990,17 +990,17 @@ actuality.</p>
 Dr. Hohlfelder, an X-ray specialist in Germany, what way sterilization
 of men could be achieved by X-ray treatment.</p>
 
-<p>The Reich Leader SS called the special attention of all gentlemen
+<p>The <ent type = 'person'>Reich</ent> Leader SS called the special attention of all gentlemen
 present to the fact that the matter involved was most secret and
 should be discussed only with the officers in charge and that
 the persons present at the experiments had to pledge secrecy.</p>
 
-<p>Letter from Professor Clauberg to Himmler, June 7 1943, on his
+<p>Letter from Professor <ent type = 'person'>Clauberg</ent> to Himmler, June 7 1943, on his
 research concerning sterilization of women
 [Trials of War Criminals Before the Nuernberg Military Tribunals - 
 Washington, U.S Govt. Print. Off., 1949-1953, Vol 1, p. 730]
 ----------------------------------------------------------------
-Dear Reich Leader,</p>
+Dear <ent type = 'person'>Reich</ent> Leader,</p>
 
 <p>Today I am fulfilling my obligation to report to you from time to
 time about the state of my research work...</p>
@@ -1018,7 +1018,7 @@ method is "as good as perfected" this means:</p>
  of our regular eugenic sterilization and could thus replace
  the operation.</p>
 
-<p>As to the question which you, Reich Leader, asked me almost a
+<p>As to the question which you, <ent type = 'person'>Reich</ent> Leader, asked me almost a
 one year ago, i.e., how much time would probably be required
 to sterilize 1,000 women by using this method. Today I can
 answer you with regard to the future as follows:</p>
@@ -1036,33 +1036,33 @@ not far off when I can say:</p>
 *********************************************************</p>
 
 <p>Letter from SS-Standartenfuehrer Sievers to SS-Obersturmbannfuehrer
-Dr. Brandt, November 2 1942
+Dr. <ent type = 'person'>Brandt</ent>, November 2 1942
 [Trial of the Major War Criminals Before the International Military
 Tribunal, Vol. XX, p. 520]
 -------------------------------------------------------------------
-Dear Comarade Brandt,</p>
+Dear <ent type = 'person'>Comarade <ent type = 'person'>Brandt</ent></ent>,</p>
 
-<p>As you know, the Reichsfuehrer-SS has directed that
-SS-Hauptsturmfuehrer Prof. Dr. Hirt be supplied with everything
+<p>As you know, the <ent type = 'person'>Reich</ent>sfuehrer-SS has directed that
+SS-Hauptsturmfuehrer Prof. Dr. <ent type = 'person'>Hirt</ent> be supplied with everything
 needed for his research work. For certain anthropological
-researches - I already reported to the Reichsfuehrer-SS on
+researches - I already reported to the <ent type = 'person'>Reich</ent>sfuehrer-SS on
 them - 150 skeletons of prisoners, or rather Jews, are
 required, which are to be supplied by the KL Auschwitz.</p>
 
-<p>Letter from Graum to Reichsfuehrer-SS Himmler, June 1 1943
+<p>Letter from <ent type = 'person'>Graum</ent> to <ent type = 'person'>Reich</ent>sfuehrer-SS Himmler, June 1 1943
 [Nazi Conspiracy and Aggression - Washington, U.S Govt. Print. 
 Off., 1946, Supp. A, p. 1273]
 ------------------------------------------------------------------
-Dear Reichsfuehrer,</p>
+Dear <ent type = 'person'>Reich</ent>sfuehrer,</p>
 
-<p>The fuehrer's Commissioner-General, SS Brigadefuehrer Professor Dr. Brandt,
+<p>The fuehrer's Commissioner-General, SS <ent type = 'person'>Brigadefuehrer</ent> Professor Dr. <ent type = 'person'>Brandt</ent>,
 called me with the request that I should assist him by placing prisoners
 at his disposal for research work into the cause of contagious 
 jaundice (Hepatitis epidemica) which he was furthering considerably.</p>
 
 <p>The work has been carried out up to now by a medical captain, Dr. Dohmen,
 within the framework of the research place of the army medical inspectorate,
-with the participation of the Robert Koch institute. It has up to now led
+with the participation of the <ent type = 'person'>Robert Koch</ent> institute. It has up to now led
 to the result, in agreement with the result of other German research
 workers, that contagious jaundice is not carried by bacteria but by a
 virus. In order to increase our knowledge, which is based up to now
@@ -1070,41 +1070,41 @@ only on vaccination experiments from men to animals, the reverse way
 is now necessary, namely the vaccination of the cultivated virus germ
 into humans. One must reckon on cases of death.</p>
 
-<p>Letter to SS-Obergruppenfuehrer Pohl, 19 May 1944
+<p>Letter to SS-<ent type = 'person'><ent type = 'person'>Obergruppenfuehrer</ent> Pohl</ent>, 19 May 1944
 [Nazi Conspiracy and Aggression - Washington, U.S Govt. Print. 
 Off., 1946, Supp. A, p. 1270-1271]
 -------------------------------------------------------------------
-Dear Obergruppenfuehrer,</p>
+Dear <ent type = 'person'>Obergruppenfuehrer</ent>,</p>
 
 <p>Following our application of 30.9.43, you gave me your authorization on the 
 25.10.43 for the carrying out of experiments with a view to producing a
 new kind of spotted fever serum and transferred 100 suitable prisoners
-to Natzweiler for this purpose. It has been possible to carry out the
+to <ent type = 'person'>Natzweiler</ent> for this purpose. It has been possible to carry out the
 experiments very satisfactorily so far with the help of the chief of
-Department D III, SS Standartenfuehrer Dr. Dolling commissioned by you.</p>
+Department D III, SS Standartenfuehrer Dr. <ent type = 'person'>Dolling</ent> commissioned by you.</p>
 
-<p>Letter from SS-Sturmbannfuehrer Brandt to SS-Obersturmbannfuehrer Sievers,
+<p>Letter from SS-Sturmbannfuehrer <ent type = 'person'>Brandt</ent> to SS-<ent type = 'person'>Obersturmbannfuehrer Sievers</ent>,
 21 March 1942
 [Trials of War Criminals Before the Nuernberg Military Tribunals - 
 Washington, U.S Govt. Print. Off., 1949-1953, Vol. I, p. 144]
 ------------------------------------------------------------------------
 Reference is made to the subatmospheric pressure experiments which are
 being carried out on concentration camp inmates in the Dachau camp by
-the air force. The Reich Leader-SS has approved the experiments under
-the conditions that SS-Untersturmfuehrer Dr. Rascher who is an 
-Obersturmfuehrer in the air-force, will take part in them.</p>
+the air force. The <ent type = 'person'>Reich</ent> Leader-SS has approved the experiments under
+the conditions that SS-Untersturmfuehrer Dr. <ent type = 'person'>Rascher</ent> who is an 
+<ent type = 'person'>Obersturmfuehrer</ent> in the air-force, will take part in them.</p>
 
-<p>Letter from SS-Untersturmfuehrer Rascher to Reichsfuehrer-SS Himmler, 
+<p>Letter from SS-Untersturmfuehrer <ent type = 'person'>Rascher</ent> to <ent type = 'person'>Reich</ent>sfuehrer-SS Himmler, 
 5 April 1942
 [Trials of War Criminals Before the Nuernberg Military Tribunals - 
 Washington, U.S Govt. Print. Off., 1949-1953, Vol. I, p. 144-147]
 ------------------------------------------------------------------------
-Highly esteemed Reich Leader:</p>
+Highly esteemed <ent type = 'person'>Reich</ent> Leader:</p>
 
 <p>Enclosed is an interim report on the low-pressure experiments so far
 conducted in the concentration camp of Dachau...</p>
 
-<p>Only continuous experiments at altitudes higher than 10.5 Km resulted
+<p>Only continuous experiments at altitudes higher than 10.5 <ent type = 'person'>Km</ent> resulted
 in death. These experiments showed that breathing stopped after about
 30 minutes, while in two cases the electrocardiographically charted
 action of the heart continued for another 20 minutes.</p>
@@ -1112,7 +1112,7 @@ action of the heart continued for another 20 minutes.</p>
 <p>The third experiment of this type took such an extraordinary course
 that I called an SS physician of the camp as a witness, since I had
 worked on these experiments all by myself. It was a continuous
-experiment without oxygen at a height of 12 Km. conducted on a 37-year
+experiment without oxygen at a height of 12 <ent type = 'person'>Km</ent>. conducted on a 37-year
 old Jew in good general condition. Breathing continued up to 30
 minutes. After 4 minutes the experimental subject began to perspire
 and to wiggle his head, after 5 minutes cramps occurred, between 6
@@ -1132,12 +1132,12 @@ coming to a complete standstill 8 minutes later. A heavy subarchnoid
 oedema was found in the brain. In the veins and arteries of the brain
 a considerable quantity of air was discovered.</p>
 
-<p>Letter from SS-Untersturmfuehrer Rascher to Reichsfuehrer-SS Himmler, 
+<p>Letter from SS-Untersturmfuehrer <ent type = 'person'>Rascher</ent> to <ent type = 'person'>Reich</ent>sfuehrer-SS Himmler, 
 11 May 1942
 [Trials of War Criminals Before the Nuernberg Military Tribunals - 
 Washington, U.S Govt. Print. Off., 1949-1953, Vol. I, p. 152-155]
 -------------------------------------------------------------------
-Highly esteemed Reich Leader,</p>
+Highly esteemed <ent type = 'person'>Reich</ent> Leader,</p>
 
 <p>Enclosed I am forwarding a short summary on the principle experiments
 conducted up to date...</p>
@@ -1146,7 +1146,7 @@ conducted up to date...</p>
 committed race pollution were used. The question of the formation of 
 embolism was investigated in 10 cases. Some of the experimental subjects 
 died during a continued high-altitude experiment; for instance, after
-one-half hour at the height of 12 Km. After the skull had been opened
+one-half hour at the height of 12 <ent type = 'person'>Km</ent>. After the skull had been opened
 under water an ample amount of air embolism was found in the brain
 vessels and, in part, free air in the brain ventricles.</p>
 
@@ -1164,10 +1164,10 @@ vessels, and vessels of the liver and the intestines, etc.</p>
 practically all vessels even while pure oxygen is being inhaled.
 One experimental subject was made to breathe pure oxygen for
 2.5 hours before the experiment started. After 6 minutes at a
-height of 20 Km, he died and at dissection also showed ample
+height of 20 <ent type = 'person'>Km</ent>, he died and at dissection also showed ample
 air embolism, as was the case in all other experiments.</p>
 
-<p>Report by SS-Untersturmfuehrer Rascher about intense cooling experiments
+<p>Report by SS-Untersturmfuehrer <ent type = 'person'>Rascher</ent> about intense cooling experiments
 in Dachau concentration camps, 10 September 1942
 [Trials of War Criminals Before the Nuernberg Military Tribunals - 
 Washington, U.S Govt. Print. Off., 1949-1953, Vol. I, p. 220]
@@ -1187,7 +1187,7 @@ brain stem and the back of the head were also chilled. Autopsies of
 of such fatal cases always revealed large amounts of free blood, up
 to one-half litter, in the cranial cavity.</p>
 
-<p>Report by Prof. Dr. Holzloehner, Dr. Rascher, and Dr. Finke, regarding
+<p>Report by Prof. Dr. Holzloehner, Dr. <ent type = 'person'>Rascher</ent>, and Dr. <ent type = 'person'>Finke</ent>, regarding
 cooling experiments, 10 October 1942
 [Trials of War Criminals Before the Nuernberg Military Tribunals - 
 Washington, U.S Govt. Print. Off., 1949-1953, Vol. I, p. 226-243]
@@ -1206,32 +1206,32 @@ marked sinking of the body temperature it suddenly ceased. These
 cases ended fatally, without any successful results from resuscitation
 efforts.</p>
 
-<p>Letter from SS-Untersturmfuehrer Dr. Rascher to SS-Sturmbannfuehrer
-Rudolph Brandt, October 3 1942
+<p>Letter from SS-Untersturmfuehrer Dr. <ent type = 'person'>Rascher</ent> to SS-Sturmbannfuehrer
+Rudolph <ent type = 'person'>Brandt</ent>, October 3 1942
 [Trials of War Criminals Before the Nuernberg Military Tribunals - 
 Washington, U.S Govt. Print. Off., 1949-1953, Vol. I, p. 221-222]
 ----------------------------------------------------------------------
-The Reich leader SS wants to be informed of the state of the
+The <ent type = 'person'>Reich</ent> leader SS wants to be informed of the state of the
 experiments. I can announce that the experiments have been
 concluded, with the exception of those on warming with body
 heat. The final report will be ready in about 5 days. Prof.
 Holzloehner, for reasons I cannot fathom, does not himself
-want to make the report to the Reich Leader Himmler and has
+want to make the report to the <ent type = 'person'>Reich</ent> Leader Himmler and has
 asked me to attend to it. This report must be made before
 20 October, because the great Luftwaffe [German air-force]
 conference on freezing takes place on Nuernberg on 25 October.
 The report on the results of our research must be made there,
 to assure that they be used in time for the troops. May I ask 
-you to arrange for a decision from the Reich Leader regarding
+you to arrange for a decision from the <ent type = 'person'>Reich</ent> Leader regarding
 the final report to him, and the submission to him of the
 relevant material? </p>
 
 <p>Today I received your letter of 22 September 1942, in which the
-Reich Leader orders that the experiments on warming through
+<ent type = 'person'>Reich</ent> Leader orders that the experiments on warming through
 body heat must absolutely be conducted. Because of incomplete
 address it was delayed. Today I asked Obersturmbannfuehrer
 Sievers to send a telegram to the camp commander immediately,
-to the effect that four Gypsy women be procured at once
+to the effect that four <ent type = 'person'>Gypsy</ent> women be procured at once
 from another camp. Moreover, I asked SS Obersturmbannfuehrer
 Sievers to take steps to have the low pressure chamber ready
 for use.</p>
@@ -1239,7 +1239,7 @@ for use.</p>
 <p>THE ECONOMIC PLUNDER
 *********************</p>
 
-<p>Letter from SS-Brigadefuehrer Frank to chief of administration of 
+<p>Letter from SS-<ent type = 'person'>Brigadefuehrer</ent> <ent type = 'person'>Frank</ent> to chief of administration of 
 Auschwitz, concerning the utilization and distribution of "evacuated" 
 Jews, 26 September 1942
 [Trials of War Criminals Before the Nuernberg Military Tribunals - 
@@ -1247,46 +1247,46 @@ Washington, U.S Govt. Print. Off., 1949-1953, Vol. XIII, p. 256-258]
 ---------------------------------------------------------------------
 e) Women's clothing and women underwear including footwear, children's
 clothing and children's underwear including footwear have to be handed 
-over to the Volksdeutsche Mittelstelle against payment...</p>
+over to the <ent type = 'person'>Volk</ent>sdeutsche Mittelstelle against payment...</p>
 
 <p>f) Featherbeads, quilts, woolen blankets, cloth for suits, shawls,
 umbrellas, walking sticks, thermos flasks, earflaps, baby carriages,
 combs, handbags, leather belts, shopping baskets, tobacco pipes,
 sun glasses, mirrors, table knives, forks and spoons, knapsacks, and
 suitcases made from leather or artificial material are to be delivered
-to the Volksdeutsche Mittelstelle. The question of payment will be
+to the <ent type = 'person'>Volk</ent>sdeutsche Mittelstelle. The question of payment will be
 decided later...</p>
 
 <p>h) Spectacles and eyeglasses of every kind are to be handed in to
 the medical office for utilization. (Spectacles with golden frames
 have to be handed in without glasses together with the rare metals).</p>
 
-<p>Letter from prison warden Guenther to the general commissar of white
+<p>Letter from prison warden <ent type = 'person'>Guenther</ent> to the general commissar of white
 Ruthenia, Minsk, 31 May 1943
 [Nazi Conspiracy and Aggression - Washington, U.S Govt. Print. 
 Off., 1946, Vol. VIII, p. 208]
 -----------------------------------------------------------------------
-Since that time all German and Russian Jews who were turned to us,
+Since that time all German and <ent type = 'person'>Russ</ent>ian Jews who were turned to us,
 had their golden bridgework, crowns and fillings pulled or broken
 out. This happens 1 to 2 hours before the respective action.</p>
 
-<p>Since April 13 1943, 516 German and Russian Jews have been finished
+<p>Since April 13 1943, 516 German and <ent type = 'person'>Russ</ent>ian Jews have been finished
 off. On the basis of a definitive investigation, gold was taken
 only in two actions, on 14 April 1943 from 172, and on 27 April
 1943 from 164 Jews. About 50% of the Jews had gold teeth, bridgework
-or fillings. Hauptscharfuehrer Ruebe of the security police was always 
+or fillings. <ent type = 'person'>Hauptscharfuehrer Ruebe</ent> of the security police was always 
 personally present and he took the gold along too.</p>
 
-<p>Letter from SS-Gruppenfuehrer Katzmann to SS-Obergruppenfuehrer Kruger,
+<p>Letter from SS-Gruppenfuehrer Katzmann to SS-<ent type = 'person'>Obergruppenfuehrer</ent> Kruger,
 regarding the "solution of the Jewish problem in Galicia", and giving
 a breakdown of property taken from the Jews, June 30, 1943
 [Documents on the Holocaust - Edited by Y. Arad, Y. Gutman, A. Margaliot,
 NY, Ktav Pub. House in Association with Yad-Vashem, 1981, p. 335-341]
 -------------------------------------------------------------------
 Valuables were secured and handed over to the special staff 
-"Reinhard". Apart from furniture and large quantities of textile,
+"<ent type = 'person'>Reinhard</ent>". Apart from furniture and large quantities of textile,
 etc., the following were confiscated and delivered to special staff
-"Reinhard":</p>
+"<ent type = 'person'>Reinhard</ent>":</p>
 
 <p>As of June 30, 1943:
  .
@@ -1297,7 +1297,7 @@ etc., the following were confiscated and delivered to special staff
  .
  .</p>
 
-<p>Report by SS-Obergruppenfuehrer Pohl to Himmler's office, February
+<p>Report by SS-<ent type = 'person'><ent type = 'person'>Obergruppenfuehrer</ent> Pohl</ent> to Himmler's office, February
 6 1943, listing items plundered from Jewish victims and delivered
 to various Nazi organizations
 [Trials of War Criminals Before the Nuernberg Military Tribunals - 
@@ -1306,7 +1306,7 @@ Washington, U.S Govt. Print. Off., 1949-1953, Vol. V, p. 699-703]
 Report on the realization of textile-salvage from the Jewish
 resettlement up to the present date...</p>
 
-<p>1. Reich ministry of economics</p>
+<p>1. <ent type = 'person'>Reich</ent> ministry of economics</p>
 
 <p>Men's old clothing without underwear 97,000 sets
 Women's old clothing without underwear   76,000 sets
@@ -1346,9 +1346,9 @@ Shoes -  111,000
 <p>    Grand Total 825 cars</p>
 
 <p>Report by SS-Grupenfuehrer Globocnik listing items plundered
-from the Jewish victims of "Operation Reinhard" and delivered to
+from the Jewish victims of "Operation <ent type = 'person'>Reinhard</ent>" and delivered to
 various Nazi organizations. Attached is a detailed list, prepared
-by SS-Sturmbannfuehrer Wippern on February 27, 1943.
+by SS-<ent type = 'person'>Sturmbannfuehrer Wippern</ent> on February 27, 1943.
 [Trials of War Criminals Before the Nuernberg Military Tribunals - 
 Washington, U.S Govt. Print. Off., 1949-1953, Vol. V, p. 704-709]
 -----------------------------------------------------------------
@@ -1426,14 +1426,14 @@ Valuation of Jewish belongings delivered up to 3 February 1943</p>
 *********</p>
 
 <p>Report entitled "Resettlement of Jews" written by SS-Sturmbannfuehrer 
-Gricksch for SS-Col. von Herff and Reichsfuehrer-SS Himmler, after 
+Gricksch for SS-Col. von Herff and <ent type = 'person'>Reich</ent>sfuehrer-SS Himmler, after 
 inspection of Auschwitz camp on 14-16 May 1943. 
-[Hitler and the Final Solution - G. Fleming, University of California
+[<ent type = 'person'>Hitler</ent> and the Final Solution - G. Fleming, University of California
 Press, 1984, p. 142-143]
 ------------------------------------------------------------------
 The Auschwitz camp plays a special role in the resolution of the Jewish
 question. The most advance methods permit the execution of the
-Fuehrer-order in the shortest possible time and without arousing much
+<ent type = 'person'>Fuehrer</ent>-order in the shortest possible time and without arousing much
 attention. The so-called "resettlement action" runs the following
 course: The Jews arrive in special trains (freight cars) toward
 evening and are driven on special tracks to areas of the camp
@@ -1479,8 +1479,8 @@ by Jewish prisoners, who never step outside this camp again.</p>
 Current capacity of the "resettlement action" ovens: 10,000 in 24
 hours.</p>
 
-<p>Notes From Diary of SS-Doctor Kremer, while in Auschwitz
-['The Good Old Days' - E. Klee, W. Dressen, V. Riess, The Free Press, 
+<p>Notes From Diary of SS-Doctor <ent type = 'person'>Kremer</ent>, while in Auschwitz
+['The Good Old Days' - E. Klee, W. Dressen, V. <ent type = 'person'>Riess</ent>, The Free Press, 
 NY, 1988, p. 256-268]
 ----------------------------------------------------------------
 2 September 1942</p>
@@ -1527,10 +1527,10 @@ previously photographed, severely atrophied Jewish prisoner aged
 eighteen. Fixed as always, liver and spleen in Carnoy and pancreas in
 Zenker (Prisoner No. 68,030).</p>
 
-<p>Letter from SS-Obersturmbannfuehrer Rodl to the inspector of 
-concentration camps, SS-Obersturmbannfuehrer Liebehenschel, 14 
+<p>Letter from SS-<ent type = 'person'>Obersturmbannfuehrer Rodl</ent> to the inspector of 
+concentration camps, SS-<ent type = 'person'>Obersturmbannfuehrer Liebehenschel</ent>, 14 
 November 1941
-[Hitler and the Final Solution - G. Fleming, University of California
+[<ent type = 'person'>Hitler</ent> and the Final Solution - G. Fleming, University of California
 Press, 1984, p. 99]
 -------------------------------------------------------------------- 
 The Commandant's office has submitted to date two lists recommending
@@ -1543,7 +1543,7 @@ under "reasons and comments of immediate superior" there should be
 specified "execution, i.e., special action" or whether a general,
 routine reason should be given.</p>
 
-<p>Letter from Bischoff, head of construction management at Auschwitz, to
+<p>Letter from <ent type = 'person'>Bischoff</ent>, head of construction management at Auschwitz, to
 the SS economic and administrative head office in Berlin, regarding
 construction at Auschwitz, 13 October 1942
 [Auschwitz: Technique and operation of the gas chambers - J.C Pressac,
@@ -1553,8 +1553,8 @@ As regards the construction of the new crematorium building, it was
 necessary to start immediately in July 1942 because of the situation
 caused by the special actions.</p>
 
-<p>Letter from SS-Sturmbannfuehrer Bischoff, of the Auschwitz construction
-department, to SS General Kammler, January 29, 1943
+<p>Letter from SS-Sturmbannfuehrer <ent type = 'person'>Bischoff</ent>, of the Auschwitz construction
+department, to SS General <ent type = 'person'>Kammler</ent>, January 29, 1943
 [The Final Solution: The Attempt to Exterminate the Jews of Europe,
 1939-1945 - G. Reitlinger, South Brunswick, T. Yosellof, 1968, p. 158-159]
 --------------------------------------------------------------------
@@ -1566,7 +1566,7 @@ cellar can be used for that purpose. The ventilation plant has
 been held up by restrictions on rail transport, but the installation
 should be ready by February 20th.</p>
 
-<p>Letter from SS-Sturmbannfuehrer Bischoff, March 6 1943
+<p>Letter from SS-Sturmbannfuehrer <ent type = 'person'>Bischoff</ent>, March 6 1943
 [Auschwitz: Technique and operation of the gas chambers - J.C Pressac,
 the Beate Klarsfeld Foundation, NY, 1989, p. 434]
 -----------------------------------------------------------------
@@ -1576,7 +1576,7 @@ the identical pattern and dimensions as the cellar door of
 Krematorium II which is situated opposite, with peephole of
 double 8 mm glass, with rubber sealing strip and frame.</p>
 
-<p>Letter from SS-Sturmbannfuehrer Jahrling to SS-General Kammler 
+<p>Letter from SS-<ent type = 'person'>Sturmbannfuehrer Jahrling</ent> to SS-General <ent type = 'person'>Kammler</ent> 
 estimating the number of corpses that can be disposed off in 24 hours 
 in the Auschwitz crematoriums, June 25 1943
 [Auschwitz: Technique and operation of the gas chambers - J.C Pressac,
@@ -1619,7 +1619,7 @@ Origin WVHA [SS economic administration head office]</p>
 Concentration camp</p>
 
 <p>The movement authorization for one 5 Ton truck with trailer to
-Dessau and back in order to pick up material for the resettlement
+<ent type = 'person'>Dessau</ent> and back in order to pick up material for the resettlement
 of the Jews, is hereby accorded.
 The authorization is to be given to the driver.</p>
 
@@ -1633,7 +1633,7 @@ The authorization is to be given to the driver.</p>
 
 <p>Head of the radio station</p>
 
-<p>Letter from SS-Sturmbannfuehrer Jahrling to Topf &amp; Sons, March 6 1943
+<p>Letter from SS-<ent type = 'person'>Sturmbannfuehrer Jahrling</ent> to Topf &amp; Sons, March 6 1943
 [Auschwitz: Technique and operation of the gas chambers - J.C Pressac,
 the Beate Klarsfeld Foundation, NY, 1989, p. 221]
 ---------------------------------------------------------------------
@@ -1646,7 +1646,7 @@ no reason for a morgue to have one near by. Pressac contains numerous
 other documents attesting to the design and use of the Auschwitz gas
 chambers. Even the fake shower heads are mentioned].</p>
 
-<p>Subject: KL Auschwitz Krematorien II and III</p>
+<p>Subject: KL <ent type = 'person'>Auschwitz Krematorien II</ent> and III</p>
 
 <p>In accordance with your suggestion, the service agrees that cellar 1
 should be preheated with the air coming from the rooms of the 3
@@ -1660,11 +1660,11 @@ triplicate detailed quote for supply and installation.</p>
 for the modification of the air-extraction installation in the
 undressing room.</p>
 
-<p>KRISTALLNACHT
+<p><ent type = 'person'>KRISTALLNACHT</ent>
 *************</p>
 
-<p>Message from SS-Grupenfuehrer Heydrich to all State Police Main
-Offices and Field Offices, November 10 1938 (before "Kristallnacht",
+<p>Message from SS-Grupenfuehrer <ent type = 'person'>Heydrich</ent> to all State Police Main
+Offices and Field Offices, November 10 1938 (before "<ent type = 'person'>Kristallnacht</ent>",
 the "night of broken glass", the first large scale pogrom 
 against the Jews)
 [Nazi Conspiracy and Aggression - Washington, U.S Govt. Print. 
@@ -1701,8 +1701,8 @@ transfer of the Jews to the camps...</p>
 *******************</p>
 
 <p>Excerpts from Verdict of the SS Court in Munich, against 
-SS-Untersturmfuehrer Max Taubner, 24 of May 1943
-['The Good Old Days' - E. Klee, W. Dressen, V. Riess, The Free Press, 
+SS-Untersturmfuehrer <ent type = 'person'>Max Taubner</ent>, 24 of May 1943
+['The Good Old Days' - E. Klee, W. Dressen, V. <ent type = 'person'>Riess</ent>, The Free Press, 
 NY, 1988, p, 196-207]
 -----------------------------------------------------------------</p>
 
@@ -1718,7 +1718,7 @@ himself be drawn into committing cruel actions in Alexandriya which
 are unworthy of a German man and an SS-officer. These excesses cannot
 be justified, either, as the accused would like to, as retaliation
 for the pain that the Jews have caused the German people. It is not
-the German way to apply Bolshevic methods during the necessary
+the German way to apply <ent type = 'person'>Bolshevic</ent> methods during the necessary
 extermination of the worst enemy of our people. In so doing the
 conduct of the accused gives rise to considerable concern. The
 accused allowed his men to act with such vicious brutality that
@@ -1728,14 +1728,14 @@ they conducted themselves under his command like a savage horde...</p>
 taken, by having these developed in photographic shops and showing
 them to his wife and friends, the accused is guilty of disobedience.
 Such pictures could pose the gravest risks to the security of the
-Reich if they fell into the wrong hands...</p>
+<ent type = 'person'>Reich</ent> if they fell into the wrong hands...</p>
 
 <p>Dismissal of the case against the remaining parties, 1 June 1943</p>
 
 <p>The following has been established on the basis of the main trial
-of SS-Untersturmfuehrer Max Taubner...
+of SS-Untersturmfuehrer <ent type = 'person'>Max Taubner</ent>...
 The following men were party to the punishable acts committed or
-ordered by SS-Untersturmfuehrer Max Taubner:</p>
+ordered by SS-Untersturmfuehrer <ent type = 'person'>Max Taubner</ent>:</p>
 
 <p>1. SS-Unterscharfuehrer Walter Muller particularly stood out during
 the shootings of Jews with the brutality with which he tore small
@@ -1749,7 +1749,7 @@ shot them with a pistol.</p>
 
 <p>Allowances have been made for the fact that the accused were, without
 exception, acting on the orders of and under the responsibility
-of Untersturmfuehrer Max Taubner. In this respect, their own 
+of Untersturmfuehrer <ent type = 'person'>Max Taubner</ent>. In this respect, their own 
 culpability may be described as slight...</p>
 
 <p>The cases against these accused have therefore been dismissed.</p>
@@ -1757,7 +1757,7 @@ culpability may be described as slight...</p>
 <p>MISC
 ****</p>
 
-<p>Memorandum from the Ministry of Justice to Hitler, regarding prosecution
+<p>Memorandum from the Ministry of Justice to <ent type = 'person'>Hitler</ent>, regarding prosecution
 of a Jewess for selling her mother milk to a German pediatrician
 [Trials of War Criminals Before the Nuernberg Military Tribunals - 
 Washington, U.S Govt. Print. Off., 1949-1953, Vol. III, p. 701-702]
@@ -1772,38 +1772,38 @@ of the accused is an insult as well. Relevant charges, however, have
 not been applied for, so that the parents, who are unaware of the
 true facts, need not subsequently be worried.</p>
 
-<p>I shall discuss with the Reich health leader the racial hygienic
+<p>I shall discuss with the <ent type = 'person'>Reich</ent> health leader the racial hygienic
 aspect of the case.</p>
 
 <p>     R. Rothenberger.</p>
 
 <p>Death to the "Race Defiler":
 Excerpts from Opinion and Sentence of the Nuernberg Special Court in
-the Katzenberger Case
+the <ent type = 'person'>Katzenberger</ent> Case
 [Trials of War Criminals Before the Nuernberg Military Tribunals - 
 Washington, U.S Govt. Print. Off., 1949-1953, Vol. III, 653-663]
 --------------------------------------------------------------------
 Findings:</p>
 
-<p>1. The defendant Katzenberger is fully Jewish and a German national; he
+<p>1. The defendant <ent type = 'person'>Katzenberger</ent> is fully Jewish and a German national; he
  is a member of the Jewish religious community...</p>
 
-<p>2. Irene Seiler is a German citizen of German blood...</p>
+<p>2. <ent type = 'person'>Irene <ent type = 'person'>Seiler</ent></ent> is a German citizen of German blood...</p>
 
-<p>[Testimonies about the relationship between Katzenberger and Seiler deleted]</p>
+<p>[Testimonies about the relationship between <ent type = 'person'>Katzenberger</ent> and <ent type = 'person'>Seiler</ent> deleted]</p>
 
-<p>The court is therefore convinced that Katzenberger, after the Nuernberg laws
-had come into effect, had repeated sexual intercourse with Seiler, up to
+<p>The court is therefore convinced that <ent type = 'person'>Katzenberger</ent>, after the Nuernberg laws
+had come into effect, had repeated sexual intercourse with <ent type = 'person'>Seiler</ent>, up to
 March 1940...</p>
 
 <p>The conduct to which the defendants admitted and which in the case of
-Katzenberger and consisted in drawing Seiler close to him, kissing
+<ent type = 'person'>Katzenberger</ent> and consisted in drawing <ent type = 'person'>Seiler</ent> close to him, kissing
 her, patting and caressing her thighs over her clothes, makes it clear
-that in a crude manner Katzenberger did to Seiler what is popularly
-called "Abschmieren" [petting]. It is obvious that such actions
+that in a crude manner <ent type = 'person'>Katzenberger</ent> did to <ent type = 'person'>Seiler</ent> what is popularly
+called "<ent type = 'person'>Abschmieren</ent>" [petting]. It is obvious that such actions
 are motivated only by sexual impulses. Even if the Jew had only done
 these so-called "Ersatzhandlungen" [sexual acts in lieu of actual
-intercourse] to Seiler, it would have been sufficient to charge him
+intercourse] to <ent type = 'person'>Seiler</ent>, it would have been sufficient to charge him
 with racial pollution in the full sense of the law...</p>
 
 <p>He is therefore guilty of a continuous crime of racial pollution
@@ -1820,7 +1820,7 @@ against public enemies...</p>
 U.S Govt. Print. Off., 1946, Vol. VIII]
 --------------------------------------------------------------
 p. 4: 
-[Speech by Julius Streicher, September 5 1937, reported in the
+[Speech by <ent type = 'person'>Julius <ent type = 'person'>Streicher</ent></ent>, September 5 1937, reported in the
 Fraenkische Tageszeitung]</p>
 
 <p>The Jew no longer shows himself among us openly as he used to. But it would
@@ -1828,22 +1828,22 @@ be wrong to say that victory is ours. Full and final victory will have
 been achieved only when the whole world has been rid of the Jews.</p>
 
 <p>p. 7:
-[Leading article by Streicher from "Der Stuermer" No. 39, September 1936]</p>
+[Leading article by <ent type = 'person'>Streicher</ent> from "Der <ent type = 'person'>Stuermer</ent>" No. 39, September 1936]</p>
 
-<p>The continued work of the "Stuermer" will help to ensure that every German
+<p>The continued work of the "<ent type = 'person'>Stuermer</ent>" will help to ensure that every German
 down to the last man will, with heart and hand, join the ranks of those
 whose aim is to crush the head of the serpent Pan-Juda beneath their
 heels. He who helps to bring this about helps to eliminate the devil.
 And this devil is the Jew.</p>
 
 <p>p. 11:
-[Streicher's speech in Nuernberg, April 3 1925, taken from "Kampf dem
+[<ent type = 'person'>Streicher</ent>'s speech in Nuernberg, April 3 1925, taken from "Kampf dem
 Weltfeind", p. 42]</p>
 
 <p>Let us make a new beginning today so that we can annihilate the Jew.</p>
 
 <p>p. 12:
-[Deutche Volksgesundheit aus Blut und Boden, New Year's issue 1935]</p>
+[Deutche <ent type = 'person'>Volk</ent>sgesundheit aus Blut und Boden, New Year's issue 1935]</p>
 
 <p>One single cohabitation of a Jew with an Aryan woman is sufficient to 
 poison her blood forever. Together with the alien albumen she has
@@ -1852,7 +1852,7 @@ Aryan children, even when married to an Aryan. They will all be
 bastards, with a dual soul and the body of a mixed breed.</p>
 
 <p>p. 19: 
-[Article signed by Streicher in "Der Stuermer", No, 12, March 19
+[Article signed by <ent type = 'person'>Streicher</ent> in "Der <ent type = 'person'>Stuermer</ent>", No, 12, March 19
 1942, pages 1 and 2]</p>
 
 <p>There were two ways which might have led to a liberation of Europe
@@ -1867,7 +1867,7 @@ solution of the Jewish problem in Europe...</p>
 the total solution of the Jewish problem. Just how this solution
 will be achieved has been made known to the European nations and
 to entire non-Jewish humanity in a proclamation read out by the
-Fuehrer of the German people on the 24th February 1942:</p>
+<ent type = 'person'>Fuehrer</ent> of the German people on the 24th February 1942:</p>
 
 <p>Today the ideas of our Nationalsocialists and those of the Fascist
 revolution have conquered large and mighty nations and my
@@ -1878,31 +1878,31 @@ may endure, this will be the final result.</p>
 
 <p>p. 29:</p>
 
-<p>  Report of Streicher's address to 2,000 children at Nuernberg,
+<p>  Report of <ent type = 'person'>Streicher</ent>'s address to 2,000 children at Nuernberg,
   Christmas 1936, from Fraenkische Tegeszeitung, 22nd
     December 1936</p>
 
-<p>Two thousand children rejoiced with Julius Streicher...</p>
+<p>Two thousand children rejoiced with <ent type = 'person'>Julius <ent type = 'person'>Streicher</ent></ent>...</p>
 
-<p>The Gauleiter [Streicher] told the little ones about the terrible times
-after the war, when the Devil dominated mankind. "Do you know who the
-Devil is", he asked his breathlessly listening audience. "The Jew, the
+<p>The Gauleiter [<ent type = 'person'>Streicher</ent>] told the little ones about the terrible times
+after the war, when the <ent type = 'person'>Devil</ent> dominated mankind. "Do you know who the
+<ent type = 'person'>Devil</ent> is", he asked his breathlessly listening audience. "The Jew, the
 Jew", resounded from a thousand children's voices.</p>
 
 <p>Letter from the Minister of State for the Protectorate of Bohemia
-and Moravia to Rudolph Brandt, June 13 1944, Concerning Children
+and Moravia to Rudolph <ent type = 'person'>Brandt</ent>, June 13 1944, Concerning Children
 of Executed Czechs
 [Trials of War Criminals Before the Nuernberg Military Tribunals - 
 Washington, U.S Govt. Print. Off., 1949-1953, Vol. IV, p. 1030-1032]
 -----------------------------------------------------------------
-Dear comarade Brandt,</p>
+Dear comarade <ent type = 'person'>Brandt</ent>,</p>
 
 <p>Concerning the matter "children of executed Czechs" I wish to
-reply to your letter as directed to SS-Lieutenant General Frank,
+reply to your letter as directed to SS-Lieutenant General <ent type = 'person'>Frank</ent>,
 date 6 February of this year, diary index No. 26/2/44 g Bra/H,
-that the conversation between SS-Lieutenant General Frank and
-SS Colonel Sollmann took place on 2 July of last year in Prague.
-Colonel Sollmann stated during this conversation that racially
+that the conversation between SS-Lieutenant General <ent type = 'person'>Frank</ent> and
+SS Colonel <ent type = 'person'>Sollmann</ent> took place on 2 July of last year in Prague.
+Colonel <ent type = 'person'>Sollmann</ent> stated during this conversation that racially
 valuable children up to six years would be considered eligible
 by the "Lebensborn"...</p>
 
@@ -1931,24 +1931,24 @@ where the facts are not sufficiently proved - such borderline
 cases always happen - they will be sent to a concentration camp.
 This we must do, unless these one million Poles and those
 hundreds of thousands of workers of alien blood are to inflict
-untold damage on the German blood. Philosophizing is of no avail
+untold damage on the German blood. <ent type = 'person'>Philosophizing</ent> is of no avail
 in this case. It would be better if we did not have them at all -
 we all know that - but we need them.</p>
 
-<p>From the speech of Reichsfuehrer-SS Himmler, speaking to SS
+<p>From the speech of <ent type = 'person'>Reich</ent>sfuehrer-SS Himmler, speaking to SS
 Major-Generals, Poznan, October 4 1943
 [Nazi Conspiracy and Aggression - Washington, U.S Govt. Print. 
 Off., 1946, Vol. IV, p. 559]
 -------------------------------------------------------------------
 One basic principal must be the absolute rule for the SS man: we
 must be honest, decent, loyal, and comradely to members of our own
-blood and to nobody else. What happens to a Russian, to a Czech,
+blood and to nobody else. What happens to a <ent type = 'person'>Russ</ent>ian, to a Czech,
 does not interest me in the slightest. What the nations can offer
 in good blood of our type, we will take, if necessary by kidnapping
 their children and raising them with us. Whether nations live in
 prosperity or starve to death interests me only in so far as we
 need them as slaves for our culture; otherwise, it is of no interest
-to me. Whether 10,000 Russian females fall down from exhaustion
+to me. Whether 10,000 <ent type = 'person'>Russ</ent>ian females fall down from exhaustion
 while digging an anti-tank ditch interest me only in so far as
 the anti-tank ditch for Germany is finished. We shall never be rough
 and heartless when it is not necessary, that is clear. We Germans,
@@ -1963,7 +1963,7 @@ would have to say, "you are a murderer of your own blood because
 if the anti-tank ditch is not dug, German soldiers will die, and
 they are the sons of German mothers. They are our own blood".</p>
 
-<p>Frank, Governor of Nazi occupied Poland, in an interview, October 3
+<p><ent type = 'person'>Frank</ent>, Governor of Nazi occupied Poland, in an interview, October 3
 1939
 [Nazi Conspiracy and Aggression - Washington, U.S Govt. Print. 
 Off., 1946, Vol. II, p. 632]
@@ -1979,14 +1979,14 @@ schools and colleges in order to prevent the growth of a new
 Polish intelligentsia. Poland shall be treated as a colony. the
 Poles shall be the slaves of the Greater German World Empire.</p>
 
-<p>Letter from Reichsfuehrer-SS Himmler to the Higher SS and Police 
+<p>Letter from <ent type = 'person'>Reich</ent>sfuehrer-SS Himmler to the Higher SS and Police 
 Chief in the Ukraine, Kiev, September 7 1943
 [Nazi Conspiracy and Aggression - Washington, U.S Govt. Print. 
 Off., 1946, Supp. A, p. 1270]
 ---------------------------------------------------------------------
 Dear Pruetzmann,</p>
 
-<p>Infantry general staff has special orders with regard to the Donetz
+<p>Infantry general staff has special orders with regard to the <ent type = 'person'>Donetz</ent>
 area. Get in touch with him immediately. I order you to cooperate as
 much as you can. The aim to be achieved is that when areas in the 
 Ukraine are evacuated, not a human being, not a single head of cattle, 
@@ -1994,28 +1994,28 @@ not a hundredweight of cereals and not a railway line remain behind;
 that not a house remain standing, not a mine is available which is 
 not destroyed for years to come, that there is not a well which is 
 not poisoned. The enemy must really find completely burned and destroyed
-land. Discuss these things with Stampf straight away and do your
+land. Discuss these things with <ent type = 'person'>Stampf</ent> straight away and do your
 absolute best.</p>
 
 <p>Detailed report by SS-Standartenfuehrer Jager about mass killings
 in Nazi occupied USSR, July-November 1941
-['The Good Old Days' - E. Klee, W. Dressen, V. Riess, The Free Press, 
+['The Good Old Days' - E. Klee, W. Dressen, V. <ent type = 'person'>Riess</ent>, The Free Press, 
 NY, 1988, p. 46-58].
 ------------------------------------------------------------------
 [The "Jager report" was written by a commander of one of the
-"Einsatzgruppen" (special task forces) which were in charge of
+"<ent type = 'person'>Einsatzgruppen</ent>" (special task forces) which were in charge of
 liquidating Jews, communist leaders, partisans and others in the
 Soviet Union.</p>
 
 <p>To understand the magnitude of the massacres, note the total number
-of victims - 137,346. This is for one Einsatzgruppen, in a five month
+of victims - 137,346. This is for one <ent type = 'person'>Einsatzgruppen</ent>, in a five month
 period, in one area. This report reflects very clearly on the plan
 to kill all the Jews, except those which were needed for working
 purposes; those were, as the report notes, "only" to be sterilized;
 Jager goes on to state that "if despite sterilization a Jewess becomes 
 pregnant she will be liquidated".</p>
 
-<p>There are many documents about the Einsatzgruppen massacres in the
+<p>There are many documents about the <ent type = 'person'>Einsatzgruppen</ent> massacres in the
 Soviet Union, but the "Jager report" is one of the most chillingly
 detailed of them].</p>
 
@@ -2025,7 +2025,7 @@ the SD
 Einsatzkommando 3   Kauen [Kaunas], 1 December 1941</p>
 
 <p>--------------------------
-|Secret Reich Business!  |   5 copies
+|Secret <ent type = 'person'>Reich</ent> Business!  |   5 copies
 --------------------------   4th copy</p>
 
 <p>  Complete list of executions carried out in the EK 3 area
@@ -2033,9 +2033,9 @@ Einsatzkommando 3   Kauen [Kaunas], 1 December 1941</p>
 
 <p>Security police duties in Lithuania taken over by Einsatzkommando 3 on
 2 July 1941.
-(The Wilna [Vilnius] area was taken over by EK 3 on 9 Aug. 1941, the
+(<ent type = 'person'>The <ent type = 'person'>Wilna</ent> [</ent>Vilnius] area was taken over by EK 3 on 9 Aug. 1941, the
 Schaulen area on 2 Oct. 1941. Up until these dates EK 9 operated in
-Wilna and EK 2 in Schaulen.)
+<ent type = 'person'>Wilna</ent> and EK 2 in Schaulen.)
 On my instructions and orders the following executions were conducted by
 Lithuanian partisans:</p>
 
@@ -2050,11 +2050,11 @@ with Lithuanian partisans:</p>
 <p>7.7.41 Mariampole  Jews    32
 8.7.41 Mariampole  14 Jews, 5 Comm. officials    19
 8.7.41 Girkalinei  Comm. officials   6
-9.7.41 Wendziogala 32 Jews, 2 Jewesses, 1 Lithuanian
+9.7.41 <ent type = 'person'>Wendziogala</ent> 32 Jews, 2 Jewesses, 1 Lithuanian
    (f.), 2 Lithuanian Comm., 1
-   Russian Comm.   38
+   <ent type = 'person'>Russ</ent>ian Comm.   38
 9.7.41 Kauen-Fort VII  21 Jews, 3 Jewesses   24
-14.7.41  Mariampole  21 Jews, 1 Russ., 9 Lith. Comm. 31
+14.7.41  Mariampole  21 Jews, 1 <ent type = 'person'>Russ</ent>., 9 Lith. Comm. 31
 17.7.41  Babtei    8 Comm. officials (incl. 6 Jews) 8
 18.7.41  Mariampole  39 Jews, 14 Jewesses    53
 19.7.41  Kauen-Fort VII  17 Jews, 2 Jewesses, 4 Lith.
@@ -2062,13 +2062,13 @@ with Lithuanian partisans:</p>
    1 German Comm.    26
 21.7.41  Panevezys   59 Jews, 11 Jewesses, 1
    Lithuanian (f.), 1 Pole, 22 Lith.
-   Comm., 9 Russ. Comm.    103
+   Comm., 9 <ent type = 'person'>Russ</ent>. Comm.    103
 22.7.41  Panevezys   1 Jew     1
-23.7.41  Kedainiai   83 Jews, 12 Jewesses, 14 Russ.
-   Comm., 15 Lith. Comm., 1 Russ.
+23.7.41  Kedainiai   83 Jews, 12 Jewesses, 14 <ent type = 'person'>Russ</ent>.
+   Comm., 15 Lith. Comm., 1 <ent type = 'person'>Russ</ent>.
    O-Politruk    125
 25.7.41  Mariampole  90 Jews, 13 Jewesses    103
-28.7.41  Panevezys   234 Jews, 15 Jewesses, 19 Russ.
+28.7.41  Panevezys   234 Jews, 15 Jewesses, 19 <ent type = 'person'>Russ</ent>.
    Comm., 20 Lith. Comm.   288</p>
 
 <p>    Total carried forward  3,384</p>
@@ -2080,35 +2080,35 @@ with Lithuanian partisans:</p>
 30.7.41  Agriogala   27 Jews, 11 Lith. Comm.   38
 31.7.41  Utena   235 Jews, 16 Jewesses, 4 Lith.
    Comm., 1 robber/murderer  256
-31.7.41  Wendziogala 13 Jews, 2 murderers    15
+31.7.41  <ent type = 'person'>Wendziogala</ent> 13 Jews, 2 murderers    15
 1.8.41 Ukmerge   254 Jews, 42 Jewesses, 1 Pol.
    Comm., 2 Lith. NKVD agents, 1
-   mayor of Jonava who gave order
-   to set fire to Jonava   300
+   mayor of <ent type = 'person'>Jonava</ent> who gave order
+   to set fire to <ent type = 'person'>Jonava</ent>   300
 2.8.41 Kauen-Fort IV   170 Jews, 1 US Jewess, 33 Jewesses,
    4 Lith. Comm.   209
-4.8.41 Panevezys   362 Jews, 41 Jewesses, 5 Russ. Comm.,
+4.8.41 Panevezys   362 Jews, 41 Jewesses, 5 <ent type = 'person'>Russ</ent>. Comm.,
    14 Lith. Comm.    422
 5.8.41 Rasainiai   213 Jews, 66  Jewesses    279
 7.8.41 Utena   483 Jews, 87 Jewesses, 1 Lithuanian
    (robber of corpses of German soldiers)571
 8.8.41 Ukmerge   620 Jews, 82 Jewesses   702
 9.8.41 Kauen-Fort IV   484 Jews, 50 Jewesses   534
-11.8.41  Panevezys   450 Jews, 48 Jewesses, 1 Lith. 1 Russ.500
+11.8.41  Panevezys   450 Jews, 48 Jewesses, 1 Lith. 1 <ent type = 'person'>Russ</ent>.500
 13.8.41  Alytus    617 Jews, 100 Jewesses, 1 criminal  719
-14.8.41  Jonava    497 Jews, 55 Jewesses   552
+14.8.41  <ent type = 'person'>Jonava</ent>    497 Jews, 55 Jewesses   552
 15-16.8.41 Rokiskis  3,200 Jews, Jewesses, and J. Children,
    5 Lith. Comm., 1 Pole, 1 partisan   3207
 9-16.8.41  Rasainiai  294 Jewesses, 4 Jewish children 298
-27.6-14.8.41 Rokiskis  493 Jews, 432 Russians, 56 Lithuanians
+27.6-14.8.41 Rokiskis  493 Jews, 432 <ent type = 'person'>Russ</ent>ians, 56 Lithuanians
    (all active communists)   981
 18.8.41  Kauen-Fort IV   689  Jews, 402 Jewesses, 1 Pole (f.),
    711 Jewish intellectuals from Ghetto
    in reprisal for sabotage action 1,812
 19.8.41  Ukmerge   298 Jews, 255 Jewesses, 1 Politruk,
-   88 Jewish children, 1 Russ. Comm.   645
-22.8.41  Dunanburg  3 Russ. Comm., 5 Latvian, incl. 1
-   murderer, 1 Russ. Guardsman, 3 Poles,
+   88 Jewish children, 1 <ent type = 'person'>Russ</ent>. Comm.   645
+22.8.41  Dunanburg  3 <ent type = 'person'>Russ</ent>. Comm., 5 Latvian, incl. 1
+   murderer, 1 <ent type = 'person'>Russ</ent>. Guardsman, 3 Poles,
    3 gypsies (m.), 1 gypsy (f.), 1 gypsy
    child, 1 Jew, 1 Jewess, 1 Armenian
    (m.), 2 Politruks (prison inspection
@@ -2119,18 +2119,18 @@ with Lithuanian partisans:</p>
 <p>Sheet 3
     Total carried forward  16,152</p>
 
-<p>22.8.41  Aglona    Mentally sick: 269 men, 227 women,
+<p>22.8.41  <ent type = 'person'>Aglona</ent>    Mentally sick: 269 men, 227 women,
    48 children   544
 23.8.41  Panevezys   1,312 Jews, 4,602 Jewesses, 1,609
    Jewish children   7,523
-18-22.8.41 Kreis Rasainiai 466 Jews, 440 Jewesses, 1,020
+18-22.8.41 <ent type = 'person'>Kreis Rasainiai</ent> 466 Jews, 440 Jewesses, 1,020
    Jewish children   1,926
 25.8.41  Obeliai   112 Jews, 627 Jewesses, 421
    Jewish children   1,160
 25-26.8.41 Seduva    230 Jews, 275 Jewesses, 159
    Jewish children   664
 26.8.41  Zarasai   767 Jews, 1,113 Jewesses, 1 Lith.
-   Comm., 687 Jewish children, 1 Russ.
+   Comm., 687 Jewish children, 1 <ent type = 'person'>Russ</ent>.
    Comm. (f.)    2,569
 28.8.41  Pasvalys  402 Jews, 738 Jewesses, 209
    Jewish children   1,349
@@ -2138,7 +2138,7 @@ with Lithuanian partisans:</p>
    children    1,911
 27.8.41  Prienai   All Jews, Jewesses, and Jewish
    Children    1,078
-27.8.41  Dagda and   212 Jews, 4 Russ. POW's   216
+27.8.41  Dagda and   212 Jews, 4 <ent type = 'person'>Russ</ent>. POW's   216
    Kraslawa
 27.8.41  Joniskia  47 Jews, 165 Jewesses, 143
    Jewish children   355
@@ -2156,7 +2156,7 @@ with Lithuanian partisans:</p>
 <p>1.9.41 Mariampole  1,763 Jews, 1,812 Jewesses, 1,404
    Jewish children, 109 mentally sick,
    1 German subject (f.), married to a
-   Jew, 1 Russian (f.)   5090</p>
+   Jew, 1 <ent type = 'person'>Russ</ent>ian (f.)   5090</p>
 
 <p>    Total carried over   47,814</p>
 
@@ -2167,7 +2167,7 @@ with Lithuanian partisans:</p>
    Jewish children   99
    Carliava  73 Jews, 113 Jewesses, 61
    Jewish children   247
-   Jonava    112 Jews, 1,200 Jewesses, 244
+   <ent type = 'person'>Jonava</ent>    112 Jews, 1,200 Jewesses, 244
    Jewish children   1,556
    Petrasiunai 30 Jews, 72 Jewesses, 23
    Jewish children   125
@@ -2179,16 +2179,16 @@ with Lithuanian partisans:</p>
    Jewish children   282
    Babtei    20 Jews, 41 Jewesses, 22
    Jewish children   83
-   Wendziogala  42 Jews, 113 Jewesses, 97
+   <ent type = 'person'>Wendziogala</ent>  42 Jews, 113 Jewesses, 97
    Jewish children   252
-   Krakes    448 Jews, 476 Jewesses, 97
+   <ent type = 'person'>Krakes</ent>    448 Jews, 476 Jewesses, 97
    Jewish children   1,125
 4.9.41 Pravenischkis   247 Jews, 6 Jewesses    253
    Cekiske   22 Jews, 64 Jewesses, 60
    Jewish children   146
    Seredsius   6 Jews, 61 Jewesses, 126
    Jewish children   193
-   Velinona  2 Jews, 71 Jewesses, 86
+   <ent type = 'person'>Velinona</ent>  2 Jews, 71 Jewesses, 86
    Jewish children   159
    Zapiskis  47 Jews, 118 Jewesses, 13
    Jewish children   178
@@ -2196,11 +2196,11 @@ with Lithuanian partisans:</p>
    Jewish children   4,709
 25.8-6.9.41  Mopping up in:  16 Jews, 412 Jewesses, 415
    Rasainiai   Jewish children   843
-   Georgenburg all Jews, all Jewesses, all
+   <ent type = 'person'>Georgenburg</ent> all Jews, all Jewesses, all
    Jewish children   412
 9.9.41 Alytus    287 Jews, 640 Jewesses, 352
    Jewish children   1,279
-9.9.41 Butrimonys  67 Jews, 370 Jewesses, 303
+9.9.41 <ent type = 'person'>Butrimonys</ent>  67 Jews, 370 Jewesses, 303
    Jewish children   740
 10.9.41  Merkine   223 Jews, 640 Jewesses, 276
    Jewish children   854
@@ -2210,10 +2210,10 @@ with Lithuanian partisans:</p>
    Jewish children   155
 11.9.41  Seirijai  229 Jews, 384 Jewesses, 340
    Jewish children   953
-12.9.41  Simnas    68 Jews, 197 Jewesses, 149
+12.9.41  <ent type = 'person'>Simnas</ent>    68 Jews, 197 Jewesses, 149
    Jewish children   414
 11-12.9.41 Uzusalis  Reprisal against inhabitants who
-   fed Russ. partisans; some in
+   fed <ent type = 'person'>Russ</ent>. partisans; some in
    possession of weapons    43
 26.9.41  Kauen-F.IV  412 Jews, 615 Jewesses, 581
    Jewish children (sick and
@@ -2242,24 +2242,24 @@ with Lithuanian partisans:</p>
    Jewish children   115
 25.11.41   Kauen-F.IX  1,159 Jews, 1,600 Jewesses, 175
    Jewish children (resettlers from
-   Berlin, Munich and Frankfurt am main) 2,934
+   Berlin, Munich and <ent type = 'person'>Frank</ent>furt am main) 2,934
 29.11.41   Kauen-F.IX  693 Jews, 1,155 Jewesses, 152
    Jewish children (resettlers from
    from Vienna and Breslau)  2,000
 29.11.41   Kauen-F.IX  17 Jews, 1 Jewess, for contravention
-   of ghetto law, 1 Reichs German who
+   of ghetto law, 1 <ent type = 'person'>Reich</ent>s German who
    converted to the Jewish faith and
    attended rabbinical school, then 15
-   terrorists from the Kalinin group   34</p>
+   terrorists from the <ent type = 'person'>Kalinin</ent> group   34</p>
 
 <p>EK 3 detachment in Dunanburg
 in the period 13.7-21.8.41:  9,012 Jews, Jewesses and Jewish
    children, 573 active Comm.    9,585</p>
 
-<p>EK 3 detachment in Wilna:
-12.8-1.9.41  City of Wilna   425 Jews, 19 Jewesses, 8 Comm. (m.),
+<p>EK 3 detachment in <ent type = 'person'>Wilna</ent>:
+12.8-1.9.41  City of <ent type = 'person'>Wilna</ent>   425 Jews, 19 Jewesses, 8 Comm. (m.),
    9 Comm. (f.)    461
-2.9.41 City of Wilna   864 Jews, 2,019 Jewesses, 817
+2.9.41 City of <ent type = 'person'>Wilna</ent>   864 Jews, 2,019 Jewesses, 817
    Jewish children (sonderaktion because
    German soldiers shot at by Jews)  3,700</p>
 
@@ -2269,51 +2269,51 @@ in the period 13.7-21.8.41:  9,012 Jews, Jewesses and Jewish
 
 <p>    Total carried forward  99,804</p>
 
-<p>12.9.41  City of Wilna   993 Jews, 1,670 Jewesses, 771
+<p>12.9.41  City of <ent type = 'person'>Wilna</ent>   993 Jews, 1,670 Jewesses, 771
    Jewish children   3,334
-17.9.41  City of Wilna   337 Jews, 687 Jewesses, 247
+17.9.41  City of <ent type = 'person'>Wilna</ent>   337 Jews, 687 Jewesses, 247
    Jewish children and 4 Lith. Comm.   1,271
 20.9.41  Nemencing   128 Jews, 176 Jewesses, 99
    Jewish children   403
 22.9.41  Novo-Wilejka  468 Jews, 495 Jewesses, 196
    Jewish children   1,159
-24.9.41  Riess   512 Jews, 744 Jewesses, 511
+24.9.41  <ent type = 'person'>Riess</ent>   512 Jews, 744 Jewesses, 511
    Jewish children   1,767
 25.9.41  Jahiunai  215 Jews, 229 Jewesses, 131
    Jewish children   575
-27.9.41  Eysisky   989 Jews, 1,636 Jewesses, 821
+27.9.41  <ent type = 'person'>Eysisky</ent>   989 Jews, 1,636 Jewesses, 821
    Jewish children   3,446
 30.9.41  Trakai    366 Jews, 483 Jewesses, 597
    Jewish children   1,446
-4.10.41  City of Wilna   432 Jews, 1,115 Jewesses, 436
+4.10.41  City of <ent type = 'person'>Wilna</ent>   432 Jews, 1,115 Jewesses, 436
    Jewish children   1,983
 6.10.41  Semiliski   213 Jews, 359 Jewesses, 390
    Jewish children   962
 9.10.41  Svenciany   1,169 Jews, 1,840 Jewesses, 717
    Jewish children   3,726
-16.10.41   City of Wilna   382 Jews, 507 Jewesses, 257
+16.10.41   City of <ent type = 'person'>Wilna</ent>   382 Jews, 507 Jewesses, 257
    Jewish children   1,146
-21.10.41   City of Wilna   718 Jews, 1,063 Jewesses, 586
+21.10.41   City of <ent type = 'person'>Wilna</ent>   718 Jews, 1,063 Jewesses, 586
    Jewish children   2,367
-25.10.41   City of Wilna   1,776 Jewesses, 812 Jewish children 2,578
-27.10.41   City of Wilna   946 Jews, 184 Jewesses, 73
+25.10.41   City of <ent type = 'person'>Wilna</ent>   1,776 Jewesses, 812 Jewish children 2,578
+27.10.41   City of <ent type = 'person'>Wilna</ent>   946 Jews, 184 Jewesses, 73
    Jewish children   1,203
-30.10.41   City of Wilna   382 Jews, 789 Jewesses, 362
+30.10.41   City of <ent type = 'person'>Wilna</ent>   382 Jews, 789 Jewesses, 362
    Jewish children   1,553
-6.11.41  City of Wilna   340 Jews, 749 Jewesses, 252
+6.11.41  City of <ent type = 'person'>Wilna</ent>   340 Jews, 749 Jewesses, 252
    Jewish children   1,341
-19.11.41   City of Wilna   76 Jews, 77 Jewesses, 18
+19.11.41   City of <ent type = 'person'>Wilna</ent>   76 Jews, 77 Jewesses, 18
    Jewish children   171
-19.11.41   City of Wilna   6 POW's, 8 Poles    14
-20.11.41   City of Wilna   3 POW's   3
-25.11.41   City of Wilna   9 Jews, 46 Jewesses, 8 Jewish
+19.11.41   City of <ent type = 'person'>Wilna</ent>   6 POW's, 8 Poles    14
+20.11.41   City of <ent type = 'person'>Wilna</ent>   3 POW's   3
+25.11.41   City of <ent type = 'person'>Wilna</ent>   9 Jews, 46 Jewesses, 8 Jewish
    children, 1 Pole for possession of arms
    and other military equipment  64</p>
 
 <p>EK 3 detachment in Minsk from
 28.9-17.10.41:</p>
 
-<p>   Pleschnitza 620 Jews, 1,285 Jewesses,
+<p>   <ent type = 'person'>Pleschnitza</ent> 620 Jews, 1,285 Jewesses,
    Bischolin   1,126 Jewish children and 19
    Scak  Comm.
    Bober
@@ -2334,7 +2334,7 @@ Jews, apart from Jewish workers and their families.</p>
  .</p>
 
 <p>The distance between from the assembly point to the graves was on average
-4 to 5 Km.</p>
+4 to 5 <ent type = 'person'>Km</ent>.</p>
 
 <p> .
  .

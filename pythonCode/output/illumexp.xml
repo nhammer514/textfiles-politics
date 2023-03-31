@@ -12,7 +12,7 @@ THE ORDO TEMPLI ORIENTIS HISTORIC EVOLUTION FLOWCHART
        : 
     +---------------+   +-------------+  
 ZDDDDDDDDDDDDDDDD?   ZDDDDDDDDDDDDDDDD?
-    |  John Yarker  |   | O.H.O   |   3Austrian OTO
+    |  <ent type = 'person'>John Yarker</ent>  |   | O.H.O   |   3Austrian OTO
  3   3ANTEROPOSOPHICAL3
     |Rt. of Memphis FMMKMM5  Karl   |  ZDD4Mysteria
 MysticaCDDDDD4 SOCIETY  3
@@ -25,7 +25,7 @@ MysticaCDDDDD4 SOCIETY  3
 ZDDDDDDDDDDDDDDDD?   ZDDDDDDDDDDDDDDDD?
 | Ordo Templi  |  | FRENCH O.T.O. |  :   :   3  3No. American
  3   3 ANCIENT &amp;  3
-|Orientis Antiqua|DDDDDD|Gerard Encausse|--:   :   CDD4 O.T.O. 
+|Orientis Antiqua|DDDDDD|<ent type = 'person'>Gerard Encausse</ent>|--:   :   CDD4 O.T.O. 
  CDDDDD4MYSTICAL ORDER  3
 |L.F. Jean-Maine |  | (Papus)   |  :   :   3  3H. Spencer
 Lewis3   3 ROSAE CRUCIS 3
@@ -34,7 +34,7 @@ Lewis3   3 ROSAE CRUCIS 3
   3   :  :   :   3
 +----------------+  +---------------+  :  +-------------+  3 
 ZDDDDDDDDDDDDDDDD?
-| La Coulevre  |  | ECCLESIAE   |  :  |  O.H.O. |  3  3Danish OTO  
+| <ent type = 'person'>La Coulevre</ent>  |  | ECCLESIAE   |  :  |  O.H.O. |  3  3Danish OTO  
  3
 |   Noire  |DD? | GNOSTICA  |MMJMM| THEODOR |DDEDD4 O.W.
 Hanson- 3
@@ -131,7 +131,7 @@ ZDDDDDDDADDDDDDDD?  ZDDDDDDADDDDDDDD?   ZDDDDDDADDDDDD?
   ZDDDDADDDDDD?
     3 SCIENTOLOGY 3  3   YOU  3    
   3society  3
-    3 L. Ron Hubbard3  3   ARE  3    
+    3 L. <ent type = 'person'>Ron Hubbard</ent>3  3   ARE  3    
   3ordo templi3
     3   3  3   HERE 3    
   3orientis 3
@@ -151,7 +151,7 @@ THE ORDO TEMPLI ORIENTIS HISTORIC EVOLUTION FLOWCHART
        : 
     +---------------+   +-------------+  
 +----------------?   +----------------+
-    |  John Yarker  |   | O.H.O   |   |Austrian OTO
+    |  <ent type = 'person'>John Yarker</ent>  |   | O.H.O   |   |Austrian OTO
  |   |ANTEROPOSOPHICAL|
     |Rt. of Memphis +--+--+  Karl   |  +--|Mysteria
 Mystica|-----| SOCIETY  |
@@ -164,7 +164,7 @@ Mystica|-----| SOCIETY  |
 +----------------+   +----------------+
 | Ordo Templi  |  | FRENCH O.T.O. |  :   :   :  |No. American
  |   | ANCIENT &amp;  |
-|Orientis Antiqua|------|Gerard Encausse|--:   :   :--| O.T.O. 
+|Orientis Antiqua|------|<ent type = 'person'>Gerard Encausse</ent>|--:   :   :--| O.T.O. 
  |-----|MYSTICAL ORDER  |
 |L.F. Jean-Maine |  | (Papus)   |  :   :   :  |H. Spencer
 Lewis|   | ROSAE CRUCIS |
@@ -173,7 +173,7 @@ Lewis|   | ROSAE CRUCIS |
   :   :  :   :   :
 +----------------+  +---------------+  :  +-------------+  : 
 +----------------?
-| La Coulevre  |  | ECCLESIAE   |  :  |  O.H.O. |  :  |Danish OTO  
+| <ent type = 'person'>La Coulevre</ent>  |  | ECCLESIAE   |  :  |  O.H.O. |  :  |Danish OTO  
  3
 |   Noire  |--+ | GNOSTICA  |--+--| THEODOR |--+--+ O.W.
 Hanson- 3
@@ -270,7 +270,7 @@ Grant  |   |  |Veritas-Metzger|
   +-----------+
     | SCIENTOLOGY |  |   YOU  |    
   |society  |
-    | L. Ron Hubbard|  |   ARE  |    
+    | L. <ent type = 'person'>Ron Hubbard</ent>|  |   ARE  |    
   |ordo templi|
     |   |  |   HERE |    
   |orientis |

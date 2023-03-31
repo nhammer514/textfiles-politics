@@ -19,7 +19,7 @@ protect) out to foreign interests after leaving their government jobs. Both
 political parties are very well represented in this list (the entire list
 (A-Z) consists of several hundred people). 
  
-Julia Christine Bliss tops the list with her $11,106,514 bribe by Toshiba
+<ent type = 'person'>Julia Christine Bliss</ent> tops the list with her $11,106,514 bribe by Toshiba
 in order to sell out American industry and jobs to this giant Japanese 
 conglomerate.
  
@@ -157,7 +157,7 @@ PUBLIC POSITION : Staff, Telecom and Finance Subcommittee
 FOREIGN CLIENT   COUNTRY  PAID (1980-90)
  
 Norsk Forsvarsteknologi  Norway $33,657
-Kongsberg Vaapenfabrikk  Norway ?
+<ent type = 'person'>Kongsberg Vaapenfabrikk</ent>  Norway ?
  
 ----------------------------------------------------------------------------
 AGENT NAME  : Armstrong, Philip
@@ -193,7 +193,7 @@ FOREIGN CLIENT   COUNTRY  PAID (1980-90)
  
 Government of Venezuela  Venezuela  $176,049
 Presidential Campaign of El Salvador  33,920
- Fidel Chavel Mena
+ Fidel <ent type = 'person'>Chavel Mena</ent>
 ADICAL   Brazil   60,000
 Latin Amer. Iron &amp; Steel Chili  11,652
 Monetary Auth. Singapore Singapore   122,989
@@ -307,12 +307,12 @@ PUBLIC POSITION : Staff Co-ordinator, ways and means committee
       EXPENDITURES
 FOREIGN CLIENT   COUNTRY  PAID (1980-90)
  
-Fujitsu Microelectric  Japan  $48,035
+<ent type = 'person'>Fujitsu Microelectric</ent>  Japan  $48,035
  
 ----------------------------------------------------------------------------
 AGENT NAME  : Bello, Judith H.
 GOVT BRANCH   : Department of Commerce
-PUBLIC POSITION : Policy Dept/Office of Dep Asst. Secy, Import Administration
+PUBLIC POSITION : Policy Dept/Office of Dep <ent type = 'person'>Asst</ent>. Secy, Import Administration
  
       FEES AND
       EXPENDITURES
@@ -378,7 +378,7 @@ Government of Jamaica  Jamaica  75,000
 Government of Liberia  Liberia ?
 China Trade Dvlpt Cncl.  China   ?
 Govt. of Cote d'Ivoire   Ivory Coast ?
-African Devlt Bank   Intl.   ?
+African <ent type = 'person'>Devlt</ent> Bank   Intl.   ?
 Rossing Uranium Ltd. Namibia ?
 Korea Free Trade Assn.   S. Korea  ?
  
@@ -507,7 +507,7 @@ FOREIGN CLIENT   COUNTRY  PAID (1980-90)
  
 Bd. for trade/Rep. China China  $240,000
 Airbus Industrie N. Amer Europe Cmm.  75,000
-Panama Trade Devlt Cmte. Panama  ?
+Panama Trade <ent type = 'person'><ent type = 'person'>Devlt</ent> Cmte</ent>. Panama  ?
  
 ----------------------------------------------------------------------------
 AGENT NAME  : Brown, Ronald
@@ -537,7 +537,7 @@ PUBLIC POSITION : Lieutenant General (Retired)
 FOREIGN CLIENT   COUNTRY  PAID (1980-90)
  
 Sumitomo Corporation Japan  $480,000
-Oerlikon-Buhrle Mach.  Switzerland  43,750
+Oerlikon-<ent type = 'person'>Buhrle Mach</ent>.  Switzerland  43,750
  
 ----------------------------------------------------------------------------
 AGENT NAME  : Bushong, David W.
@@ -565,7 +565,7 @@ FOREIGN CLIENT   COUNTRY  PAID (1980-90)
  
 Asoc. de Empresas RENFE  Spain  $485,793
 Govt. of Antigua/Barbuda Antigua/Barbuda 868,366
-Henri Sfeir    Lebanon  45,000
+<ent type = 'person'>Henri Sfeir</ent>    Lebanon  45,000
 Hangdok Tire Manuf.  S. Korea  ?
 Kor. Musical Instr. Assn S. Korea  ?
  
@@ -713,7 +713,7 @@ FOREIGN CLIENT   COUNTRY  PAID (1980-90)
  
 Bd. for Trade/Rep of China Taiwan $527,823
 Samsung Electronics  S. Korea  196,620
-Sing. Trade Devlt Bd.  Singapore   185,000
+Sing. Trade <ent type = 'person'>Devlt</ent> Bd.  Singapore   185,000
 Government of Thailand   Thailand 84,279
 Wacker Siltronic Corp.   Israel   32,386
 UN Conf on Trade   Intl   10,000
@@ -750,7 +750,7 @@ Ind. Elektronik Agie Switzerland  ?
 Agie USA, Inc.   Switzerland  ?
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Cowan, Mark D.
+AGENT NAME  : <ent type = 'person'>Cowan</ent>, Mark D.
 GOVT BRANCH   : Central Intelligence Agency   Department of Labor
 PUBLIC POSITION : Assistant Legal Counsel   Chief of Staff to Secy.
       Ray Donovan
@@ -774,7 +774,7 @@ PUBLIC POSITION : Legal Assistant, Democratic Study Crp.
       EXPENDITURES
 FOREIGN CLIENT   COUNTRY  PAID (1980-90)
  
-Fujitsu Microelectric  Japan  $48,035
+<ent type = 'person'>Fujitsu Microelectric</ent>  Japan  $48,035
  
 ----------------------------------------------------------------------------
 AGENT NAME  : Culver, John C.
@@ -804,7 +804,7 @@ FOREIGN CLIENT   COUNTRY  PAID (1980-90)
  
 Lufthansa AC   Germany  $8,711,499
 Hapag-Lloyd    Germany   213,763
-AEG-Kanis Turbinefabrik  Germany   151,789
+AEG-<ent type = 'person'>Kanis Turbinefabrik</ent>  Germany   151,789
 Cmsn of the Eur Comm.  Europ. Comm.  122,648
 Kingdom of the Netherlands Netherlands  90,882
 Govt. of Tibet in Exile  Tibet    30,167
@@ -837,9 +837,9 @@ Government of Guinea Guinea   75,000
 Kingdom of Morocco   Morocco  ?
 Government of Jamaica  Jamaica  ?
 Govt. of Cote d'Ivoire   Ivory Coast  ?
-China Trade Devlt. Cncl. China  ?
+China Trade <ent type = 'person'>Devlt</ent>. Cncl. China  ?
 Government of Liberia  Liberia  ?
-African Devlt. Bank  Intl.  ?
+African <ent type = 'person'>Devlt</ent>. Bank  Intl.  ?
 Rossing Uranium Ltd. Namibia  ?
 Korea Free Trade Assn.   S. Korea ?
  
@@ -866,7 +866,7 @@ FOREIGN CLIENT   COUNTRY  PAID (1980-90)
 Akzo, NV   Netherlands  $40,000
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Deaver, Michael K.
+AGENT NAME  : <ent type = 'person'>Deaver</ent>, Michael K.
 GOVT BRANCH   : White House
 PUBLIC POSITION : Assistant to the President and Departmental Chief of Staff
  
@@ -907,7 +907,7 @@ Japan Aircraft Dvlpt Co. Japan   697,293
 Kyocera Corp.  Japan   602,503
 Rep. of Bophathatswana  Bophathatswana 112,500
 Voest-Alpine   Austria ?
-Ind. Coop &amp; Devlt.   Austria ?
+Ind. Coop &amp; <ent type = 'person'>Devlt</ent>.   Austria ?
  
 ----------------------------------------------------------------------------
 AGENT NAME  : Diefenderfer, William
@@ -971,15 +971,15 @@ Government of Guinea Guinea   75,000
 Kingdom of Morocco   Morocco  ?
 Government of Jamaica  Jamaica  ?
 Govt. of Cote d'Ivoire   Ivory Coast  ?
-China Trade Devlt Cncl   China  ?
-African Devlt Devlt Bank Intl.  ?
+China Trade <ent type = 'person'>Devlt</ent> Cncl   China  ?
+African <ent type = 'person'>Devlt</ent> <ent type = 'person'>Devlt</ent> Bank Intl.  ?
 Rossing Uranium Ltd. Namibia  ?
 Korea Free Trade Assn.   S. Korea ?
  
 ----------------------------------------------------------------------------
 AGENT NAME  : Durant, Andrew G.
 GOVT BRANCH   : House of Representatives
-PUBLIC POSITION : Press Secretary to Representative Coleman
+PUBLIC POSITION : Press Secretary to Representative <ent type = 'person'>Coleman</ent>
  
       FEES AND
       EXPENDITURES
@@ -1026,7 +1026,7 @@ FOREIGN CLIENT   COUNTRY  PAID (1980-90)
  
 Consejo/Asuntos Intl.  Mexico $27,268
 DESC Comercio Exterior   Mexico  47,992
-Direcspicer, SC    Mexico  ?
+<ent type = 'person'>Direcspicer</ent>, SC    Mexico  ?
  
 ----------------------------------------------------------------------------
 AGENT NAME  : Evans, Billy Lee
@@ -1037,7 +1037,7 @@ PUBLIC POSITION : Member of Congress
       EXPENDITURES
 FOREIGN CLIENT   COUNTRY  PAID (1980-90)
  
-Hong Kong Trade Devlt Cncl Hong Kong  $1,064,397
+Hong Kong Trade <ent type = 'person'>Devlt</ent> Cncl Hong Kong  $1,064,397
 Govt/Repub of Panama Panama  309,647
 Freedom and Justice/Cyprus Cyprus  115,000
  
@@ -1074,7 +1074,7 @@ FOREIGN CLIENT   COUNTRY  PAID (1980-90)
  
 Koito Manufacturing  Japan  $286,082
 Embassy of Iraq    Iraq  334,885
-Fujitsu Microelectric  Japan  66,479
+<ent type = 'person'>Fujitsu Microelectric</ent>  Japan  66,479
  
 ----------------------------------------------------------------------------
 AGENT NAME  : Farrell, J. Michael
@@ -1091,7 +1091,7 @@ Mazak Corporation  Japan   200,000
 Kyocera Corporation  Japan   200,000
 Repub of Bophuthatswana Bophuthatswana 187,490
 All Nippon Airways   Japan   100,000
-Japan Aircraft Devlt Co. Japan  87,500
+Japan Aircraft <ent type = 'person'>Devlt</ent> Co. Japan  87,500
  
 ----------------------------------------------------------------------------
 AGENT NAME  : Fein, Bruce
@@ -1158,7 +1158,7 @@ CBI Sugar Group    Latin America $205,233
 NovAtel Communications   Canada   243,036
 Thai Steel Pipe Assn.  Thailand 116,981
 St. Lawrence Cement  Canada  45,654
-AgroQuimicas de Guatemala  Guatemala 30,713
+<ent type = 'person'>AgroQuimicas de Guatemala</ent>  Guatemala 30,713
 Intl. Maritime Satellite Intl.   20,000
 Yamaichi Securities  Japan   10,000
 Canada Cement Lafarge  Canada  15,619
@@ -1182,7 +1182,7 @@ C.R. Asan. Bus/Entrep..  Costa Rica   ?
 ----------------------------------------------------------------------------
 AGENT NAME  : Fortune, Terence
 GOVT BRANCH   : Department of State
-PUBLIC POSITION : Asst. Legal Advisor
+PUBLIC POSITION : <ent type = 'person'>Asst</ent>. Legal Advisor
  
       FEES AND
       EXPENDITURES
@@ -1235,7 +1235,7 @@ Govt. of the  Dominican Republic  ?
 ----------------------------------------------------------------------------
 AGENT NAME  : Freiberg, Ronna
 GOVT BRANCH   : White House
-PUBLIC POSITION : Congressional Liason
+PUBLIC POSITION : Congressional <ent type = 'person'>Liason</ent>
  
       FEES AND
       EXPENDITURES
@@ -1247,7 +1247,7 @@ Government of Angola Angola   20,000
 Govt. of Cayman Islands  Cayman Islands  204,230
 Palm Oil Reg &amp; Licencing Malaysia  450,838
 Airbus Industrie N. Amer.  Europ. Comm.  259,344
-Assn. Advncmnt Human Rghts Japan    60,000
+Assn. Advncmnt Human <ent type = 'person'>Rghts</ent> Japan    60,000
 Hambros/Sharps, Pixley   Britain  ?
  
 ----------------------------------------------------------------------------
@@ -1322,7 +1322,7 @@ PUBLIC POSITION : Senate Aide
       EXPENDITURES
 FOREIGN CLIENT   COUNTRY  PAID (1980-90)
  
-Kongsberg Vaapenfabrikk  Norway $7,643
+<ent type = 'person'>Kongsberg Vaapenfabrikk</ent>  Norway $7,643
  
 ----------------------------------------------------------------------------
 AGENT NAME  : Goldfield H. P.
@@ -1335,7 +1335,7 @@ FOREIGN CLIENT   COUNTRY  PAID (1980-90)
  
 Hyundai Motor Co.  S. Korea   $353,765
 ----------------------------------------------------------------------------
-AGENT NAME  : Gould, Rebecca
+AGENT NAME  : <ent type = 'person'>Gould</ent>, Rebecca
 GOVT BRANCH   : House of Representatives
 PUBLIC POSITION : Associate Minor Counsel, Energy and Commerce Committee
  
@@ -1347,7 +1347,7 @@ Consol. Grain and Barge  Japan  $89,326
 Matra Aerospace    France  $299,838
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Grisso, Michael
+AGENT NAME  : <ent type = 'person'>Grisso</ent>, Michael
 GOVT BRANCH   : House of Representatives
 PUBLIC POSITION : House Aide
  
@@ -1371,13 +1371,13 @@ Hoylake Investments  Bermuda 417,680
 Fujitsu America    Japan   142,386
 Grand Metropolitan PLC   Britain  96,178
 Bank of Nova Scotia  Canada   89,627
-Fujitsu Microelectric  Japan  76,983
+<ent type = 'person'>Fujitsu Microelectric</ent>  Japan  76,983
 Salgad International Israel   13,865
 Plessey Co. PLC    Britain  ?
 Tate &amp; Lyle PLC    Britain  ?
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Hathway, Michael
+AGENT NAME  : <ent type = 'person'>Hathway</ent>, Michael
 GOVT BRANCH   : U.S. Senate
 PUBLIC POSITION : Staff Director Energy and Natural Resources Cmte.
  
@@ -1458,7 +1458,7 @@ CSR Ltd.   Australia  $258,019
 BAT Industries   Britain  55,227
 Volvo Car, BV  Netherlands  38,211
 Patson PTY, Ltd.   Australia 4,204
-Prof. Alfred Zehe  Germany   4,209
+Prof. <ent type = 'person'>Alfred Zehe</ent>  Germany   4,209
  
 ----------------------------------------------------------------------------
 AGENT NAME  : Horlick, Gary
@@ -1499,8 +1499,8 @@ PUBLIC POSITION : House Aide
       EXPENDITURES
 FOREIGN CLIENT   COUNTRY  PAID (1980-90)
  
-Natl. Devlt Info Office. Indonedia  $3,255,500
-Cote d'azur Devlt  France   27,204
+Natl. <ent type = 'person'>Devlt</ent> Info Office. Indonedia  $3,255,500
+Cote d'azur <ent type = 'person'>Devlt</ent>  France   27,204
 Republic of Korea  S. Korea  233,441
 Hyundai Motor America  S. Korea  283,479
 Soc. Gen de Surveillance Switzerland   220,172
@@ -1510,7 +1510,7 @@ Airbus Industrie N Amer. European Ctte.  551,519
 Nintendo of America  Japan   492,773
 Sanwa Bank Ltd.    Japan   375,054
 Marubeni America Corp.   Japan   136,796
-Assn. Advc Human Rghts   Japan    80,000
+Assn. Advc Human <ent type = 'person'>Rghts</ent>   Japan    80,000
 Korean Airlines    S. Korea  294,802
  
 -------------------------------------------------------------------
@@ -1537,7 +1537,7 @@ japanyes: An interesting overview of how Japanese industry practices
 japanno:  An unauthorized translation of a best selling book in Japan
     "A Japan that can say no (to America)!" about why Japan is now 
     number one and should take the place of the US as world leader.
-    By Shintaro Ishihara (Japanese Parliament Member "Americans are 
+    By <ent type = 'person'>Shintaro</ent> Ishihara (Japanese Parliament Member "Americans are 
     lazy, ignorant and stupid") and Akio Morita (SONY CEO).
  
 matsushita.pbs  A PBS frontline special about how a Japanese cartel

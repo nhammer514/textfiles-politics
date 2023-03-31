@@ -1,5 +1,5 @@
 <xml>
-<p>FROM: <person>Barbara Bennett</person>
+<p>FROM: <ent type = 'person'>Barbara Bennett</ent>
 SUBJECT: The Social Security Number</p>
 
 <p>SSA has continually emphasized the fact that the SSN identifies a particular

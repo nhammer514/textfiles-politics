@@ -1,6 +1,6 @@
-<xml><p>From "CROSSFIRE" by <person>Jim Marrs</person>
+<xml><p>From "CROSSFIRE" by <ent type = 'person'>Jim Marrs</ent>
 ISBN 0-88184-524-8
-Copyright (c) 1989 by <person>Jim Marrs</person>
+Copyright (c) 1989 by <ent type = 'person'>Jim Marrs</ent>
 First published by Carroll &amp; Graf 1989</p>
 
 <p>Reprinted without permission</p>
@@ -8,7 +8,7 @@ First published by Carroll &amp; Graf 1989</p>
 <p>    CONVENIENT DEATHS</p>
 
 <p>   In the three-year period which followed the murder of President
- Kennedy and Lee Harvey Oswald, 18 material witnesses died - six by
+ <ent type = 'person'>Kennedy</ent> and <ent type = 'person'>Lee Harvey <ent type = 'person'>Oswald</ent></ent>, 18 material witnesses died - six by
  gunfire, three in motor accidents, two by suicide, one from a cut
  throat, one from a karate chop to the neck, five from natural causes.
    An actuary, engaged by the London Sunday Times, concluded that on
@@ -17,7 +17,7 @@ First published by Carroll &amp; Graf 1989</p>
 
 <p>  The above comment on the deaths of assassination witnesses was published in
 a tabloid companion piece to the movie _Execution Action_, released in 1973.
-By that time, part of the mythology of the Kennedy assassination included the
+By that time, part of the mythology of the <ent type = 'person'>Kennedy</ent> assassination included the
 mysterious deaths of people who were connected with it.
   By the mid-1960s, people in Dallas already were whispering about the
 number of persons who died under strange or questionable circumstances.  Well
@@ -32,9 +32,9 @@ of deaths.  The Committee said it could not make a valid actuarial study due
 to the broad number and types of persons that had to be included in such a
 study.
   In response to a letter from the Committee, London Sunday Times legal
-manager Anthony Whitaker stated:</p>
+manager <ent type = 'person'>Anthony Whitaker</ent> stated:</p>
 
-<p> Our piece about the odds against the deaths of the Kennedy witnesses
+<p> Our piece about the odds against the deaths of the <ent type = 'person'>Kennedy</ent> witnesses
  was, I regret to say, based on a careless journalistic mistake and
  should not have been published.  This was realized by The Sunday Times
  editorial staff after the first edition - the one which goes to the
@@ -52,14 +52,14 @@ manager Anthony Whitaker stated:</p>
 
 <p>  This settled the matter for the House Committee, which apparently made
 little or no attempt to seriously study the number of deaths that followed
-the JFK assassination.
-  Jacqueline Hess, the Committee's chief of research for the JFK
+the <ent type = 'person'>JFK</ent> assassination.
+  <ent type = 'person'>Jacqueline Hess</ent>, the Committee's chief of research for the <ent type = 'person'>JFK</ent>
 investigation, reported:</p>
 
 <p> Our final conclusion on the issue is that the available evidence does
  not establish anything about the nature of these deaths which would
  indicate that the deaths were in some manner, either direct or
- peripheral, caused by the assassination of President Kennedy or by
+ peripheral, caused by the assassination of President <ent type = 'person'>Kennedy</ent> or by
  any aspect of the subsequent investigation.</p>
 
 <p>  However, an objective look at both the number and the causes of death
@@ -69,11 +69,11 @@ causes raised eyebrows among those who study such a list.
 with the assassination and who are now dead are listed according to date of
 death.
   This is dealing only with deaths, not with the numerous persons - such as
-Warren Reynolds, Roger Craig, and Richard Carr - who claim to have been shot
+<ent type = 'person'>Warren Reynolds</ent>, <ent type = 'person'>Roger Craig</ent>, and <ent type = 'person'>Richard Carr</ent> - who claim to have been shot
 at or attacked.
   This chapter has been entitled "Convenient Deaths" because these deaths
 certainly would have been convenient for anyone not wishing the truth of the
-JFK assassination to become public.
+<ent type = 'person'>JFK</ent> assassination to become public.
   The CIA has gone to some lengths to discredit the idea of mysterious
 deaths plaguing assassination witnesses.
   A 1967 memo from CIA headquarters to station chiefs advised:</p>
@@ -116,7 +116,7 @@ result of sophisticated chemicals.  It states:</p>
 <p>  While it is obvious that the CIA - and hence the mob through operatives who
 work for both - has the capability of killing, it is less well known that the
 Agency has developed drugs to induce cancer.
-  Recall that Jack Ruby died of sudden lung cancer just as he had been granted
+  Recall that <ent type = 'person'>Jack <ent type = 'person'>Ruby</ent></ent> died of sudden lung cancer just as he had been granted
 a new trial.
   A 1952 CIA memo reported on the cancer-causing effects of beryllium:
 "This is certainly the most toxic inorganic element and it produces a
@@ -132,7 +132,7 @@ Others are ruled due to natural causes, such as heart attack.
 earliest deaths came during the time of the Warren Commission investigation
 or just afterwards.
   More deaths took place in the late 1960s as New Orleans District Attorney
-Jim Garrison was launching his investigation.  Other suspicious deaths
+<ent type = 'person'>Jim <ent type = 'person'>Garrison</ent></ent> was launching his investigation.  Other suspicious deaths
 occurred during the mid-1970s, as the Senate Intelligence Committee was
 looking into assassinations by U.S. intelligence agencies.  And finally,
 another spate of deaths came around 1977, just as the House Select Committee
@@ -153,103 +153,103 @@ begin?</p>
 <p>Date  Name  Connection with Case    Cause of Death</p>
 
 <p>11/63  Karyn Kupcinet*   TV host's daughter who was Murdered
-   overheard telling of JFK's
+   overheard telling of <ent type = 'person'>JFK</ent>'s
    death prior to 11/22/63</p>
 
 <p>   The Warren Commission Investigation</p>
 
-<p>12/63  Jack Zangretti*   Expressed foreknowledge of Gunshot victim
-   Ruby shooting Oswald</p>
+<p>12/63  <ent type = 'person'>Jack Zangretti</ent>*   Expressed foreknowledge of <ent type = 'person'>Gunshot</ent> victim
+   <ent type = 'person'>Ruby</ent> shooting <ent type = 'person'>Oswald</ent></p>
 
-<p>2/64  Eddy Benavides*  Look-alike brother to Tippit   Gunshot to head
+<p>2/64  Eddy Benavides*  Look-alike brother to <ent type = 'person'>Tippit</ent>   <ent type = 'person'>Gunshot</ent> to head
    shooting witness, Domingo
    Benavides</p>
 
-<p>3/64  Betty McDonald*  Former Ruby employee who   Suicide by hanging
-   alibied Warren Reynolds  in Dallas jail
+<p>3/64  Betty McDonald*  Former <ent type = 'person'>Ruby</ent> employee who   Suicide by hanging
+   alibied <ent type = 'person'>Warren Reynolds</ent>  in Dallas jail
    shooting suspect</p>
 
-<p>3/64  Bill Chesher   Thought to have information  Heart attack
-   linking Oswald and Ruby</p>
+<p>3/64  <ent type = 'person'>Bill Chesher</ent>   Thought to have information  Heart attack
+   linking <ent type = 'person'>Oswald</ent> and <ent type = 'person'>Ruby</ent></p>
 
-<p>3/64  Hank Killam*   Husband of Ruby employee,  Throat cut
-   knew Oswald acquaintance</p>
+<p>3/64  <ent type = 'person'>Hank Killam</ent>*   Husband of <ent type = 'person'>Ruby</ent> employee,  <ent type = 'person'>Throat</ent> cut
+   knew <ent type = 'person'>Oswald</ent> acquaintance</p>
 
-<p>4/64  Bill Hunter*   Reporter who was in Ruby's Accidental shooting
+<p>4/64  <ent type = 'person'>Bill Hunter</ent>*   Reporter who was in <ent type = 'person'>Ruby</ent>'s Accidental shooting
    apartment on 11/24/63    by policeman</p>
 
-<p>5/64  Gary Underhill*  CIA agent who claimed    Gunshot in head,
+<p>5/64  <ent type = 'person'>Gary Underhill</ent>*  CIA agent who claimed    <ent type = 'person'>Gunshot</ent> in head,
    Agency was involved  Ruled suicide</p>
 
-<p>5/64  Hugh Ward*   Private investigator working   Plane crash in
-   with Guy Banister and David  Mexico
-   Ferrie</p>
+<p>5/64  <ent type = 'person'>Hugh Ward</ent>*   Private investigator working   Plane crash in
+   with <ent type = 'person'>Guy Banister</ent> and David  Mexico
+   <ent type = 'person'>Ferrie</ent></p>
 
 <p>5/64  DeLesseps Morrison*  New Orleans mayor    Passenger in Ward's
       plane</p>
 
-<p>8/64  Teresa Norton* Ruby employee    Fatally shot</p>
+<p>8/64  Teresa Norton* <ent type = 'person'>Ruby</ent> employee    Fatally shot</p>
 
-<p>6/64  Guy Banister*  Ex-FBI agent in New Orleans  Heart attack
-   connected to Ferrie, CIA,
-   Carlos Marcello and Oswald</p>
+<p>6/64  <ent type = 'person'>Guy Banister</ent>*  Ex-FBI agent in New Orleans  Heart attack
+   connected to <ent type = 'person'>Ferrie</ent>, CIA,
+   <ent type = 'person'>Carlos Marcello</ent> and <ent type = 'person'>Oswald</ent></p>
 
-<p>9/64  Jim Koethe*  Reporter who was in Ruby's Blow to neck
+<p>9/64  Jim Koethe*  Reporter who was in <ent type = 'person'>Ruby</ent>'s Blow to neck
    apartment on 11/24/63</p>
 
 <p>9/64  C.D. Jackson   Life Magazine senior vice  Unknown
    president who bought Zapruder
    film and locked it away</p>
 
-<p>10/64  Mary Pinchot Meyer* JFK mistress whose diary was   Murdered
+<p>10/64  Mary Pinchot Meyer* <ent type = 'person'>JFK</ent> mistress whose diary was   Murdered
    taken by CIA chief James
    Angleton after her death</p>
 
-<p>1/65  Paul Mandal  Life writer who told of JFK  Cancer
+<p>1/65  <ent type = 'person'>Paul Mandal</ent>  Life writer who told of <ent type = 'person'>JFK</ent>  <ent type = 'person'>Cancer</ent>
    turning to rear when shot in
    throat</p>
 
-<p>3/65  Tom Howard*  Ruby's first lawyer, was in  Heart attack
-   Ruby's apartment on 11/24/63</p>
+<p>3/65  Tom Howard*  <ent type = 'person'>Ruby</ent>'s first lawyer, was in  Heart attack
+   <ent type = 'person'>Ruby</ent>'s apartment on 11/24/63</p>
 
-<p>5/65  Maurice Gatlin*  Pilot for Guy Banister   Fatal Fall</p>
+<p>5/65  Maurice Gatlin*  Pilot for <ent type = 'person'>Guy Banister</ent>   Fatal Fall</p>
 
 <p>8/65  Mona B. Saenz* Texas Employment clerk who Hit by Dallas bus
-   interviewed Oswald</p>
+   interviewed <ent type = 'person'>Oswald</ent></p>
 
 <p>?/65  David Goldstein  Dallasite who helped FBI   Natural causes
-   trace Oswald's pistol</p>
+   trace <ent type = 'person'>Oswald</ent>'s pistol</p>
 
-<p>9/65  Rose Cheramie* Knew of assassination in   Hit/run victim
+<p>9/65  <ent type = 'person'>Rose Cheramie</ent>* Knew of assassination in   Hit/run victim
    advance, told of riding to
    Dallas with Cubans</p>
 
-<p>11/65  Dorothy Kilgallen*  Columnist who had private  Drug overdose
-   interview with Ruby, pledged
-   to "break" JFK case</p>
+<p>11/65  <ent type = 'person'>Dorothy <ent type = 'person'>Kilgallen</ent></ent>*  Columnist who had private  Drug overdose
+   interview with <ent type = 'person'>Ruby</ent>, pledged
+   to "break" <ent type = 'person'>JFK</ent> case</p>
 
-<p>11/65  Mrs. Earl Smith*  Close friend to Dorothy  Unknown
-   Kilgallen, died two days
+<p>11/65  Mrs. <ent type = 'person'>Earl Smith</ent>*  Close friend to Dorothy  Unknown
+   <ent type = 'person'>Kilgallen</ent>, died two days
    after columnist, may have
-   kept Kilgallen's notes</p>
+   kept <ent type = 'person'>Kilgallen</ent>'s notes</p>
 
 <p>12/65  William Whaley*   Cabdriver who reportedly   Motor Collision
-   drove Oswald to Oak Cliff  (the only Dallas
+   drove <ent type = 'person'>Oswald</ent> to Oak Cliff  (the only Dallas
       taxi driver to
       die on duty)</p>
 
-<p>1966  Judge Joe Brown  Presided over Ruby's trial Heart attack</p>
+<p>1966  Judge <ent type = 'person'>Joe Brown</ent>  Presided over <ent type = 'person'>Ruby</ent>'s trial Heart attack</p>
 
-<p>1966  Karen "Little Lynn"  Ruby employee who last talked  Gunshot victim
-  Carlin*  with Ruby before Oswald shooting</p>
+<p>1966  Karen "Little Lynn"  <ent type = 'person'>Ruby</ent> employee who last talked  <ent type = 'person'>Gunshot</ent> victim
+  <ent type = 'person'>Carlin</ent>*  with <ent type = 'person'>Ruby</ent> before <ent type = 'person'>Oswald</ent> shooting</p>
 
-<p>1/66  Earline Roberts  Oswald's landlady    Heart attack</p>
+<p>1/66  Earline Roberts  <ent type = 'person'>Oswald</ent>'s landlady    Heart attack</p>
 
-<p>2/66  Albert Bogard* Car salesman who said Oswald   Suicide
+<p>2/66  Albert Bogard* Car salesman who said <ent type = 'person'>Oswald</ent>   Suicide
    test drove new car</p>
 
-<p>6/66  Capt. Frank Martin Dallas police captain who  Cancer
-   witnessed Oswald slaying,
+<p>6/66  Capt. <ent type = 'person'>Frank Martin</ent> Dallas police captain who  <ent type = 'person'>Cancer</ent>
+   witnessed <ent type = 'person'>Oswald</ent> slaying,
    told Warren Commission,
    "There's a lot to be said,
    but probably be better if I
@@ -258,27 +258,27 @@ begin?</p>
 <p>8/66  Lee Bowers, Jr.*   Witnessed men behind picket  Motor accident
    fence on Grassy Knoll</p>
 
-<p>9/66  Marilyn "Delilah"  Ruby dancer    Shot by husband
-  Walle*      after one month
+<p>9/66  Marilyn "Delilah"  <ent type = 'person'>Ruby</ent> dancer    <ent type = 'person'>Shot</ent> by husband
+  <ent type = 'person'>Walle</ent>*      after one month
       of marriage</p>
 
-<p>10/66  William Pitzer*   JFK autopsy photographer   Gunshot, ruled
+<p>10/66  William Pitzer*   <ent type = 'person'>JFK</ent> autopsy photographer   <ent type = 'person'>Gunshot</ent>, ruled
    who described his duty as  suicide
    "horrifying experience"</p>
 
-<p>11/66  Jimmy Levens  Fort Worth nightclub owner Natural causes
-   who hired Ruby employee</p>
+<p>11/66  <ent type = 'person'>Jimmy Levens</ent>  Fort Worth nightclub owner Natural causes
+   who hired <ent type = 'person'>Ruby</ent> employee</p>
 
 <p>11/66  James Worrell, Jr.* Saw man flee rear of Texas Motor accident
    School Book Depository</p>
 
 <p>1966  Clarence Oliver  D.A. investigator who    Unknown
-   worked Ruby case</p>
+   worked <ent type = 'person'>Ruby</ent> case</p>
 
 <p>12/66  Hank Suydam   Life magazine official in  Heart attack
-   charge of JFK stories</p>
+   charge of <ent type = 'person'>JFK</ent> stories</p>
 
-<p>   The Garrison Inquiry</p>
+<p>   The <ent type = 'person'>Garrison</ent> Inquiry</p>
 
 <p>Date  Name  Connection with Case    Cause of Death</p>
 
@@ -286,61 +286,61 @@ begin?</p>
    helped film _Last Two Days_
    about assassination</p>
 
-<p>1/67  Jack Ruby    Oswald's slayer    Lung cancer (He
+<p>1/67  <ent type = 'person'>Jack <ent type = 'person'>Ruby</ent></ent>    <ent type = 'person'>Oswald</ent>'s slayer    Lung cancer (He
       told family he
       was injected with
       cancer cells.)</p>
 
-<p>2/67  Harold Russell*  Saw escape of Tippit killer  Killed by cop in
+<p>2/67  Harold Russell*  Saw escape of <ent type = 'person'>Tippit</ent> killer  Killed by cop in
       bar brawl</p>
 
-<p>2/67  David Ferrie*  Acquaintance of Oswald,  Blow to neck,
-   Garrison suspect, and    ruled accidental
-   employee of Guy Banister</p>
+<p>2/67  <ent type = 'person'>David <ent type = 'person'>Ferrie</ent></ent>*  Acquaintance of <ent type = 'person'>Oswald</ent>,  Blow to neck,
+   <ent type = 'person'>Garrison</ent> suspect, and    ruled accidental
+   employee of <ent type = 'person'>Guy Banister</ent></p>
 
-<p>2/67  Eladio Del Valle*  Anti-Castro Cuban associate  Gunshot wound,
-   of David Ferrie being sought   ax wound to head
-   by Garrison</p>
+<p>2/67  Eladio Del Valle*  Anti-<ent type = 'person'>Castro</ent> Cuban associate  <ent type = 'person'>Gunshot</ent> wound,
+   of <ent type = 'person'>David <ent type = 'person'>Ferrie</ent></ent> being sought   ax wound to head
+   by <ent type = 'person'>Garrison</ent></p>
 
-<p>3/67  Dr. Mary Sherman*  Ferrie associate working on  Died in fire
+<p>3/67  Dr. Mary Sherman*  <ent type = 'person'>Ferrie</ent> associate working on  Died in fire
    cancer research    (possibly shot)</p>
 
-<p>1/68  A.D. Bowie   Assistant Dallas D.A.    Cancer
-   prosecuting Ruby</p>
+<p>1/68  A.D. <ent type = 'person'>Bowie</ent>   Assistant Dallas D.A.    <ent type = 'person'>Cancer</ent>
+   prosecuting <ent type = 'person'>Ruby</ent></p>
 
-<p>4/68  Hiram Ingram   Dallas deputy sheriff, close   Cancer
-   friend to Roger Craig</p>
+<p>4/68  Hiram Ingram   Dallas deputy sheriff, close   <ent type = 'person'>Cancer</ent>
+   friend to <ent type = 'person'>Roger Craig</ent></p>
 
-<p>5/68  Dr. Nicholas Chetta  New Orleans coroner who ruled  Heart attack
-   on death of Ferrie</p>
+<p>5/68  Dr. <ent type = 'person'>Nicholas Chetta</ent>  New Orleans coroner who ruled  Heart attack
+   on death of <ent type = 'person'>Ferrie</ent></p>
 
 <p>8/68  Phillip Geraci*  Friend of Perry Russo, told of Electrocution
-   Oswald/Shaw connection</p>
+   <ent type = 'person'>Oswald</ent>/Shaw connection</p>
 
-<p>1/69  Henry Delaune* Brother-in-law to coroner  Murdered
+<p>1/69  <ent type = 'person'>Henry Delaune</ent>* Brother-in-law to coroner  Murdered
    Chetta</p>
 
-<p>1/69  E.R. Walthers* Dallas deputy sheriff who  Shot by felon
+<p>1/69  E.R. Walthers* Dallas deputy sheriff who  <ent type = 'person'>Shot</ent> by felon
    was involved in Depository
    search, claimed to have found
    .45-cal slug</p>
 
-<p>1969  Charles Mentesana  Filmed rifle other than  Heart attack
+<p>1969  <ent type = 'person'>Charles Mentesana</ent>  Filmed rifle other than  Heart attack
    Mannlicher-Carcano being taken
    from Depository</p>
 
-<p>4/69  Mary Bledsoe   Neighbor to Oswald, also   Natural causes
-   knew David Ferrie</p>
+<p>4/69  Mary Bledsoe   Neighbor to <ent type = 'person'>Oswald</ent>, also   Natural causes
+   knew <ent type = 'person'>David <ent type = 'person'>Ferrie</ent></ent></p>
 
-<p>4/69  John Crawford* Close friend to both Ruby and  Crash of private
-   Wesley Frazier, who gave ride  plane
-   to Oswald on 11/22/63</p>
+<p>4/69  <ent type = 'person'>John Crawford</ent>* Close friend to both <ent type = 'person'>Ruby</ent> and  Crash of private
+   <ent type = 'person'>Wesley Frazier</ent>, who gave ride  plane
+   to <ent type = 'person'>Oswald</ent> on 11/22/63</p>
 
-<p>7/69  Rev. Clyde Johnson*  Scheduled to testify about Fatally shot
-   Clay Shaw/Oswald connection</p>
+<p>7/69  Rev. <ent type = 'person'>Clyde Johnson</ent>*  Scheduled to testify about Fatally shot
+   <ent type = 'person'>Clay Shaw</ent>/<ent type = 'person'>Oswald</ent> connection</p>
 
-<p>1970  George McGann* Underworld figure, connected   Murdered
-   to Ruby friends; wife, Beverly,
+<p>1970  <ent type = 'person'>George McGann</ent>* Underworld figure, connected   Murdered
+   to <ent type = 'person'>Ruby</ent> friends; wife, <ent type = 'person'>Beverly</ent>,
    took film in Dealey Plaza</p>
 
 <p>1/70  Darrell W. Garner  Arrested for shooting Warren   Drug overdose
@@ -348,22 +348,22 @@ begin?</p>
    alibi from Betty McDonald</p>
 
 <p>8/70  Bill Decker  Dallas sheriff who saw bullet  Natural causes
-   hit street in front of JFK</p>
+   hit street in front of <ent type = 'person'>JFK</ent></p>
 
-<p>8/70  Abraham Zapruder   Took famous film of JFK  Natural causes
+<p>8/70  Abraham Zapruder   Took famous film of <ent type = 'person'>JFK</ent>  Natural causes
    assassination</p>
 
-<p>12/70  Salvatore Granello* Mobster linked to Hoffa,   Murdered
-   Trafficante, and Castro
+<p>12/70  Salvatore Granello* Mobster linked to <ent type = 'person'>Hoffa</ent>,   Murdered
+   Trafficante, and <ent type = 'person'>Castro</ent>
    assassination plots</p>
 
 <p>1971  James Plumeri* Mobster tied to mob-CIA  Murdered
    assassination plots</p>
 
-<p>3/71  Clayton Fowler Ruby's chief defense attorney  Unknown</p>
+<p>3/71  Clayton Fowler <ent type = 'person'>Ruby</ent>'s chief defense attorney  Unknown</p>
 
-<p>4/71  Gen. Charles Cabell* CIA deputy director connected  Collapsed and
-   to anti-Castro Cubans    died after
+<p>4/71  Gen. <ent type = 'person'>Charles Cabell</ent>* CIA deputy director connected  Collapsed and
+   to anti-<ent type = 'person'>Castro</ent> Cubans    died after
       physical at Ft.
       Myers</p>
 
@@ -376,60 +376,60 @@ begin?</p>
    to publicly express doubts   flight
    doubts about findings</p>
 
-<p>5/72  J. Edgar Hoover*   FBI director who pushed "Lone  Heart attack (no
-   assassin" theory in JFK  autopsy)
+<p>5/72  J. <ent type = 'person'>Edgar Hoover</ent>*   FBI director who pushed "Lone  Heart attack (no
+   assassin" theory in <ent type = 'person'>JFK</ent>  autopsy)
    assassination</p>
 
 <p>9/73  Thomas E. Davis*   Gun runner connected to both   Electrocuted
-   Ruby and CIA   trying to steal
+   <ent type = 'person'>Ruby</ent> and CIA   trying to steal
       wire</p>
 
 <p>2/74  J.A. Milteer*  Miami right-winger who   Heater explosion
-   predicted JFK's death and
+   predicted <ent type = 'person'>JFK</ent>'s death and
    capture of scapegoat</p>
 
-<p>1974  Dave Yaras*  Close friend to both Hoffa Murdered
-   and Jack Ruby</p>
+<p>1974  <ent type = 'person'>Dave Yaras</ent>*  Close friend to both <ent type = 'person'>Hoffa</ent> Murdered
+   and <ent type = 'person'>Jack <ent type = 'person'>Ruby</ent></ent></p>
 
-<p>7/74  Earl Warren  Chief justice who reluctantly  Heart failure
+<p>7/74  <ent type = 'person'>Earl Warren</ent>  Chief justice who reluctantly  Heart failure
    chaired Warren Commission</p>
 
-<p>8/74  Clay Shaw*   Prime suspect in Garrison  Possible cancer
+<p>8/74  <ent type = 'person'>Clay Shaw</ent>*   Prime suspect in <ent type = 'person'>Garrison</ent>  Possible cancer
    case, reportedly a CIA
-   contact with Ferrie and E.
-   Howard Hunt</p>
+   contact with <ent type = 'person'>Ferrie</ent> and E.
+   <ent type = 'person'>Howard Hunt</ent></p>
 
 <p>1974  Earle Cabell   Mayor of Dallas on 11/22/63,   Natural causes
    whose brother, Gen. Charles
    Cabell, was fired from CIA by
-   JFK</p>
+   <ent type = 'person'>JFK</ent></p>
 
-<p>6/75  Sam Giancana*  Chicago Mafia boss slated to   Murdered
+<p>6/75  <ent type = 'person'>Sam Giancana</ent>*  Chicago Mafia boss slated to   Murdered
    tell about CIA-mob death plots
    to Senate Committee</p>
 
-<p>1975  Clyde Tolson   J. Edgar Hoover's assistant  Natural causes
+<p>1975  <ent type = 'person'>Clyde Tolson</ent>   J. <ent type = 'person'>Edgar Hoover</ent>'s assistant  Natural causes
    and roommate</p>
 
-<p>7/75  Allan Sweatt   Dallas deputy sheriff involved Natural causes
+<p>7/75  <ent type = 'person'>Allan Sweatt</ent>   Dallas deputy sheriff involved Natural causes
    in investigation</p>
 
-<p>12/75  Gen. Earl Wheeler Contact between JFK and CIA  Unknown</p>
+<p>12/75  Gen. <ent type = 'person'>Earl Wheeler Contact</ent> between <ent type = 'person'>JFK</ent> and CIA  Unknown</p>
 
-<p>1976  Ralph Paul   Ruby's business partner  Heart attack
+<p>1976  Ralph Paul   <ent type = 'person'>Ruby</ent>'s business partner  Heart attack
    connected with crime figures</p>
 
-<p>4/76  James Chaney   Dallas motorcycle officer  Heart attack
-   to JFK's right rear who said
-   JFK "struck in the face" with
+<p>4/76  <ent type = 'person'>James Chaney</ent>   Dallas motorcycle officer  Heart attack
+   to <ent type = 'person'>JFK</ent>'s right rear who said
+   <ent type = 'person'>JFK</ent> "struck in the face" with
    bullet</p>
 
-<p>4/76  Dr. Charles Gregory  Governor John Connally's   Heart attack
+<p>4/76  Dr. <ent type = 'person'>Charles Gregory</ent>  Governor <ent type = 'person'>John Connally</ent>'s   Heart attack
    physician</p>
 
-<p>6/76  William Harvey*  CIA coordinator for CIA-mob  Complications of
+<p>6/76  <ent type = 'person'>William Harvey</ent>*  CIA coordinator for CIA-mob  Complications of
    assassination plans against  heart surgery
-   Castro</p>
+   <ent type = 'person'>Castro</ent></p>
 
 <p>7/76  John Roselli*  Mobster who testified to   Stabbed and
    Senate committee, was to   stuffed in metal
@@ -438,32 +438,32 @@ begin?</p>
 <p>   1977 - A Terrible Year for Many</p>
 
 <p>  The year 1977 produced a bumper crop of candidates for listing under
-convenient deaths connected with the JFK assassination - including the deaths
+convenient deaths connected with the <ent type = 'person'>JFK</ent> assassination - including the deaths
 of six top FBI officials all of whom were scheduled to testify before the
 House Select Committee on Assassinations.
   Topping this list was former number-three man in the FBI, William C.
-Sullivan, who had already had a preliminary meeting with the investigators
-for the House Committee.  Sullivan was shot with a high-powered rifle near
+<ent type = 'person'>Sullivan</ent>, who had already had a preliminary meeting with the investigators
+for the House Committee.  <ent type = 'person'>Sullivan</ent> was shot with a high-powered rifle near
 his New Hampshire home by a man who claimed to have mistaken him for a deer.
 The man was charged with a misdemeanor - "shooting a human being by
 accident" - and released to the custody of his father, a state policeman.
-There was no further investigation of Sullivan's death.
-  Louis Nichols was a special assistant to J. Edgar Hoover as well as
+There was no further investigation of <ent type = 'person'>Sullivan</ent>'s death.
+  <ent type = 'person'>Louis Nichols</ent> was a special assistant to J. <ent type = 'person'>Edgar Hoover</ent> as well as
 Hoover's liaison with the Warren Commission.  Alan H. Belmont also was a
 special assistant to Hoover.  James Cadigan was a document expert with access
 to many classified assassination documents, while J.M. English headed the FBI
-laboratory where Oswald's rifle and pistol were tested.  Donald Kaylor was
+laboratory where <ent type = 'person'>Oswald</ent>'s rifle and pistol were tested.  <ent type = 'person'>Donald Kaylor</ent> was
 the FBI fingerprint expert who examined prints found at the assassination
 scene.  None of these six Bureau officials lived to tell what they knew to
 the House Committee.
-  Other key assassination witnesses, such as George DeMohrenschildt and
-former Cuban president Carlos Prio Soccaras, died within weeks of each other
+  Other key assassination witnesses, such as <ent type = 'person'>George <ent type = 'person'>DeMohrenschildt</ent></ent> and
+former Cuban president <ent type = 'person'><ent type = 'person'>Carlos Prio</ent> <ent type = 'person'>Soccaras</ent></ent>, died within weeks of each other
 in 1977, just as they, too, were being sought by the House Committee.
   The ranks of both organized crime and U.S. intelligence agencies were
 thinned by deaths beginning in 1975, the time of the Senate Intelligence
 Hearings, and 1978, the closing months of the House Committee.
-  Charles Nicoletti, a mobster connected with the CIA-Mafia assassination
-plots, was murdered in Chicago, while William Pawley, a former diplomat
+  <ent type = 'person'>Charles Nicoletti</ent>, a mobster connected with the CIA-Mafia assassination
+plots, was murdered in Chicago, while <ent type = 'person'>William Pawley</ent>, a former diplomat
 connected with both organized crime and CIA figures, reportedly committed
 suicide.
   Adding to rumors that "hit teams" may have been at work, a Time magazine
@@ -474,37 +474,37 @@ activities."
   One FBI source was quoted as saying: "Our main concern is that we may be
 facing a revival of the old `Murder, Inc.' days."
   A New York News story concerning this official fear of roving
-assassination squads even mentions the death of Sam Giancana, who was killed
+assassination squads even mentions the death of <ent type = 'person'>Sam Giancana</ent>, who was killed
 one day before he was scheduled to testify about mob-CIA connections and
 while under government protection.
-  Prior to the House Committee investigation into the JFK assassination,
+  Prior to the House Committee investigation into the <ent type = 'person'>JFK</ent> assassination,
 the news media reported the following deaths:</p>
 
 <p>Date  Name  Connection with Case    Cause of Death</p>
 
-<p>1/77  William Pawley*  Former Brazilian ambassador  Gunshot, ruled
-   connected to anti-Castro   suicide
+<p>1/77  <ent type = 'person'>William Pawley</ent>*  Former Brazilian ambassador  <ent type = 'person'>Gunshot</ent>, ruled
+   connected to anti-<ent type = 'person'>Castro</ent>   suicide
    Cubans, crime figures</p>
 
-<p>3/77  George   Close friend to both Oswald  Gunshot wound,
-  DeMohrenschildt*   and Bouvier family (Jackie ruled suicide
-   Kennedy's parents), CIA
+<p>3/77  George   Close friend to both <ent type = 'person'>Oswald</ent>  <ent type = 'person'>Gunshot</ent> wound,
+  <ent type = 'person'>DeMohrenschildt</ent>*   and <ent type = 'person'>Bouvier</ent> family (<ent type = 'person'>Jackie</ent> ruled suicide
+   <ent type = 'person'>Kennedy</ent>'s parents), CIA
    contract agent</p>
 
-<p>3/77  Carlos Prio  Former Cuban president,  Gunshot wound,
-  Soccaras*    money man for anti-Castro  ruled suicide
+<p>3/77  <ent type = 'person'>Carlos Prio</ent>  Former Cuban president,  <ent type = 'person'>Gunshot</ent> wound,
+  <ent type = 'person'>Soccaras</ent>*    money man for anti-<ent type = 'person'>Castro</ent>  ruled suicide
    Cubans</p>
 
-<p>3/77  Paul Raigorodsky   Business friend of George  Natural causes
-   DeMohrenschildt and wealthy
+<p>3/77  <ent type = 'person'>Paul Raigorodsky</ent>   Business friend of George  Natural causes
+   <ent type = 'person'>DeMohrenschildt</ent> and wealthy
    oilmen</p>
 
-<p>5/77  Lou Staples*   Dallas radio talk show host  Gunshot to head,
+<p>5/77  <ent type = 'person'>Lou Staples</ent>*   Dallas radio talk show host  <ent type = 'person'>Gunshot</ent> to head,
    who told friends he would  ruled suicide
    break case</p>
 
-<p>6/77  Louis Nichols  Former number-three man in Heart attack
-   FBI, worked on JFK
+<p>6/77  <ent type = 'person'>Louis Nichols</ent>  Former number-three man in Heart attack
+   FBI, worked on <ent type = 'person'>JFK</ent>
    investigation</p>
 
 <p>8/77  Alan Belmont   FBI official who testified to  "Long illness"
@@ -513,62 +513,62 @@ the news media reported the following deaths:</p>
 <p>8/77  James Cadigan  FBI document expert who  Fall in home
    testified to Warren Commission</p>
 
-<p>8/77  Joseph C. Ayres*   Chief steward on JFK's   Shooting accident
+<p>8/77  Joseph C. Ayres*   Chief steward on <ent type = 'person'>JFK</ent>'s   Shooting accident
    Air Force One</p>
 
 <p>8/77  Francis G. Powers* U-2 pilot downed over Russia   Helicopter crash
    in 1960    (he reportedly
       ran out of fuel)</p>
 
-<p>9/77  Kenneth O'Donnell  JFK's closest aide   Natural causes</p>
+<p>9/77  Kenneth O'Donnell  <ent type = 'person'>JFK</ent>'s closest aide   Natural causes</p>
 
-<p>10/77  Donald Kaylor FBI fingerprint chemist  Heart attack</p>
+<p>10/77  <ent type = 'person'>Donald Kaylor</ent> FBI fingerprint chemist  Heart attack</p>
 
 <p>10/77  J.M. English  Former head of FBI Forensic  Heart attack
    Sciences Laboratory</p>
 
-<p>11/77  William Sullivan* Former number-three man in Hunting accident
+<p>11/77  William <ent type = 'person'>Sullivan</ent>* Former number-three man in Hunting accident
    FBI, headed Division 5,
    counterespionage and
    domestic intelligence</p>
 
 <p>1978  C.L. "Lummie" Lewis  Dallas deputy sheriff who  Natural causes
-   arrested Mafia man Braden in
+   arrested Mafia man <ent type = 'person'>Braden</ent> in
    Dealey Plaza</p>
 
 <p>9/78  Garland Slack  Man who said his target was  Unknown
-   fired at by Oswald at rifle
+   fired at by <ent type = 'person'>Oswald</ent> at rifle
    range</p>
 
-<p>1/79  Billy Lovelady Depository employee said to be Complications
+<p>1/79  <ent type = 'person'>Billy Lovelady Depository</ent> employee said to be Complications
    the man in the doorway in AP   from heart attack
    photograph</p>
 
-<p>6/80  Dr. John Holbrook  Psychiatrist who testified Heart attack, but
-   Ruby was not insane  pills, notes found</p>
+<p>6/80  Dr. <ent type = 'person'>John Holbrook</ent>  Psychiatrist who testified Heart attack, but
+   <ent type = 'person'>Ruby</ent> was not insane  pills, notes found</p>
 
-<p>1/81  Marguerite Oswald  Mother of accused assassin Cancer</p>
+<p>1/81  Marguerite <ent type = 'person'>Oswald</ent>  Mother of accused assassin <ent type = 'person'>Cancer</ent></p>
 
-<p>10/81  Frank Watts   Chief felony prosecutor for  Natural causes
+<p>10/81  <ent type = 'person'>Frank Watts</ent>   Chief felony prosecutor for  Natural causes
    Dallas D.A.</p>
 
 <p>1/82  Peter Gregory  Original translator for  Natural causes
-   Marina Oswald and Secret
+   Marina <ent type = 'person'>Oswald</ent> and Secret
    Service</p>
 
-<p>5/82  Dr. James Weston   Pathologist allowed to see Died while
-   JFK autopsy material for   jogging, ruled
+<p>5/82  Dr. <ent type = 'person'>James Weston</ent>   Pathologist allowed to see Died while
+   <ent type = 'person'>JFK</ent> autopsy material for   jogging, ruled
    HSCA   natural causes</p>
 
-<p>8/82  Will H. Griffin  FBI agent who reportedly   Cancer
-   said Oswald was "definitely"
+<p>8/82  Will H. Griffin  FBI agent who reportedly   <ent type = 'person'>Cancer</ent>
+   said <ent type = 'person'>Oswald</ent> was "definitely"
    an FBI informant</p>
 
 <p>10/82  W. Marvin Gheesling FBI official who helped  Natural causes
-   supervise JFK investigation</p>
+   supervise <ent type = 'person'>JFK</ent> investigation</p>
 
-<p>3/84  Roy Kellerman  Secret Service agent in charge Unknown
-   if JFK limousine
+<p>3/84  <ent type = 'person'>Roy Kellerman</ent>  Secret Service agent in charge Unknown
+   if <ent type = 'person'>JFK</ent> limousine
 
 --- end
 </p></xml>

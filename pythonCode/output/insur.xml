@@ -1,11 +1,11 @@
 <xml><p>To:.... All people who value freedom
 From:........ Lance Rock, project leader
 Subj:........ Games played on us by Insurances firms, Banks and others. 
-Project X.... Information has been provided by
+<ent type = 'person'>Project X</ent>.... Information has been provided by
 .
 National Commodity &amp; Barter Association
 (Constitutional Taxation and Law)
-Bob Huebner (602) 954-8885
+<ent type = 'person'>Bob Huebner</ent> (602) 954-8885
 .
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 $$$$$$       $$$$$$
@@ -27,7 +27,7 @@ financial dealings. Bank loan customers are often obligated to purchase
 insurance through the bank's facilities. Insurance firms have done such
 a job building power bases that they have convinced city governments to
 pay millions of dollars in premiums when the city could easily be self-
-insured. Often the insurance carrier is smallar than the city government
+insured. Often the insurance carrier is <ent type = 'person'>smallar</ent> than the city government
 it insures, but it continues to collect excessive premiums. When small
 harassment claims are made, instead of fighting them to set an example
 that unfounded claims will not be paid, they settle it for a few thousand
@@ -112,10 +112,10 @@ do add up to a profitable bundle.
 .
   MANATORY INSURANCE-IT IS NOT!
 .
- Mandatory insurance? Don't you believe it! There is nothing mandatory
+ Mandatory insurance? <ent type = 'person'>Don</ent>'t you believe it! There is nothing mandatory
 about the so-called Mandatory Insurance laws your state may have on its
 books. It's another of the double-speak word games designed to trick
-people into surrendering their rights. The words and meanings have beeb so
+people into surrendering their rights. The words and meanings have <ent type = 'person'>beeb</ent> so
 twisted around in our laws and courts that you can't even be certain that a
 person whose record indicates something as blatant as a "sex offender"
 ever did anything wrong.
@@ -133,7 +133,7 @@ satisfactory arrangements to correct the financial harm you
 have caused.
  But, to require you to have insurance BEFORE you have been declared
 financially irresponsible-BEFORE you can license your car (pay the taxes
-on it)-BEFORE you can operate your car-that is PRIOR RESTRAINT and 
+on it)-BEFORE you can operate your car-that is <ent type = 'person'>PRIOR RESTRAINT</ent> and 
 violates the Constitutional Limits placed on government which requires
 Due Process of Law and mandates that everyone shall be considered
 innocent until proven guilty. You may never be involved in an accident
@@ -156,7 +156,7 @@ title the media could use to erroneously promulgate a myth of
 mandatory insurance. Then it was given a sub-title to further
 mislead the public. The sub-title usually reads "All vehicles
 required to have liability insurance." Following the Title and
-sub-title comes the body copy of the rule. That is waht
+sub-title comes the body copy of the rule. That is <ent type = 'person'>waht</ent>
 really counts. Titles do not mean a thing.
  If you want to entitle a law "ANTI-CHILD ABUSE LAW"
 and then draft body copy to make it illigal to chew gum on
@@ -208,7 +208,7 @@ them if you read very carefully, but the rulings are no obvious. If
 they were, this book would not have been published.
   If all the lawyers knew about all the differences, the government 
 bureaucrats and power brokers would not be able to use rule to circumvent
-the Constitutional restrictions and Unalienable Rights of the peoople. The
+the Constitutional restrictions and <ent type = 'person'>Unalienable Rights</ent> of the peoople. The
 Supreme Court of the United States is very adept at keeping the double-
 speak game going. If an appeal is taken to our highest court and the
 questions is not phrased in a manner which would allow them to give a
@@ -302,7 +302,7 @@ drive less would pay less.
 .  to encourage you to find out more. This is our country.
 .  This material came from Chapter Nine in
 .
-.  "Break the Rules and Win written by J.Jay Evenson"
+.  "Break the Rules and Win written by J.<ent type = 'person'>Jay Evenson</ent>"
 .
 .  Want to join us?  Want to protect your family?
 .  Want to learn how much power knowing your rights
@@ -313,10 +313,10 @@ drive less would pay less.
 .  (This could save many lives)! Want to find out more?
 .  Call us today.
 .
-.  Project X is sponsored by
+.  <ent type = 'person'>Project X</ent> is sponsored by
 .  National Commodity &amp; Barter Association
 .  **  Constitutional Taxation and Law  **
-.  Bob Huebner (602) 954-8885
+.  <ent type = 'person'>Bob Huebner</ent> (602) 954-8885
 .
 .  Let us ask you a question? Was this material valuable
 .  to you?  We are looking for special people out there with

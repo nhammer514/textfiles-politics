@@ -1,4 +1,4 @@
-<xml><p>FOIA FILES KIT - INSTRUCTIONS</p>
+<xml><p>FOIA <ent type = 'person'>FILES KIT</ent> - INSTRUCTIONS</p>
 
 <p>USING THE FREEDOM OF INFORMATION ACT
 REVISED EDITION
@@ -50,11 +50,11 @@ Be sure to keep a copy of each letter.
    Step 3: Addressing the letters: Consult list of agency 
 addresses.
    FBI: A complete request requires a minimum of two letters. 
-Sen done letter to FBI Headquarters and separate letter to each 
+<ent type = 'person'>Sen</ent> done letter to FBI Headquarters and separate letter to each 
 FBI field office nearest the location of the individual, the 
-organization or the subject matter/event. Consdier the location 
+organization or the subject matter/event. <ent type = 'person'>Consdier</ent> the location 
 of residences, schools, work and other activities.
-   INS: Send a request letter to each district office nearest 
+   INS: <ent type = 'person'>Sen</ent>d a request letter to each district office nearest 
 the location of the individual, the organization or the subject 
 matter/event.
    Address each letter to the FOIA/PA office of the appropraite 
@@ -151,7 +151,7 @@ to those you requested.
    Next step: Check your original request to be sure you have 
 not overlooked anything. If you receive documents from other 
 agencies, review them for indications that there is matieral in 
-teh files of the agency claiming it has none. For example, look 
+<ent type = 'person'>teh</ent> files of the agency claiming it has none. For example, look 
 for correspondence, or references to correspondence, to or from 
 that agency. If you determine that there are reasonable grounds, 
 file an administrative appeal (see instructions below).</p>
@@ -181,7 +181,7 @@ serial number and separated the documents into their proper
 office batches, make a list of all the serial numbers in each 
 batch to see if there any any missing numbers. If there are 
 missing serial numbers and some documents have been withheld, try 
-to determine if teh missing numbers might reasonably correspond 
+to determine if <ent type = 'person'>teh</ent> missing numbers might reasonably correspond 
 to the withheld documents. If not, the realease may be incomplete 
 and an administrative appeal should be made.
    Step 2: Read all the document released to you. Keep a list 
@@ -202,7 +202,7 @@ conclusions from discrepancies in the totals and missing document
 numbers.
    Another thing to look for when reading the released 
 documents if the names of persons or agencies to whom the 
-document has been disseminated. the lower left-hadn corncer is a 
+document has been disseminated. the lower left-<ent type = 'person'>hadn corncer</ent> is a 
 common location for the typed list of agencies or offices to whom 
 the document has been directed. In addition, there may be 
 additional distribution recorded by hand, there or elsewhere on 
@@ -211,7 +211,7 @@ that will help in deciphering these notaitons when they are not
 clear. Contact FOIA, Inc., if you need assistance in deciphering 
 the text.
    Finally, any other file numbers that appear on the document 
-should be noted, particularaly in the subject of the file is of 
+should be noted, <ent type = 'person'>particularaly</ent> in the subject of the file is of 
 interest and is one you have not requested. You may want to make 
 an additional request for some of these files.</p>
 
@@ -271,7 +271,7 @@ sub files, "DO NOT FILE" files, and control files. I also request
 a search of the ELSUR Index,a nd the COINTELPRO Index. I request 
 that all records be produced with the administrative pges.
    I wish to be sent copies of "see reference" cards, 
-abstracts, serach slips, including search slips used to process 
+abstracts, <ent type = 'person'>serach</ent> slips, including search slips used to process 
 this request, file covers, multiple copies of the same documents 
 if they appear in a file, and tapes of any electronic 
 surveillances.
@@ -288,7 +288,7 @@ document denied. Please provide a complete itemized inventory and
 a detailed factual justification of total or partial denial of 
 documents. Give the number of pages in each document and the 
 total number of pages pertaining to this request. For 
-"classified" material denied pleae include the following 
+"classified" material denied <ent type = 'person'>pleae</ent> include the following 
 information: the classification (confidential, secret or top 
 secret); identity of the classifer; date or event for automatic 
 declassification, classification review, or down-grading; if 
@@ -430,7 +430,7 @@ secregable portion of a record shall be provided to any eprson
 requesting such record after deletion of the portions which are 
 exempt," I believe that your agency has not complied with the 
 FOIA. I believe that there must be (additional) segregble 
-portions which do not fall wihtin FOIA exemptions and which must 
+portions which do not fall <ent type = 'person'>wihtin</ent> FOIA exemptions and which must 
 be released.
    [Optional paragraph, to be used in the agency has used the 
 (b)(1) exemption for national security, to withhold information]
@@ -487,12 +487,12 @@ ultimately not to file suit.]</p>
 
 <p>signature: ___________________________________________</p>
 
-<p>[Mark clearly on envelope: Attention: Freedom of Information 
+<p>[<ent type = 'person'>Mark</ent> clearly on envelope: Attention: Freedom of Information 
 Appeals]</p>
 
 <p>FBI ADDRESSES AND PHONE NUMBERS</p>
 
-<p>FBI Headquarters, J. Edgar Hoover Bldg, Washington, D.C., 20535, 
+<p>FBI Headquarters, J. <ent type = 'person'>Edgar Hoover</ent> Bldg, Washington, D.C., 20535, 
 202-324-5520 (FOI/PA Unit)</p>
 
 <p>Field Offices
@@ -507,7 +507,7 @@ Boston, MA 02203, J.F. Kennedy Federal Office Bldg., 617-742-5533
 Buffalo, NY 14202, 111 W. Huron St., 716-856-7800
 Butte, MT 59701, U.S. Courthouse and Federal Bldg., 406-792-2304
 Charlotte, NC 28202, Jefferson Standard Life Bldg., 704-372-5485
-Chicago, IL 60604, Everett McKinley Dirksen Bldg., 312-431-1333
+Chicago, IL 60604, <ent type = 'person'>Everett McKinley</ent> Dirksen Bldg., 312-431-1333
 Cincinnati, OH 45202, 400 U.S. Post Office &amp; Crthse Bldg., 513-421-4310
 Cleveland, OH 44199, Federal Office Bldg., 216-522-1401
 Columbia, SC 29201, 1529 Hampton St., 803-254-3011
@@ -515,7 +515,7 @@ Dallas TX 75201, 1810 Commrce St., 214-741-1851
 Denver, CO 80202, Federal Office Bldg., 303-629-7171
 Detroit, MI 48226, 477 Michigan Ave., 313-965-2323
 El Paso, TX 79901, 202 U.S. Courthosue Bldg., 915-533-7451
-Honolulu, HI 96850, 300 Ala Moana Blvd., 808-521-1411
+Honolulu, HI 96850, 300 <ent type = 'person'>Ala Moana Blvd</ent>., 808-521-1411
 Houston, TX 77002, 6015 Fed. Bldg and U.S.Courthouse, 713-224-1511
 Indianapolis, IN 46202, 575 N. Pennsylvania St., 317-639-3301
 Jackson, MS 39205, Unifirst Federal and Loan Bldg., 601-948-5000
@@ -526,12 +526,12 @@ Las Vegas, NV 89101, Federal Office Bldg., 702-385-1281
 Little Rock, AR 72201, 215 U.S Post Office Bldg., 501-372-7211
 Los Angeles, CA 90024, 11000 Wilshire Blvd, 213-272-6161
 Louisville, KY 40202, Federal Bldg., 502-583-3941
-Memphis, TN 38103, Clifford Davis Federal bldg., 901-525-7373
+Memphis, TN 38103, <ent type = 'person'>Clifford Davis</ent> Federal bldg., 901-525-7373
 Miami, FL 33137, 3801 Biscayne Blvd., 305-573-3333
 Milwaukee, WI 53202, Federal Bldg and U.S. Courthouse, 414-276-4681
 Minneapolis, MN 55401, 392 Federal Bldg., 612-339-7846
 Mobile, AL 36602, Federal Bldg., 205-438-3675
-Newark, NJ 07101, Gateway I, Market St., 201-622-5613
+Newark, NJ 07101, Gateway I, <ent type = 'person'>Mark</ent>et St., 201-622-5613
 New Haven, CT 06510, 170 Orange St., 203-777-6311
 New Orleans, LA 70113, 701 Loyola Ave., 504-522-4671
 New York, NY 10007, 26 Federal Plaza, 212-553-2700

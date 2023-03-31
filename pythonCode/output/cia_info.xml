@@ -3,7 +3,7 @@ operations which violate our principles, jeopardize our rights,
 and have not been subject to the checks and balances which
 normally keep policies in line."</p>
 
-<p>   <person>Morton Halperin</person>
+<p>   <ent type = 'person'>Morton Halperin</ent>
    Former Deputy Assistant Secretary of
    Defense for International Affairs</p>
 
@@ -23,7 +23,7 @@ bureaucratic, congressional, and public debate."</p>
 <p>   "The nation must to a degree take it on faith that we too
 are honorable men, devoted to her service."
    
-   Richard Helms, then DCI
+   <ent type = 'person'>Richard Helms</ent>, then DCI
    April, 1971
   Table of Contents</p>
 
@@ -39,7 +39,7 @@ are honorable men, devoted to her service."
 
 <p>CHAPTER THREE  . . . . . . . . . . . . . . . . . . . . . 14
    Project NKNAOMI . . . . . . . . . . . . . . . . . . 14
-   Project MKULTRA . . . . . . . . . . . . . . . . . . 15
+   Project <ent type = 'person'>MKULTRA</ent> . . . . . . . . . . . . . . . . . . 15
    LSD Experimentation . . . . . . . . . . . . . . . . 17
    Project BLUEBIRD  . . . . . . . . . . . . . . . . . 18
    Project ARTICHOKE . . . . . . . . . . . . . . . . . 18</p>
@@ -65,17 +65,17 @@ are honorable men, devoted to her service."
 
 <p>   INTRODUCTION</p>
 
-<p>   On January 22, 1946, President Harry S. Truman issued an
+<p>   On January 22, 1946, President Harry S. <ent type = 'person'>Truman</ent> issued an
 executive order setting up a National Intelligence Authority,
 and under it, a Central Intelligence Group, which was the
-forerunner of the Central Intelligence Agency.  Truman
+forerunner of the Central Intelligence Agency.  <ent type = 'person'>Truman</ent>
 recognized the need for a centralized intelligence apparatus
 in peacetime to help ensure that nothing like the Japanese
 surprise attack on Pearl Harbor  would ever again happen. 
 The organization that was to become the CIA took on a life of
 its own and over the past four decades has become the secret
 army of the President of the United States.  Presidents from
-Truman to Ronald Reagan have used this secret army whenever
+<ent type = 'person'>Truman</ent> to <ent type = 'person'>Ronald <ent type = 'person'>Reagan</ent></ent> have used this secret army whenever
 they found it impossible to achieve their policy goals
 through overt means.
    Over the years, the CIA has evolved from an agency whose
@@ -152,7 +152,7 @@ channeled money directly or indirectly into a multitude of
 business, labor, and church groups; universities; charitable
 organizations; and educational and cultural groups.
     
-   PROPAGANDA</p>
+   <ent type = 'person'>PROPAGANDA</ent></p>
 
 <p>   Propaganda is any action that is "intended to undermine the
 beliefs, perceptions, and value systems of the people under the
@@ -178,7 +178,7 @@ printers, publishers, and so forth through money, exchanges of
 favors, or other means.  In the case of radio, covert action
 involves the operation of "black radio" which will be discussed
 in a moment.
-   In their book The Invisible Government, authors David Wise
+   In their book The Invisible Government, authors <ent type = 'person'>David Wise</ent>
 and Thomas B. Ross make the following observations about the
 radio activities of the Central Intelligence Agency: </p>
 
@@ -253,8 +253,8 @@ activity is assassination.  From time to time, a dictator
 unfriendly to the United States or its interests will take
 control of a country that the U.S. deems to be of vital
 significance.  Perhaps the leader has a heavy Marxist bent
-like Fidel Castro or a somewhat unpredictable tendency to
-cause turmoil in the world like Moammar Gadhafi.  In cases
+like <ent type = 'person'>Fidel <ent type = 'person'>Castro</ent></ent> or a somewhat unpredictable tendency to
+cause turmoil in the world like <ent type = 'person'>Moammar Gadhafi</ent>.  In cases
 where such a person has seized power, the U.S. is often
 interested in removing the dictator by any means available. 
 In cases where the leaders in the United States feel that the
@@ -269,8 +269,8 @@ activities.  The Church Committee (as it become known) issued
 a report in 1975 entitled "Alleged Assassination Plots
 Involving Foreign Leaders" which provided a unique inside
 account of how such plans originate.  The CIA was allegedly
-involved in assassination plots against Fidel Castro of Cuba,
-Patrice Lumumba of the Congo, and Ngo Din Diem of South
+involved in assassination plots against <ent type = 'person'>Fidel <ent type = 'person'>Castro</ent></ent> of Cuba,
+<ent type = 'person'>Patrice <ent type = 'person'>Lumumba</ent></ent> of the Congo, and <ent type = 'person'>Ngo Din Diem</ent> of South
 Vietnam.  The Agency also allegedly schemed to assassinate
 President Sukarno of Indonesia and Francois "Papa Doc"
 Duvalier of Haiti.  The Agency had provided arms to
@@ -282,23 +282,23 @@ the CIA often supplied dissidents within foreign countries
 controlled by unfriendly governments with arms and
 ammunition.  In Chile, the CIA passed three .45 calibre
 machine guns, ten tear-gas grenades, and five-hundred rounds
-of ammunition.  For Castro dissidents, the Agency prepared a
+of ammunition.  For <ent type = 'person'>Castro</ent> dissidents, the Agency prepared a
 cache composed of a rifle with a telescope and silencer and
 several bombs which could be concealed in a suitcase. 
 Finally, in the Dominican Republic, where the United States
-disliked Rafael Trujillo, the CIA prepared to drop twelve
+disliked <ent type = 'person'>Rafael Trujillo</ent>, the CIA prepared to drop twelve
 untraceable rifles with scopes.  That drop was never
 executed.
    In all of the plots in which the Agency was involved, it
 made sure that its role was indirect.  Never once did an
 American CIA agent actually make any of the assassination
-attempts.  According to Loch Johnson in A Season of Inquiry: </p>
+attempts.  According to <ent type = 'person'>Loch <ent type = 'person'>Johnson</ent></ent> in A Season of Inquiry: </p>
 
 <p>In no case was an American finger actually on the
 trigger of these weapons.  And even though the
 officials of the United States had clearly
-initiated assassination plots against Castro and
-Lumumba, it was technically true--as Richard Helms
+initiated assassination plots against <ent type = 'person'>Castro</ent> and
+<ent type = 'person'>Lumumba</ent>, it was technically true--as <ent type = 'person'>Richard Helms</ent>
 had claimed--that neither the CIA nor any other
 agency of the American government had murdered a
 foreign leader.  Through others, however, we had
@@ -340,14 +340,14 @@ upon the shoulders of the CIA.
 paramilitary capability after World War II, with the
 exception of an operation in Guatemala in 1954, the scale of
 activities was minimal before 1961.  When President John F.
-Kennedy took office in 1961, he and his closest advisors were
+<ent type = 'person'>Kennedy</ent> took office in 1961, he and his closest advisors were
 convinced of the need for the U.S. to develop an
 unconventional warfare capability to counter the growing
 evidence of communist guerilla activities in Southeast Asia
 and Africa.  The aim of "counterinsurgency" (as it became
 known) was to prevent communist supported military victories
 without causing a major U.S./Soviet confrontation.
-Simultaneously, Kennedy directed the CIA to develop and use
+Simultaneously, <ent type = 'person'>Kennedy</ent> directed the CIA to develop and use
 its paramilitary capabilities around the world.  Thus, in the
 decade of the 1960s, developing a paramilitary capability
 became the primary objective of the CIA's clandestine
@@ -357,7 +357,7 @@ amount of budgetary allocation.
    In the early 1960s, the decolonization of Africa sparked
 an increase in the scale of CIA clandestine activities on
 that continent.  CIA activities there paralleled the growing
-interest within the State Department and the Kennedy
+interest within the State Department and the <ent type = 'person'>Kennedy</ent>
 Administration in Third World Countries, which were regarded
 as the first line of defense against the Soviets.  The U.S.
 Government assumed that the Soviets would attempt to encroach
@@ -377,21 +377,21 @@ Cuba.  Many of the CIA's undertakings were either
 unsuccessful or without any clear result and some of them
 will be discussed later.  Before leaving this category of
 covert operations, it is interesting to consider a story
-recounted by Fred Branfman, in a book entitled Uncloaking the
-CIA by Howard Frazier.</p>
+recounted by <ent type = 'person'>Fred <ent type = 'person'>Branfman</ent></ent>, in a book entitled Uncloaking the
+CIA by <ent type = 'person'>Howard Frazier</ent>.</p>
 
 <p>There are many stories I could tell about him, but
 I will tell just one.  In the late 1960s a friend
 of mine was a pilot for a private CIA airline.  The
 agent threw a box on the airplane one day and said
-"Take this to Landry in Udorn".  (Pat Landry was
+"Take this to Landry in Udorn".  (<ent type = 'person'>Pat Landry</ent> was
 the head of the CIA in Udorn, coordinating the
 Burma-Thailand-Laos-North Vietnam theatre).  My
 friend started flying the plane and noticed a bad
 odor coming from the box.  After some time he could
 not stand it anymore and opened up the box.  Inside
 was a fresh human head.  This was a joke.  The idea
-was to see what Pat Landry would do when someone
+was to see what <ent type = 'person'>Pat Landry</ent> would do when someone
 put this box on his desk.  You cannot throw a human
 head in the wastepaper basket, you cannot throw it
 in the garbage can.  CIA paramilitary activities
@@ -435,11 +435,11 @@ against crops and animals.  Indeed, a CIA memo written in
 at least three methods of covert attack against crops which
 had been developed and evaluated under field conditions.
    Project NKNAOMI was discontinued in 1970, and on
-November 25, 1969, President Richard Nixon renounced the use
+November 25, 1969, President <ent type = 'person'>Richard <ent type = 'person'>Nixon</ent></ent> renounced the use
 of any form of biological weapons that could kill or
-incapacitate.  Nixon also ordered the disposal of existing
+incapacitate.  <ent type = 'person'>Nixon</ent> also ordered the disposal of existing
 stockpiles of bacteriological weapons.  On February 14, 1970,
-Nixon clarified the extent of his earlier order and indicated
+<ent type = 'person'>Nixon</ent> clarified the extent of his earlier order and indicated
 that toxins--chemicals that are not living organisms but
 produced by living organisms--were considered bacteriological
 weapons subject to his previous directive.  Despite the
@@ -447,12 +447,12 @@ presidential order, a CIA scientist acquired around 11 grams
 of a deadly shellfish toxin from SOD personnel at Fort
 Detrick and stored it in a little-used CIA laboratory where
 it remained, undetected, for over five years.
-   Another project, MKULTRA, provided for the research and
+   Another project, <ent type = 'person'>MKULTRA</ent>, provided for the research and
 development of chemical, biological, and radiological
 materials which could be employed in clandestine operations
 to control human behavior.  According to the Church
 Committee, a CIA memo was uncovered which stated the purpose
-of the project.  The memo indicated that MKULTRA's purpose
+of the project.  The memo indicated that <ent type = 'person'>MKULTRA</ent>'s purpose
 was  </p>
 
 <p>to develop a capability in the covert use of
@@ -489,16 +489,16 @@ THIRD CHANCE and DERBY HAT, involved the interrogation of
 eighteen unwitting non-volunteers in Europe and the Far East
 who had received LSD as part of operational field tests.
    A tragic twist in the LSD experimentation occurred on
-November 27, 1953.  Dr. Frank Olson, a civilian employee of
+November 27, 1953.  Dr. <ent type = 'person'>Frank <ent type = 'person'>Olson</ent></ent>, a civilian employee of
 the U.S. Army died following participation in a CIA
 experiment with LSD.  He unknowingly received 70 micrograms
-of LSD which was placed in his drink by Dr. Robert Lashbrook,
+of LSD which was placed in his drink by Dr. <ent type = 'person'>Robert Lashbrook</ent>,
 a CIA officer, as part of an experiment.  Shortly after the
-experiment, Olson exhibited the symptoms of paranoia and
-schizophrenia.  Accompanied by Lashbrook, Olson began
-visiting Dr. Harold Abrahamsom for psychological assistance. 
-Abrahamson's research on LSD had been funded indirectly by
-the CIA.  Olson jumped to his death from a ten-story window
+experiment, <ent type = 'person'>Olson</ent> exhibited the symptoms of paranoia and
+schizophrenia.  Accompanied by Lashbrook, <ent type = 'person'>Olson</ent> began
+visiting Dr. <ent type = 'person'>Harold Abrahamsom</ent> for psychological assistance. 
+<ent type = 'person'>Abrahamson</ent>'s research on LSD had been funded indirectly by
+the CIA.  <ent type = 'person'>Olson</ent> jumped to his death from a ten-story window
 in the Statler Hotel while receiving treatment.   
    It was disclosed by Senate Committees investigating the
 activities of the CIA in 1977 that the Agency was involved in
@@ -507,9 +507,9 @@ situations".  In some situations, heroin addicts were enticed
 into participating in order to get a reward--heroin.  Perhaps
 most disturbing of all is the fact that the extent of
 experimentation on human subjects cannot readily be
-determined, since the records of all MKULTRA activities were
+determined, since the records of all <ent type = 'person'>MKULTRA</ent> activities were
 destroyed in January 1973 at the instruction of then CIA
-director Richard Helms.  
+director <ent type = 'person'>Richard Helms</ent>.  
    At least one project undertaken by the CIA in 1950 was
 aimed at finding ways to protect the security of agents in
 the field.  Project BLUEBIRD attempted to discover means of
@@ -600,7 +600,7 @@ of the people in the target countries in hopes that such
 action would undermine European regimes by weakening the
 control of the Communist party.  The broadcasts were also
 intended to give the targeted listeners the strength to hold
-on to their hope for ultimate freedom.  Later, after Stalin
+on to their hope for ultimate freedom.  Later, after <ent type = 'person'>Stalin</ent>
 died and relations between the East and West began to
 improve, U.S. leaders began to realize that slow change was
 more likely than a dramatic shift in power.  Therefore, the
@@ -637,7 +637,7 @@ program helping to build prestige and political contacts for
 the Nationalist Chinese, it also provided a demonstration of
 what Chinese people working under a free market system were
 capable of doing.  The prosperity of the Taiwanese as seen
-against the backdrop of the economic shortcomings of Mao's
+against the backdrop of the economic shortcomings of <ent type = 'person'>Mao</ent>'s
 programs on the mainland was the kind of creative propaganda
 campaign that supported U.S. policies and principles.  The
 CIA's role was to use its contacts in the other developing
@@ -648,10 +648,10 @@ U.S. sponsorship would have caused some governments to shy
 away from it.  Furthermore, an overt pushing of the program
 by the United States might have embarrassed Taiwan by giving
 the impression that it was forced to do the job by the U.S.
-   Ray Cline, then a touring case officer for the CIA,
+   Ray <ent type = 'person'>Cline</ent>, then a touring case officer for the CIA,
 explained the project in "off the record talks with Chiang
 Ching-kuo, the savvy son of Chiang Kai-shek, who was perhaps
-the most far-sighted political leader in Taiwan." Cline
+the most far-sighted political leader in Taiwan." <ent type = 'person'>Cline</ent>
 added,</p>
 
 <p>Ching-kuo grasped the concept immediately and saw
@@ -670,46 +670,46 @@ actions conducted by the Central Intelligence Agency.</p>
 
 <p>   In order to get a better idea of the kind of planning
 that went into the assassination schemes devised by the CIA,
-we will look at the case of Fidel Castro.  In addition, at
+we will look at the case of <ent type = 'person'>Fidel <ent type = 'person'>Castro</ent></ent>.  In addition, at
 the end of this work appears a number of messages that were
 transmitted between the CIA station chief in Leopoldville and
 headquarters in Washington regarding the CIA attempts to
-assassinate Patrice Lumumba (Appendix II).  Now let us look
+assassinate <ent type = 'person'>Patrice <ent type = 'person'>Lumumba</ent></ent> (Appendix II).  Now let us look
 at the story behind Operation Mongoose, the CIA plan to
-eliminate Fidel Castro.
-   When Castro took power in Cuba in 1959, U.S. leadership
+eliminate <ent type = 'person'>Fidel <ent type = 'person'>Castro</ent></ent>.
+   When <ent type = 'person'>Castro</ent> took power in Cuba in 1959, U.S. leadership
 made it a top priority to remove him.  According to Ray
-Cline, former Deputy-Director of the CIA,</p>
+<ent type = 'person'>Cline</ent>, former Deputy-Director of the CIA,</p>
 
 <p>The CIA had advocated the 'elimination of Fidel
-Castro' as early as December 1959, and the matter
+<ent type = 'person'>Castro</ent>' as early as December 1959, and the matter
 was discussed at Special Group meetings in January
 and March of 1960.  At an NSC meeting on March 10,
 1960, terminology was used suggesting that the
-assassination of Castro, his brother Raul, and Che
+assassination of <ent type = 'person'>Castro</ent>, his brother <ent type = 'person'>Raul</ent>, and Che
 Guevara was at least theoretically considered.</p>
 
-<p>Describing the political climate by the time Kennedy took
-office, Cline comments in his book Secrets, Spies, and
+<p>Describing the political climate by the time <ent type = 'person'>Kennedy</ent> took
+office, <ent type = 'person'>Cline</ent> comments in his book Secrets, Spies, and
 Scholars, "There was almost an obsession with Cuba on the
 part of policy matters" and it was widely believed in the 
-Kennedy Administration "that the assassination of Castro by a
+<ent type = 'person'>Kennedy</ent> Administration "that the assassination of <ent type = 'person'>Castro</ent> by a
 Cuban might have been viewed as not very different in the
 benefits that would have accrued from the assassination of
-Hitler in 1944."  It should also be noted that after the
+<ent type = 'person'>Hitler</ent> in 1944."  It should also be noted that after the
 failure at the Bay of Pigs in 1961, the pride of the United
 States was hurt and U.S. leaders wanted more than ever to
-dispose of Castro.
+dispose of <ent type = 'person'>Castro</ent>.
    The number of strategies devised by the CIA to carry out
 the deed and the diversity of their applications illustrates
 the creativity and shrewdness of planners within the agency. 
-Johnson points out a number of ingenious plots that were at
+<ent type = 'person'>Johnson</ent> points out a number of ingenious plots that were at
 least considered by planners within the agency at one time or
 another.  This brief excerpt from his book is by no means an
 exhaustive list.</p>
 
 <p>The several plots planned at CIA headquarters
-included treating a box of Castro's favorite cigars
+included treating a box of <ent type = 'person'>Castro</ent>'s favorite cigars
 with a botulinum toxin so potent that it would
 cause death immediately upon being placed to the
 lips; concocting highly poisonous tablets that
@@ -718,8 +718,8 @@ anything but boiling soup; contaminating a diving
 suit with a fungus guaranteed to produce a chronic
 skin disease called Madura foot and, through and
 intermediary, offering the suit as a gift to
-Castro; constructing an exotic seashell that could
-be placed in reefs where Castro often went skin-
+<ent type = 'person'>Castro</ent>; constructing an exotic seashell that could
+be placed in reefs where <ent type = 'person'>Castro</ent> often went skin-
 diving and then exploded at the right moment from a
 small submarine nearby; and providing an agent with
 a ballpoint pen that contained a hypodermic needle
@@ -729,37 +729,37 @@ victim without his knowledge.</p>
 
 <p>   Perhaps more frightening than any of the above plots was
 the revelation that the CIA also attempted to launch a plot
-against Castro through its contacts with underworld figures
+against <ent type = 'person'>Castro</ent> through its contacts with underworld figures
 with connections in Cuba.  The fact that the agency was
 willing to resort to such desperate action illustrates the
 desire of the men in charge in Washington to eliminate
-Castro.  One source told a reporter in 1962 that then
-Attorney-General Robert Kennedy had stopped a deal between
-the CIA and the Mafia to murder Fidel Castro.
-   The CIA asked a mobster named Roselli to go to Florida
+<ent type = 'person'>Castro</ent>.  One source told a reporter in 1962 that then
+Attorney-General Robert <ent type = 'person'>Kennedy</ent> had stopped a deal between
+the CIA and the Mafia to murder <ent type = 'person'>Fidel <ent type = 'person'>Castro</ent></ent>.
+   The CIA asked a mobster named <ent type = 'person'>Roselli</ent> to go to Florida
 on its behalf in 1961 and 1962 to organize assassination
 teams of Cuban exiles who would infiltrate their homeland and
-assassinate Castro.  Rosselli called upon two other crime
-figures, Sam Giancana, a mobster from Chicago, and the Costra
-Nostra chieftain for Cuba, Santos Trafficante, to help him. 
-Giancana, using the name "Sam Gold" in his dealings with the
+assassinate <ent type = 'person'>Castro</ent>.  <ent type = 'person'>Rosselli</ent> called upon two other crime
+figures, <ent type = 'person'>Sam <ent type = 'person'>Giancana</ent></ent>, a mobster from Chicago, and the Costra
+Nostra chieftain for Cuba, <ent type = 'person'>Santos</ent> Trafficante, to help him. 
+<ent type = 'person'>Giancana</ent>, using the name "<ent type = 'person'>Sam Gold</ent>" in his dealings with the
 CIA, was on the Attorney General's "Ten Most Wanted
 Criminals" list.
-   Castro was still permitting the Mafia gambling syndicate
+   <ent type = 'person'>Castro</ent> was still permitting the Mafia gambling syndicate
 to operate in Havana, for tourists only, and Trafficante
 traveled back and forth between Havana and Miami in that
 connection.  The mobsters were authorized to offer $150,000
-to anyone who would kill Castro and were promised any support
-the Agency could yield.  Giancana was to locate someone who
-was close enough to Castro to be able to drop pills into his
+to anyone who would kill <ent type = 'person'>Castro</ent> and were promised any support
+the Agency could yield.  <ent type = 'person'>Giancana</ent> was to locate someone who
+was close enough to <ent type = 'person'>Castro</ent> to be able to drop pills into his
 food while Trafficante would serve as courier to Cuba,
 helping to make arrangements for the murder on the island. 
-Rosselli was to be the main link between all of the
+<ent type = 'person'>Rosselli</ent> was to be the main link between all of the
 participants in the plot.   
    Fortunately for the CIA, the Attorney General intervened
 before the plan was carried out.  Had the plan succeeded and
 it then become public knowledge that the CIA and the Mafia
-worked together intimately to murder Castro, the startling
+worked together intimately to murder <ent type = 'person'>Castro</ent>, the startling
 revelation might have been too much for the American public
 to stomach.  It most likely would have done serious damage to
 the credibility of an agency which was already beginning to
@@ -767,66 +767,66 @@ rouse public suspicion.</p>
 
 <p>   GUATEMALA:  THE OVERTHROW OF ARBENZ</p>
 
-<p>   In 1951, leftist leader Juan Jose Arevalo was succeeded
-by his minister of defense, Jacobo Arbenz, who continued to
+<p>   In 1951, leftist leader <ent type = 'person'>Juan Jose Arevalo</ent> was succeeded
+by his minister of defense, <ent type = 'person'>Jacobo <ent type = 'person'>Arbenz</ent></ent>, who continued to
 pursue Arevalo's hard leftist policy both domestically and in
-Foreign Affairs.  The United States Government found Arbenz's
+Foreign Affairs.  The United States Government found <ent type = 'person'>Arbenz</ent>'s
 policy objectives unacceptable and cut off all military aid
-to Guatemala.  President Eisenhower encouraged the CIA to
-overthrow the Arbenz government in 1954.
-   Arbenz had angered the Eisenhower Administration by
+to Guatemala.  President <ent type = 'person'>Eisenhower</ent> encouraged the CIA to
+overthrow the <ent type = 'person'>Arbenz</ent> government in 1954.
+   <ent type = 'person'>Arbenz</ent> had angered the <ent type = 'person'>Eisenhower</ent> Administration by
 legalizing the Communist party and inviting it to join his
 government.  The real trigger for the action in Guatemala,
-however, was Arbenz's brazen rejection on September 5, 1953,
+however, was <ent type = 'person'>Arbenz</ent>'s brazen rejection on September 5, 1953,
 of an American protest denouncing Guatemala's  proposed
 "expropriation " from the American owned United Fruit Company
 of 355,000 acres on the Pacific and 174,000 acres on the
 Atlantic side of the country.  The protest said that the
 $600,000 in agrarian bonds proposed to be paid for these
 acres "bears not the slightest resemblance to a true
-evaluation."  In addition, John Foster Dulles, who by that
+evaluation."  In addition, <ent type = 'person'>John Foster Dulles</ent>, who by that
 time realized there would be no roll-back of communism in
 Eastern Europe, was determined to block communist regimes
 from taking power elsewhere in the world, and especially in
-the Western Hemisphere.  As a matter of fact, the Eisenhower
+the Western Hemisphere.  As a matter of fact, the <ent type = 'person'>Eisenhower</ent>
 administration had earmarked $20 million for an operation
 against Guatemala.
    The U.S. put political and economic pressure on the
-Arbenz government at the public level while the CIA
+<ent type = 'person'>Arbenz</ent> government at the public level while the CIA
 diligently worked behind the scenes.  On the covert level,
 the CIA began trying to convince top Guatemalan military
 officers to defect while simultaneously launching a campaign
-of radio and leaflet propaganda against Arbenz.  The CIA
+of radio and leaflet propaganda against <ent type = 'person'>Arbenz</ent>.  The CIA
 engineered a brilliant campaign (considered as much a
 propaganda success as a paramilitary one) using small-scale
 military action along with psychological warfare to cause
 quite a disturbance in the Latin American country.
    The main attempt by the CIA was to support a military
 plot to overthrow the government that was already in
-progress.  Colonel Carlos Castillo Armas had begun plotting a
-coup against the Arbenz regime in 1952 with the help of
+progress.  Colonel <ent type = 'person'>Carlos <ent type = 'person'><ent type = 'person'>Castillo</ent> Armas</ent></ent> had begun plotting a
+coup against the <ent type = 'person'>Arbenz</ent> regime in 1952 with the help of
 leaders in Nicaragua and Honduras, and the encouragement of
 the United Fruit Company.  The CIA action was aimed mainly at
-alienating the Guatemalan Army from Arbenz.  CIA operatives
+alienating the Guatemalan Army from <ent type = 'person'>Arbenz</ent>.  CIA operatives
 sought to attain this goal by inciting the Army through radio
 broadcasts and other propaganda, and by supplying arms to the
 insurgents.
    The operation began on May 1, 1954, a Guatemalan
 holiday.  Steadily escalating psychological pressures were
-brought to bear on the Arbenz government.  It was no secret
-that Castillo Armas was training an army of several hundred
+brought to bear on the <ent type = 'person'>Arbenz</ent> government.  It was no secret
+that <ent type = 'person'><ent type = 'person'>Castillo</ent> Armas</ent> was training an army of several hundred
 men in Honduras, and the United States officially denounced
-the Arbenz regime, leading the Guatemalan dictator to believe
+the <ent type = 'person'>Arbenz</ent> regime, leading the Guatemalan dictator to believe
 that a large-scale U.S. effort to help overthrow him was
 underway.  Since the poorly equipped Guatemalan Army was no
-match for a U.S.-backed invasion, Arbenz was alarmed and his
+match for a U.S.-backed invasion, <ent type = 'person'>Arbenz</ent> was alarmed and his
 top advisors were divided over how to deal with the
 situation.
-   On June 17, 1954, Colonel Castillo, using about 450
-troops,  initiated a paramilitary operation  against Arbenz
-which ended on the 18th.  Castillo and his men crossed over
-into Guatemala from Honduras to attack the Arbenz government. 
-Castillo set-up camp six miles inside Guatemala, and his Air-
+   On June 17, 1954, Colonel <ent type = 'person'>Castillo</ent>, using about 450
+troops,  initiated a paramilitary operation  against <ent type = 'person'>Arbenz</ent>
+which ended on the 18th.  <ent type = 'person'>Castillo</ent> and his men crossed over
+into Guatemala from Honduras to attack the <ent type = 'person'>Arbenz</ent> government. 
+<ent type = 'person'>Castillo</ent> set-up camp six miles inside Guatemala, and his Air-
 Force, a mixed handful of B-26s and P-47 fighters, dropped
 leaflets, made strafing runs in outlying districts, and
 dropped a few bombs.  The attacks were militarily
@@ -834,21 +834,21 @@ insignificant, but they contributed to the wide-spread fear
 of all-out raids.
    Meanwhile, the Voice of Liberation, the CIA-run
 broadcasting station, was active around the clock, reporting
-phantom "battles" and spreading rumors.  Arbenz was bombarded
+phantom "battles" and spreading rumors.  <ent type = 'person'>Arbenz</ent> was bombarded
 with conflicting reports.  Without even one serious military
-engagement having occurred, Arbenz found himself confused,
+engagement having occurred, <ent type = 'person'>Arbenz</ent> found himself confused,
 excited, undecided, and alone.
-   In mid-campaign, Castillo Armas had lost two of his
+   In mid-campaign, <ent type = 'person'><ent type = 'person'>Castillo</ent> Armas</ent> had lost two of his
 three P-47s without which he would be incapable of
 maintaining a show of force.  The United States negotiated
 the "sale" of a number of planes to the Nicaraguan Air-Force. 
-Sorties were flown in the planes for Castillo Armas by CIA
+Sorties were flown in the planes for <ent type = 'person'><ent type = 'person'>Castillo</ent> Armas</ent> by CIA
 pilots. 
-   Arbenz was forced to flee, and on June 25, 1954, he
+   <ent type = 'person'>Arbenz</ent> was forced to flee, and on June 25, 1954, he
 sought asylum in the Mexican Embassy.  Two days later, he
-resigned.  A few days later, Castillo Armas, having taken
+resigned.  A few days later, <ent type = 'person'><ent type = 'person'>Castillo</ent> Armas</ent>, having taken
 charge, arrived victorious in Guatemala on the plane of U.S.
-Ambassador John Peurifoy.  Peurifoy's wrote the following
+Ambassador John <ent type = 'person'>Peurifoy</ent>.  <ent type = 'person'>Peurifoy</ent>'s wrote the following
 jingle which appeared in Time magazine July 28, 1954, which
 seemed to sum up nicely the U.S. attitude about the CIA-
 sponsored operation in Guatemala:</p>
@@ -857,7 +857,7 @@ sponsored operation in Guatemala:</p>
 The junta's in the palace, they've taken out a lease.
 The Commies are in hiding, just across the street;
 To the embassy of Mexico they beat a quick retreat.
-And pistol-packing Peurifoy looks mighty optimistic
+And pistol-packing <ent type = 'person'>Peurifoy</ent> looks mighty optimistic
 For the land of Guatemala is no longer Communistic.</p>
 
 <p>   CUBA:  THE BAY OF PIGS</p>
@@ -867,11 +867,11 @@ example of how to conduct a covert action, the debacle in Cuba
 was a primary example of what not to do.  The disaster at the Bay
 of Pigs in Cuba seriously altered the perception of the CIA's
 ability to plan and conduct covert paramilitary operations. 
-Indeed, as Satish Kumar pointed out in his book The CIA in the
+Indeed, as <ent type = 'person'>Satish Kumar</ent> pointed out in his book The CIA in the
 Third World:  A Study in Crypto-Diplomacy, "it is certain that
 the Cuban operation cast serious doubts as to the efficacy of
 large-scale para-military operations as an instrument of covert
-action."  Says Harry Rositzke, a former CIA operative, </p>
+action."  Says <ent type = 'person'>Harry Rositzke</ent>, a former CIA operative, </p>
 
 <p>Para-military operations are the "noisiest" of all
 covert actions.  When they fail, they become public
@@ -885,24 +885,24 @@ Cuba.
    The idea of a Soviet-oriented communist dictatorship a mere
 ninety miles from the United States was a grave concern for U.S.
 leaders in the late 1950s and early 1960s.  Neither President
-Eisenhower nor his predecessor John Fitzgerald Kennedy were
+<ent type = 'person'>Eisenhower</ent> nor his predecessor John Fitzgerald <ent type = 'person'>Kennedy</ent> were
 pleased to have a neighbor with such undemocratic ideals.  As
-early as 1959, the CIA had advocated the elimination of Castro,
+early as 1959, the CIA had advocated the elimination of <ent type = 'person'>Castro</ent>,
 and as has already been pointed out, the Agency began an
 operation (Operation MONGOOSE) aimed at accomplishing just that. 
    The alternative of initiating guerilla operations against
-Castro had been abandoned by the CIA in 1960.  Instead,
-Eisenhower set-up a CIA-run program for training hundreds of
-highly motivated anti-Castro Cuban refugees in the arts of
+<ent type = 'person'>Castro</ent> had been abandoned by the CIA in 1960.  Instead,
+<ent type = 'person'>Eisenhower</ent> set-up a CIA-run program for training hundreds of
+highly motivated anti-<ent type = 'person'>Castro</ent> Cuban refugees in the arts of
 guerilla combat, planning to possibly use the force to overthrow
-the Castro government.  Vice President Richard Nixon was a strong
-supporter of a program to topple the Castro regime, and
-Eisenhower, upon the advice of the NSC Subcommittee responsible
+the <ent type = 'person'>Castro</ent> government.  Vice President <ent type = 'person'>Richard <ent type = 'person'>Nixon</ent></ent> was a strong
+supporter of a program to topple the <ent type = 'person'>Castro</ent> regime, and
+<ent type = 'person'>Eisenhower</ent>, upon the advice of the NSC Subcommittee responsible
 for reviewing covert action schemes, approved the paramilitary
 training project as a contingency plan, leaving the decision of
-whether or not to execute it up to the incoming Kennedy
+whether or not to execute it up to the incoming <ent type = 'person'>Kennedy</ent>
 administration.  
-   President Kennedy decided to go ahead with the plan after
+   President <ent type = 'person'>Kennedy</ent> decided to go ahead with the plan after
 taking office.  Senate Foreign Relations Chairman William
 Fulbright, upon learning of plans for the proposed invasion, sent
 a memorandum to the White House that said that if American forces
@@ -916,20 +916,20 @@ United States is constantly denouncing the Soviet
 Union in the United Nations and elsewhere.  This
 point will not be lost on the rest of the world nor
 our own consciences.  And remember always, the
-Castro regime is a thorn in the side but not a
+<ent type = 'person'>Castro</ent> regime is a thorn in the side but not a
 dagger in the heart.</p>
 
-<p>The Senator's views were no doubt on Kennedy's mind when he
+<p>The Senator's views were no doubt on <ent type = 'person'>Kennedy</ent>'s mind when he
 later declined to commit American troops after the invasion
 began to fall apart.
    The CIA trained some 1400 Cuban emigres for action
-against Castro.  Some of the Cubans were trained as ground
+against <ent type = 'person'>Castro</ent>.  Some of the Cubans were trained as ground
 forces and the remainder as pilots.  It was eventually
 decided that the guerilla brigade would make an amphibious
 landing in the Bay of Pigs.  Air support for the operation
 was to be supplied for the operation by emigre pilots flying
 in American B-26s made up to look like Cuban Air Force
-planes.  This would help create the illusion that Castro's
+planes.  This would help create the illusion that <ent type = 'person'>Castro</ent>'s
 own men were rebelling against him.  On April 15, 1961, eight
 U.S.-made planes conducted air strikes against three Cuban
 air bases with the intention of destroying the Cuban  Air
@@ -940,12 +940,12 @@ the Cuban guerrillas and the CIA.
 met considerably more resistance than had been expected. 
 Despite broadcasts by the CIA run Radio Swan, the Cuban
 militia and citizens were not incited to rebel against the
-Castro regime as the CIA had estimated.  Instead, the Cuban
-forces fought valiantly against the exile force.  The Castro
+<ent type = 'person'>Castro</ent> regime as the CIA had estimated.  Instead, the Cuban
+forces fought valiantly against the exile force.  The <ent type = 'person'>Castro</ent>
 Air Force, which had not been completely destroyed, began to
 inflict severe damages on both the rebel air and ground
 forces. For all intents and purposes, the invasion was over
-almost as quickly as it had begun, with Castro's forces
+almost as quickly as it had begun, with <ent type = 'person'>Castro</ent>'s forces
 easily quashing the rebellion.
    Fatal to the operation were a number of bad breaks. 
 U.S. air cover that was to be provided for one hour at the
@@ -960,7 +960,7 @@ Even before the operation was a confirmed failure, the CIA
 cover story began to fall apart and later revelations about
 U.S. involvement in the fiasco greatly embarrassed the United
 States.
-   The Castro forces took more than eleven-hundred
+   The <ent type = 'person'>Castro</ent> forces took more than eleven-hundred
 prisoners during the fighting.  Most of them were traded on
 Christmas eve of 1962 to the United States for $10 million in
 cash and $53 million in medicines, baby foods, and other
@@ -982,11 +982,11 @@ over two million tons of bombs, as much as had been loosed on
 all Europe and the Pacific Theatre in World War II".
    The CIA involvement in Laos began with a presence in the
 country in the late 1950s.  Initially, the operation involved
-air supply and paramilitary training of the Meo tribesmen to
+air supply and paramilitary training of the <ent type = 'person'>Meo</ent> tribesmen to
 help them defend their country against the North Vietnamese. 
 However, the operation gradually evolved into a full-scale
 management of the ground war in Laos by the CIA.
-   According to Fred Branfman, what the CIA did in Laos was
+   According to <ent type = 'person'>Fred <ent type = 'person'>Branfman</ent></ent>, what the CIA did in Laos was
 very simple.</p>
 
 <p>It created an army of its own, an army paid,
@@ -1013,7 +1013,7 @@ that the core of our program in Laos would be to win the
 "minds and hearts" of the people.  Indeed, a tremendous
 attempt was made to do just that through land reform,
 education, and economic assistance.  However, by the time
-President Nixon took office, winning the "hearts and minds"
+President <ent type = 'person'>Nixon</ent> took office, winning the "hearts and minds"
 of the people had failed and the emphasis was shifted to
 controlling their behavior.  The reasoning behind the shift
 in emphasis was simple.  Although the United States might not
@@ -1054,7 +1054,7 @@ indistinguishable from the general population.  The end
 result of these two problems was an increase in the numbers
 of innocent persons rounded up, detained,  imprisoned, and
 murdered in an effort to show results.  
-   William Colby, the director of the Phoenix Program,
+   <ent type = 'person'>William <ent type = 'person'>Colby</ent></ent>, the director of the Phoenix Program,
 testified before Congress in 1971 that Phoenix was an
 American responsibility:  </p>
 
@@ -1066,23 +1066,23 @@ forth...maybe more than half the initiative came
 from us originally.  </p>
 
 <p>   
-   According to Fred Branfman, high-ranking American
+   According to <ent type = 'person'>Fred <ent type = 'person'>Branfman</ent></ent>, high-ranking American
 officials in South Vietnam bear the sole responsibility for
 the practice of setting quotas of civilians to be rounded up
-under the program each month.  Branfman continues, "The
+under the program each month.  <ent type = 'person'>Branfman</ent> continues, "The
 United States clearly set quotas in an attempt to force the
 GVN (Government of South Vietnam) officials into something
 they preferred not to undertake".  As a matter of fact,
 Vietnam Information Notes, published by the U.S. State
 Department in July 1969 reported that, "The target for 1969
-calls for the elimination of 1800 VCI per month" as
+calls for the elimination of 1800 <ent type = 'person'>VCI</ent> per month" as
 fulfillment of the quotas set by those running the Phoenix
 Program.
    The CIA-backed Phoenix Program assassinated and jailed
 large numbers of Vietnamese civilians without evidence of
-judicial procedure.  This fact was confirmed by Colby in an
-admission to Representative Reid in his July 1971 testimony
-before Congress.  According to Colby, the Phoenix Program had
+judicial procedure.  This fact was confirmed by <ent type = 'person'>Colby</ent> in an
+admission to Representative <ent type = 'person'>Reid</ent> in his July 1971 testimony
+before Congress.  According to <ent type = 'person'>Colby</ent>, the Phoenix Program had
 resulted in the deaths of 20,587 persons as of May 1971. 
 That number, proportionate to population, would have totaled
 over 200,000 Americans deliberately assassinated over a
@@ -1095,14 +1095,14 @@ States. </p>
 action mentioned above is the Agency's involvement in the
 internal political affairs of Chile beginning in 1963 and
 reaching a climax in 1973.  In 1964, the United States became
-involved in a covert assistance program to Eduardo Frei in
-his campaign for the presidency of Chile.  Frei was running
-against Salvador Allende, a candidate disliked by U.S.
+involved in a covert assistance program to <ent type = 'person'>Eduardo <ent type = 'person'>Frei</ent></ent> in
+his campaign for the presidency of Chile.  <ent type = 'person'>Frei</ent> was running
+against <ent type = 'person'>Salvador <ent type = 'person'>Allende</ent></ent>, a candidate disliked by U.S.
 leaders for his leftist leanings.  The CIA had judged
-previously that Frei would come to power regardless, with a
-plurality of the vote, and the assistance given by it to Frei
+previously that <ent type = 'person'>Frei</ent> would come to power regardless, with a
+plurality of the vote, and the assistance given by it to <ent type = 'person'>Frei</ent>
 was supposedly to help strengthen the Democratic process in
-Chile.  Although Frei won the election, the United States
+Chile.  Although <ent type = 'person'>Frei</ent> won the election, the United States
 continued to meddle in the internal affairs of Chile for
 another nine years.
    The largest covert operation in Chile from 1963-1973 was
@@ -1116,7 +1116,7 @@ anti-Soviet propaganda on eight radio news stations and in
 five provincial newspapers.  The most significant
 contribution in this area of covert activity was the money
 provided to El Mercurio, the major Santiago daily newspaper
-during the Allende regime.  The CIA spent over $12 million on
+during the <ent type = 'person'>Allende</ent> regime.  The CIA spent over $12 million on
 the Chilean operation.
    Another category of CIA involvement in Chile was that of
 political action.  The most impressive of these actions
@@ -1128,24 +1128,24 @@ Communist-dominated labor union in Chile and wrested control
 of Chilean university student organizations from the
 Communists.
    As was discussed earlier, the United States never liked
-Salvador Allende, and in 1970, the CIA began covert political
-operations against the government of Allende under express
-orders from President Richard Nixon and his National Security
-Assistant, Dr. Henry Kissinger.  Both the CIA and the State
+<ent type = 'person'>Salvador <ent type = 'person'>Allende</ent></ent>, and in 1970, the CIA began covert political
+operations against the government of <ent type = 'person'>Allende</ent> under express
+orders from President <ent type = 'person'>Richard <ent type = 'person'>Nixon</ent></ent> and his National Security
+Assistant, Dr. <ent type = 'person'>Henry <ent type = 'person'>Kissinger</ent></ent>.  Both the CIA and the State
 Department were apparently reluctant to become involved in
 what appeared to be an infeasible program to keep President
-Salvador Allende out of office, even though he had won by
+<ent type = 'person'>Salvador <ent type = 'person'>Allende</ent></ent> out of office, even though he had won by
 plurality in the September, 1970 election.
-   Nevertheless, the President and Mr. Kissinger directed
+   Nevertheless, the President and Mr. <ent type = 'person'>Kissinger</ent> directed
 the CIA, much against its officers' better judgments, to
 stage a coup in Chile.  The project never developed into
 anything substantial.  However, the CIA provided large sums
 of money (around $8 million) to support parliamentary
-opposition to Allende and to keep alive an opposition press. 
+opposition to <ent type = 'person'>Allende</ent> and to keep alive an opposition press. 
 For all its efforts, the CIA was unsuccessful in defeating
-Allende although on September 11, 1973, he was overthrown in
+<ent type = 'person'>Allende</ent> although on September 11, 1973, he was overthrown in
 a coup which, though not under U.S. control, may well have
-been caused by U.S. anti-Allende pressures.</p>
+been caused by U.S. anti-<ent type = 'person'>Allende</ent> pressures.</p>
 
 <p>    CHAPTER FIVE</p>
 
@@ -1164,8 +1164,8 @@ widespread abuses of power that occurred in the CIA before
 the Intelligence Reform Era in the mid-1970s.  It led the
 agency to believe that CIA officers had a green light to
 conduct almost any actions they saw fit to reach their goals. 
-McGeorge Bundy, a former Special Assistant for National
-Security Affairs to President's Kennedy and Johnson, has
+<ent type = 'person'>McGeorge Bundy</ent>, a former Special Assistant for National
+Security Affairs to President's <ent type = 'person'>Kennedy</ent> and <ent type = 'person'>Johnson</ent>, has
 stated:</p>
 
 <p>While in principle it has always been the
@@ -1188,7 +1188,7 @@ Commander in Chief.  However, instead of informing the
 president of the progress of the covert planning, the
 officers would be tempted to keep him unaware of it, thereby
 enabling him to "plausibly deny" any knowledge of the scheme.
-   Darrel Garwood, the author of a comprehensive work on
+   <ent type = 'person'>Darrel Garwood</ent>, the author of a comprehensive work on
 CIA activities entitled Under Cover writes,</p>
 
 <p>"Plausible deniability" could be regarded as one of
@@ -1210,17 +1210,17 @@ can occur is the so-called "Iran-Contra Affair" which made
 the headlines in late 1986 and earlier this year.  The fiasco
 was an embarrassing illustration of the example which was
 discussed above.  Although the CIA itself was not directly
-implicated in the scandal, Colonel Oliver North and other
+implicated in the scandal, Colonel <ent type = 'person'>Oliver North</ent> and other
 members of the government were discovered to have been
 carrying out the aims of the President--by channeling funds
 from arms sales to Iran to the Contras in Nicaragua--
 supposedly without his knowledge.  Whether or not President
-Reagan actually knew about the diversion of funds is unclear,
+<ent type = 'person'>Reagan</ent> actually knew about the diversion of funds is unclear,
 but in any event, top level planners of the operation
 believed that the President would be able to plausibly deny
 any knowledge of the diversion of funds.  However, because of
 the intense scrutiny placed upon the operation by the media
-and Congress, President Reagan was unable to convince them
+and Congress, President <ent type = 'person'>Reagan</ent> was unable to convince them
 and the country as a whole that he had no knowledge of the
 diversion.  As the president and his men learned the hard
 way, "inevitably, the truth prevails and policies pursued on
@@ -1235,7 +1235,7 @@ and subsequently instituted more stringent oversight
 procedures, the CIA of today is once again an agency that is
 able to do almost as it pleases.  The strictures placed on
 the CIA by the Ford and Carter Administrations were relaxed
-in 1981 when Ronald Reagan took office.  To understand how
+in 1981 when <ent type = 'person'>Ronald <ent type = 'person'>Reagan</ent></ent> took office.  To understand how
 the Agency has become so omnipotent since 1947 will require a
 look back to a time when the Agency really did as it pleased.
    To get an idea of the characteristics of the men in the
@@ -1257,7 +1257,7 @@ happened, they could not imagine a nationwide furor
 over actions which to them seemed unimportant.</p>
 
 <p>In a speech before the American Society of Newspaper Editors
-in April, 1971, then DCI Richard Helms said, "The nation must
+in April, 1971, then DCI <ent type = 'person'>Richard Helms</ent> said, "The nation must
 to a degree take it on faith that we too are honorable men,
 devoted to her service."
    CIA officials were not the only ones who believed that
@@ -1267,17 +1267,17 @@ champions in the Congress of the United States as well.
 Feelings about the sanctity of sensitive information dealt
 with by the Agency led to wide support for a laissez faire
 policy in Congress regarding the CIA.  For example, Richard
-Russell, the Democratic Senator from Georgia, once gave the
+<ent type = 'person'>Russell</ent>, the Democratic Senator from Georgia, once gave the
 following explanation of why he led the fight against a
 resolution to provide for closer Congressional surveillance
 of the CIA.</p>
 
-<p>Russell noted that the statement had been made on
+<p><ent type = 'person'>Russell</ent> noted that the statement had been made on
 the floor that the Armed Services subcommittee of
 which he was a member had not revealed to the
 country what it had learned about CIA operations.</p>
 
-<p>"No, Mr. President," Russell said, "we have not
+<p>"No, Mr. President," <ent type = 'person'>Russell</ent> said, "we have not
 told the country, and I do not propose to tell the
 country in the future, because if there is anything
 in the United States which should be held sacred
@@ -1294,7 +1294,7 @@ is small wonder that the CIA got away with the things that it
 did prior to 1975.
    CIA officers cleverly played upon the fears of Congress
 to consolidate the power of the Agency.  Former CIA director
-Allen Dulles, speaking before a Congressional committee,
+<ent type = 'person'>Allen Dulles</ent>, speaking before a Congressional committee,
 warned,
 Any investigation, whether by a congressional
 committee or any other body, which results in
@@ -1303,7 +1303,7 @@ or uncovers our personnel, will help a potential
 enemy just as if the enemy had been able to
 infiltrate his own agents right into our shop.</p>
 
-<p>Such statements led Senators like John Stennis to comment,
+<p>Such statements led Senators like <ent type = 'person'>John Stennis</ent> to comment,
 "If you are going to have an intelligence agency, you have to
 protect it as such...and shut your eyes some, and take what's
 coming".</p>
@@ -1312,7 +1312,7 @@ coming".</p>
 
 <p>The following is a partial list of United States Covert
 action abroad to impose or restore favorable political
-conditions, 1946-1983.  The list was prepared by Tom Gervasi
+conditions, 1946-1983.  The list was prepared by <ent type = 'person'>Tom Gervasi</ent>
 of the Center for Military Research and Analysis in 1984, and
 it was compiled using information available in the public
 domain.</p>
@@ -1322,7 +1322,7 @@ domain.</p>
 
 <p>1946-1955:  WEST GERMANY.  Average of $6 million annually to
    support former Nazi intelligence network of General
-   Reinhard Gehlen.  Successful.</p>
+   <ent type = 'person'>Reinhard Gehlen</ent>.  Successful.</p>
 
 <p>1948-1968:  ITALY.  Average of $30 million annually in 
    payments  to political and labor leaders to supportanti-
@@ -1335,13 +1335,13 @@ domain.</p>
    resistance movement. Unsuccessful.</p>
 
 <p>1949-1961:  BURMA.  Support 12,000 Nationalist China troops 
-   in Burma under General Li Mi as an incursion force into 
+   in Burma under General <ent type = 'person'>Li Mi</ent> as an incursion force into 
    People's Republic of China.  Unsuccessful.</p>
 
 <p>1950-1952:  POLAND.  Financial and military assistance for
    Polish Freedom and Independence Movement.  Unsuccessful.</p>
 
-<p>1950:  ALBANIA.  Overthrow government of Enver Hoxha. 
+<p>1950:  ALBANIA.  Overthrow government of <ent type = 'person'>Enver Hoxha</ent>. 
    Unsuccessful.</p>
 
 <p>1951-1954:  CHINA.  Airdrop guerilla teams into People's
@@ -1357,21 +1357,21 @@ domain.</p>
 <p>@Copyright 1984 by the Center for Military Research and
 Analysis</p>
 
-<p>1953:  COSTA RICA.  Overthrow government of Jose Figueres. 
+<p>1953:  COSTA RICA.  Overthrow government of <ent type = 'person'>Jose Figueres</ent>. 
    Unsuccessful.</p>
 
-<p>1954:  SOUTH VIETNAM.  Install government of Ngo Dinh Diem. 
+<p>1954:  SOUTH VIETNAM.  Install government of <ent type = 'person'>Ngo Dinh Diem</ent>. 
    Successful.</p>
 
 <p>1954:  WEST GERMANY.  Arrange abduction and discreditation of
-   West German intelligence chief Otto John, and replace
-   with Reinhard Gehlen.  Successful.
+   West German intelligence chief <ent type = 'person'>Otto John</ent>, and replace
+   with <ent type = 'person'>Reinhard Gehlen</ent>.  Successful.
  
-1954:  GUATEMALA.  Overthrow government of Jacobo Arbenz
-   Guzman and replace with Carlos Castillo Armas. 
+1954:  GUATEMALA.  Overthrow government of <ent type = 'person'>Jacobo <ent type = 'person'>Arbenz</ent></ent>
+   Guzman and replace with <ent type = 'person'>Carlos <ent type = 'person'><ent type = 'person'>Castillo</ent> Armas</ent></ent>. 
    Successful.</p>
 
-<p>1955:  CHINA.  Assassinate Zhou Enlai en route to Bandung
+<p>1955:  CHINA.  Assassinate <ent type = 'person'>Zhou Enlai</ent> en route to Bandung
    Conference.  Unsuccessful.</p>
 
 <p>1956:  HUNGARY.  Financial and military assistance to
@@ -1383,13 +1383,13 @@ Analysis</p>
    Represion Actividades Communistas (BRAC) under Batista  
    regime.  Successful.</p>
 
-<p>1956:  EGYPT.  Overthrow Nasser government.  Unsuccessful.
+<p>1956:  EGYPT.  <ent type = 'person'>Overthrow Nasser</ent> government.  Unsuccessful.
    
-1956:  SYRIA.  Overthrow Ghazzi government.  Aborted by
+1956:  SYRIA.  Overthrow <ent type = 'person'>Ghazzi</ent> government.  Aborted by
    Israeli invasion of Egypt.</p>
 
 <p>1956-1957:  JORDAN.  Average of $750,000 annually in personal
-   payments to King Hussein.  According to United States
+   payments to <ent type = 'person'>King Hussein</ent>.  According to United States
    government, payments ceased when disclosed in 1976.</p>
 
 <p>1957:  LEBANON.  Financial assistance for the election of
@@ -1407,11 +1407,11 @@ Analysis</p>
    Unsuccessful.</p>
 
 <p>1960:  GUATEMALA.  Military assistance, including the use of
-   B-26 bombers for government of Miguel Ydigoras Fuentes
+   B-26 bombers for government of <ent type = 'person'>Miguel Ydigoras Fuentes</ent>
    to defeat rebel forces.  Successful.</p>
 
 <p>1960:  ANGOLA.  Financial and military assistance to rebel
-   forces of Holden Roberto.  Inconclusive.</p>
+   forces of <ent type = 'person'>Holden Roberto</ent>.  Inconclusive.</p>
 
 <p>1960:  LAOS.  Military assistance, including 400 United
    States Special Forces troops, to deny the Plain of Jars
@@ -1419,30 +1419,30 @@ Analysis</p>
 
 <p>1961-1965:  LAOS.  Average of $300 million annually to
    recruit and maintain L'Armee Clandestine of 35,000 Hmong
-   and Meo tribesmen and 17,000 Thai mercenaries in support
-   of government of Phoumi Nosavan to resist Pathet Lao. 
+   and <ent type = 'person'>Meo</ent> tribesmen and 17,000 Thai mercenaries in support
+   of government of <ent type = 'person'>Phoumi Nosavan</ent> to resist Pathet Lao. 
    Successful.</p>
 
-<p>1961-1963:  CUBA.  Assassinate Fidel Castro.  Six attempts in
+<p>1961-1963:  CUBA.  Assassinate <ent type = 'person'>Fidel <ent type = 'person'>Castro</ent></ent>.  Six attempts in
    this period.  Unsuccessful.</p>
 
 <p>1961:  CUBA.  Train and support invasion force of Cuban
-   exiles to overthrow Castro government, and assist their
+   exiles to overthrow <ent type = 'person'>Castro</ent> government, and assist their
    invasion at the Bay of Pigs.  Cost:  $62 million. 
    Unsuccessful.</p>
 
-<p>1961:  ECUADOR.  Overthrow government of Hose Velasco Ibarra. 
+<p>1961:  ECUADOR.  Overthrow government of <ent type = 'person'>Hose Velasco Ibarra</ent>. 
    Successful.</p>
 
 <p>1961:  CONGO.  Precipitate conditions leading to
-   assassination of Patrice Lumumba.  Successful.</p>
+   assassination of <ent type = 'person'>Patrice <ent type = 'person'>Lumumba</ent></ent>.  Successful.</p>
 
 <p>1961:  DOMINICAN REPUBLIC.  Precipitate conditions leading to
-   assassination of Rafael Trujillo.  Successful.</p>
+   assassination of <ent type = 'person'>Rafael Trujillo</ent>.  Successful.</p>
 
 <p>1961-1966:  CUBA.  Broad sabotage program,  including
    terrorist attacks on coastal targets and bacteriological
-   warfare, in effort to weaken Castro government. 
+   warfare, in effort to weaken <ent type = 'person'>Castro</ent> government. 
    Unsuccessful.</p>
 
 <p>1962:  THAILAND.  Brigade of 5,000 United States Marines to
@@ -1460,24 +1460,24 @@ Analysis</p>
    Bosch in military coup.  Successful.</p>
 
 <p>1963:  SOUTH VIETNAM.  Precipitate conditions leading to
-   assassination of Ngo Dinh Diem.  Successful.</p>
+   assassination of <ent type = 'person'>Ngo Dinh Diem</ent>.  Successful.</p>
 
 <p>1963:  ECUADOR.  Overthrow government of Carlos Julio
    Arosemena.  Successful.</p>
 
 <p>1963-1984:  EL SALVADOR.  Organize ORDEN and ANSESAL domestic
    intelligence networks under direction of General Jose
-   Alberto Medrano and Colonel Nicolas Carranza, and
+   Alberto Medrano and Colonel <ent type = 'person'>Nicolas Carranza</ent>, and
    provide intelligence support and training in
    surveillance, interrogation and assassination
    techniques.  Successful.</p>
 
 <p>1963-1973:  IRAQ.  Financial and military assistance for
-   Freedom Party of Mulla Mustafa al Barzani in effort to
+   Freedom Party of <ent type = 'person'>Mulla Mustafa al Barzani</ent> in effort to
    establish independent Kurdistan.  Unsuccessful.</p>
 
-<p>1964:  CHILE.  $20 million in assistance for Eduardo Frei to
-   defeat Salvador Allende in Chilean elections.Successful.</p>
+<p>1964:  CHILE.  $20 million in assistance for <ent type = 'person'>Eduardo <ent type = 'person'>Frei</ent></ent> to
+   defeat <ent type = 'person'>Salvador <ent type = 'person'>Allende</ent></ent> in Chilean elections.Successful.</p>
 
 <p>1964:  BRAZIL, GUATEMALA, URUGUAY, DOMINICAN REPUBLIC. 
    Provide training in assassination and interrogation
@@ -1486,9 +1486,9 @@ Analysis</p>
 
 <p>1964:  CONGO.  Financial and military assistance, including
    B-26 and T-28 aircraft, and American and exiled Cuban
-   pilots, for Joseph Mobutu and Cyril Adoula, and later
-   for Moise Tshombe in Katanga, to defeat rebel forces
-   loyal to Lumumba.  Successful.</p>
+   pilots, for <ent type = 'person'>Joseph Mobutu</ent> and <ent type = 'person'>Cyril Adoula</ent>, and later
+   for <ent type = 'person'>Moise Tshombe</ent> in Katanga, to defeat rebel forces
+   loyal to <ent type = 'person'>Lumumba</ent>.  Successful.</p>
 
 <p>1964-1967:  SOUTH VIETNAM.  Phoenix Program to eliminate Viet
    Cong political infrastructure through more than 20,000
@@ -1501,11 +1501,11 @@ Analysis</p>
 
 <p>1965-1971:  LAOS.  Under Operations Shining Brass and Prairie
    Fire, sabotage and ambush missions by United States
-   Special Forces personnel and Nung and Meo tribesmen
-   under General Bang Pao.  Inconclusive.</p>
+   Special Forces personnel and Nung and <ent type = 'person'>Meo</ent> tribesmen
+   under General <ent type = 'person'>Bang Pao</ent>.  Inconclusive.</p>
 
 <p>1965:  THAILAND.  Recruit 17,000 mercenaries to support
-   Laotian government of Phoumi Nosavan resisting Pathet
+   Laotian government of <ent type = 'person'>Phoumi Nosavan</ent> resisting Pathet
    Lao.  Successful.
 1965:  PERU.  Provide training in assassination and
    interrogation techniques for Peruvian police and
@@ -1517,19 +1517,19 @@ Analysis</p>
    overthrow Sukarno government, and precipitate conditions
    leading to massacre of more than 500,000 members of
    Indonesian Communist Party, in order to eliminate
-   opposition to new Suharto government.  Successful.</p>
+   opposition to new <ent type = 'person'>Suharto</ent> government.  Successful.</p>
 
 <p>1967:  BOLIVIA.  Assist government in capture of Ernesto Che
    Guevara.  Successful.</p>
 
-<p>1967:  GREECE.  Overthrow government of George Papandreou and
+<p>1967:  GREECE.  Overthrow government of <ent type = 'person'>George Papandreou</ent> and
    install military government of Colonel George 
    Papadopolous after abdication of King Constantine. 
    Successful.  </p>
 
-<p>1967-1971:  CAMBODIA.  Under Projects Daniel Boone and Salem
+<p>1967-1971:  CAMBODIA.  Under Projects <ent type = 'person'>Daniel Boone</ent> and Salem
    House, sabotage and ambush missions by United States
-   Special Forces personnel and Meo tribesmen. 
+   Special Forces personnel and <ent type = 'person'>Meo</ent> tribesmen. 
    Inconclusive.</p>
 
 <p>1969-1970:  CAMBODIA.  Bombing campaign to crush Viet Cong
@@ -1540,17 +1540,17 @@ Analysis</p>
 
 <p>1970-1973:  CHILE.  Campaign of assassinations, propaganda,
    labor strikes and demonstrations to overthrow government
-   of Salvador Allende.  Cost:  $8,400,000.  Successful.</p>
+   of <ent type = 'person'>Salvador <ent type = 'person'>Allende</ent></ent>.  Cost:  $8,400,000.  Successful.</p>
 
 <p>1973-1978:  AFGHANISTAN.  Military and financial assistance
-   to government of Mohammed Duad to resist rise to power
-   of Noor Mohammed Taraki.  Unsuccessful.</p>
+   to government of <ent type = 'person'>Mohammed Duad</ent> to resist rise to power
+   of <ent type = 'person'>Noor Mohammed Taraki</ent>.  Unsuccessful.</p>
 
-<p>1975:  PORTUGAL.  Overthrow government of General Vasco dos
-   Santos Goncalves.  Successful.</p>
+<p>1975:  PORTUGAL.  Overthrow government of General <ent type = 'person'>Vasco dos</ent>
+   <ent type = 'person'>Santos</ent> Goncalves.  Successful.</p>
 
 <p>1975:  ANGOLA.  Military assistance to forces of Holden
-   Roberto and Jonas Savimbi to defeat forces of Popular
+   Roberto and <ent type = 'person'>Jonas Savimbi</ent> to defeat forces of Popular
    Movement for the Liberation of Angola (MPLA) during
    Angolan civil war, and prevent MPLA from forming new
    government.  Unsuccessful.</p>
@@ -1559,24 +1559,24 @@ Analysis</p>
    dissolution of labor government of Gough Whitlam. 
    Successful.
 1976:  JAMAICA.  Military coup to overthrow government of
-   Michael Manley.  Unsuccessful.</p>
+   <ent type = 'person'>Michael Manley</ent>.  Unsuccessful.</p>
 
 <p>1976-1984:  ANGOLA.  Financial and military assistance to
-   forces of Jonas Savimbi to harass and destabilize Neto
+   forces of <ent type = 'person'>Jonas Savimbi</ent> to harass and destabilize <ent type = 'person'>Neto</ent>
    and succeeding governments.  Inconclusive.</p>
 
-<p>1979:  IRAN.  Install military government to replace Shah and
+<p>1979:  IRAN.  Install military government to replace <ent type = 'person'>Shah</ent> and
    resist growth of Moslem fundamentalism.  Unsuccessful.</p>
 
 <p>1979-1980:  JAMAICA.  Financial pressure to destabilize
-   government of Michael Manley, and campaign propaganda
+   government of <ent type = 'person'>Michael Manley</ent>, and campaign propaganda
    and demonstrations to defeat it in elections. 
    Successful.</p>
 
 <p>1979:  AFGHANISTAN.  Military aid to rebel forces of Zia
    Nezri, Zia Khan Nassry, Gulbuddin Hekmatyar, Sayed Ahmed
    Gailani and conservative mullahs to overthrow government
-   of Hafizullah Amin.  Aborted by Soviet intervention and
+   of <ent type = 'person'>Hafizullah Amin</ent>.  Aborted by Soviet intervention and
    installation of new government.</p>
 
 <p>1980-1984:  AFGHANISTAN.  Continuing military aid to same
@@ -1587,17 +1587,17 @@ Analysis</p>
    Rene.  Successful.</p>
 
 <p>1980:  GRENADA.  Mercenary coup to overthrow government of
-   Maurice Bishop.  Successful.</p>
+   <ent type = 'person'>Maurice Bishop</ent>.  Successful.</p>
 
 <p>1980:  DOMINICA.  Financial support to Freedom Party of
-   Eugenia Charles to defeat Oliver Seraphim in Dominican
+   <ent type = 'person'>Eugenia Charles</ent> to defeat <ent type = 'person'>Oliver Seraphim</ent> in Dominican
    elections.  Successful.</p>
 
-<p>1980:  GUYANA.  Assassinate opposition leader Walter Rodney
+<p>1980:  GUYANA.  Assassinate opposition leader <ent type = 'person'>Walter Rodney</ent>
    to consolidate power of government of Forbes Burnham. 
    Successful.</p>
 
-<p>1980-1984:  NICARAGUA.  Military assistance to Adolfo Colero
+<p>1980-1984:  NICARAGUA.  Military assistance to <ent type = 'person'>Adolfo Colero</ent>
    Portocarrero, Alfonso Robelo, Alfonso Callejas, Fernando
    Chamorro Rappacioli, Eden Pastora Gomez, Adrianna
    Guillen, Steadman Fagoth and former Somoza National
@@ -1608,7 +1608,7 @@ Analysis</p>
    Ortega Saavedra.</p>
 
 <p>1981:  SEYCHELLES.  Military coup to overthrow government of
-   France Albert Rene.  Unsuccessful.
+   France <ent type = 'person'>Albert Rene</ent>.  Unsuccessful.
 1981-1982:  MAURITIUS.  Financial support to Seewoosagar
    Ramgoolam to bring him to power in 1982 elections. 
    Unsuccessful.</p>
@@ -1619,8 +1619,8 @@ Analysis</p>
    exiles to destabilize government of Muammar Qaddafi. 
    Inconclusive.</p>
 
-<p>1982:  CHAD.  Military assistance to Hissen Habre to
-   overthrow government of Goukouni Oueddei.  Successful.</p>
+<p>1982:  CHAD.  Military assistance to <ent type = 'person'>Hissen Habre</ent> to
+   overthrow government of <ent type = 'person'>Goukouni Oueddei</ent>.  Successful.</p>
 
 <p>1982:  GUATEMALA.  Military coup to overthrow government of
    Angel Anibal Guevara.  Successful.</p>
@@ -1646,20 +1646,20 @@ Analysis</p>
 Assassination Plots Involving Foreign Leaders" provides a
 rare inside account of how such operations are planned and
 carried out--in this case, the CIA's attempt to assassinate
-Patrice Lumumba in the Congo in 1960.  Lumumba, a popular
+<ent type = 'person'>Patrice <ent type = 'person'>Lumumba</ent></ent> in the Congo in 1960.  <ent type = 'person'>Lumumba</ent>, a popular
 politician considered pro-Soviet by U.S. policymakers, had
 briefly served as prime minister after the Congo gained its
 independence from Belgium in June of that year.  According to
 the Senate report, "It is likely that President
-Eisenhower's...strong...concern about Lumumba...was taken by
-[CIA director] Allen Dulles as authority to assassinate
-Lumumba."  CIA officials ordered a staff scientist (code-
-named "Joe") to prepare "toxic biological materials" that
+<ent type = 'person'>Eisenhower</ent>'s...strong...concern about <ent type = 'person'>Lumumba</ent>...was taken by
+[CIA director] <ent type = 'person'>Allen Dulles</ent> as authority to assassinate
+<ent type = 'person'>Lumumba</ent>."  CIA officials ordered a staff scientist (code-
+named "<ent type = 'person'>Joe</ent>") to prepare "toxic biological materials" that
 would "produce a disease...indigenous to that area [of
 Africa]" and to deliver the poison to the CIA station chief
-in Leopoldville, who was to assassinate Lumumba.  But before
-the station chief could carry out his orders, Lumumba was
-captured by the forces of Joseph Mobutu, the U.S. supported
+in Leopoldville, who was to assassinate <ent type = 'person'>Lumumba</ent>.  But before
+the station chief could carry out his orders, <ent type = 'person'>Lumumba</ent> was
+captured by the forces of <ent type = 'person'>Joseph Mobutu</ent>, the U.S. supported
 nationalist leader who is still dictator of the country, and
 delivered to his archenemies in Katanga, where he was
 murdered.  Following are excerpts from the cables, published
@@ -1695,15 +1695,15 @@ ON YOUR AUTHORITY...</p>
 <p>September 19.  Headquarters to Leopoldville, announcing the
 arrival of the poison:</p>
 
-<p>["JOE"] SHOULD ARRIVE APPROX. 27 SEPT...WILL ANNOUNCE HIMSELF
-AS "JOE FROM PARIS"...URGENT YOU SHOULD SEE ["JOE"]
+<p>["<ent type = 'person'>JOE</ent>"] SHOULD ARRIVE APPROX. 27 SEPT...WILL ANNOUNCE HIMSELF
+AS "<ent type = 'person'>JOE</ent> FROM PARIS"...URGENT YOU SHOULD SEE ["<ent type = 'person'>JOE</ent>"]
 SOONEST...HE WILL FULLY IDENTIFY HIMSELF AMD EXPLAIN HIS
 ASSIGNMENT TO YOU. ALL CABLE TRAFFIC THIS OP...HOLD ENTIRELY
 TO YOURSELF.</p>
 
 <p>October 7.  Leopoldville to headquarters:</p>
 
-<p>[JOE] LEFT CERTAIN ITEMS OF CONTINUING USEFULNESS. [STATION
+<p>[<ent type = 'person'>JOE</ent>] LEFT CERTAIN ITEMS OF CONTINUING USEFULNESS. [STATION
 OFFICER] PLANS CONTINUE TRY IMPLEMENT OP.</p>
 
 <p>October 15.  Headquarters to Leopoldville:</p>
@@ -1723,27 +1723,27 @@ AND SILENCER. HUNTING GOOD HERE WHEN LIGHT IS RIGHT.</p>
 DAY AND NIGHT...TARGET HAS DISMISSED MOST OF SERVANTS SO
 ENTRY THIS MEANS SEEMS REMOTE.  </p>
 
-<p>January 13.  Fearing that Lumumba, who had been imprisoned by
+<p>January 13.  Fearing that <ent type = 'person'>Lumumba</ent>, who had been imprisoned by
 Mobutu's forces in December, would soon be freed by his
 supporters and seize power, Leopoldville cables headquarters:</p>
 
 <p>THE COMBINATION OF [LUMUMBA'S] POWERS AS DEMAGOGUE, HIS ABLE
-USE OF OF GOON SQUADS AND PROPAGANDA AND SPIRIT OF DEFEAT
+USE OF OF GOON SQUADS AND <ent type = 'person'>PROPAGANDA</ent> AND SPIRIT OF DEFEAT
 WITHIN [GOVERNMENT]...WOULD ALMOST CERTAINLY INSURE [LUMUMBA]
 VICTORY IN PARLIAMENT...REFUSAL TAKE DRASTIC STEPS AT THIS
 TIME WILL LEAD TO DEFEAT OF [UNITED STATES] POLICY IN CONGO.</p>
 
-<p>January 17.  Mobutu and his ally Joseph Kasavubu send Lumumba
+<p>January 17.  Mobutu and his ally <ent type = 'person'>Joseph Kasavubu</ent> send <ent type = 'person'>Lumumba</ent>
 to his enemies in Katanga province, the forces of local
-leader Moise Tshombe.  Two days later, the CIA base chief in
+leader <ent type = 'person'>Moise Tshombe</ent>.  Two days later, the CIA base chief in
 Elizabethville cables headquarters:</p>
 
-<p>THANKS FOR PATRICE.  IF WE HAD KNOWN HE WAS COMING WE WOULD
+<p>THANKS FOR PATRICE.  IF WE HAD <ent type = 'person'>KNOWN HE WAS</ent> COMING WE WOULD
 HAVE BAKED A SNAKE.
 
-A U.N. inquiry later concluded Lumumba was killed by his
+A U.N. inquiry later concluded <ent type = 'person'>Lumumba</ent> was killed by his
 enemies on or shortly after his arrival in Katanga.  The
 Church Committee investigation found that "the toxic
 substances were never used.  But there is, however, no
 suggestion of a connection between the assassination plot and
-the events which actually led to Lumumba's death".  </p></xml>
+the events which actually led to <ent type = 'person'>Lumumba</ent>'s death".  </p></xml>

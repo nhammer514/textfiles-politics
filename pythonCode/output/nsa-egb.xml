@@ -1,5 +1,5 @@
 <xml><p>Newsgroups: alt.politics.org.nsa,talk.politics.crypto
-From: grady@netcom.com (Grady Ward)
+From: <ent type = 'person'>grady</ent>@netcom.com (<ent type = 'person'>Grady</ent> Ward)
 Subject: NSA employee's security manual
 Organization: Moby lexical databases
  
@@ -51,7 +51,7 @@ the defense and continued security of the United States of America.
 I extend to you my very best wishes as you enter upon your chosen
 career or assignment with NSA.
  
-Philip T. Pease
+Philip T. <ent type = 'person'>Pease</ent>
 Director of Security
  
  
@@ -248,7 +248,7 @@ to identify that official information or material which, although
 unclassified, is exempt from the requirement for public disclosure of
 information concerning government activities and which, for a
 significant reason, should not be given general circulation.  Each
-holder of "FOR OFFICAL USE ONLY" (FOUO) information or material is
+holder of "FOR OFFICAL USE ONLY" (<ent type = 'person'>FOUO</ent>) information or material is
 authorized to disclose such information or material to persons in
 other departments or agencies of the Executive and Judicial branches
 when it is determined that the information or material is required to
@@ -1030,7 +1030,7 @@ CWF   Civilian Welfare Fund
 DCS   Defense Courier Service (formerly known as ARFCOS)
 DoD   Department of Defense
 EOD   Enter on Duty
-FOUO  For Official Use Only
+<ent type = 'person'>FOUO</ent>  For Official Use Only
 M2  Office of Military Personnel
 M3  Office of Civilian Personnel
 M5  Office of Security

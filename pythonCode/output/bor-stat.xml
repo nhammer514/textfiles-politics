@@ -2,7 +2,7 @@
    keep my name and this sentence on it.</p>
 
 <p>    The Bill of Rights, a Status Report
-    by Eric Postpischil</p>
+    by <ent type = 'person'>Eric Postpischil</ent></p>
 
 <p>    4 September 1990</p>
 
@@ -39,25 +39,25 @@
     Government for a redress of grievances.</p>
 
 <p>   ESTABLISHING RELIGION:  While campaigning for his first
-   term, George Bush said "I don't know that atheists should
+   term, <ent type = 'person'>George <ent type = 'person'>Bush</ent></ent> said "I don't know that atheists should
    be considered as citizens, nor should they be considered
-   patriots."  Bush has not retracted, commented on, or
+   patriots."  <ent type = 'person'>Bush</ent> has not retracted, commented on, or
    clarified this statement, in spite of requests to do so. 
-   According to Bush, this is one nation under God.  And
-   apparently if you are not within Bush's religious beliefs,
+   According to <ent type = 'person'>Bush</ent>, this is one nation under God.  And
+   apparently if you are not within <ent type = 'person'>Bush</ent>'s religious beliefs,
    you are not a citizen.  Federal, state, and local
    governments also promote a particular religion (or,
    occasionally, religions) by spending public money on
    religious displays.</p>
 
-<p>   FREE EXERCISE OF RELIGION:  Robert Newmeyer and Glenn
-   Braunstein were jailed in 1988 for refusing to stand in
-   respect for a judge.  Braunstein says the tradition of
+<p>   FREE EXERCISE OF RELIGION:  <ent type = 'person'>Robert Newmeyer</ent> and Glenn
+   <ent type = 'person'>Braunstein</ent> were jailed in 1988 for refusing to stand in
+   respect for a judge.  <ent type = 'person'>Braunstein</ent> says the tradition of
    rising in court started decades ago when judges entered
    carrying Bibles.  Since judges no longer carry Bibles,
-   Braunstein says there is no reason to stand -- and his
+   <ent type = 'person'>Braunstein</ent> says there is no reason to stand -- and his
    Bible tells him to honor no other God.  For this religious
-   practice, Newmeyer and Braunstein were jailed and are now
+   practice, Newmeyer and <ent type = 'person'>Braunstein</ent> were jailed and are now
    suing.</p>
 
 <p>   FREE SPEECH:  We find that technology has given the
@@ -68,7 +68,7 @@
    (obscenity, as defined by the Federal Communications
    Commission [FCC]).  The FCC is investigating Boston PBS
    station WGBH-TV for broadcasting photographs from the
-   Mapplethorpe exhibit.</p>
+   <ent type = 'person'>Mapplethorpe</ent> exhibit.</p>
 
 <p>   FREE SPEECH:  There are also laws to limit political
    statements and contributions to political activities.  In
@@ -78,7 +78,7 @@
    corporation from using its general treasury funds to make
    independent expenditures in a political campaign.  In
    March, the Supreme Court upheld that law.  According to
-   dissenting Justice Kennedy, it is now a felony in Michigan
+   dissenting Justice <ent type = 'person'>Kennedy</ent>, it is now a felony in Michigan
    for the Sierra Club, the American Civil Liberties Union, or
    the Chamber of Commerce to advise the public how a
    candidate voted on issues of urgent concern to their
@@ -102,15 +102,15 @@
    participated in the copying of the document.  Also, the
    person who copied this document from telephone company
    computers placed a copy on a bulletin board run by Rich
-   Andrews.  Andrews forwarded a copy to AT&amp;T officials and
+   <ent type = 'person'>Andrews</ent>.  <ent type = 'person'>Andrews</ent> forwarded a copy to AT&amp;T officials and
    cooperated with authorities fully.  In return, the Secret
-   Service (SS) confiscated Andrews' computer along with all
-   the mail and data that were on it.  Andrews was not charged
+   Service (SS) confiscated <ent type = 'person'>Andrews</ent>' computer along with all
+   the mail and data that were on it.  <ent type = 'person'>Andrews</ent> was not charged
    with any crime.</p>
 
 <p>   FREE PRESS:  In another incident that would be comical if
    it were not true, on March 1 the SS ransacked the offices
-   of Steve Jackson Games (SJG); irreparably damaged property;
+   of <ent type = 'person'>Steve Jackson</ent> Games (<ent type = 'person'>SJG</ent>); irreparably damaged property;
    and confiscated three computers, two laser printers,
    several hard disks, and many boxes of paper and floppy
    disks.  The target of the SS operation was to seize all
@@ -118,7 +118,7 @@
    Cyberpunk game contains fictitious break-ins in a
    futuristic world, with no technical information of actual
    use with real computers, nor is it played on computers. 
-   The SS never filed any charges against SJG but still
+   The SS never filed any charges against <ent type = 'person'>SJG</ent> but still
    refused to return confiscated property.</p>
 
 <p>   PEACEABLE ASSEMBLY:  The right to assemble peaceably is no
@@ -132,8 +132,8 @@
    two years in jail.  Consider the scene in jail:  "What'd
    you do?"  "I was waiting at a bus stop and gave a guy a
    cigarette."  This is not an impossible occurrence:  In
-   Pittsburgh, Eugene Tyler, 15, has been ordered away from
-   bus stops by police officers.  Sherman Jones, also 15, was
+   Pittsburgh, <ent type = 'person'>Eugene Tyler</ent>, 15, has been ordered away from
+   bus stops by police officers.  <ent type = 'person'>Sherman Jones</ent>, also 15, was
    accosted with a police officer's hands around his neck
    after putting the last bit of pizza crust into his mouth.
    The police suspected him of hiding drugs.</p>
@@ -212,7 +212,7 @@
    based upon the presence of some sexually explicit items. 
    Bars, restaurants, or houses are taken from the owners
    because employees or tenants sold drugs.  In Volusia
-   County, Florida, Sheriff Robert Vogel and his officers stop
+   County, Florida, Sheriff <ent type = 'person'>Robert Vogel</ent> and his officers stop
    automobiles for contrived violations.  If large amounts of
    cash are found, the police confiscate it on the PRESUMPTION
    that it is drug money -- even if there is no other evidence
@@ -253,19 +253,19 @@
    weapons.</p>
 
 <p>   Both of the above apply to the warrant the Hudson, New
-   Hampshire, police used when they broke down Bruce Lavoie's
+   Hampshire, police used when they broke down <ent type = 'person'>Bruce Lavoie</ent>'s
    door at 5 a.m. with guns drawn and shot and killed him. 
    The warrant claimed information from an anonymous
    informant, and it said, among other things, that guns were
    to be seized.  The mention of guns in the warrant was used
-   as reason to enter with guns drawn.  Bruce Lavoie had no
-   guns.  Bruce Lavoie was not secure from unreasonable search
+   as reason to enter with guns drawn.  <ent type = 'person'>Bruce Lavoie</ent> had no
+   guns.  <ent type = 'person'>Bruce Lavoie</ent> was not secure from unreasonable search
    and seizure -- nor is anybody else.</p>
 
 <p>   Other infringements on the fourth amendment include
    roadblocks and the Boston Police detention of people based
    on colors they are wearing (supposedly indicating gang
-   membership).  And in Pittsburgh again, Eugene Tyler was
+   membership).  And in Pittsburgh again, <ent type = 'person'>Eugene Tyler</ent> was
    once searched because he was wearing sweat pants and a
    plaid shirt -- police told him they heard many drug dealers
    at that time were wearing sweat pants and plaid shirts.
@@ -287,35 +287,35 @@
     private property be taken for public use without
     just compensation.</p>
 
-<p>   INDICTMENT OF A GRAND JURY:  Kevin Bjornson has been
+<p>   INDICTMENT OF A GRAND JURY:  <ent type = 'person'>Kevin <ent type = 'person'>Bjornson</ent></ent> has been
    proprietor of Hydro-Tech for nearly a decade and is a
    leading authority on hydroponic technology and cultivation. 
    On October 26, 1989, both locations of Hydro-Tech were
    raided by the Drug Enforcement Administration.  National
-   Drug Control Policy Director William Bennett has declared
+   Drug Control Policy Director <ent type = 'person'>William Bennett</ent> has declared
    that some indoor lighting and hydroponic equipment is
    purchased by marijuana growers, so retailers and
    wholesalers of such equipment are drug profiteers and
-   co-conspirators.  Bjornson was not charged with any crime,
+   co-conspirators.  <ent type = 'person'>Bjornson</ent> was not charged with any crime,
    nor subpoenaed, issued a warrant, or arrested.  No illegal
    substances were found on his premises.  Federal officials
-   were unable to convince grand juries to indict Bjornson. 
+   were unable to convince grand juries to indict <ent type = 'person'>Bjornson</ent>. 
    By February, they had called scores of witnesses and
    recalled many two or three times, but none of the grand
    juries they convened decided there was reason to criminally
-   prosecute Bjornson.  In spite of that, as of March, his
+   prosecute <ent type = 'person'>Bjornson</ent>.  In spite of that, as of March, his
    bank accounts were still frozen and none of the inventories
    or records had been returned.  Grand juries refused to
-   indict Bjornson, but the government is still penalizing
+   indict <ent type = 'person'>Bjornson</ent>, but the government is still penalizing
    him.</p>
 
 <p>   TWICE PUT IN JEOPARDY OF LIFE OR LIMB:  Members of the
-   McMartin family in California have been tried two or three
-   times for child abuse.  Anthony Barnaby was tried for
+   <ent type = 'person'>McMartin</ent> family in California have been tried two or three
+   times for child abuse.  <ent type = 'person'>Anthony Barnaby</ent> was tried for
    murder (without evidence linking him to the crime) three
    times before New Hampshire let him go.</p>
 
-<p>   COMPELLED TO BE A WITNESS AGAINST HIMSELF:  Oliver North
+<p>   COMPELLED TO BE A WITNESS AGAINST HIMSELF:  <ent type = 'person'>Oliver North</ent>
    was forced to testify against himself.  Congress granted
    him immunity from having anything he said to them being
    used as evidence against him, and then they required him to
@@ -336,7 +336,7 @@
    Federal government, see him during questioning.  Police
    screamed "You better tell us what we want to hear and
    cooperate or you are going to jail," at 14-year-old Antron
-   McCray, according to Bobby McCray, his father.  Antron
+   McCray, according to <ent type = 'person'>Bobby McCray</ent>, his father.  Antron
    McCray "confessed" after his father told him to, so that
    police would release him.  These people were coerced into
    bearing witness against themselves, and those confessions
@@ -365,9 +365,9 @@
    liberty, and property.  Incidents including such violations
    are described elsewhere in this article.  Here are two
    more:  On March 26, 1987, in Jeffersontown, Kentucky,
-   Jeffrey Miles was killed by police officer John Rucker, who
-   was looking for a suspected drug dealer.  Rucker had been
-   sent to the wrong house; Miles was not wanted by police. 
+   <ent type = 'person'>Jeffrey <ent type = 'person'>Miles</ent></ent> was killed by police officer <ent type = 'person'>John <ent type = 'person'>Rucker</ent></ent>, who
+   was looking for a suspected drug dealer.  <ent type = 'person'>Rucker</ent> had been
+   sent to the wrong house; <ent type = 'person'>Miles</ent> was not wanted by police. 
    He received no due process.  In Detroit, $4,834 was seized
    from a grocery store after dogs detected traces of cocaine
    on three one-dollar bills in a cash register.
@@ -399,9 +399,9 @@
     counsel for his defence.
    
    THE RIGHT TO A SPEEDY AND PUBLIC TRIAL:  Surprisingly, the
-   right to a public trial is under attack.  When Marion Barry
+   right to a public trial is under attack.  When <ent type = 'person'>Marion Barry</ent>
    was being tried, the prosecution attempted to bar Louis
-   Farrakhan and George Stallings from the gallery.  This
+   Farrakhan and <ent type = 'person'>George Stallings</ent> from the gallery.  This
    request was based on an allegation that they would send
    silent and "impermissible messages" to the jurors.  The
    judge initially granted this request.  One might argue that
@@ -411,34 +411,34 @@
    
    BY AN IMPARTIAL JURY:  The government does not even honor
    the right to trial by an impartial jury.  US District Judge
-   Edward Rafeedie is investigating improper influence on
-   jurors by US marshals in the Enrique Camarena case.  US
+   <ent type = 'person'>Edward <ent type = 'person'>Rafeedie</ent></ent> is investigating improper influence on
+   jurors by US marshals in the <ent type = 'person'>Enrique Camarena</ent> case.  US
    marshals apparently illegally communicated with jurors
    during deliberations.
    
    OF THE STATE AND DISTRICT WHEREIN THE CRIME SHALL HAVE BEEN
-   COMMITTED:  This is incredible, but Manuel Noriega is being
+   COMMITTED:  This is incredible, but <ent type = 'person'>Manuel Noriega</ent> is being
    tried so far away from the place where he is alleged to
    have committed crimes that the United States had to invade
    another country and overturn a government to get him.  Nor
    is this a unique occurrence; in a matter separate from the
-   Camarena case, Judge Rafeedie was asked to dismiss charges
-   against Mexican gynecologist Dr. Humberto Alvarez Machain
+   Camarena case, Judge <ent type = 'person'>Rafeedie</ent> was asked to dismiss charges
+   against Mexican gynecologist Dr. <ent type = 'person'>Humberto Alvarez</ent> Machain
    on the grounds that the doctor was illegally abducted from
    his Guadalajara office in April and turned over to US
    authorities.</p>
 
 <p>   TO BE INFORMED OF THE NATURE AND CAUSE OF THE ACCUSATION: 
-   Steve Jackson Games, nearly put out of business by the raid
+   <ent type = 'person'>Steve Jackson</ent> Games, nearly put out of business by the raid
    described previously, has been stonewalled by the SS.  "For
    the past month or so these guys have been insisting the
    book wasn't the target of the raid, but they don't say what
    the target was, or why they were critical of the book, or
-   why they won't give it back," Steve Jackson says.  "They
+   why they won't give it back," <ent type = 'person'>Steve Jackson</ent> says.  "They
    have repeatedly denied we're targets but don't explain why
-   we've been made victims."  Attorneys for SJG tried to find
+   we've been made victims."  Attorneys for <ent type = 'person'>SJG</ent> tried to find
    out the basis for the search warrant that led to the raid
-   on SJG.  But the application for that warrant was sealed by
+   on <ent type = 'person'>SJG</ent>.  But the application for that warrant was sealed by
    order of the court and remained sealed at last report, in
    July.  Not only has the SS taken property and nearly
    destroyed a publisher, it will not even explain the nature
@@ -456,7 +456,7 @@
    some charges against Irangate participants because the
    government refused to provide information subpoenaed by the
    defendants.  And one wonders if the government would go
-   to the same lengths to obtain witnesses for Manuel Noriega
+   to the same lengths to obtain witnesses for <ent type = 'person'>Manuel Noriega</ent>
    as it did to capture him.</p>
 
 <p>   TO HAVE THE ASSISTANCE OF COUNSEL:  The right to assistance
@@ -496,7 +496,7 @@
    Mississippi charges ten dollars a day to each person who
    spends time in the jail, regardless of the length of stay
    or the outcome of their trial.  This means innocent people
-   are forced to pay.  Marvin Willis was stuck in jail for 90
+   are forced to pay.  <ent type = 'person'>Marvin Willis</ent> was stuck in jail for 90
    days trying to raise $2,500 bail on an assault charge.  But
    after he made that bail, he was kept imprisoned because he
    could not pay the $900 rent Tallahatchie demanded.  Nine
@@ -512,13 +512,13 @@
 
 <p>   CRUEL AND UNUSUAL PUNISHMENTS:  A life sentence for selling
    a quarter of a gram of cocaine for $20 -- that is what
-   Ricky Isom was sentenced to in February in Cobb County,
+   <ent type = 'person'>Ricky Isom</ent> was sentenced to in February in Cobb County,
    Georgia.  It was Isom's second conviction in two years, and
    state law imposes a mandatory sentence.  Even the judge
    pronouncing the sentence thinks it is cruel; Judge Tom
-   Cauthorn expressed grave reservations before sentencing
-   Isom and Douglas Rucks (convicted of selling 3.5 grams of
-   cocaine in a separate but similar case).  Judge Cauthorn
+   <ent type = 'person'>Cauthorn</ent> expressed grave reservations before sentencing
+   Isom and <ent type = 'person'>Douglas Rucks</ent> (convicted of selling 3.5 grams of
+   cocaine in a separate but similar case).  Judge <ent type = 'person'>Cauthorn</ent>
    called the sentences "Draconian."</p>
 
 <p>    Amendment IX</p>

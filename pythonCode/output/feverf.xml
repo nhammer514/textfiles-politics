@@ -1,10 +1,10 @@
-<xml><p><person>FEVERFEW</person>: A HERBAL REMEDY FOR MIGRAINE?
+<xml><p><ent type = 'person'>FEVERFEW</ent>: A HERBAL REMEDY FOR MIGRAINE?
 
 "Some of the world's most effective medicines began their
 careers as herbal remedies: digitalis came from foxglove, aspirin
 from willow bark, and morphine from poppy blossoms.  Potentially
 the newest plant to cross over from folklore to mainstream
-treatment is a member of the chyrsanthemum family known as common
+treatment is a member of the <ent type = 'person'>chyrsanthemum</ent> family known as common
 feverfew or, botanically, Tanacetum parthenium.
 
 "The name 'feverfew' indicates the belief, dating from the
@@ -50,7 +50,7 @@ effective in preventing migraine attacks.
 feverfew, but that was to be expected, as they had been taking
 the herb for some time.  People who had tried the plaint and then
 quit because they couldn't tolerate would have been excluded from
-this study.  Feverfew is capable of producing rather marked
+this study.  <ent type = 'person'>Feverfew</ent> is capable of producing rather marked
 allergic reactions; some people who try it develop sores in the
 mouth or, less commonly, a generalized inflammation of the mouth
 and tongue.

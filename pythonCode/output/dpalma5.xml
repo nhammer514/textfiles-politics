@@ -1,5 +1,5 @@
 <xml><p>
-    HOMOPOLAR "FREE-ENERGY" GENERATOR TEST</p>
+    <ent type = 'person'>HOMOPOLAR</ent> "FREE-ENERGY" GENERATOR TEST</p>
 
 <p>     Robert Kincheloe
     Professor of Electrical Engineering (Emeritus)
@@ -15,7 +15,7 @@
 
 <p> --------------------------------------------------------------------</p>
 
-<p>    HOMOPOLAR "FREE-ENERGY" GENERATOR TEST
+<p>    <ent type = 'person'>HOMOPOLAR</ent> "FREE-ENERGY" GENERATOR TEST
      Robert Kincheloe</p>
 
 <p>     ABSTRACT</p>
@@ -41,17 +41,17 @@
  tests on this particular machine, summarizes and presents
  tentative conclusions from the resulting data.</p>
 
-<p> THE SUNBURST HOMOPOLAR GENERATOR</p>
+<p> THE SUNBURST <ent type = 'person'>HOMOPOLAR</ent> GENERATOR</p>
 
 <p> In July, 1985, I became aware of and was invited to examine and
  test a so-called free-energy generator known as the Sunburst N
  Machine.</p>
 
-<p> This device, shown  in Figs 1a and 1b, was proposed by Bruce
- DePalma and constructed by Charya Bernard of the Sunburst
+<p> This device, shown  in <ent type = 'person'><ent type = 'person'>Fig</ent>s</ent> 1a and 1b, was proposed by Bruce
+ <ent type = 'person'>DePalma</ent> and constructed by <ent type = 'person'>Charya Bernard</ent> of the Sunburst
  Community in Santa Barbara, CA, about 1979.</p>
 
-<p> The term "free-energy" refers to  the  claim  by  DePalma  [1]
+<p> The term "free-energy" refers to  the  claim  by  <ent type = 'person'>DePalma</ent>  [1]
  (and others [2]) that it was capable of producing electrical
  output power that was not reflected as a mechanical load to the
  driving mechanism but derived from presumed latent spatial
@@ -67,7 +67,7 @@
 
 <p> GENERATOR DESCRIPTION</p>
 
-<p> Details of the generator construction are shown in Figs. 2 and 3.</p>
+<p> Details of the generator construction are shown in <ent type = 'person'><ent type = 'person'>Fig</ent>s</ent>. 2 and 3.</p>
 
 <p> It consists essentially of an electromagnet formed by a coil of
  3605 turns of #10  copper  wire  around  a soft iron core  which
@@ -75,7 +75,7 @@
  symmetrical around the axis of rotation.</p>
 
 <p> At each end of the magnet are conducting  bronze cylindrical
- plates, on one of  which  are  arranged  (as shown in Fig.  3)
+ plates, on one of  which  are  arranged  (as shown in <ent type = 'person'>Fig</ent>.  3)
  one  set  of graphite brushes for extracting output current
  between the shaft and the outer circumference  and  a  second
  set of metering brushes for independently measuring the induced
@@ -87,8 +87,8 @@
 
 <p> The generator may be recognized as a so-called homopolar, or
  acyclic machine, a device first  investigated  and  described
- by  Michael Faraday [3] in 1831 (Figs. 4,5) and shown
- schematically in Fig. 6.</p>
+ by  <ent type = 'person'>Michael Faraday</ent> [3] in 1831 (<ent type = 'person'><ent type = 'person'>Fig</ent>s</ent>. 4,5) and shown
+ schematically in <ent type = 'person'>Fig</ent>. 6.</p>
 
 <p> It consists of a cylindrical conducting  disk  immersed  in an
  axial magnetic field, and  can  be  operated as a generator  with
@@ -115,7 +115,7 @@
  the magnetic field in  which  the  conducting  disk  (or
  cylinder)  is rotated.</p>
 
-<p> Faraday found, however,  (Fig 7) that it does not matter whether
+<p> Faraday found, however,  (<ent type = 'person'>Fig</ent> 7) that it does not matter whether
  the magnet itself is stationary or rotating with the disk as long
  as the conductor is moving in the field, but that rotating the
  magnet with the conducting disk stationary did not produce an
@@ -125,20 +125,20 @@
  itself, not attached to the magnet which serves to induce the
  field [6].</p>
 
-<p> DePalma stated [7] that when the conducting disk  is  attached
+<p> <ent type = 'person'>DePalma</ent> stated [7] that when the conducting disk  is  attached
  to a rotating magnet, the interaction of the primary magnetic
  field with that produced by the radial output current results in
  torque between the disk and the magnet structure which is not
  reflected back to the mechanical driving source.</p>
 
-<p> Lenz's law therefore  does  not  apply, and the extraction of
+<p> <ent type = 'person'>Lenz</ent>'s law therefore  does  not  apply, and the extraction of
  output energy does not  require additional  driving  power.
  This  is  the claimed basis for extracting "free" energy.</p>
 
 <p> Discussions of the torque experienced by a rotating magnet are also
  discussed in the literature [8].</p>
 
-<p> Because the simple  form  shown  in  Fig.  6  has  essentially
+<p> Because the simple  form  shown  in  <ent type = 'person'>Fig</ent>.  6  has  essentially
  one conducting path, such  a  homopolar  device  is characterized
  by low voltage and high current requiring a large magnetic field
  for useful operation.</p>
@@ -185,16 +185,16 @@
  from this point of view  efficiency  in  producing external
  power  was  not required or relevant.</p>
 
-<p> DEPALMA'S RESULTS WITH THE SUNBURST HOMOPOLAR GENERATOR</p>
+<p> <ent type = 'person'>DEPALMA</ent>'S RESULTS WITH THE SUNBURST <ent type = 'person'>HOMOPOLAR</ent> GENERATOR</p>
 
-<p> In 1980 DePalma conducted  tests  with  the  Sunburst
+<p> In 1980 <ent type = 'person'>DePalma</ent> conducted  tests  with  the  Sunburst
  generator, describing his measurement technique and results in an
  unpublished report [10].</p>
 
 <p> The generator was  driven  by a 3 phase a-c 40 horsepower motor
  by a belt coupling sufficiently long that  magnetic  fields  of
  the motor and generator would not interact.  A table from this
- report  giving his data and results is shown in Fig. 8.</p>
+ report  giving his data and results is shown in <ent type = 'person'>Fig</ent>. 8.</p>
 
 <p> For a rotational speed of 6000 rpm an output power of 7560 watts
  was claimed to require an increase of 268 watts of drive power
@@ -237,25 +237,25 @@
 <p> Of these, the first assumption seems the most serious, and it is my
  opinion that the results of this particular test were inaccurate.</p>
 
-<p> Tim Wilhelm of Stelle, Illinois, who witnessed tests of the Sunburst
+<p> <ent type = 'person'>Tim <ent type = 'person'>Wilhelm</ent></ent> of Stelle, Illinois, who witnessed tests of the Sunburst
  generator in 1981, had a similar opinion [11].</p>
 
 <p> RECENT TESTS OF THE SUNBURST GENERATOR</p>
 
-<p> Being intrigued by DePalma's hypothesis, I accepted the offer by
- Mr. Norman Paulsen, founder  of the Sunburst Community, to
+<p> Being intrigued by <ent type = 'person'>DePalma</ent>'s hypothesis, I accepted the offer by
+ Mr. <ent type = 'person'>Norman Paulsen</ent>, founder  of the Sunburst Community, to
  conduct tests on the generator which apparently  had not been
- used since the tests by DePalma and Bernard in 1979.</p>
+ used since the tests by <ent type = 'person'>DePalma</ent> and Bernard in 1979.</p>
 
 <p> Experimental Setup</p>
 
-<p> A schematic diagram of the test arrangement is shown in Fig. 9,
- with the physical equipment  shown  in Fig. 10.  The generator
+<p> A schematic diagram of the test arrangement is shown in <ent type = 'person'>Fig</ent>. 9,
+ with the physical equipment  shown  in <ent type = 'person'>Fig</ent>. 10.  The generator
  is  shown coupled by a  long  belt to the drive motor behind it,
  together with the power supplies and metering both  contained
  within and external to the Sunburst power and metering cabinet.</p>
 
-<p> Figure 10b shows the panel of the test cabinet which  provided
+<p> <ent type = 'person'>Fig</ent>ure 10b shows the panel of the test cabinet which  provided
  power for the generator magnet and motor field.  The 4-1/2 digit
  meters on the panel were  not  functional  and  were not used;
  external meters were supplied.</p>
@@ -266,7 +266,7 @@
 
 <p>    Page 5</p>
 
-<p> Referring to Figure  9,  variacs  and  full-wave  bridge
+<p> Referring to <ent type = 'person'>Fig</ent>ure  9,  variacs  and  full-wave  bridge
  rectifiers provided variable d-c supplies for  the motor armature
  and field and the homopolar generator magnet.</p>
 
@@ -303,39 +303,39 @@
  direction of rotation were reversed.</p>
 
 <p> Tracking of Vbr and Vg with variation of magnetic field  is shown
- in Fig. 11, in  which it is seen that the output voltages are not
+ in <ent type = 'person'>Fig</ent>. 11, in  which it is seen that the output voltages are not
  quite linearly related to magnet current, probably due to core
  saturation.</p>
 
 <p> The more rapid departure of Vg from  linearity  may  be  due  to
- the different brush locations  as  seen  on  Fig 3, differences
+ the different brush locations  as  seen  on  <ent type = 'person'>Fig</ent> 3, differences
  in  the magnetic field at the different brush locations, or other
  causes not evident.  An expanded  plot  of  this voltage
- difference is shown in Fig. 12, and is seen to considerably
+ difference is shown in <ent type = 'person'>Fig</ent>. 12, and is seen to considerably
  exceed meter error tolerances.</p>
 
-<p> Figure 11 also shows an approximate 300 watt increase in drive
+<p> <ent type = 'person'>Fig</ent>ure 11 also shows an approximate 300 watt increase in drive
  motor armature power as  the magnet field  was  increased  from
  0  to  19 amperes.</p>
 
 <p> (The scatter of input power measurements shown in the upper curve
- of Fig. 11 resulted  from the great sensitivity of the  motor
+ of <ent type = 'person'>Fig</ent>. 11 resulted  from the great sensitivity of the  motor
  armature current to small fluctuations in power line voltage,
  since the large rotary inertia of  the  400  pound  generator did
  not allow speed to rapidly follow line voltage changes).</p>
 
 <p> At first it was thought that this  power  loss  might  be due to
  the fact that the outer output brushes were arranged  in  a
- rectangular array as shown in Fig. 3.</p>
+ rectangular array as shown in <ent type = 'person'>Fig</ent>. 3.</p>
 
 <p> Since they were  connected  in parallel but not equidistant from
  the axis the different generated voltages  would  presumably
  result  in circulating currents and additional power dissipation.</p>
 
 <p> Measurement of the  generated  voltage  as  a  function of
- radial distance from the  axis  as  shown  in Fig. 13, however,
+ radial distance from the  axis  as  shown  in <ent type = 'person'>Fig</ent>. 13, however,
  showed that almost all of the voltage differential occurred
- between 5 and 12 cm, presumably because this was the region  of
+ between 5 and 12 <ent type = 'person'>cm</ent>, presumably because this was the region  of
  greatest  magnetic field due to the centralized iron core.</p>
 
 <p> The voltage in the region of the outer brushes was  almost
@@ -349,7 +349,7 @@
 <p> In any event, the increase in drive power was only about 10% for
  the maximum magnet current of 19 amperes.</p>
 
-<p> Figure 14 typifies  a  number of measurements  of  input  power
+<p> <ent type = 'person'>Fig</ent>ure 14 typifies  a  number of measurements  of  input  power
  and generator performance as a function of speed and various
  generator conditions.</p>
 
@@ -386,7 +386,7 @@
  no  output  power dissippation).</p>
 
 <p> This component of power (which is  related  to the increase of
- drive motor power with increased magnet current as shown  in Fig.
+ drive motor power with increased magnet current as shown  in <ent type = 'person'>Fig</ent>.
  11  as discussed above) might  also be present whether or not the
  generator is producing output current and power, although this is
  not so evident since the  output  current  may  affect  the
@@ -406,7 +406,7 @@
  The measured output current at 6500 rpm was 4776 amperes; the
  voltage at the metering brushes was 1.07 volts.</p>
 
-<p> Using a correction factor derived from Fig. 12 and assuming a
+<p> Using a correction factor derived from <ent type = 'person'>Fig</ent>. 12 and assuming a
  common internal voltage drop  due  to  a calculated disk
  resistance  of  38 microohms, a computed  internal generated
  potential of 1.28 volts is obtained which if  multiplied  by
@@ -442,19 +442,19 @@
  motor armature power to obtain total system input power).</p>
 
 <p> It would thus  seem that if the above  assumptions  are  valid
- that DePalma correctly predicted  that much of the generated
+ that <ent type = 'person'>DePalma</ent> correctly predicted  that much of the generated
  power  with this kind of  machine  is  not  reflected back to the
- motive source. Figure 15 summarizes the data discussed above.</p>
+ motive source. <ent type = 'person'>Fig</ent>ure 15 summarizes the data discussed above.</p>
 
 <p> To further examine  the question  of  the  equivalence  between
  the internally generated voltage  at  the main output brushes and
  that measured at the  metering  brushes,  a  test was made of the
  metered voltage as a function of speed with the generator magnet
  energized with a current  of  20  amperes both with the output
- switch open and closed.  The resulting data is shown in Fig. 16.</p>
+ switch open and closed.  The resulting data is shown in <ent type = 'person'>Fig</ent>. 16.</p>
 
 <p> The voltage rises to about 1.32 volts  at  6000  rpm with the
- switch open (which is  close to that obtained by DePalma)  and
+ switch open (which is  close to that obtained by <ent type = 'person'>DePalma</ent>)  and
  drops  0.14 volts when the  switch  is closed and the measured
  output current is 3755 amperes, corresponding to an  effective
  internal resistance of 37 microohms.</p>
@@ -486,7 +486,7 @@
  voltage was calculated by  subtracting the IR drop due to the
  output current in the known (meter shunt) and calculated  (disk,
  shaft,  and brush lead) resistances from  the  assumed
- internally  generated output voltage.  The result  in  Fig. 17
+ internally  generated output voltage.  The result  in  <ent type = 'person'>Fig</ent>. 17
  shows that the brush drop obtained in this way is even less than
  that  usually  assumed, as typified by the superimposed curve
  taken from one text.</p>
@@ -533,7 +533,7 @@
 <p> As discussed above the various data do not seem to support this
  possibility.</p>
 
-<p>    3. DePalma may have been right in that there is indeed a
+<p>    3. <ent type = 'person'>DePalma</ent> may have been right in that there is indeed a
    situation here whereby energy is being obtained from a
    previously unknown and unexplained source.</p>
 
@@ -543,7 +543,7 @@
 
 <p>    4. Perhaps other possibilities will occur to the reader.</p>
 
-<p> The data obtained so far seems to have shown that while DePalma's
+<p> The data obtained so far seems to have shown that while <ent type = 'person'>DePalma</ent>'s
  numbers were high, his basic premise has not been disproved.
  While the Sunburst generator does not produce useful output power
  because of the internal  losses  inherent  in  the  design, a
@@ -551,7 +551,7 @@
  losses, increase the total generated voltage and the
  fraction  of  generated  power delivered to an external load.</p>
 
-<p> DePalma's claim of  free energy generation  could  perhaps  then
+<p> <ent type = 'person'>DePalma</ent>'s claim of  free energy generation  could  perhaps  then
  be examined.</p>
 
 <p> I should mention, however, that the obvious application of using
@@ -567,21 +567,21 @@
 
 <p>     FOOTNOTES</p>
 
-<p>  1. DePalma, 1979a,b,c, 1981, 1983, 1984, etc.
-  2. For example, Satelite News, 1981, Marinov, 1984, etc.
-  3. Martin, 1932, vol. 1, p.381.
+<p>  1. <ent type = 'person'>DePalma</ent>, 1979a,b,c, 1981, 1983, 1984, etc.
+  2. For example, Satelite News, 1981, <ent type = 'person'>Marinov</ent>, 1984, etc.
+  3. <ent type = 'person'>Martin</ent>, 1932, vol. 1, p.381.
   4. Das Gupta, 1961, 1962; Lamme, 1912, etc.
-  5. See, for example, Bumby, 1983; Bewley, 1952; Kosow, 1964; Nasar,
+  5. See, for example, Bumby, 1983; Bewley, 1952; Kosow, 1964; <ent type = 'person'>Nasar</ent>,
    1970.
   6. There has been much discussion on this point in the
    literature, and about interpretation of flux lines.  Bewley,
-   1949; Cohn, 1949a,b; Crooks, 1978; Cullwick, 1957; Savage,
+   1949; Cohn, 1949a,b; Crooks, 1978; <ent type = 'person'>Cullwick</ent>, 1957; Savage,
    1949.
-  7. DePalma, op. cit.
-  . Kimball, 1926; Zeleny, 1924.
+  7. <ent type = 'person'>DePalma</ent>, op. cit.
+  . Kimball, 1926; <ent type = 'person'>Zeleny</ent>, 1924.
   9. Bumby, Das Gupta, op. cit.
-  10. DePalma, 1980.
-  11. Wilhelm, 1980, and personal communication.
+  10. <ent type = 'person'>DePalma</ent>, 1980.
+  11. <ent type = 'person'>Wilhelm</ent>, 1980, and personal communication.
   12. The increase in  motor losses with increased load are
    neglected in this discussion because of  a  lack  of accurate
    values for armature and brush  resistances, magnetic  field
@@ -589,7 +589,7 @@
    losses, while small, would  be appreciable,  however;  their
    inclusion  would further increase the ratio of generated to
    drive  power  so that the results described are conservative.
-  13. Wilhelm, 1981, and personal communication.</p>
+  13. <ent type = 'person'>Wilhelm</ent>, 1981, and personal communication.</p>
 
 <p> ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</p>
 
@@ -599,7 +599,7 @@
    ENGINEERING, Dec. 1949, p.1113-4.  (Claims error in Cohn's paper)</p>
 
 <p> [Bewley, 1952] - L. V. Bewley, FLUX LINKAGES &amp; ELECTROMAGNETIC
-   INDUCTION, Macmillan, NY, 1952.  (Explanation  of  induction
+   INDUCTION, Ma<ent type = 'person'>cm</ent>illan, NY, 1952.  (Explanation  of  induction
    phenomena and the Faraday generator)</p>
 
 <p> [Bumby, 1983] - J. R. Bumby, SUPERCONDUCTING ROTATING ELECTRICAL
@@ -610,7 +610,7 @@
    ELECTRICAL ENGINEERING, May 1949, p441-7.  (Unipolar generator as
    paradox)</p>
 
-<p> [Cohn, 1949b] - George Cohn, letter re [Savage, 1949]; ELECTRICAL
+<p> [Cohn, 1949b] - <ent type = 'person'>George Cohn</ent>, letter re [Savage, 1949]; ELECTRICAL
    ENGINEERING, Nov 1949, p1018.  (Responds to criticism by Savage)</p>
 
 <p> [Crooks, 1978] - M. J. Crooks et al, "One-piece Faraday generator:
@@ -618,7 +618,7 @@
    1978, p729-31. (Derives  Faraday  generator  performance using
    Maxwell's equations)</p>
 
-<p> [Cullwick, 1957] - E. G. Cullwick, ELECTROMAGNETISM AND RELATIVITY,
+<p> [<ent type = 'person'>Cullwick</ent>, 1957] - E. G. <ent type = 'person'>Cullwick</ent>, ELECTROMAGNETISM AND RELATIVITY,
    Longmans &amp; Green, London,  1957. (Chapter  10,  "A  Rotating
    Conducting Magnet", pp.141-60, discusses question of flux rotation
    with magnet)</p>
@@ -633,40 +633,40 @@
    AIEE Trans.  Oct 1962, p399-402.  (Discusses very high current low
    voltage Faraday generators)</p>
 
-<p> [DePalma, 1979a] - Bruce DePalma, EXTRACTION OF ELECTRICAL ENERGY
+<p> [<ent type = 'person'>DePalma</ent>, 1979a] - <ent type = 'person'>Bruce <ent type = 'person'>DePalma</ent></ent>, EXTRACTION OF ELECTRICAL ENERGY
    DIRECTLY FROM SPACE:  THE N-NACHINE, Simularity Institute, Santa
    Barbara CA,  6  Mar  1979. (Discusses  homopolar generator or N-
    Machine as free-energy source)</p>
 
-<p> [DePalma, 1979b] - Bruce DePalma,  "The  N-Machine",  Paper given at
+<p> [<ent type = 'person'>DePalma</ent>, 1979b] - <ent type = 'person'>Bruce <ent type = 'person'>DePalma</ent></ent>,  "The  N-Machine",  Paper given at
    the World Symposium on Humanity, Pasadena, CA, 12 April 1979.
    (Describes background, development of "free-energy" theories)</p>
 
-<p> [DePalma, 1979c] - Bruce DePalma,  ROTATION  OF A MAGNETIZED
+<p> [<ent type = 'person'>DePalma</ent>, 1979c] - <ent type = 'person'>Bruce <ent type = 'person'>DePalma</ent></ent>,  ROTATION  OF A MAGNETIZED
    GYROSCOPE, Simularity Institute Report #33,  16  July  1979.
    (Describes design of Sunburst homopolar generator)</p>
 
-<p> [DePalma, 1980] - Bruce DePalma, "Performance of the Sunburst N
+<p> [<ent type = 'person'>DePalma</ent>, 1980] - <ent type = 'person'>Bruce <ent type = 'person'>DePalma</ent></ent>, "Performance of the Sunburst N
    Machine", Simularity Institute,  Santa  Barbara,  CA,  17 December
    1980.  (Description of tests and results)</p>
 
-<p> [DePalma, 1981] - Bruce DePalma, "Studies on rotation leading to the
-   N-Machine", DePalma Institute, 1981  (transcript of talk?)
+<p> [<ent type = 'person'>DePalma</ent>, 1981] - <ent type = 'person'>Bruce <ent type = 'person'>DePalma</ent></ent>, "Studies on rotation leading to the
+   N-Machine", <ent type = 'person'>DePalma</ent> Institute, 1981  (transcript of talk?)
    (Discusses experiments  with  gravity  that  led to development of
    idea of free-energy machine)</p>
 
-<p> [DePalma, 1983] -  Bruce DePalma,  THE  ROTATION  OF  THE  UNIVERSE,
-   DePalma Institute  Report #83, Santa Barbara, CA,  25  July  1983.
+<p> [<ent type = 'person'>DePalma</ent>, 1983] -  <ent type = 'person'>Bruce <ent type = 'person'>DePalma</ent></ent>,  THE  ROTATION  OF  THE  UNIVERSE,
+   <ent type = 'person'>DePalma</ent> Institute  Report #83, Santa Barbara, CA,  25  July  1983.
    (Uses Faraday disc to discuss universal principles).</p>
 
-<p> [DePalma, 1984] - Bruce DePalma, THE SECRET OF THE FARADAY DISC,
-   DePalma Institute, Santa Barbara, CA, 2 Feb 1984.  (Claims
+<p> [<ent type = 'person'>DePalma</ent>, 1984] - <ent type = 'person'>Bruce <ent type = 'person'>DePalma</ent></ent>, THE SECRET OF THE FARADAY DISC,
+   <ent type = 'person'>DePalma</ent> Institute, Santa Barbara, CA, 2 Feb 1984.  (Claims
    explanation of Faraday disc as a free-energy device)</p>
 
 <p> [Kimball, 1926] - A. L. Kimball,  Jr.,  "Torque  on  revolving
    cylindrical magnet",  PHYS.  REV. v.28, Dec 1928,  p.1302-8.
    (Alternative analysis of torque in a homopolar device  to  that of
-   Zeleny and Page, 1924)</p>
+   <ent type = 'person'>Zeleny</ent> and Page, 1924)</p>
 
 <p> [Kosow, 1964] - Irving L. Kosow, ELECTRICAL MACHINERY &amp; CONTROL,
    Prentice-Hall, 1964.  (Discusses high current homopolar (acyclic)
@@ -677,35 +677,35 @@
    p1811-40.  (Early discussion of design of high power homopolar
    generator)</p>
 
-<p> [Marinov, 1984]- Stefan Marinov, THE THORNY WAY OF TRUTH, Part II;
+<p> [<ent type = 'person'>Marinov</ent>, 1984]- Stefan <ent type = 'person'>Marinov</ent>, THE THORNY WAY OF TRUTH, Part II;
    Graz, Austria,  1984  (Advertisement  in  NATURE). (Claims free-
-   energy generator proved by DePalma, Newman)</p>
+   energy generator proved by <ent type = 'person'>DePalma</ent>, Newman)</p>
 
-<p> [Martin, 1932] - Thomas Martin (ed), FARADAY'S DIARY, Bell, 1932,
+<p> [<ent type = 'person'>Martin</ent>, 1932] - Thomas <ent type = 'person'>Martin</ent> (ed), FARADAY'S DIARY, Bell, 1932,
    in 5 vols.  (Transcription and publication of Faraday's original
    diaries)</p>
 
-<p> [Nasar, 1970] - S. Nasar, ELECTROMAGNETIC ENERGY CONVERSION DEVICES
+<p> [<ent type = 'person'>Nasar</ent>, 1970] - S. <ent type = 'person'>Nasar</ent>, ELECTROMAGNETIC ENERGY CONVERSION DEVICES
    &amp; SYSTEMS, Prentice-Hall, 1970.  (Discusses principles and
    applications of acyclic (homopolar) machines)</p>
 
 <p> [Satellite News, 1981] - "Researchers see long-life satellite power
    systems in  19th  century  experiment",  Research  news, SATELLITE
-   NEWS, 15  June 1981.  (Reports  DePalma's  claim  for  free-energy
+   NEWS, 15  June 1981.  (Reports  <ent type = 'person'>DePalma</ent>'s  claim  for  free-energy
    generator)</p>
 
 <p> [Savage, 1949] - Norton Savage, letter re [Cohn, 1949a]; ELECTRICAL
    ENGINEERING, July 1949, p645.  (Claims error in Cohn's paper)</p>
 
-<p> [Wilhelm, 1980] - Timothy J. Wilhelm, INVESTIGATIONS OF THE N-EFFECT
-   ONE-PIECE HOMOPOLAR DYNAMOS, ETC. (Phase I), Stelle, IL, 12 Sept
-   1980.  (Discusses tests on DePalma's N-Machine)</p>
+<p> [<ent type = 'person'>Wilhelm</ent>, 1980] - Timothy J. <ent type = 'person'>Wilhelm</ent>, INVESTIGATIONS OF THE N-EFFECT
+   ONE-PIECE <ent type = 'person'>HOMOPOLAR</ent> DYNAMOS, ETC. (Phase I), Stelle, IL, 12 Sept
+   1980.  (Discusses tests on <ent type = 'person'>DePalma</ent>'s N-Machine)</p>
 
-<p> [Wilhelm, 1981] - Timothy J. Wilhelm, INVESTIGATIONS OF THE N-EFFECT
-   ONE-PIECE HOMOPOLAR DYNAMOS, ETC. (Phase II), Stelle, IL, 10 June
+<p> [<ent type = 'person'>Wilhelm</ent>, 1981] - Timothy J. <ent type = 'person'>Wilhelm</ent>, INVESTIGATIONS OF THE N-EFFECT
+   ONE-PIECE <ent type = 'person'>HOMOPOLAR</ent> DYNAMOS, ETC. (Phase II), Stelle, IL, 10 June
    1981.  (Design and tests of improved homopolar generator/motor)</p>
 
-<p> [Zeleny, 1924] - John Zeleny &amp; Leigh Page, "Torque on a cylindrical
+<p> [<ent type = 'person'>Zeleny</ent>, 1924] - John <ent type = 'person'>Zeleny</ent> &amp; Leigh Page, "Torque on a cylindrical
    magnet through which a current is passing", PHYS.  REV.  v.24,  14
    July 1924,  p.544-59. (Theory  and  experiment  on  torque  in a
    homopolar device)</p>
@@ -714,7 +714,7 @@
 
 <p> (Sysop note:  The following figure also had an accompanying drawing)</p>
 
-<p> Figure 5 - Transcription of the first  experiment showing generation
+<p> <ent type = 'person'>Fig</ent>ure 5 - Transcription of the first  experiment showing generation
     of electrical  power  in  a moving conductor  by  Michael
     Faraday</p>
 
@@ -744,7 +744,7 @@
 
 <p> (Sysop note:  The following figure also had an accompanying drawing)</p>
 
-<p> Figure 7 - Test of a rotating magnet  by  Michael  Faraday, December
+<p> <ent type = 'person'>Fig</ent>ure 7 - Test of a rotating magnet  by  Michael  Faraday, December
     26, 1831.</p>
 
 <p> 255.  A copper disc was cemented on the top of a cylinder magnet,
@@ -774,9 +774,9 @@
 
 <p> (Sysop note:  The following figure also had an accompanying drawing)</p>
 
-<p> Figure 8 - Test data from report by Bruce DePalma</p>
+<p> <ent type = 'person'>Fig</ent>ure 8 - Test data from report by <ent type = 'person'>Bruce <ent type = 'person'>DePalma</ent></ent></p>
 
-<p>    PERFORMANCE OF THE SUNBURST HOMOPOLAR GENERATOR</p>
+<p>    PERFORMANCE OF THE SUNBURST <ent type = 'person'>HOMOPOLAR</ent> GENERATOR</p>
 
 <p>   machine speed:    6000 r.p.m.
    drive motor current no load   15 amperes
@@ -801,14 +801,14 @@
  appeared in this area)    R(brush)  = 114.25  "  "
      R(shunt)  =  31.25  "  "</p>
 
-<p>       BRUCE DEPALMA
+<p>       BRUCE <ent type = 'person'>DEPALMA</ent>
        17 DECEMBER 1980</p>
 
 <p> ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</p>
 
 <p>    Page 14</p>
 
-<p> Figure 15 - Summary of test results at 6500 rpm</p>
+<p> <ent type = 'person'>Fig</ent>ure 15 - Summary of test results at 6500 rpm</p>
 
 <p>    I  II    III</p>
 
@@ -830,7 +830,7 @@
  GENERATED POWER  0  0  (6113)
  WATTS</p>
 
-<p>    HOMOPOLAR GENERATOR TEST - BIG SPRINGS RANCH   APRIL 26, 1986</p>
+<p>    <ent type = 'person'>HOMOPOLAR</ent> GENERATOR TEST - BIG SPRINGS RANCH   APRIL 26, 1986</p>
 
 <p> ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</p>
 
@@ -841,7 +841,7 @@
 <p> &amp; the Temple of the Screaming Electron Jeff Hunter  510-935-5845
  Rat Head     Ratsnatcher  510-524-3649
  Burn This Flag   Zardoz   408-363-9766
- realitycheck   Poindexter Fortran 415-567-7043
+ realitycheck   <ent type = 'person'>Poindexter Fortran</ent> 415-567-7043
  Lies Unlimited   Mick Freen   415-583-4102</p>
 
 <p> Specializing in conversations, obscure information, high explosives,

@@ -10,7 +10,7 @@
 
     by
 
-    <person>Stephen Paul Goodfellow</person>
+    <ent type = 'person'>Stephen Paul Goodfellow</ent>
    
 
      1987
@@ -36,11 +36,11 @@ CONTENT:
 
   Rudiments of the dynamic GRAVAC Cycle 8
 
-  Helioseismology - The Ring of Truth   9
+  <ent type = 'person'>Helioseismology</ent> - The Ring of Truth   9
 
   Related Natural Phenomena   9
 
-  Mr. Science &amp; the Breezy Room  10
+  Mr. <ent type = 'person'>Science</ent> &amp; the Breezy Room  10
 
   Nature's Gravity Wells   10 
 
@@ -391,7 +391,7 @@ arms out and slowing down.(15)
  
 HELIOSEISMOLOGY - THE RING OF TRUTH
 
-A whole new science has recently sprung up called Helioseismology.  It 
+A whole new science has recently sprung up called <ent type = 'person'>Helioseismology</ent>.  It 
 has  been  observed that the Sun vibrates, rather like a bell.  It  is 
 presently  believed that solar resonances are propagated  acoustically 
 from the Sun's core.(16)
@@ -410,7 +410,7 @@ the oscillations produced by an acoustic speaker.
 A  blind-folded  person would be hard pressed to tell  whether  he  is 
 being addressed directly or via a speaker.
 
-The  same  is true for Helioseismology; the observer is blind  to  the 
+The  same  is true for <ent type = 'person'>Helioseismology</ent>; the observer is blind  to  the 
 interior and so the information is interpreted in the light of present 
 concepts of solar theory.
 Helioseismologists have discovered a condition in the Sun's  shallower 
@@ -451,17 +451,17 @@ MR. SCIENCE &amp; THE BREEZY ROOM
 I  have constructed a very special room. Its design allows for a  flow 
 of  air through the ceiling and floor of the room. It has  no  windows 
 and whoever is inside is unable to make any exterior observations.  As 
-with  Einstein's famous accelerating rocket,(21) the observer is  free 
+with  <ent type = 'person'>Einstein</ent>'s famous accelerating rocket,(21) the observer is  free 
 to  draw conclusions from any phenomena that take place in  the  room, 
 but he is unaware of the exterior environment.
 We  now  place  a  fan above the roof of the  room  which  forces  air 
-downwards. Air flows through the room and Mr. Science takes note.
+downwards. Air flows through the room and Mr. <ent type = 'person'>Science</ent> takes note.
 The room is now placed on a high tower some distance above the  Earth. 
 Imagine that we now pile an enormous quantity of air above the  tower. 
 Due to the Earths gravitational attraction which causes the atmosphere 
 'hug' the planet, the air will flow back towards the Earth and  regain 
 its composure.
-In  doing so, the air will also flow through Mr. Science's room  -  he 
+In  doing so, the air will also flow through Mr. <ent type = 'person'>Science</ent>'s room  -  he 
 takes note.
 
 When  asked about the nature of the two experiments, he tells us  that 
@@ -469,7 +469,7 @@ he  believes them to be identical - a flow of air from top to  bottom.
 He  is unaware that the first experiment was the result  of  pressure; 
 nor does he know that the second experiment was caused by gravity.  He 
 therefore  concludes that the nature of the force that  propelled  the 
-air  through the room was the same in both instances; to Mr.  Science, 
+air  through the room was the same in both instances; to Mr.  <ent type = 'person'>Science</ent>, 
 pressure_and_gravity_are_identical!
 
 
@@ -666,7 +666,7 @@ It  is  quite possible that no one will remember  my  prediction  when
 verified,  but that is of no consequence. The origin of an idea is  of 
 no  importance;  time  bleaches  the  pages  of  history,  names are 
 eventually forgotten in the haze of time and no one is remembered  for 
-very  long. I suspect Nietzsche is wrong when he writes that the  only 
+very  long. I suspect <ent type = 'person'>Nietzsche</ent> is wrong when he writes that the  only 
 things remembered are written in blood and stone. Overall,  humankinds 
 collective  memory is quite short and so it is only the concepts  that 
 become  indispensable and fundamental to the survival of  our  species 
@@ -684,30 +684,30 @@ Stephen  Goodfellow, 146 Farrand Park, Highland Park, MI 48023
 CREDITS
 
 I would like to thank the following people who have taken the time  to 
-correspond  or  talk with me. Walter Kauppila,  Physics  Professor  at 
-Wayne State University. Dr. Favro, W.S.U. Professor Chen, Professor of 
+correspond  or  talk with me. <ent type = 'person'>Walter Kauppila</ent>,  Physics  Professor  at 
+Wayne State University. Dr. Favro, W.S.U. Professor <ent type = 'person'>Chen</ent>, Professor of 
 astronomy,  W.S.U. Professor Teske, Physics, University  of  Michigan. 
-Jim  Thele, Electrical Technician at G.M. Greg Menovick,  Mathematics, 
-W.S.U.  Professor Wadehra, University of Michigan.  Professor  Cowley, 
+Jim  Thele, Electrical Technician at G.M. <ent type = 'person'>Greg Menovick</ent>,  Mathematics, 
+W.S.U.  Professor <ent type = 'person'>Wadehra</ent>, University of Michigan.  Professor  Cowley, 
 Physics  &amp;  Astronomy, Wayne State University.  Greenberg,  Editor  of 
-Kronos  Journal. Leslie Leifer, Chemistry, Mich. Tech,  Univ.  Special 
-thanks to Dr. Raymond Davis of Brookhaven National Laboratory for  his 
+Kronos  Journal. <ent type = 'person'>Leslie Leifer</ent>, Chemistry, Mich. Tech,  Univ.  Special 
+thanks to Dr. <ent type = 'person'>Raymond Davis</ent> of Brookhaven National Laboratory for  his 
 research. 
-Thanks  to  my  Brother, Justin Meilgaard, for helping  me  with  this 
-pamphlet.  I  also thank Bill Haus, Allan  Franklin,  Ralph  Franklin, 
-Janis  Lewitt, Dennis Lamberis, Jackie Jablonski, for teaching me  how 
-to think. Special thanks to Lowell Boileau and Marvin Reili to whom  I 
+Thanks  to  my  Brother, <ent type = 'person'>Justin Meilgaard</ent>, for helping  me  with  this 
+pamphlet.  I  also thank <ent type = 'person'>Bill Haus</ent>, Allan  Franklin,  Ralph  Franklin, 
+Janis  Lewitt, Dennis Lamberis, <ent type = 'person'>Jackie Jablonski</ent>, for teaching me  how 
+to think. Special thanks to <ent type = 'person'>Lowell Boileau</ent> and <ent type = 'person'>Marvin Reili</ent> to whom  I 
 owe  the existence of this paper, and who have taken the brunt  of  my 
 'off the wall' ideas with immeasurable patience. 
 
 REFERENCES
 
-(1)  "Gravity" by George Gamow, Doubleday Publishers 1962, p.138
+(1)  "Gravity" by <ent type = 'person'>George Gamow</ent>, Doubleday Publishers 1962, p.138
 (2)  "Realm of the Universe" by George O. Abell, Saunders Pub.  1980. 
    pp.285-86
 (3)  The concept of neutrinos passing through the Sun is confirmed  by 
-   conversation with  Professor Wadehra from University of Michigan, 
-   dept. of Astrophysics (1/21/85) Prof. Wadehra also agreed that it 
+   conversation with  Professor <ent type = 'person'>Wadehra</ent> from University of Michigan, 
+   dept. of Astrophysics (1/21/85) Prof. <ent type = 'person'>Wadehra</ent> also agreed that it 
    is  hypothetically  possible to determine: (a) The  source  of  a  
    neutrino;  the angle of neutrino approach  can  be determined  by 
    collision,  and (b) A neutrino's energy level can be  determined. 
@@ -715,7 +715,7 @@ REFERENCES
    higher  energy  even though it originates from a  star  which  is 
    occulted by the Sun.)
 (4)  See "Sun," Encyclopedia Britannica, 1980, vol.17, p.178.
-(5)  Encyclopedia  Britannica,  "Science and the  Future"  Year  Book, 
+(5)  Encyclopedia  Britannica,  "<ent type = 'person'>Science</ent> and the  Future"  Year  Book, 
    1983; 'The phantom Neutrino' by James S. Trefil, p.224
 (6)  News Notes, Sky &amp; Telescope December issue, 1984 p.506   
 (7)  "Sunspots"  1979  by  R.  J. Bray  and  R.  E.  Loughhead.  Dover 
@@ -726,15 +726,15 @@ REFERENCES
    York, p.26.
    "Astrophysical  Quantities"  1973  by C.W.  Allen,  3rd  ed.  The  
    Athlone Press, Univ. of London; p.265.  
-(10) "Solid Clues" 1985 by Gerald Feinburg, Simon &amp; Schuster pub. p.23 
+(10) "Solid Clues" 1985 by <ent type = 'person'>Gerald Feinburg</ent>, Simon &amp; Schuster pub. p.23 
 (11) "The ABC of Plasma" Fusion Magazine, by Riemannian, Nov. 1978
-(12) "Dictionary of Science" 1986 Barnhart Books, p.502  
+(12) "Dictionary of <ent type = 'person'>Science</ent>" 1986 Barnhart Books, p.502  
 (13) "The ABC of Plasma" Fusion Magazine, by Riemannian, Nov.1978p.42.
 (14) "Realm  of  the Universe"1980 by   George  O.  Abell,  Saunders  
    Publication p.222 
 (15) "Design  of  the Universe" by Fritz Kahn, Klein  Publishers,  New  
    York 1954 pp. 207-208.
-(16) Scientific American, Sept. 1985 "Helioseismology" (Article,) John  
+(16) Scientific American, Sept. 1985 "<ent type = 'person'>Helioseismology</ent>" (Article,) John  
    W.  Leibacher,  Robers W. Noyes, Juri Toomre,  Roger  K.  Ulrich;  
    p.48-57.
 (17) "A New Sun" by John A. Eddy, NASA 1979 (SP-402); p.27.
@@ -743,9 +743,9 @@ REFERENCES
    "The Body" 1985 Anthony Smith, Pelican Books, 'The Ear.'
 (20) Encyclopedia  Britannica  1980 vol.1,  'Heavier-than-air  craft,'  
    pp.372-383  
-(21) "Gravity" by George Gamow, Doubleday  Publishers 1962, p.118
+(21) "Gravity" by <ent type = 'person'>George Gamow</ent>, Doubleday  Publishers 1962, p.118
 (22) Encyclopedia  Britannica 1980 vol. 9, 'Hurricanes  and  Typhoons'  
    p.63
    Scientific  American  1964  vol.211,  'Experiments  in  Hurricane 
    Modification' by R.H. Simpson and Joanne S. Malkus, pp.27-37
-   (23) "Principles of Cosmology" 1978, by Michael Berry, Cambridge Univ. Press, London; p.17.</p></xml>
+   (23) "Principles of Cosmology" 1978, by <ent type = 'person'>Michael Berry</ent>, Cambridge Univ. Press, London; p.17.</p></xml>

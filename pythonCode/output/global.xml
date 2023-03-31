@@ -13,7 +13,7 @@ and more powerful by confiscating both our money and our freedom.</p>
 of information -- Pacifica Radio, WBAI-FM, 99.5 in New York City.
 The reality vs. unreality contrast was strikingly obvious this morning.
 On my way to work, I was listening to a Swedish environmentalist.
-Helen Norberg Hodge is probably how her name is spelled.
+<ent type = 'person'>Helen Norberg Hodge</ent> is probably how her name is spelled.
 These are some of her points that I can recall:</p>
 
 <p>  ** All the nations of the world are bankrupt. Consequently, 
@@ -36,8 +36,8 @@ These are some of her points that I can recall:</p>
    LARGE ENERGY GENERATING CENTERS **</p>
 
 <p>  ** INTER-LOCKING THE DISCRETE NATION-TOWNSHIPS OF THE 
-   GLOBAL ECONOMIC STATE INTO A TIGHT WEB OF STREAMLINED 
-   TRANSPORTATION THROUGHWAYS **
+   GLOBAL ECONOMIC STATE INTO A TIGHT WEB OF <ent type = 'person'>STREAMLINED</ent> 
+   TRANSPORTATION <ent type = 'person'>THROUGHWAYS</ent> **
    We consumers will be forced to pay much higher prices for food
    and goods because the global expressway will bring us bananas
    from Australia and oranges from Israel. Naturally, we consumers
@@ -82,7 +82,7 @@ Why would anyone want to rob your apartment or house?
 Why would anyone want to rob one-point-two trillion dollars
 from the American people's paychecks to repay the $1.2 trillion
 that they robbed from the people's S &amp; L savings accounts?
-That was the Reagan-Bush looting decade of the 1980s wherein
+That was the <ent type = 'person'>Reagan</ent>-<ent type = 'person'>Bush</ent> looting decade of the 1980s wherein
 the robber-barons got wildly wealthier by making us much poorer.</p>
 
 <p>If you're ignorant of that fact, then you need to turn off
@@ -96,7 +96,7 @@ coughing their guts out. Fight the TV addiction and vanquish it.
 Your human dignity and liberty depend upon it. Indeed, our
 children and our grandchildren are depending upon us. If we 
 let them down, the consequences will be far worse for them. 
-Don't deny high probability. Soon enough, you'll probably be 
+<ent type = 'person'>Don</ent>'t deny high probability. Soon enough, you'll probably be 
 taking on the responsibility of bringing them into this world 
 and looking toward their well-being. </p>
 
@@ -117,6 +117,6 @@ articles through the nationwide inter-library loan network.</p>
 
 <p>  Ranting by:
  
-  John DiNardo</p>
+  <ent type = 'person'>John DiNardo</ent></p>
 
 <p></p></xml>

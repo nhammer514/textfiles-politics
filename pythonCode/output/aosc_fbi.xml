@@ -5,7 +5,7 @@
 <p>History</p>
 
 <p>The FBI traces its roots back to the year 1908 when then U.S. Attorney General
-Charles Bonaparte directed that Department of Justice investigations be handled
+<ent type = 'person'>Charles Bonaparte</ent> directed that Department of Justice investigations be handled
 by a small group of special investigators. The group was formed as the Bureau
 of Investigation and, in 1935, the present day name was designated by Congress.</p>
 
@@ -37,17 +37,17 @@ serves as the basis of the arrest warrant.</p>
 jurisdiction. The FBI will, however, render all possible assistance to the
 local police through the FBI Laboratory and Identification Division. The FBI
 LID maintains fingerprint files on approximately 70 million (yes, million)
-people. The FBI also maintains the National Crime Information Center (NCIC)
+people. The FBI also maintains the National Crime Information Center (N<ent type = 'person'>CI</ent>C)
 which keeps records of missing persons, serialized stolen property, wanted
 persons for whom an arrest warrant is outstanding, and criminal histories on
 individuals arrested and fingerprinted for serious or significant offenses.</p>
 
-<p>The NCIC is a computerized information system established by the FBI as a
+<p>The N<ent type = 'person'>CI</ent>C is a computerized information system established by the FBI as a
 service to all criminal justice agencies- local, state and Federal. The
 information can be instantly retrieved over a vast communications network
 through the use of telecommunications equipment in criminal justice centers in
 various locations in the United States, Canada and Puerto Rico. Many times when
-monitoring the local or county police/sheriff departments a reference to a NCIC
+monitoring the local or county police/sheriff departments a reference to a N<ent type = 'person'>CI</ent>C
 check is heard.</p>
 
 <p>The FBI is involved in criminal investigations and foreign counterintelligence
@@ -212,8 +212,8 @@ this editor.</p>
 
 <p>The list of Field Offices and RA's is not 100% accurate, updates please. The
 number of RA's may differ from the call letter assignment block for a given
-F.O. because many RA's were closed and consolidated during the Carter and early
-Regan administrations. The call letters were assigned prior to their
+F.O. because many RA's were closed and consolidated during the <ent type = 'person'>Carter</ent> and early
+<ent type = 'person'>Regan</ent> administrations. The call letters were assigned prior to their
 administrations.</p>
 
 <p>The F.O. call letters will be the first is an assigned block for a given F.O.
@@ -258,7 +258,7 @@ same radio traffic. Chicago F.O. also still uses some remote VHF receive/UHF
 re-transmit link sites, but most are believed to be converted to microwave
 links.</p>
 
-<p>Also 167.7625 which Randy Strayer and this editor received via skip between KSC
+<p>Also 167.7625 which <ent type = 'person'>Randy Strayer</ent> and this editor received via skip between KSC
 210 and KSC 216. Channel identified as Bravo 1.</p>
 
 <p>Detroit "DE" Field Office - RA's</p>
@@ -413,7 +413,7 @@ Johnson City base call is KEV-243
 Knoxville Unit Numbers: 99 - Aircraft; mobile units 1 - 69.</p>
 
 <p>Los Angeles F.O.: An excellent complete and detailed listing is available from
-Mobile Radio Resources (2661 Carol Drive, San Jose, CA 95125). The FBI in LA
+Mobile Radio Resources (2661 <ent type = 'person'>Carol Drive</ent>, San Jose, CA 95125). The FBI in LA
 utilizes repeater channels in the 162, 163, 164, and 165 MHZ frequency range.
 Inputs can be found in the 167 MHz frequencies. The 165 repeater frequencies
 are 167.5875 and 165.7125.</p>
@@ -434,22 +434,22 @@ the 167 MHz range. The 165 repeater is on 167.5625 MHz.</p>
 <p>San Francisco F.O. sampling via MRS GRS directory: Repeaters in the 163 and 167
 MHz frequency ranges with inputs in the 167 and 162 MHz ranges respectively.</p>
 
-<p>Tampa-St. Petersburg from Blaine Brooks: A-2: 167.725; A-3 167.325; A-5
+<p>Tampa-St. Petersburg from <ent type = 'person'>Blaine Brooks</ent>: A-2: 167.725; A-3 167.325; A-5
 167.3875; A-6 167.275; repeater on 163.9875 and 419.250 UHF satellite receiver
 link.</p>
 
-<p>CINCINNATI FIELD OFFICE OPERATIONS</p>
+<p><ent type = 'person'>CI</ent>N<ent type = 'person'>CI</ent>NNATI FIELD OFFICE OPERATIONS</p>
 
 <p>The Cincinnati Field Office originally had nine Resident Agencies which were
 located in Athens, Chillicothe, Columbus, Dayton, Hamilton, Portsmouth,
 Springfield, Steubenville and Zanesville. The Springfield office is closed and
 I am not sure about the Zanesville R.A.</p>
 
-<p>The CI F.O. and R.A.'s radio communication systems are DES (Digital Encryption
-Standard) capable and are utilized on a regular basis. CI appears to have a 32
+<p>The <ent type = 'person'>CI</ent> F.O. and R.A.'s radio communication systems are DES (Digital Encryption
+Standard) capable and are utilized on a regular basis. <ent type = 'person'>CI</ent> appears to have a 32
 channel DES system in place as testing was monitored during 1988 and 1989. Most
 of their frequencies remained the same from the previous DES days. Note that
-the CI radios are VHF/UHF mobiles. Refer to the B channel series in the
+the <ent type = 'person'>CI</ent> radios are VHF/UHF mobiles. Refer to the B channel series in the
 frequency list.</p>
 
 <p>The signal numbers do not appear to be squad base (logically grouping by
@@ -457,14 +457,14 @@ general agent function such as bank robbery squad or drug enforcement, or by
 R.A.'s), but rather a numeric numbering scheme starting with 1 and into the low
 100's.</p>
 
-<p>The CI F.O./R.A. operations still need some work from our southern Ohio members
-as allot of holes and gaps remain. The following profile on CI was mainly made
+<p>The <ent type = 'person'>CI</ent> F.O./R.A. operations still need some work from our southern Ohio members
+as allot of holes and gaps remain. The following profile on <ent type = 'person'>CI</ent> was mainly made
 possible by the efforts of Bill Gillie, Tony Cono, Rick Poorman, another member
-who desires to named Mr. Anonymous, and this editor.</p>
+who desires to named Mr. <ent type = 'person'>Anonymous</ent>, and this editor.</p>
 
 <p>NOTE: ALL OHIO data is confirmed unless noted otherwise.</p>
 
-<p>CI Call Letter Assignments</p>
+<p><ent type = 'person'>CI</ent> Call Letter Assignments</p>
 
 <p>   KQC 390 Cincinnati
    KQC 391 Dayton
@@ -477,7 +477,7 @@ who desires to named Mr. Anonymous, and this editor.</p>
    KQC 398 Stubenville
    KQC 399 Zanesville</p>
 
-<p>CI Frequency Assignments</p>
+<p><ent type = 'person'>CI</ent> Frequency Assignments</p>
 
 <p>   167.650   A-1 Operations simplex  R.A.'s
    167.2375  A-2   "   "   F.O.
@@ -488,7 +488,7 @@ who desires to named Mr. Anonymous, and this editor.</p>
    163.8375/167.2375 A-7 Operations Repeater F.O.</p>
 
 <p>The B channels are local option assigned meaning that each office will have a
-different set of frequencies. The CI F.O. has Cincinnati PD CH 5, 460.275R,
+different set of frequencies. The <ent type = 'person'>CI</ent> F.O. has Cincinnati PD CH 5, 460.275R,
 (B-1); Hamilton County Sheriff, 460.500R, (B-2); and several DEA frequencies.</p>
 
 <p>   ??? D-6 and D-8 channel designators heard, but not confirmed.</p>
@@ -496,7 +496,7 @@ different set of frequencies. The CI F.O. has Cincinnati PD CH 5, 460.275R,
 <p>   163.9875/167.650 ECC-1 (Extended Car-to-Car) repeater R.A.'s
    163.8375/167.2375  ECC-2 repeater F.O.
    163.8625/167.5375  ECC-3 SWAT/Special Operations nationwide repeater
-   164.100/?  ? Repeater heard with CI units</p>
+   164.100/?  ? Repeater heard with <ent type = 'person'>CI</ent> units</p>
 
 <p>   167.325, 167.600, 167.625, 167.6625, 167.6875 and 167.725: Simplex
 operations.</p>
@@ -507,7 +507,7 @@ operations.</p>
 
 <p>   168.000 - possibly a VHF one-way link.</p>
 
-<p>CI Signal Numbering</p>
+<p><ent type = 'person'>CI</ent> Signal Numbering</p>
 
 <p>   390 Signals: 1, 2, 3, 20, 22, 24, 53, 71, 72, 77, 90, 106, 133, 141 and
     148.
@@ -529,7 +529,7 @@ a surveillance aircraft.</p>
 <p>CLEVELAND FIELD OFFICE OPERATIONS</p>
 
 <p>The Cleveland Field Office originally had 10 Resident Agencies located in
-Akron, Canton, Elyria, Lima, Mansfield, Mentor, Painesville, Sandusky, Toledo
+Akron, Canton, Elyria, Lima, Mansfield, Mentor, Painesville, <ent type = 'person'>Sandusky</ent>, Toledo
 and Youngstown. The Mentor R.A. currently is the only R.A. out of service in
 the CV division.</p>
 
@@ -554,7 +554,7 @@ is complete.</p>
    KEX 747 Lima
    KEX 748 Mansfield
    KEX 749 Canton
-   KEX 750 Sandusky</p>
+   KEX 750 <ent type = 'person'>Sandusky</ent></p>
 
 <p>CV Frequency Assignments</p>
 
@@ -601,7 +601,7 @@ is complete.</p>
    167.2625   "  "
    167.2875   CV simplex; input to 164.100
    167.3375/162.7375  Canton R.A. Repeater
-   167.3375/?   Lima, Sandusky, Toledo R.A. Repeater
+   167.3375/?   Lima, <ent type = 'person'>Sandusky</ent>, Toledo R.A. Repeater
    167.3625/162.7625  Akron, Painesville R.A. Repeater
    167.3625   Akron, Painesville Simplex
    167.3875/?   Mansfield Operations Repeater
@@ -641,8 +641,8 @@ in CV. Also try 168.000 as it may be a VHF fixed one-way link.</p>
    1000 - 1099 Canton and Mansfield R.A.'s
    Canton - 1000 to 1010; 1030 to 1040
    Mansfield - 1005, 1032 and 1033
-   1100 - 1199 Sandusky and Toledo R.A.'s
-   Sandusky - 1121 - 1129
+   1100 - 1199 <ent type = 'person'>Sandusky</ent> and Toledo R.A.'s
+   <ent type = 'person'>Sandusky</ent> - 1121 - 1129
    Toledo - 1100 - 1119, 1130
    1200 - 1299 Youngstown R.A. - 1200 to 1209 and 1220 to 1232.
    1300 - 1399 Radio Technicians and Vehicle Maintenance
@@ -698,7 +698,7 @@ Bird Dog - Surveillance Aircraft
 C.I. - Confidential Informant
 Diaper Change - Changing of battery (bug or trailing transmitter)
 ECC - Extended Car-to-Car
-FCI - Foreign Counter Intelligence
+F<ent type = 'person'>CI</ent> - Foreign Counter Intelligence
 Half Signal - An Agent's spouse
 H.T. - Handi-Talkies
 In-the-Pocket - Subject in surveillance net
@@ -734,7 +734,7 @@ SWAT - Special Weapons and Tactics
 Ten Check - Message Check
 Unit - A vehicle
 USA - U.S. Attorney
-Wagon - Surveillance Van
+<ent type = 'person'>Wagon</ent> - Surveillance Van
 Wire - Body Transmitter</p>
 
 <p>FEDERAL NEWS - FBI</p>
@@ -747,13 +747,13 @@ microphones or bugs, and if so perhaps others operate on nearby similar
 frequencies. Give it a listen and let us know.</p>
 
 <p>The FBI Academy, located 40 miles south of Washington, is the host to the most
-crime ridden town in the United States - Hogan's Alley. Hogan's Alley is a
+crime ridden town in the United States - <ent type = 'person'>Hogan</ent>'s Alley. <ent type = 'person'>Hogan</ent>'s Alley is a
 "Hollywood" town with a motel, bank, post office, drug store, laundry and even
 a theater. It is used as a training ground for FBI agent trainees. Various
 scenarios are enacted under the careful eyes of supervisors. The trainees
 performance are evaluated with each exercise.</p>
 
-<p>One thing about Hogan's Alley - it has a 100% success rate in solving of cases,
+<p>One thing about <ent type = 'person'>Hogan</ent>'s Alley - it has a 100% success rate in solving of cases,
 pretty impressive. Something that is not pretty impressive about the FBI is the
 starting pay agents earn. According to a 8 January 1990 U.S. News and World
 Report quirk the starting pay of a FBI agent is $26,261. Consider that an agent

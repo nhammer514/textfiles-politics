@@ -77,18 +77,18 @@ instead of falling downwards.</p>
 
 <p> There are also some weird time effects; that object can be moving 
 slower through time than the laboratory observer, or even be moving backwards 
-through time in respect to the laboratory observer. (Don't believe everything 
+through time in respect to the laboratory observer. (<ent type = 'person'>Don</ent>'t believe everything 
 they taught you in relativity; none of those guys ever had engineered a 
 single general relativistic situation. &amp;othing they teach in GR is based on 
 direct experiment. Most of what they teach has already experimentally proven 
 to be in error. </p>
 
 <p> This is the concept for a scalar EG detector for a scalar EG waves. 
-This is the Bendini scalar wave detector, adapted from an original concept by 
-Dea and Faretto. </p>
+This is the <ent type = 'person'>Bendini</ent> scalar wave detector, adapted from an original concept by 
+<ent type = 'person'>Dea</ent> and <ent type = 'person'>Faretto</ent>. </p>
 
 <p> The idea is quite simple: install a very powerful bar magnet inside a
-grounded Faraday cage. Then install an open-ended coil longitudally above the
+grounded <ent type = 'person'>Faraday</ent> cage. Then install an open-ended coil longitudally above the
 magnet so that a line through the longitudal axis of the magnet passes 
 through the longitudal axis of the coil above it. The open end of the coil 
 does not touch the magnet. </p>
@@ -115,7 +115,7 @@ scope. </p>
 <p>   Note that the detector detects normal EM wave. Now our problem is: 
 How do we get an EG wave to be detected? And how do we assure that we do not 
 detect ordinary EM waves from the outside?  Actually this is simple. Ordinary 
-waves (except for quite low frequency) will be grounded out by the Faraday 
+waves (except for quite low frequency) will be grounded out by the <ent type = 'person'>Faraday</ent> 
 shield, and will not penetrate the cage. Thus these normal EM waves cannot 
 enter the cage and appear above the magnet. They will not be detected. Scalar 
 EG waves, on the other hand, will enter the cage since they do not couple to 
@@ -149,23 +149,23 @@ which amplifies and feeds the signal to the oscilloscope for display.
   
    It is important to remember that a magnetostatic potential and an 
 electrostatic potential can be oscillated by a scalar EG wave. By placing a 
-magnetic material inside a Faraday cage, the oscillation of the magnetostatic 
+magnetic material inside a <ent type = 'person'>Faraday</ent> cage, the oscillation of the magnetostatic 
 scalar potential (pole strength of the magnet) can be used as the EG 
-detecting mechanism. By placing a chargeable material inside a Faraday cage, 
+detecting mechanism. By placing a chargeable material inside a <ent type = 'person'>Faraday</ent> cage, 
 the oscillation of the electrostatic scalar potential can be detected. 
 (Possible examples of the latter type detectors are given by Hodowanec,"Radio 
 Electronics," April 1986.) </p>
 
 <p>   Note also that one may detect waves at one reference level and not 
-at another. Changing the bias on the zero-reference ground of the Bendini 
+at another. Changing the bias on the zero-reference ground of the <ent type = 'person'>Bendini</ent> 
 detector affects the detection. To look inside a normal EM carrier (such as 
 the Soviet Woodpecker carrier) and see what scalar signals are riding upon 
-it, the carrier may be used to bias the reference ground of the Bendini 
+it, the carrier may be used to bias the reference ground of the <ent type = 'person'>Bendini</ent> 
 detector. To produce a spectrum analyzer, simply use additional series 
 resonant LC tuning circuits in parallel (put multiple taps on the coil, and 
 wire each tap to a separate tuning capacitor of different capacitance). 
 Again, varying the zero reference level is important, as is varying  the 
-strength of the magnet. Frank Golden has also invented an excellent series of 
+strength of the magnet. <ent type = 'person'>Frank Golden</ent> has also invented an excellent series of 
 scalar wave detectors based on quite different proprietary principles.</p>
 
 <p>   The bottom line is: we can indeed rigorously detect and measure 

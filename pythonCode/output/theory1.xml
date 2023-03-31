@@ -4,7 +4,7 @@
 
 <p>  by</p>
 
-<p>  Toby Grotz</p>
+<p>  Toby <ent type = 'person'>Grotz</ent></p>
 
 <p>  Theoretical Electromagnetic Studies and Learning Association, Inc.
   522 West Third Street
@@ -14,16 +14,16 @@
 <p>  Abstract</p>
 
 <p>  Many  researchers have speculated on the meaning of the phrase  "non-
-  Hertzian waves" as used by Dr. Nikola Tesla.  Dr. Tesla first began  to
+  <ent type = 'person'>Hertzian</ent> waves" as used by Dr. Nikola Tesla.  Dr. Tesla first began  to
   use this term in the mid 1890's in order to explain his proposed system
   for the wireless transmission of electrical power.  In fact, it was not
-  until the distinction between the method that Heinrich Hertz was  using
+  until the distinction between the method that <ent type = 'person'>Heinrich Hertz</ent> was  using
   and  the  system  Dr. Tesla had designed, that Dr. Tesla  was  able  to
-  receive the endorsement of the renowned physicist, Lord Kelvin.1</p>
+  receive the endorsement of the renowned physicist, Lord <ent type = 'person'>Kelvin</ent>.1</p>
 
 <p>  To  this day, however, there exists a confusion  amongs  researchers,
   experimentalists, popular authors and laymen as to the meaning of  non-
-  Hertzian waves and the method Dr. Tesla was promoting for the  wireless
+  <ent type = 'person'>Hertzian</ent> waves and the method Dr. Tesla was promoting for the  wireless
   transmission of power.  In this paper, the terms pertinent to  wireless
   transmission  of power will be explained and the methods being used  by
   present  researchers  in  a recreation of  the  Tesla's  1899  Colorado
@@ -44,9 +44,9 @@
   theories  as  they  were both used by Dr. Tesla  at  various  times  to
   explain  his  system of wireless transmission of power.  It  should  be
   noted, however,  that  the  first  theory  was  supported  by Fritz
-  Lowenstein,  the  first  vice-president  of  the  Institute  of Radio
+  <ent type = 'person'>Lowenstein</ent>,  the  first  vice-president  of  the  Institute  of Radio
   Engineers, a man who had the enviable experience of assisting Dr. Tesla
-  during the Colorado Springs experiments of 1899.  Lowenstein  presented
+  during the Colorado Springs experiments of 1899.  <ent type = 'person'>Lowenstein</ent>  presented
   what  came to be known as the "gliding wave" theory of  electromagnetic
   radiation  and  propagation during a lecture before the  IRE  in  1915.
   (Fig. 1)</p>
@@ -64,7 +64,7 @@
   "The  Spherical Oscillator."  This was the beginning of an  examination
   of what we may call the science of terrestrial resonances,  culminating
   in  the 1950's and 60's with the engineering of VLF radio  systems  and
-   the research and discoveries of W.O. Schumann and J.R. Waite.</p>
+   the research and discoveries of W.O. <ent type = 'person'>Schumann</ent> and J.R. <ent type = 'person'>Waite</ent>.</p>
 
 <p>  The  second  method of energy propagation proposed by Dr.  Tesla  was
   that of the propagation of electrical energy through electrified gases.
@@ -86,13 +86,13 @@
   made by Dr. Tesla which indicate that he was using resonator fields and
   transmission line modes.</p>
 
-<p>  1.  When  he speaks of tuning his apparatus until  Hertzian  radiations
+<p>  1.  When  he speaks of tuning his apparatus until  <ent type = 'person'>Hertzian</ent>  radiations
   have been eliminated, he is referring to using ELF vibrations:  "...the
-  Hertzian  effect  has gradually been reduced through  the  lowering  of
+  <ent type = 'person'>Hertzian</ent>  effect  has gradually been reduced through  the  lowering  of
   frequency."3</p>
 
 <p>  2.  "...the  energy received does not diminish with the square  of  the
-  distance,  as it should, since the Hertzian radiation propagates  in  a
+  distance,  as it should, since the <ent type = 'person'>Hertzian</ent> radiation propagates  in  a
   hemisphere."3</p>
 
 <p>  3.  He  apparently detected resonator or standing  wave  modes:  "...my
@@ -118,14 +118,14 @@
 
 <p>  It does not indicate faster than light velocity</p>
 
-<p>  The  mathematical models and experimental data used by  Schumann  and
-  Waite  to  describe ELF transmission and propagation  are  complex  and
-  beyond  the scope of this paper.  Dr. James F. Corum, Kenneth L.  Corum
-  and  Dr.  A-Hamid  Aidinejad  have, however,  in  a  series  of  papers
+<p>  The  mathematical models and experimental data used by  <ent type = 'person'>Schumann</ent>  and
+  <ent type = 'person'>Waite</ent>  to  describe ELF transmission and propagation  are  complex  and
+  beyond  the scope of this paper.  Dr. <ent type = 'person'>James F</ent>. Corum, Kenneth L.  Corum
+  and  Dr.  A-Hamid  <ent type = 'person'>Aidinejad</ent>  have, however,  in  a  series  of  papers
   presented  at  the  1984  Tesla  Centennial  Symposium  and  the 1986
   International Tesla Symposium, applied the experimental values obtained
   by Dr. Tesla during his Colorado Springs experiments to the models  and
-  equations  used  by Schumann and Waite.  The results of  this  exercise
+  equations  used  by <ent type = 'person'>Schumann</ent> and <ent type = 'person'>Waite</ent>.  The results of  this  exercise
   have  proved that the Earth and the surrounding atmosphere can be  used
   as  a  cavity  resonator for the wireless  transmission  of  electrical
   power. (Fig. 3)</p>
@@ -135,12 +135,12 @@
   the  planet and to return.  From this statement many have assumed  that
    his  transmissions  exceeded the speed of light and many  esoteric  and
   fallacious theories and publications have been generated.  As Corum and
-  Aidinejad point out, in their 1986 paper, "The Transient Propagation of
+  <ent type = 'person'>Aidinejad</ent> point out, in their 1986 paper, "The Transient Propagation of
   ELF Pulses in the Earth Ionosphere Cavity", this measurement represents
   the coherence time of the Earth cavity resonator system.  This is  also
   known  to  students of radar systems as a determination  of  the  range
   dependent  parameter. The  accompanying  diagrams  from  Corum's  and
-  Aidinejad's paper graphically illustrate the point. (Fig. 3 &amp; Fig. 4)</p>
+  <ent type = 'person'>Aidinejad</ent>'s paper graphically illustrate the point. (Fig. 3 &amp; Fig. 4)</p>
 
 <p>  We  now turn to a description of the methods to be used to build,  as
   Dr. Tesla did in 1899, a cavity resonator for the wireless transmission
@@ -148,21 +148,21 @@
 
 <p>  PROJECT TESLA:</p>
 
-<p>  The Wireless Transmission of Electrical Energy Using Schumann Resonance</p>
+<p>  The Wireless Transmission of Electrical Energy Using <ent type = 'person'>Schumann</ent> Resonance</p>
 
 <p>  It  has been proven that electrical energy can be  propagated  around
   the  world  between  the surface of the Earth  and  the  ionosphere  at
-  extreme  low frequencies in what is known as the Schumann Cavity. The
-  Schumann  cavity surrounds the Earth between ground level  and  extends
+  extreme  low frequencies in what is known as the <ent type = 'person'>Schumann</ent> Cavity. The
+  <ent type = 'person'>Schumann</ent>  cavity surrounds the Earth between ground level  and  extends
   upward to a maximum 80 kilometers.  Experiments to date have shown that
   electromagnetic waves of extreme low frequencies in the range of 8  Hz,
-  the  fundamental  Schumann Resonance frequency, propagate  with  little
-  attenuation around the planet within the Schumann Cavity.</p>
+  the  fundamental  <ent type = 'person'>Schumann</ent> Resonance frequency, propagate  with  little
+  attenuation around the planet within the <ent type = 'person'>Schumann</ent> Cavity.</p>
 
 <p>  Knowing  that a resonant cavity can be excited and that power can  be
   delivered to that cavity similar to the methods used in microwave ovens
   for  home use, it should be possible to resonate and deliver power  via
-  the  Schumann  Cavity  to  any point on Earth. This  will  result  in
+  the  <ent type = 'person'>Schumann</ent>  Cavity  to  any point on Earth. This  will  result  in
   practical wireless transmission of electrical power.</p>
 
 <p>  Background</p>
@@ -171,8 +171,8 @@
   were  made of the frequency that is propagated in the  resonant  cavity
   surrounding  the Earth, recent analysis shows that it was Nikola  Tesla
   who,  in 1899, first noticed the existence of stationary waves  in  the
-  Schumann cavity.  Tesla's experimental measurements of the wave  length
-  and frequency involved closely match Schumann's theoretical
+  <ent type = 'person'>Schumann</ent> cavity.  Tesla's experimental measurements of the wave  length
+  and frequency involved closely match <ent type = 'person'>Schumann</ent>'s theoretical
   calculations.  Some of these observations were made in 1899 while Tesla
   was monitoring  the  electromagnetic  radiations  due  to lightning
   discharges  in  a thunderstorm which passed over his  Colorado  Springs
@@ -185,7 +185,7 @@
   laboratory Tesla had  constructed  was  to  prove that wireless
   transmission of electrical power was possible.</p>
 
-<p>  Schumann Resonance is analogous to pushing a pendulum.  The intent of
+<p>  <ent type = 'person'>Schumann</ent> Resonance is analogous to pushing a pendulum.  The intent of
   Project Tesla is to create pulses or electrical disturbances that would
   travel in all directions around the Earth in the thin membrane of  non-
   conductive  air between the ground and the ionosphere.  The  pulses  or
@@ -300,7 +300,7 @@
 
 <p>  The  objectives  of  Project Tesla are divided into  three  areas  of
   investigation.
-  1. Demonstration that the Schumann Cavity can be resonated with an
+  1. Demonstration that the <ent type = 'person'>Schumann</ent> Cavity can be resonated with an
    open air, vertical dipole antenna;
   2. Measurement of power insertion losses;
   3. Measurement of power retrieval losses, locally and at a distance.</p>
@@ -310,7 +310,7 @@
 <p>  A  full size, 51 foot diameter, air core, radio frequency  resonating
   coil and a unique 130 foot tower, insulated 30 feet above ground,  have
   been  constructed and are operational at an elevation of  approximately
-  11,000 feet.  This system was originally built by Robert Golka in 1973-
+  11,000 feet.  This system was originally built by <ent type = 'person'>Robert Golka</ent> in 1973-
   1974 and used until 1982 by the United States Air Force at Wendover AFB
   in  Wendover,  Utah. The USAF used the coil  for  simulating  natural
   lightning for testing and hardening fighter aircraft.  The system has a
@@ -319,7 +319,7 @@
 
 <p>  A location at a high altitude is initially advantageous for  reducing
   atmospheric  losses  which work against an efficient  coupling  to  the
-  Schumann  Cavity.  The high frequency, high voltage output of the  coil
+  <ent type = 'person'>Schumann</ent>  Cavity.  The high frequency, high voltage output of the  coil
   will be half wave rectified using a uniquely designed single  electrode
   X-ray  tube. The X-ray tube will be used to charge a  130  ft.  tall,
    vertical  tower  which  will function to  provide  a  vertical  current
@@ -333,12 +333,12 @@
   will  be  in the range of between 200-600  coulombs. Discharging  the
   tower  7-8  times per second through a fixed or rotary spark  gap  will
   create  electrical  disturbances,  which  will  resonantly  excite  the
-  Schumann Cavity, and propagate around the entire Earth.</p>
+  <ent type = 'person'>Schumann</ent> Cavity, and propagate around the entire Earth.</p>
 
 <p>  The propagated wave front will be reflected from the antipode back to
   the transmitter site.  The reflected wave will be reinforced and  again
   radiated  when  it  returns  to  the  transmitter. As  a  result,  an
-  oscillation will be established and maintained in the Schumann  Cavity.
+  oscillation will be established and maintained in the <ent type = 'person'>Schumann</ent>  Cavity.
   The  loss of power in the cavity has been estimated to be about 6%  per
   round trip.  If the same amount of  power is delivered to the cavity on
   each  cycle  of  oscillation of the transmitter, there will  be  a  net
@@ -357,14 +357,14 @@
   the  transmitter  site and at distant receiving  locations. Equipment
   constructed especially for measurement of low frequency electromagnetic
   waves  will  be  employed to measure the  effectiveness  of  using  the
-  Schumann  Cavity  as  a means of electrical  power  distribution. The
+  <ent type = 'person'>Schumann</ent>  Cavity  as  a means of electrical  power  distribution. The
   detection equipment used by project personnel will consist of a pick up
   coil and industry standard low noise, high gain operational  amplifiers
   and active band pass filters.</p>
 
 <p>  In  addition  to  project detection there will be  a  record  of  the
   experiment recorded by a network of monitoring stations that have  been
-  set up specifically to monitor electromagnetic activity in the Schumann
+  set up specifically to monitor electromagnetic activity in the <ent type = 'person'>Schumann</ent>
   Cavity.  </p>
 
 <p>  Evaluation Procedure</p>
@@ -381,7 +381,7 @@
   field  strength,  and cavity Q will be calculated using  the  equations
   presented  in  Dr.  Corum's  papers.  These papers  are  noted  in  the
   references. If  recorded results indicate power  can  be  efficiently
-  coupled  into or transmitted in the Schumann Cavity, a second phase  of
+  coupled  into or transmitted in the <ent type = 'person'>Schumann</ent> Cavity, a second phase  of
   research involving power reception will be initiated.</p>
 
 <p>  Environmental Considerations</p>
@@ -392,7 +392,7 @@
   of 30 nanoteslas.  The largest time varying fields are those  generated
   by  solar  activity and thunderstorms.  These magnetic fields  reach  a
   maximum  of  0.5 microteslas (uT)  The magnetic fields  produced  as  a
-  result of lightning discharges in the Schumann Cavity peak at 7, 14, 20
+  result of lightning discharges in the <ent type = 'person'>Schumann</ent> Cavity peak at 7, 14, 20
   and 26 Hz.  The magnetic flux densities associated with these  resonant
   frequencies vary  from  0.25  to  3.6  picoteslas.  per  root hertz
   (pT/Hz1/2).</p>
@@ -404,15 +404,15 @@
   amp  per  phase  is  15 uT.  ELF antennae systems  that  are  used  for
   submarine  communication  produce  fields  of  20  uT. Video  display
   terminals  produce fields of 2 uT, 1,000,000 times the strength of  the
-  Schumann Resonance frequencies.9</p>
+  <ent type = 'person'>Schumann</ent> Resonance frequencies.9</p>
 
-<p>  Project  Tesla  will use a 150 kw generator to  excite  the  Schumann
+<p>  Project  Tesla  will use a 150 kw generator to  excite  the  <ent type = 'person'>Schumann</ent>
   cavity. Calculations  predict  that the field strength  due  to  this
   excitation at 7.8 Hz will be on the order of 46 picoteslas.</p>
 
 <p>  Future Objectives</p>
 
-<p>  The  successful  resonating  of  the  Schumann  Cavity  and  wireless
+<p>  The  successful  resonating  of  the  <ent type = 'person'>Schumann</ent>  Cavity  and  wireless
   transmission of power on a small scale resulting in proof of  principle
   will  require  a second phase of engineering, the design  of  receiving
   stations. On  completion of the second phase, the  third  and  fourth
@@ -428,22 +428,22 @@
   Symposium and the 1986 International Tesla Symposium.</p>
 
 <p>  "The  Transient  Propagation of ELF Pulses  in  the  Earth-Ionosphere
-  Cavity", by A-Ahamid Aidinejad and James F. Corum.</p>
+  Cavity", by A-Ahamid <ent type = 'person'>Aidinejad</ent> and <ent type = 'person'>James F</ent>. Corum.</p>
 
 <p>  "Disclosures Concerning the Operation of an ELF Oscillator", by James
   F. Corum and Kenneth L. Corum.</p>
 
-<p>  "A Physical Interpretation of the Colorado Springs Data", by James F.
+<p>  "A Physical Interpretation of the Colorado Springs Data", by <ent type = 'person'>James F</ent>.
   Corum and Kenneth L. Corum.</p>
 
 <p>  "Critical Speculations Concerning Tesla's Invention and  Applications
   of  Single  Electrode X-Ray Directed Discharges for  Power  Processing,
-  Terrestrial Resonances and Particle Beam Weapons" by James F. Corum and
+  Terrestrial Resonances and Particle Beam Weapons" by <ent type = 'person'>James F</ent>. Corum and
   Kenneth L. Corum.</p>
 
 <p>  FOOTNOTES</p>
 
-<p>  1.  Tesla  Said,  Compiled by John T.  Ratzlaff,  Tesla  Book  Company,
+<p>  1.  Tesla  <ent type = 'person'>Said</ent>,  Compiled by John T.  Ratzlaff,  Tesla  Book  Company,
   Millbrae, CA, 1984.</p>
 
 <p>  2.  Dr.  Nikola Tesla: Selected Patent Wrappers, compiled  by  John  T.
@@ -467,8 +467,8 @@
 <p>  8.  "PC Monitors Lightning Worldwide", Davis D. Sentman,  Computers  in
   Science, Premiere Issue, 1987.</p>
 
-<p>  9.  "Artificially Stimulated Resonance of the Earth's  Schumann  Cavity
-  Waveguide",  Toby  Grotz, Proceedings of the  Third  International  New
+<p>  9.  "Artificially Stimulated Resonance of the Earth's  <ent type = 'person'>Schumann</ent>  Cavity
+  Waveguide",  Toby  <ent type = 'person'>Grotz</ent>, Proceedings of the  Third  International  New
   Energy  Technology  Symposium/Exhibition, June 25th-28th,  1988,  Hull,
   Quebec,  Planetary  Association  for Clean  Energy,  191  Promenade  du
   Portage/600, Hull, Quebec  J8X 2K6 Canada</p>
@@ -476,7 +476,7 @@
 <p>  FURTHER INFORMATION ABOUT TESLA</p>
 
 <p>  The Tesla Memorial Society  The Tesla Coil Builders Association
-  % Nicholas Kosanovich   % Harry Goldman
+  % <ent type = 'person'>Nicholas Kosanovich</ent>   % Harry Goldman
   453 Martin Road   RD #6 Box 181
   Lackawanna, NY 14218  Glenns Falls, NY 12801\
   (716) 822-0281    (518 792-1003</p>
@@ -487,22 +487,22 @@
 
 <p>  ABOUT THE AUTHOR</p>
 
-<p>  Mr.  Grotz, is an electrical engineer and has 15 years experience  in
+<p>  Mr.  <ent type = 'person'>Grotz</ent>, is an electrical engineer and has 15 years experience  in
   the field of geophysics, aerospace and industrial research and  design.
   While working  for  the  Geophysical  Services  Division of Texas
-  Instruments  and  at the University of Texas at Dallas, Mr.  Grotz  was
+  Instruments  and  at the University of Texas at Dallas, Mr.  <ent type = 'person'>Grotz</ent>  was
   introduced  to  and worked with the geophysical concepts which  are  of
   importance  to  the proposed project.  As a Senior Engineer  at  Martin
-  Marietta,  Mr.  Grotz  designed  and  supervised  the  construction  of
+  Marietta,  Mr.  <ent type = 'person'>Grotz</ent>  designed  and  supervised  the  construction  of
   industrial  process control systems and designed and built devices  and
   equipment  for  use in research and development and for  testing  space
-  flight  hardware. Mr.  Grotz organized and  chaired  the  1984  Tesla
+  flight  hardware. Mr.  <ent type = 'person'>Grotz</ent> organized and  chaired  the  1984  Tesla
   Centennial Symposium and the 1986 International Tesla Symposium and was
   President  of  the  International  Tesla  Society,  a  not  for  profit
   corporation formed as a result the first symposium.  As Project Manager
-  for Project Tesla, Mr. Grotz aided in the design and construction of  a
+  for Project Tesla, Mr. <ent type = 'person'>Grotz</ent> aided in the design and construction of  a
   recreation of the equipment Nikola Tesla used for wireless transmission
-  of  power experiments in 1899 in Colorado Springs.  Mr. Grotz  received
+  of  power experiments in 1899 in Colorado Springs.  Mr. <ent type = 'person'>Grotz</ent>  received
   his B.S.E.E. from the University of Connecticut in 1973.
 
                                            </p></xml>

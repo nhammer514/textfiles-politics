@@ -7,7 +7,7 @@ Organization: UCLA, Computer Science Department
 Lines: 269</p>
 
 <p>[From "The Russian Threat, Its Myths and Realities" (c) 1983,
-Gateway Books, London, by Jim Garrison and Pyrae Shivpuri, pp 231-236.]</p>
+Gateway Books, London, by <ent type = 'person'>Jim Garrison</ent> and <ent type = 'person'>Pyrae Shivpuri</ent>, pp 231-236.]</p>
 
 <p> The growing erosion of civil liberties in Western Europe and the
 United States is closely linked with the nuclear energy-nuclear
@@ -35,7 +35,7 @@ devastating impact upon the democratic freedoms and civil liberties
 of the citizens.
  The potential problem with the plutonium economy and its relation
 to human freedom has been succinctly expressed by a statement made by
-Dr. Bernard Feld, Chairperson of the Atomic and High Energy Physics
+Dr. <ent type = 'person'>Bernard <ent type = 'person'>Feld</ent></ent>, Chairperson of the Atomic and High Energy Physics
 Department of the Massachusetts Institute of Technology:</p>
 
 <p> Let me tell you about a nightmare I have.  The Mayor of
@@ -52,9 +52,9 @@ Department of the Massachusetts Institute of Technology:</p>
 
 <p> The dangers are real, so real that government planners in every
 country with nuclear programmes have undertaken steps to be prepared
-for Dr. Feld's scenario.  In 1975, the Nuclear Regulatory Commission
+for Dr. <ent type = 'person'>Feld</ent>'s scenario.  In 1975, the Nuclear Regulatory Commission
 (NRC) commissioned a specific study of the problem.  One of the
-participants, Professor John Barton, Professor of Jurisprudence at
+participants, Professor <ent type = 'person'>John Barton</ent>, Professor of Jurisprudence at
 Stanford University Law School, prepared a paper entitled
 `Intensified Nuclear Safeguards and Civil Liberties.'  The document
 began by stating that:</p>
@@ -97,7 +97,7 @@ sensitive are these privileges that under the Official Secrets Act,
 information about them has not been made available to the public.
 This force is mandated not only to guard against possible terrorism
 but to keep tabs on `dissenting political groups.'
- Jonathan Rosenhead, of the London School of Economics, points out
+ <ent type = 'person'>Jonathan Rosenhead</ent>, of the London School of Economics, points out
 that this type of political control is very easily overlooked by the
 general populace because it is specifically designed and intended to
 be used as inconspicuously as possible.  In America, political
@@ -120,15 +120,15 @@ lethalness of millions of cancer doses per pound floating about in a
 free society.  *A plutonium economy and a free democracy are a
 contradiction in terms.*  This is a fact that has been recognised by
 leading legal experts and politicians alike.  Writing in the "Harvard
-Law Review," Russell Ayres states flatly that `plutonium provides the
+Law Review," <ent type = 'person'>Russell <ent type = 'person'>Ayres</ent></ent> states flatly that `plutonium provides the
 first rational justification for widespread intelligence gathering
 against the civilian population.'[12]  The reason for this is that
 the threat of nuclear terrorism justifies such encroachments on civil
 liberties for `national security' reasons.  It is inevitable,
-therefore, says Ayres, that "plutonium use would create pressures for
+therefore, says <ent type = 'person'>Ayres</ent>, that "plutonium use would create pressures for
 infiltration into civic, political, environmental and professional
 groups to a far greater extent than previously encountered and with a
-greater impact on speech and associated rights".  Sir Brian Flowers,
+greater impact on speech and associated rights".  Sir <ent type = 'person'>Brian Flowers</ent>,
 in Britain, has come to similar conclusions.  At the end of his
 environmental impact statement for the plutonium economy in the
 United Kingdom, known as the Flowers Report, he made it quite clear
@@ -260,7 +260,7 @@ have been entrusted to defend.  Moreover, they are manipulating the
 they are protecting democracy.  Never before have so few asked so
 many for so much for the sake of so little.</p>
 
-<p> [9] In Robert Jungk, "The Nuclear State," trans. Eric Mosbacher,
+<p> [9] In <ent type = 'person'>Robert Jungk</ent>, "The Nuclear State," trans. <ent type = 'person'>Eric Mosbacher</ent>,
    London, 1979, pp. 118, 19.</p>
 
 <p>[10] "Intensified Nuclear Safeguards and Civil Liberties," Nuclear Reg.

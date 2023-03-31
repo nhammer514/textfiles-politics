@@ -1,6 +1,6 @@
 <xml><p></p>
 
-<p><person>Skolnick</person> COMMENTARY #005
+<p><ent type = 'person'>Skolnick</ent> COMMENTARY #005
 ========================</p>
 
 <p>[CfD Editor -- I neither necessarily believe nor disbelieve 
@@ -64,7 +64,7 @@ Reportedly continuing their secret dealings is Chemical(?)
 [Clinical(?)] Bank Group made up of shadowy types from Atlanta 
 and Chicago. They have bought out known criminal money launderies 
 here, such as First National Bank of Cicero, originally operated 
-by Paul Marchinkas(sp?), long-time head of the mafia/CIA-linked 
+by <ent type = 'person'>Paul Marchinkas</ent>(sp?), long-time head of the mafia/CIA-linked 
 Vatican Bank.</p>
 
 <p>Some contend all this diabolical data has been compiled by the 
@@ -76,12 +76,12 @@ health benefits, and without decent wages.</p>
 <p>You heard it right here: the related, exclusive details, such as 
 the Androchetti(sp?) Affair; the $50 million Resolution Trust 
 Corporation contingency fund which disappeared from Chicago and 
-ended up to try to cover up Clinton's financial scandals in 
-Arkansas; Bill and Hillary Clinton and BCCI; and the Mena, 
+ended up to try to cover up <ent type = 'person'>Clinton</ent>'s financial scandals in 
+Arkansas; <ent type = 'person'>Bill</ent> and Hillary <ent type = 'person'>Clinton</ent> and BCCI; and the Mena, 
 Arkansas, airport affair; dope and gun running; and...</p>
 
 <p>In Chicago, see us on cable TV, channel 21, 9 pm [CST] every 
-Monday evening in January [1994]. Play it again: the Daley family 
+Monday evening in January [1994]. Play it again: the <ent type = 'person'>Daley</ent> family 
 and crooked City Hall, (312) 731-1505. New message Thursday; we 
 change it several times a week. Donations appreciated. Citizens' 
 Committee to Clean Up the Courts, 9800 South Oglesby, Chicago, 
