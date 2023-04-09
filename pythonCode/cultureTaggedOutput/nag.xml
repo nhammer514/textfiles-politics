@@ -9,9 +9,9 @@ or recording information from a wiretap or bug, the tape recorder can be the
 key to success or failure.</p>
 
 <p>The <ent type='ORG'>FBI</ent> had a need for a specialized recorder, so they contracted with the 
-U.S. subsidiary of a <ent type='NORP'>Swiss</ent> company, <ent type='ORG'>Nagra</ent> Magnetics, Inc. to design a 
+U.S. subsidiary of a <ent type='NORP'>Swiss</ent> company, <ent type='ORG'>Nagra Magnetics</ent>, Inc. to design a 
 recorder that met their needs. The result being the <ent type='ORG'>Nagra</ent> <ent type='ORG'>JBR</ent> subminiature 
-recorder and <ent type='ORG'>PS</ent>-1 playback system.</p>
+recorder and PS-1 playback system.</p>
 
 <p>When asked whether the unit was named after Jim B. Reames, an <ent type='ORG'>FBI</ent> employee 
 who helped design the recorder, a <ent type='ORG'>Nagra</ent> spokeswomen refused to say, but 
@@ -105,7 +105,7 @@ cable:18 g. Total weight: 242 g.</p>
 <p>Environment: Operating position: Any, Temperature: 0 C to 40 C (32 F to 
 104F). Humidity: 20% to 95% non-condensing.</p>
 
-<p>Power Supply: Supply voltage: 2.7 to 5V DC, nominal 4.5 V. ``Batt OK'' 
+<p><ent type='ORG'>Power Supply</ent>: Supply voltage: 2.7 to 5V DC, nominal 4.5 V. ``Batt OK'' 
 indicator threshold: 3.4V. Battery standard type: <ent type='ORG'>ASA</ent> ''N'', ANSI ``L20'', 
 IEC ``LR1''. Current consumption - start of tape: 40mA typical, - end of 
 tape: 50ma typical.</p>
@@ -120,8 +120,8 @@ accuracy: better than +/- 2%. Wow and flutter: typ. 2.5% peak-to-peak, <ent type
 
 <p>Inputs: 2 microphone inputs. Maximum input level: 60 mV RMS. Audio indicator 
 threshold: 30 mV RMS input -3 dB on tape. Input impedance: 80 K. Microphone 
-sensitivity: 10 mV/<ent type='GPE'>PA</ent> (1 Pa=10 ubar). Maximum SPL: 110 dB (0 dB SPL = 20 
-uPa). Signal to noise ratio, unexpanded: better than 51 dB <ent type='ORG'>ASA</ent> A weighted. 
+sensitivity: 10 mV/PA (1 Pa=10 ubar). Maximum SPL: 110 dB (0 dB SPL = 20 
+uPa). <ent type='ORG'>Signal</ent> to noise ratio, unexpanded: better than 51 dB <ent type='ORG'>ASA</ent> A weighted. 
 Frequency response: 170 Hz to 4.5 kHz +/- 3dB. Total harmonic distortion: 
 less than 3%. Compression ratio: 2:1 in dB. Compressor operating range: 80 dB </p>
 

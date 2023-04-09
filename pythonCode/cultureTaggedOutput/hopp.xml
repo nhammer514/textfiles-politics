@@ -5,7 +5,7 @@
 <p>The <ent type='ORG'>FBI</ent> has spent many millions of dollars attempting to obtain secure 
 communications by various voice encryption methods, with limited success.</p>
 
-<p><ent type='ORG'>The <ent type='ORG'>GAO</ent> Report</ent> of March 8, 1988, ``<ent type='ORG'>FBI</ent> Voice Privacy, Cost, Status, and 
+<p><ent type='ORG'>The GAO Report</ent> of March 8, 1988, ``<ent type='ORG'>FBI</ent> Voice Privacy, Cost, Status, and 
 Future Direction'' provides much insight into the difficulties the <ent type='ORG'>FBI</ent> has 
 had establishing a secure communications system.</p>
 
@@ -60,13 +60,13 @@ ahead rather than plan.</p>
 
 <p>Now, the <ent type='ORG'>FBI</ent> is trying to solve the problem with frequency hopping radios. 
 According to Daniel Miller, Contracting Officer for the <ent type='ORG'>FBI</ent>, 45 PH-26 
-(portable frequency hopping radios) and 20 <ent type='ORG'>MH</ent>-26 (mobile frequency hopping 
+(portable frequency hopping radios) and 20 MH-26 (mobile frequency hopping 
 radios) along with numerous accessories, including 2 repeaters were purchased 
 on September 24, 1990.</p>
 
 <p>These radios are not <ent type='ORG'>FCC</ent> approved radio equipment and the <ent type='ORG'>FBI</ent> has a 
-sole-source contract for them with <ent type='GPE'>Transcrypt</ent> International, Inc., 1440 
-<ent type='GPE'>Buckingham</ent> Dr, Lincoln, NE 68506, Phone: (402) 483-2961, Fax: (402) 435-6780, 
+sole-source contract for them with <ent type='ORG'>Transcrypt International</ent>, Inc., 1440 
+<ent type='GPE'>Buckingham</ent> Dr, <ent type='ORG'>Lincoln</ent>, NE 68506, Phone: (402) 483-2961, Fax: (402) 435-6780, 
 <ent type='ORG'>Telex</ent>: 466146.</p>
 
 <p>According to <ent type='GPE'>Transcrypt</ent>'s brochure, ``encryption insures that no outside 
@@ -146,10 +146,10 @@ radios that switch frequencies over the entire RF spectrum, frequency hopping
 radios operate in a very small window making detection, jamming, and 
 direction finding a much simpler task.</p>
 
-<p>The following are selected specifications for the PH-26 and <ent type='ORG'>MH</ent>-26 radios. 
-Figures in ()'s are for the <ent type='ORG'>MH</ent>-26 when different.</p>
+<p>The following are selected specifications for the PH-26 and MH-26 radios. 
+Figures in ()'s are for the MH-26 when different.</p>
 
-<p><ent type='ORG'>Frequency Programming Range</ent>: 148-174<ent type='ORG'>MH</ent>z. Frequency stability: .0005%. 
+<p><ent type='ORG'>Frequency Programming Range</ent>: 148-174MHz. Frequency stability: .0005%. 
 Frequency spacing: 5, 6.25, 12.5, 15, 25 or 30KHz. Transmitter: Power Output: 
 1 or 5 watts (30 watts). Modulation: FM. Receiver: Sensitivity 12 db. Sinad: 
 .25uv. Selectivity @30Khz: 70 db. Audio Output: 500mw (5 watts). Frequency 

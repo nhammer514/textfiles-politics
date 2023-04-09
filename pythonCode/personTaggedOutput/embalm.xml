@@ -49,7 +49,7 @@ MEDICAL SCHOOL, AND HERE'S WHAT HE HAS TO SAY ABOUT IT:</p>
     //    415-236-2371   //
     //   over 12 <ent type='person'>Megs</ent> of Elite Text Files  //
     //    ROR-ALUCARD    //
-    //   Sysop: Doctor Murdock   //
+    //   Sysop: Doctor <ent type='person'>Murdock</ent>   //
     // C0-Sysops: That One, Sir Death, Sid Gnarly &amp; Finn //
     //       //
     //  "The Gates of Hell are open night and day;   //
@@ -66,7 +66,7 @@ MEDICAL SCHOOL, AND HERE'S WHAT HE HAS TO SAY ABOUT IT:</p>
  Rat Head     Ratsnatcher  510-524-3649
  Burn This Flag   Zardoz   408-363-9766
  realitycheck   Poindexter Fortran 415-567-7043
- Lies Unlimited   Mick Freen   415-583-4102</p>
+ Lies Unlimited   <ent type='person'>Mick Freen</ent>   415-583-4102</p>
 
 <p> Specializing in conversations, obscure information, high explosives,
  arcane knowledge, political extremism, diversive sexuality,

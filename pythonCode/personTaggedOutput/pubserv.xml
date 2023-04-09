@@ -39,7 +39,7 @@ Please think about it...
 lobby firm whom the agent works through).
 ----------------------------------------------------------------------------
  
-AGENT NAME  : Alberger, William R.
+AGENT NAME  : Alberger, <ent type='person'>William</ent> R.
 GOVT BRANCH   : International Trade Commission
 PUBLIC POSITION : Chairman
  
@@ -55,7 +55,7 @@ Kidd Creek <ent type='person'>Min</ent>es   Australia   ?
 Energy Resources   Australia   ?
 Sugino Cycle Inc.  Japan   ?
 Sakai Ringyo Co.   Japan   ?
-Cotia Comerc. Imp/Exp  Brazil  ?
+<ent type='person'>Cotia Comerc</ent>. Imp/Exp  Brazil  ?
  
 ----------------------------------------------------------------------------
 AGENT NAME  : Aldonas, Grant
@@ -85,7 +85,7 @@ Government of Canada Canada  ?
 Govt/republic of Turkey  Turkey  ?
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Allen, Richard V.
+AGENT NAME  : <ent type='person'>Allen</ent>, Richard V.
 GOVT BRANCH   : White House
 PUBLIC POSITION : National Security Advisor
  
@@ -97,12 +97,12 @@ Seoul Olympic Org. Ctte. Korea  $972059
 Chinese Asn. Ind. &amp; Cmmrce Taiwan  1580000
 Panama Canal Study Corp. Japan   556822
 Alitalia   Italy  62736
-Baden-Wurttemberg Dev.   Germany  56944
+Baden-<ent type='person'>Wurttemberg Dev</ent>.   Germany  56944
 Korean Overseas Info srvc. S. Korea ?
  
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Allison, Thomas
+AGENT NAME  : <ent type='person'>Allison</ent>, Thomas
 GOVT BRANCH   : Department of Transportation
 PUBLIC POSITION : General Counsel
  
@@ -148,7 +148,7 @@ Republic of Nicaragua  Nicaragua  $1811672
 United Coconut Assn. Philippines   149000
 Republic of Nicaragua  Nicaragua 474780
 ----------------------------------------------------------------------------
-AGENT NAME  : Arky, M. Elizabeth
+AGENT NAME  : <ent type='person'>Arky</ent>, M. Elizabeth
 GOVT BRANCH   : House of Representatives
 PUBLIC POSITION : Staff, Telecom and Finance Subcommittee
  
@@ -234,7 +234,7 @@ Philippine Coconut Auth. Philippines  49189
 Arab Republic of Egypt   Egypt   ?
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Bario, Patrica
+AGENT NAME  : <ent type='person'>Bario</ent>, Patrica
 GOVT BRANCH   : White House
 PUBLIC POSITION : Department Press Secretary
  
@@ -249,7 +249,7 @@ INTELSAT   International  31765
 Stern Magazine   Germany  33819
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Barnes, William
+AGENT NAME  : <ent type='person'>Barnes</ent>, <ent type='person'>William</ent>
 GOVT BRANCH   : House of Representatives
 PUBLIC POSITION : Staff Director, Asia Pacific Subcommittee
  
@@ -259,7 +259,7 @@ FOREIGN CLIENT   COUNTRY  PAID (1980-90)
 Government of Japan  Japan  ?
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Barnes, Michael
+AGENT NAME  : <ent type='person'>Barnes</ent>, Michael
 GOVT BRANCH   : House of Representatives
 PUBLIC POSITION : Member of Congress
  
@@ -287,7 +287,7 @@ FOREIGN CLIENT   COUNTRY  PAID (1980-90)
 NYK Line   Japan  $185815
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Bayless, James
+AGENT NAME  : <ent type='person'>Bayless</ent>, James
 GOVT BRANCH   : Department of Commerce
 PUBLIC POSITION : Department Assistant Secretary Congressional Affairs
  
@@ -299,7 +299,7 @@ INTELSAT   Intl.  $621440
 Embassy of the PRC   China   171860
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Beall, James A.
+AGENT NAME  : <ent type='person'>Beall</ent>, James A.
 GOVT BRANCH   : House of Representatives
 PUBLIC POSITION : Staff Co-ordinator, ways and means committee
  
@@ -310,9 +310,9 @@ FOREIGN CLIENT   COUNTRY  PAID (1980-90)
 <ent type='person'>Fujitsu Microelectric</ent>  Japan  $48035
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Bello, Judith H.
+AGENT NAME  : <ent type='person'>Bello</ent>, Judith H.
 GOVT BRANCH   : Department of Commerce
-PUBLIC POSITION : Policy Dept/Office of Dep Asst. Secy, Import Administration
+PUBLIC POSITION : Policy Dept/Office of <ent type='person'>Dep Asst</ent>. Secy, Import Administration
  
       FEES AND
       EXPENDITURES
@@ -321,7 +321,7 @@ FOREIGN CLIENT   COUNTRY  PAID (1980-90)
 Assn. Teleph/Telegr Inds.  France $11889
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Bennett, Alan R.
+AGENT NAME  : <ent type='person'>Bennett</ent>, Alan R.
 GOVT BRANCH   : U.S. Senate
 PUBLIC POSITION : Counsel, Governmental Affairs
  
@@ -332,7 +332,7 @@ FOREIGN CLIENT   COUNTRY  PAID (1980-90)
 Elsevier Sci. Publrs Netherlands  $699230
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Berger, Samuel R.
+AGENT NAME  : <ent type='person'>Berger</ent>, Samuel R.
 GOVT BRANCH   : Department of State
 PUBLIC POSITION : Deputy Director, Policy &amp; Planning
  
@@ -342,7 +342,7 @@ FOREIGN CLIENT   COUNTRY  PAID (1980-90)
  
 Underwriters at Lloyd's  Britain  $43990
 Comnwlth of Bahamas  Bahamas 32628
-Intl. Cmte Pass. Lines   Intl.   27176
+Intl. <ent type='person'>Cmte Pass</ent>. Lines   Intl.   27176
 Daimler-Benz AG    Germany  5727
 Embassy of Japan   Japan  ?
 Government of Poland Poland   ?
@@ -486,7 +486,7 @@ Republic of Korea  S. Korea  233441
 Brother Inc.   Japan  21362
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Breglio, Vincent
+AGENT NAME  : <ent type='person'>Breglio</ent>, Vincent
 GOVT BRANCH   : U.S. Senate
 PUBLIC POSITION : Executive Director, Republican Campaign Committee
  
@@ -497,7 +497,7 @@ FOREIGN CLIENT   COUNTRY  PAID (1980-90)
 Arab Republic of Egypt   Egypt  $80000
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Brock, William E.
+AGENT NAME  : <ent type='person'>Brock</ent>, <ent type='person'>William</ent> E.
 GOVT BRANCH   : White House    Department of Labor
 PUBLIC POSITION : U.S. Trade Representative  Secretary
  
@@ -507,7 +507,7 @@ FOREIGN CLIENT   COUNTRY  PAID (1980-90)
  
 Bd. for trade/Rep. China China  $240000
 Airbus Industrie N. Amer Europe Cmm.  75000
-Panama Trade <ent type='person'>Devlt</ent> Cmte. Panama  ?
+Panama Trade <ent type='person'>Devlt Cmte</ent>. Panama  ?
  
 ----------------------------------------------------------------------------
 AGENT NAME  : Brown, Ronald
@@ -528,7 +528,7 @@ E. Palicio y Cia   Venezuela  ?
 Republic of Haiti  Haiti  ?
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Burke, Kelly H.
+AGENT NAME  : <ent type='person'>Burke</ent>, Kelly H.
 GOVT BRANCH   : United States Air Force
 PUBLIC POSITION : Lieutenant General (Retired)
  
@@ -570,7 +570,7 @@ Hangdok Tire Manuf.  S. Korea  ?
 Kor. Musical Instr. Assn S. Korea  ?
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Cannon, William Stephen
+AGENT NAME  : Cannon, <ent type='person'>William</ent> Stephen
 GOVT BRANCH   : Department of Justice
 PUBLIC POSITION : Dep. Assistant Attorney, Gen./Antitrust
  
@@ -595,7 +595,7 @@ Curacao Intl. Trust  Netherlands  30037
 Inst. of Financial/Fiscal  Netherlands  ?
  Studies   Antilles
 ----------------------------------------------------------------------------
-AGENT NAME  : Cartwright, Suzanne
+AGENT NAME  : <ent type='person'>Cartwright</ent>, Suzanne
 GOVT BRANCH   : House of Representatives
 PUBLIC POSITION : House Aide
  
@@ -606,7 +606,7 @@ FOREIGN CLIENT   COUNTRY  PAID (1980-90)
 Consolidated Grain &amp; Barge Japan  $89326
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Casey, Thomas J.
+AGENT NAME  : <ent type='person'>Casey</ent>, Thomas J.
 GOVT BRANCH   : Federal Communications Commission
 PUBLIC POSITION : Dep. Chief/ Common Carrier Bureau
  
@@ -617,7 +617,7 @@ FOREIGN CLIENT   COUNTRY  PAID (1980-90)
 Commun Ind. Assn/Japan   Japan  $705315
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Cassidy, Robert
+AGENT NAME  : <ent type='person'>Cassidy</ent>, Robert
 GOVT BRANCH   : White House
 PUBLIC POSITION : General Counsel, Office of U.S. Trade Representative
  
@@ -626,10 +626,10 @@ PUBLIC POSITION : General Counsel, Office of U.S. Trade Representative
 FOREIGN CLIENT   COUNTRY  PAID (1980-90)
  
 Lufthansa AC   Germany  $7764535
-Cmsn of Eur. Comm  Eurp. Comm.   455697
+<ent type='person'>Cmsn</ent> of Eur. Comm  Eurp. Comm.   455697
 Govt/Fed. Rep of Germany Germany   ?
 Elsevier Sci Publrs  Netherlands   606793
-Cmsn of Eur Comm.  Eurp. Comm  ?
+<ent type='person'>Cmsn</ent> of Eur Comm.  Eurp. Comm  ?
  
 ----------------------------------------------------------------------------
 AGENT NAME  : Castillo, A. Mario
@@ -657,7 +657,7 @@ Canadian Security Printers Canada  ?
 Paribas Asset Mgmt.  France  30672
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Church, Frank
+AGENT NAME  : Church, <ent type='person'>Frank</ent>
 GOVT BRANCH   : U.S. Senate
 PUBLIC POSITION : Senator and Chairman of Foreign Relations Committee
  
@@ -670,7 +670,7 @@ Daiwa Steel Tube Inds.   South Korea  8388
 Govt. Repub of China Taiwan  ?
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Chwat, John
+AGENT NAME  : <ent type='person'>Chwat</ent>, John
 GOVT BRANCH   : House of Representatives
 PUBLIC POSITION : House Aide
  
@@ -681,7 +681,7 @@ FOREIGN CLIENT   COUNTRY  PAID (1980-90)
 <ent type='person'>Eduardo</ent> M Cojuangco Jr.  Philippines  ?
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Cohen, Edward B.
+AGENT NAME  : <ent type='person'>Cohen</ent>, Edward B.
 GOVT BRANCH   : White House
 PUBLIC POSITION : Dep. Special Assistant to the President
  
@@ -692,7 +692,7 @@ FOREIGN CLIENT   COUNTRY  PAID (1980-90)
 American honda Motor Co. Japan  $31721
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Cohen, Scott
+AGENT NAME  : <ent type='person'>Cohen</ent>, Scott
 GOVT BRANCH   : U.S. Senate
 PUBLIC POSITION : Staff Director, Foreign Relations Committee
  
@@ -718,14 +718,14 @@ Government of Thailand   Thailand 84279
 Wacker Siltronic Corp.   Israel   32386
 UN Conf on Trade   Intl   10000
 Korea for Trade Assn S. Korea 78225
-Mfrs. Assn of Israel Israel  1000
+<ent type='person'>Mfrs</ent>. Assn of Israel Israel  1000
 Industrial R&amp;D corp  Israel   ?
 <ent type='person'>Min</ent>istry of Ind/Trade  Israel   ?
 CBI Sugar Group Inc. Latin Amer. 300000
 Government of Canada Canada  100290
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Copeland, James M.,Jr
+AGENT NAME  : <ent type='person'>Copeland</ent>, James M.,Jr
 GOVT BRANCH   : White House
 PUBLIC POSITION : Dep. Assistant/Presidential Congressional Relations
  
@@ -736,7 +736,7 @@ FOREIGN CLIENT   COUNTRY  PAID (1980-90)
 Emb of Republic of Turkey  Turkey ?
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Cople, William J. III
+AGENT NAME  : Cople, <ent type='person'>William</ent> J. III
 GOVT BRANCH   : Department of Defense
 PUBLIC POSITION : Attorney, Office of the Secretary, General Counsel
  
@@ -753,7 +753,7 @@ Agie USA, Inc.   Switzerland  ?
 AGENT NAME  : <ent type='person'>Cowan</ent>, Mark D.
 GOVT BRANCH   : Central Intelligence Agency   Department of Labor
 PUBLIC POSITION : Assistant Legal Counsel   Chief of Staff to Secy.
-      Ray Donovan
+      <ent type='person'>Ray Donovan</ent>
  
       FEES AND
       EXPENDITURES
@@ -805,13 +805,13 @@ FOREIGN CLIENT   COUNTRY  PAID (1980-90)
 Lufthansa AC   Germany  $8711499
 Hapag-Lloyd    Germany   213763
 AEG-<ent type='person'>Kanis Turbinefabrik</ent>  Germany   151789
-Cmsn of the Eur Comm.  Europ. Comm.  122648
+<ent type='person'>Cmsn</ent> of the Eur Comm.  Europ. Comm.  122648
 Kingdom of the Netherlands Netherlands  90882
 Govt. of Tibet in Exile  Tibet    30167
 Govt/Fed Repblc of Germany Germany  ?
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Dabaghi, William
+AGENT NAME  : Dabaghi, <ent type='person'>William</ent>
 GOVT BRANCH   : Department of Transportation
 PUBLIC POSITION : Director, Congressional Affairs
  
@@ -855,7 +855,7 @@ FOREIGN CLIENT   COUNTRY  PAID (1980-90)
 Daewoo Industrial Co.  S. Korea   $1341403
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Davis, Mendel J.
+AGENT NAME  : <ent type='person'>Davis</ent>, Mendel J.
 GOVT BRANCH   : House of Representatives
 PUBLIC POSITION : Member of Congress
  
@@ -910,7 +910,7 @@ Voest-Alpine   Austria ?
 Ind. Coop &amp; <ent type='person'>Devlt</ent>.   Austria ?
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Diefenderfer, William
+AGENT NAME  : Diefenderfer, <ent type='person'>William</ent>
 GOVT BRANCH   : U.S. Senate
 PUBLIC POSITION : Chief of Staff, Finance Committee
  
@@ -933,7 +933,7 @@ Ironmasters Assn.  Sweden $246712
 Uddeholms AB   Sweden   77736
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Donnelly, Thomas R. Jr.
+AGENT NAME  : <ent type='person'>Donnelly</ent>, Thomas R. Jr.
 GOVT BRANCH   : White House
 PUBLIC POSITION : Special Assistant/ Presidential Legislation
  
@@ -1003,7 +1003,7 @@ Soc. Gen. de Surveillance  Switzerland   171565
 Embassy of Morocco   Morocco   9161
 Repub. of Nicaragua  Nicaragua   5468
 ----------------------------------------------------------------------------
-AGENT NAME  : Elliott, Richard
+AGENT NAME  : <ent type='person'>Elliott</ent>, Richard
 GOVT BRANCH   : Department of State
 PUBLIC POSITION : Attorney, Advisor
  
@@ -1029,7 +1029,7 @@ DESC Comercio Exterior   Mexico  47992
 <ent type='person'>Direcspicer</ent>, SC    Mexico  ?
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Evans, Billy Lee
+AGENT NAME  : <ent type='person'>Evans</ent>, Billy Lee
 GOVT BRANCH   : House of Representatives
 PUBLIC POSITION : Member of Congress
  
@@ -1042,7 +1042,7 @@ Govt/Repub of Panama Panama  309647
 Freedom and Justice/<ent type='person'>Cyprus Cyprus</ent>  115000
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Evans, Thomas B.
+AGENT NAME  : <ent type='person'>Evans</ent>, Thomas B.
 GOVT BRANCH   : House of Representatives
 PUBLIC POSITION : Member of Congress
  
@@ -1077,7 +1077,7 @@ Embassy of Iraq    Iraq  334885
 <ent type='person'>Fujitsu Microelectric</ent>  Japan  66479
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Farrell, J. Michael
+AGENT NAME  : <ent type='person'>Farrell</ent>, J. Michael
 GOVT BRANCH   : Department of Energy
 PUBLIC POSITION : General Counsel
  
@@ -1168,7 +1168,7 @@ Asia Satellite Telecom   Hong Kong  5898
 Daiwa Securities   Japan    2348
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Finley, Michael
+AGENT NAME  : <ent type='person'>Finley</ent>, Michael
 GOVT BRANCH   : House of Representatives
 PUBLIC POSITION : Staff Director, International Operations Subcommittee
  
@@ -1207,7 +1207,7 @@ FOREIGN CLIENT   COUNTRY  PAID (1980-90)
 Commun. Ind. Assn./Japan Japan  $80000
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Frank, Richard A.
+AGENT NAME  : <ent type='person'>Frank</ent>, Richard A.
 GOVT BRANCH   : National Oceanic and Atmospheric Agency
 PUBLIC POSITION : Administrator
  
@@ -1233,7 +1233,7 @@ Govt. of Barbados  Barbados   ?
 Govt. of the  Dominican Republic  ?
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Freiberg, Ronna
+AGENT NAME  : <ent type='person'>Freiberg</ent>, Ronna
 GOVT BRANCH   : White House
 PUBLIC POSITION : Congressional <ent type='person'>Liason</ent>
  
@@ -1251,7 +1251,7 @@ Assn. Advncmnt Human <ent type='person'>Rghts Japan</ent>    60000
 Hambros/Sharps, Pixley   Britain  ?
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Furman, Harold W.
+AGENT NAME  : <ent type='person'>Furman</ent>, Harold W.
 GOVT BRANCH   : Department of the Interior
 PUBLIC POSITION : Department Assistant Secretary
  
@@ -1290,7 +1290,7 @@ Intl. Cmts. Pass Lines   Intl.   176181
 Cncl Eur/Japan Shipowners  Intl.   3224
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Gifford, Dawn
+AGENT NAME  : <ent type='person'>Gifford</ent>, Dawn
 GOVT BRANCH   : U.S. Senate
 PUBLIC POSITION : Senate Aide
  
@@ -1388,7 +1388,7 @@ FOREIGN CLIENT   COUNTRY  PAID (1980-90)
 Embassy of S. Africa S. Africa  $1856878
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Hawkins, Edward
+AGENT NAME  : <ent type='person'>Hawkins</ent>, Edward
 GOVT BRANCH   : U.S. Senate
 PUBLIC POSITION : Chief Tax Counsel, Finance Committee
  
@@ -1410,7 +1410,7 @@ FOREIGN CLIENT   COUNTRY  PAID (1980-90)
 Inst. Lat del Fiero/Acero  Chili  ?
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Helmke, Mark
+AGENT NAME  : <ent type='person'>Helmke</ent>, Mark
 GOVT BRANCH   : U.S. Senate
 PUBLIC POSITION : Senate Aide
  
@@ -1423,7 +1423,7 @@ Friends/Democ. in Pakistan Pakistan  121000
 Islam Democratic Alliance  Pakistan 16500
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Hessler, Curtis
+AGENT NAME  : <ent type='person'>Hessler</ent>, Curtis
 GOVT BRANCH   : Department of the Treasury
 PUBLIC POSITION : Assistant Secretary, Economics
  
@@ -1434,7 +1434,7 @@ FOREIGN CLIENT   COUNTRY  PAID (1980-90)
 Nippon Electric Co.  Japan  $145845
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Hildenbrand, William
+AGENT NAME  : Hildenbrand, <ent type='person'>William</ent>
 GOVT BRANCH   : U.S. Senate
 PUBLIC POSITION : Secretary of Senate
  
@@ -1480,7 +1480,7 @@ Assn. Teleph/Telegr Inds.  France   11908
 Nippon Steel   Japan  ?
  
 ----------------------------------------------------------------------------
-AGENT NAME  : Huddleston, Walter
+AGENT NAME  : <ent type='person'>Huddleston</ent>, Walter
 GOVT BRANCH   : U.S. Senate
 PUBLIC POSITION : Senator
  
@@ -1537,8 +1537,8 @@ japanyes: An interesting overview of how Japanese industry practices
 japanno:  An unauthorized translation of a best selling book in Japan
     "A Japan that can say no (to America)!" about why Japan is now 
     number one and should take the place of the US as world leader.
-    By Shintaro Ishihara (Japanese Parliament Member "Americans are 
-    lazy, ignorant and stupid") and Akio Morita (SONY CEO).
+    By <ent type='person'>Shintaro Ishihara</ent> (Japanese Parliament Member "Americans are 
+    lazy, ignorant and stupid") and <ent type='person'>Akio Morita</ent> (SONY CEO).
  
 matsushita.pbs  A PBS frontline special about how a Japanese cartel
     wiped out the US TV industry and went on to take over

@@ -762,10 +762,10 @@ Mr.  <ent type='person'>Nikola Tesla</ent> has announced that as the result of e
  strength from the base of operations.
  
  Asked  to express an opinion upon the announcement last Sunday of 
- Charles  H.  Harris, and electrical engineer of Los Angeles, that 
+ Charles  H.  <ent type='person'>Harris</ent>, and electrical engineer of Los Angeles, that 
  he  would  be  able  to  surround this country with an electrical 
  wall  of  fire  in  time of war, Dr. Tesla gave it as his opinion 
- that Mr. Harris was not practical.
+ that Mr. <ent type='person'>Harris</ent> was not practical.
  
 "It  is  hard  to  stamp  as  impossible  such  results  as those 
  described  in  the press dispatches to which you refer.  Granted, 

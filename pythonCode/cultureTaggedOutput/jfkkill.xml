@@ -7,7 +7,7 @@ this is a terse summary of each individual's circumstances in relation
 to the case.  Therefore, you may not get the full appre<ent type='ORG'>cia</ent>tion of why
 a particular death is suspicious.  An asterisk indicates that a death is 
 particularly suspicious.  Some 
- These deaths were part of why <ent type='ORG'>the House <ent type='ORG'>Select Committee</ent></ent> on Assassinations
+ These deaths were part of why <ent type='ORG'>the House Select Committee</ent> on Assassinations
 investigation got started.  However, they concluded that due to the highly
 varied backgrounds of people involved, a proper actuarial study was not
 possible.  
@@ -81,14 +81,14 @@ apartment on 11/24/63   by policeman</p>
 <p>5/64  gary underhill* <ent type='ORG'>cia</ent> agent who claimed agency  gunshot in head ruled
 was involved    suicide</p>
 
-<p>5/64  hugh ward*  private investigator working  plane crash in <ent type='GPE'>mexico</ent>
+<p>5/64  <ent type='ORG'>hugh ward</ent>*  private investigator working  plane crash in <ent type='GPE'>mexico</ent>
 with guy bannister and david
 ferrie</p>
 
 <p>5/64  delesseps *   new <ent type='NORP'>orleans</ent> mayor   passenger in ward's 
 morrison      plane</p>
 
-<p>8/64  teresa norton*  ruby employee   fatally shot</p>
+<p>8/64  teresa <ent type='ORG'>norton</ent>*  ruby employee   fatally shot</p>
 
 <p>6/64  guy banister* ex-<ent type='ORG'>fbi</ent> agent in new <ent type='NORP'>orleans</ent>   heart attack
 connected to ferrie, <ent type='ORG'>cia</ent>,
@@ -115,7 +115,7 @@ ruby's apartment on 11/24/63</p>
 
 <p>5/65  maurice gatlin* pilot for guy banister  fatal fall</p>
 
-<p>8/65  mona b. saenz*  texas employment clerk who  hit by <ent type='GPE'>dallas</ent> bus
+<p>8/65  mona b. saenz*  <ent type='GPE'>texas</ent> employment clerk who  hit by <ent type='GPE'>dallas</ent> bus
 interviewed oswald</p>
 
 <p>?/65  david goldstein <ent type='GPE'>dallas</ent>ite who helped <ent type='ORG'>fbi</ent> trace  natural causes
@@ -123,7 +123,7 @@ oswald's pistol</p>
 
 <p>9/65  rose <ent type='ORG'>cheramie</ent>*  knew of assassination in  hit/run victim
 advance, told of riding to 
-<ent type='GPE'>dallas</ent> with <ent type='NORP'><ent type='NORP'>cuban</ent>s</ent></p>
+<ent type='GPE'>dallas</ent> with <ent type='NORP'>cubans</ent></p>
 
 <p>11/65 dorothy * columnist who had private drug overdose
 kilgallen interview with ruby,  pledged
@@ -168,7 +168,7 @@ described his duty as a   suicide
 <p>11/66 jimmy levens  fort worth nightclub owner  natural causes
 who hired ruby employees</p>
 
-<p>11/66 james worrell*  saw man flee rear of texas  motor accident
+<p>11/66 james worrell*  saw man flee rear of <ent type='GPE'>texas</ent>  motor accident
 schoolbook depository</p>
 
 <p>1966  <ent type='ORG'>clarence oliver</ent> d.a. investigator who worked  unknown
@@ -261,7 +261,7 @@ assassination plots</p>
 <p>3/71  clayton fowler  ruby's chief defense atty.  unknown</p>
 
 <p>4/71  gen. charles  <ent type='ORG'>cia</ent> deputy director connected collapsed and died
-<ent type='ORG'>cabell</ent>  * to anti-castro <ent type='NORP'><ent type='NORP'>cuban</ent>s</ent>   after physical at
+<ent type='ORG'>cabell</ent>  * to anti-castro <ent type='NORP'>cubans</ent>   after physical at
 fort myers</p>
 
 <p>The <ent type='ORG'>Church</ent> Committee Investigation</p>
@@ -333,15 +333,15 @@ castro</p>
 -----------------------------------------------------------------------------</p>
 
 <p>1/77  william pawley* former <ent type='NORP'>brazilian</ent> embassador   gunshot, ruled suicide
-connected to anti-castro <ent type='NORP'><ent type='NORP'>cuban</ent>s</ent>
+connected to anti-castro <ent type='NORP'>cubans</ent>
 and crime figures</p>
 
 <p>3/77  george  * close friend to both oswald and gunshot wound, ruled
-<ent type='ORG'><ent type='ORG'>demohrenschildt</ent> bouvier</ent> family (jackie kennedy's  suicide
+<ent type='ORG'>demohrenschildt bouvier</ent> family (jackie kennedy's  suicide
 parents), <ent type='ORG'>cia</ent> contract agent</p>
 
 <p>3/77  carlos prio*  formerly <ent type='NORP'>cuban</ent> president, gunshot wound, ruled
-<ent type='ORG'>soccaras</ent>  money man for anti-castro <ent type='NORP'><ent type='NORP'>cuban</ent>s</ent>  suicide</p>
+<ent type='ORG'>soccaras</ent>  money man for anti-castro <ent type='NORP'>cubans</ent>  suicide</p>
 
 <p>3/77  paul raigorodsky  business friend of george   natural causes
 <ent type='ORG'>demohrenschildt</ent> and wealthy
@@ -379,7 +379,7 @@ sciences laboratory</p>
 sullivan *  headed division 5, counter-
 espionage and domestic intelligence</p>
 
-<p>1978  c.l. "lummie" <ent type='GPE'>dallas</ent> deputy sheriff who natural causes
+<p>1978  c.l. "<ent type='GPE'>lummie</ent>" <ent type='GPE'>dallas</ent> deputy sheriff who natural causes
 lewis   arrested mafia man braden in
 dealey plaza</p>
 
@@ -417,7 +417,7 @@ gheesling supervise jfk investigation</p>
 <p>3/84  roy kellerman secret service agent in charge  unknown
 of jfk limousine</p>
 
-<p>Source:  "Crossfire", Jim Marrs, Carroll and Graf, 1989.
+<p>Source:  "Crossfire", Jim Marrs, <ent type='ORG'>Carroll</ent> and Graf, 1989.
 --
 
 Steve Feinstein

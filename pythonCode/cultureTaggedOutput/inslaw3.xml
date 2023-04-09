@@ -13,12 +13,12 @@ Sender: news@odin.corp.sgi.com (Net News)
 Organization: Silicon Graphics, Inc.
 Lines: 195</p>
 
-<p>  <ent type='ORG'>The <ent type='ORG'>House</ent> Judiciary Committee</ent> has been investigating the scandal
+<p>  <ent type='ORG'>The House Judiciary Committee</ent> has been investigating the scandal
    since August 1989.  After months of foot-dragging, Attorney General
    Richard Thornburgh, under subpoena by the committee, finally
    released Inslaw-related files.  However, according to a source in
    the <ent type='ORG'>House</ent>, 15 to 20 files are missing.
-  "<ent type='ORG'><ent type='GPE'>Washington</ent> Post</ent>" columnist Mary McGrory is one of the few
+  "<ent type='ORG'>Washington Post</ent>" columnist Mary McGrory is one of the few
    mainstream journalists to give the Inslaw case serious attention.
    She wrote on August 18, "The man who could have resolved the Inslaw
    case, Dick Thornburgh, resigned as attorney general on the day the
@@ -74,7 +74,7 @@ Lines: 195</p>
    the <ent type='ORG'>Sheraton</ent> motel room or in the four boxes of his papers that the
    family turned over to <ent type='ORG'>ABC News</ent>.  Why did authorities wait so long to
    notify the family of his death?  His driver's license said he lived
-   in Falls Church, Va., and all the <ent type='ORG'>Casolaros</ent> listed in the 703 area
+   in <ent type='GPE'>Falls Church</ent>, Va., and all the <ent type='ORG'>Casolaros</ent> listed in the 703 area
    code are his relatives.  Why was his body embalmed before the family
    was notified?  <ent type='GPE'>West Virginia</ent> law requires family approval prior to
    embalming.  Who was the man who telephoned Casolaro's house on
@@ -83,7 +83,7 @@ Lines: 195</p>
 
 <p>   MOTIVE FOR MURDER?  What was Casolaro investigating that could have
    put his life in such danger?  David MacMichael is a former <ent type='ORG'>CIA</ent>
-   analyst who now directs the <ent type='GPE'>Washington</ent> office of the Association of
+   analyst who now directs the <ent type='GPE'>Washington</ent> office of <ent type='ORG'>the Association</ent> of
    National Security Alumni, a watchdog group.  MacMichael had talked
    to Casolaro on the phone on Thursday, the day he left for
    <ent type='GPE'>Martinsburg</ent>.  Casolaro had made an appointment to meet with him.
@@ -109,31 +109,31 @@ Lines: 195</p>
    people and real money"--the Inslaw case.  (See "In These <ent type='ORG'>Times</ent>," May
    29 ["Software Pirates" posted on-line previously].)</p>
 
-<p>   <ent type='ORG'>INSLAW</ent> MEETS THE LAW:  For eight years, Inslaw Inc, has been
-   battling <ent type='ORG'>the <ent type='ORG'><ent type='ORG'>Justice</ent> Department</ent></ent> for possession of Promis, an
+<p>   <ent type='ORG'>INSLAW</ent> MEETS THE LAW:  For eight years, <ent type='ORG'>Inslaw Inc</ent>, has been
+   battling <ent type='ORG'>the Justice Department</ent> for possession of Promis, an
    innovative case-management software program developed by company
    owner Bill Hamilton.  In 1986 Inslaw filed suit against the
    department in federal court, claiming the department had stolen the
    program.
   In September 1987, Judge George Bason, the federal bankruptcy
-   judge from <ent type='GPE'>Washington</ent>, D.C., ruled, "<ent type='ORG'>The Department of <ent type='ORG'>Justice</ent></ent> took,
+   judge from <ent type='GPE'>Washington</ent>, D.C., ruled, "<ent type='ORG'>The Department</ent> of <ent type='ORG'>Justice</ent> took,
    converted, stole Inslaw's enhanced Promis by trickery, fraud and
    deceit."  He also charged, "The failure even to begin in investigate
    [these charges] is outrageous and indefensible and constitutes an
-   institutional decision by <ent type='ORG'>the Department of <ent type='ORG'>Justice</ent></ent> at the highest
+   institutional decision by <ent type='ORG'>the Department</ent> of <ent type='ORG'>Justice</ent> at the highest
    level simply to ignore charges of impropriety."
-  <ent type='ORG'>The <ent type='ORG'><ent type='ORG'>Justice</ent> Department</ent></ent> appealed the ruling, and in November 1989,
+  <ent type='ORG'>The Justice Department</ent> appealed the ruling, and in November 1989,
    Judge William B. Bryant of the U.S. District Court in <ent type='GPE'>Washington</ent>
    affirmed the lower court's decision.  He ruled, "The government
    acted willfully and fraudulently to obtain property that it was not
    entitled to under <ent type='NORP'>contra</ent>ct.
-  <ent type='ORG'>The <ent type='ORG'><ent type='ORG'>Justice</ent> Department</ent></ent> then appealed Bryant's ruling to the U.S.
+  <ent type='ORG'>The Justice Department</ent> then appealed Bryant's ruling to the U.S.
    Circuit Court of Appeals in <ent type='GPE'>Washington</ent>, D.C.  On May 7 that court
    overturned the previous court decisions, saying the federal
    bankruptcy court lacked jurisdiction to hear the case.  However, the
    Court of Appeals left the findings of fact undisturbed.
   Earlier this year, the case took a new twist.  Inslaw went public
-   with allegations that the Reagan <ent type='ORG'><ent type='ORG'>Justice</ent> Department</ent>, after it had
+   with allegations that the Reagan <ent type='ORG'>Justice Department</ent>, after it had
    stolen the Promis software, turned it over to Earl Brian, a friend
    of both former President Ronald Reagan and former Attorney General
    Edwin Meese.  In 1974, Brian left then-<ent type='GPE'>California</ent> Gov. Reagan's
@@ -151,19 +151,19 @@ Lines: 195</p>
    services, the U.S. National Security Agency would then be able to
    infiltrate the computerized intelligence files of these countries.
    Modifications on the pirated software were allegedly carried out by
-   the <ent type='ORG'>Wackenhut Corp</ent>. of Coral Gables, <ent type='GPE'>Fla</ent>.</p>
+   the <ent type='ORG'>Wackenhut Corp</ent>. of <ent type='ORG'>Coral Gables</ent>, <ent type='GPE'>Fla</ent>.</p>
 
 <p>   WHERE IS JUSTICE?:  Inslaw's attorney, Elliot Richardson, the Nixon
    attorney general who resigned rather than participate in the
    Watergate cover-up, has long asked for the appointment of a special
-   prosecutor to investigate <ent type='ORG'>the <ent type='ORG'><ent type='ORG'>Justice</ent> Department</ent></ent>'s handling of the
+   prosecutor to investigate <ent type='ORG'>the Justice Department</ent>'s handling of the
    case.  But to no avail.
-  <ent type='ORG'>The <ent type='ORG'>House</ent> Judiciary Committee</ent> has been investigating the scandal
+  <ent type='ORG'>The House Judiciary Committee</ent> has been investigating the scandal
    since August 1989.  After months of foot-dragging, Attorney General
    Richard Thornburgh, under subpoena by the committee, finally
    released Inslaw-related files.  However, according to a source in
    the <ent type='ORG'>House</ent>, 15 to 20 files are missing.
-  "<ent type='ORG'><ent type='GPE'>Washington</ent> Post</ent>" columnist Mary McGrory is one of the few
+  "<ent type='ORG'>Washington Post</ent>" columnist Mary McGrory is one of the few
    mainstream journalists to give the Inslaw case serious attention.
    She wrote on August 18, "The man who could have resolved the Inslaw
    case, Dick Thornburgh, resigned as attorney general on the day the

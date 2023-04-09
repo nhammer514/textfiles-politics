@@ -1,22 +1,22 @@
 <xml><p>
-From <ent type='ORG'><ent type='ORG'>TIME</ent> Magazine</ent>, May 6, 1991:
+From <ent type='ORG'>TIME Magazine</ent>, May 6, 1991:
 
    <ent type='ORG'>THE THRIVING CULT</ent> OF GREED AND POWER
 
-    Ruined lives.  Lost fortunes.  Federal crimes.
+    Ruined lives.  Lost fortunes.  <ent type='ORG'>Federal crimes</ent>.
  <ent type='ORG'>Scientology</ent> poses as a religion but is really a ruthless
    global scam - and aiming for the mainstream.
 
    By Richard Behar
 
-   By all appearances, Noah Lottick of Kingston, Pa. had been a
+   By all appearances, Noah Lottick of <ent type='GPE'>Kingston</ent>, Pa. had been a
 normal, happy 24-year-old who was looking for his place in the world.
 On the day last June when his parents drove to <ent type='GPE'>New York</ent> to claim his
 body, they were nearly catatonic with grief.  The young
 <ent type='NORP'>Russian</ent>-studies scholar had jumped from a 10th-floor window of the
 Milford Plaza Hotel and bounced off the hood of a stretch limosine.
 When the police arrived, his fingers were still clutching $171 in
-cash, virtually the only money he hadn't yet turned over to the <ent type='ORG'>Church</ent>
+cash, virtually the only money he hadn't yet turned over to <ent type='ORG'>the Church</ent>
 of <ent type='ORG'>Scientology</ent>, the self-help "philosophy" group he had discovered
 just seven months earlier.
    His death inspired his father Edward, a physician, to start his
@@ -29,7 +29,7 @@ but the prospect has them frightened.  For nearly 40 years, the big
 business of <ent type='ORG'>Scientology</ent> has shielded itself exquisitely behind the
 First Amendment as well as a battery of high-priced criminal lawyers
 and shady private detectives.
-   The <ent type='ORG'>Church</ent> of <ent type='ORG'>Scientology</ent>, started by science-fiction writer L.
+   <ent type='ORG'>The Church</ent> of <ent type='ORG'>Scientology</ent>, started by science-fiction writer L.
 Ron Hubbard to "clear" people of unhappiness, portrays itself as a
 religion.  In reality the church is a hugely profitable global racket
 that survives by intimidating members and critics in a <ent type='ORG'>Mafia</ent>-like
@@ -53,12 +53,12 @@ group's followers have been accused of committing financial scams,
 while the church is busy attracting the unwary through a wide array of
 front groups in such businesses as publishing, consulting, health care
 and even remedial education.
-   In Hollywood, <ent type='ORG'>Scientology</ent> has assembled a star-studded roster of
+   In <ent type='GPE'>Hollywood</ent>, <ent type='ORG'>Scientology</ent> has assembled a star-studded roster of
 followers by aggressively recruiting and regally pampering them at the
 church's "Celebrity Centers," a chain of clubhouses that offers
 expensive counseling and career guidance.  Adherents include screen
 idols Tom Cruise and John Travolta, actresses Kirstie Alley, Mimi
-Rogers and Anne Archer, Palm Springs mayor and performer Sonny Bono,
+Rogers and Anne Archer, <ent type='GPE'>Palm Springs</ent> mayor and performer Sonny Bono,
 jazzman Chick Corea and even Nancy Cartwright, the voice of cartoon
 star Bart Simpson.  Rank-and-file members, however, are dealt a less
 glamorous <ent type='ORG'>Scientology</ent>.
@@ -78,10 +78,10 @@ interviews and reviewed hundreds of court records and internal
 The investigation paints a picture of a depraved yet thriving
 enterprise.  Most cults fail to outlast their founder, but <ent type='ORG'>Scientology</ent>
 has prospered since Hubbard's death in 1986.  In a court filing, one
-of the cult's many entities - the <ent type='ORG'>Church</ent> of Spiritual Technology -
+of the cult's many entities - <ent type='ORG'>the Church</ent> of Spiritual Technology -
 listed $503 million in income just for 1987.  High-level defectors say
 the parent organization has squirreled away an estimated $400 million
-in bank accounts in <ent type='GPE'>Leichtenstein</ent>, <ent type='GPE'>Switzerland</ent> and Cyprus.
+in bank accounts in <ent type='GPE'>Leichtenstein</ent>, <ent type='GPE'>Switzerland</ent> and <ent type='GPE'>Cyprus</ent>.
 <ent type='ORG'>Scientology</ent> probably has about 50000 members, far fewer than the 8
 million the group claims.  But in one sense, that inflated figure
 rings true:  Millions of people have been affected in one way or
@@ -111,7 +111,7 @@ War II hero who was crippled and blinded in action, twice pronounced
 dead and miraculously cured through <ent type='ORG'>Scientology</ent>.  Hubbard's
 "doctorate" from "<ent type='ORG'>Sequoia University</ent>" was a fake mail-order degree.
 In a 1984 case in which the church sued a Hubbard biographical
-researcher, a <ent type='GPE'><ent type='GPE'>Calif</ent>ornia</ent> judge concluded that its founder was a
+researcher, a <ent type='GPE'>California</ent> judge concluded that its founder was a
 "pathological liar."
    Hubbard wrote one of <ent type='ORG'>Scientology</ent>'s sacred texts, "<ent type='ORG'>Dianetics</ent>: The
 Modern Science of Mental Health," in 1950.  In it he introduced a
@@ -126,7 +126,7 @@ person's intelligence and appearance.
    Hubbard kept adding steps, each more costly, for his followers to
 climb.  In the 1960s the guru decreed that humans are made of clusters
 of spirits (or "thetans") who were banished to earth some 75 million
-years ago by a cruel galactic ruler named Xenu.  Naturally, those
+years ago by a cruel galactic ruler named <ent type='NORP'>Xenu</ent>.  Naturally, those
 thetans had to be audited.
    An <ent type='ORG'>Internal Revenue Service</ent> ruling in 1967 stripped <ent type='ORG'>Scientology</ent>'s
 mother church of its tax-exempt status.  A federal court ruled in 1971
@@ -208,7 +208,7 @@ be had for just $1900.
 <ent type='ORG'>Scientology</ent> has lately resorted to a wide array of front groups and
 financial scams.  Among them:
 
-CONSULTING.  <ent type='ORG'>Sterling</ent> Management Systems, formed in 1983, has been
+CONSULTING.  <ent type='ORG'>Sterling Management Systems</ent>, formed in 1983, has been
 ranked in recent years by INC. magazine as one of <ent type='GPE'>America</ent>'s
 fastest-growing private companies (estimated 1988 revenues: $20
 million).  <ent type='ORG'>Sterling</ent> regularly mails a free newsletter to more than
@@ -219,7 +219,7 @@ hook customers for <ent type='ORG'>Scientology</ent>.  "The church has a rotten 
 they package it as something else," says Peter Georgiades, a
 <ent type='GPE'>Pittsburgh</ent> attorney who represents <ent type='ORG'>Sterling</ent> victims.  "It's a kind of
 bait and switch."  <ent type='ORG'>Sterling</ent>'s founder, dentist Gregory Hughes, is now
-under investigation by <ent type='GPE'><ent type='GPE'>Calif</ent>ornia</ent>'s <ent type='ORG'>Board of Dental Examiners</ent> for
+under investigation by <ent type='GPE'>California</ent>'s Board of Dental Examiners for
 incompetence.  Nine lawsuits are pending against him for malpractice
 (seven others have been settled), mostly for orthodontic work on
 children.
@@ -252,7 +252,7 @@ $23000 poorer, the Rowes say, they were chased repeatedly by
 risk.  <ent type='ORG'>Scientology</ent> also makes pitches to chiropractors, podiatrists
 and veterinarians.
 
-PUBLIC INFLUENCE.  One front, <ent type='ORG'>the Way to Happiness Foundation</ent>, has
+PUBLIC INFLUENCE.  One front, <ent type='ORG'>the Way</ent> to Happiness Foundation, has
 distributed to children in thousands of the nation's public schools
 more than 3.5 million copies of a booklet Hubbard wrote on morality.
 The church calls the scheme "the largest dissemination project in
@@ -261,7 +261,7 @@ another front, which is attempting to install a Hubbard tutorial
 program in public schools, primarily those populated by minorities.
 The group also plans a 1000-acre campus, where it will train
 educators to teach various Hubbard methods.  The disingenuously named
-<ent type='ORG'>Citizens Commission on Human Rights</ent> is a <ent type='ORG'>Scientology</ent> group at war with
+<ent type='ORG'>Citizens Commission</ent> on Human Rights is a <ent type='ORG'>Scientology</ent> group at war with
 psychiatry, its primary competitor.  The commission typically issues
 .reports aimed at discrediting particular psychiatrics and the field in
 general.  The <ent type='ORG'>CCHR</ent> is also behind an all-out war against <ent type='ORG'>Eli Lilly</ent>,
@@ -270,7 +270,7 @@ Despite scant evidence, the group's members - who are calling
 themselves "psychbusters" - claim that <ent type='ORG'>Prozac</ent> drives people to murder
 or suicide.  Through mass mailings, appearances on talk shows and
 heavy lobbying, <ent type='ORG'>CCHR</ent> has hurt drug sales and helped spark dozens of
-lawsuits against Lilly.
+lawsuits against <ent type='ORG'>Lilly</ent>.
    Another <ent type='ORG'>Scientology</ent>-linked group, <ent type='ORG'>the Concerned Businessmen</ent>'s
 Association of <ent type='GPE'>America</ent>, holds antidrug contests and awards $5000
 grants to schools as a way to recruit students and curry favor with
@@ -296,7 +296,7 @@ peanuts, bluefish, peaches and cottage cheese) are dangerous.
 and <ent type='ORG'>the Food and Drug Administration</ent> issued a paper in October that
 claims Steinman distorts his facts.  "HealthMed is a gateway to
 <ent type='ORG'>Scientology</ent>, and Steinman's book i a sorting mechanism," says
-physician William Jarvis, who is head of the National Council Against
+physician William Jarvis, who is head of <ent type='ORG'>the National Council</ent> Against
 Health Fraud.  Steinman, who describes Hubbard favorably as a
 "researcher," denies any ties to the church and contends, "HealthMed
 has no affiliation that I know of with <ent type='ORG'>Scientology</ent>."
@@ -307,7 +307,7 @@ rehabilitation centers - some in prisons under the name "Criminon" -
 in 12 countries.  <ent type='ORG'>Narconon</ent>, a classic vehicle for drawing addicts into
 the cult, now plans to open what it calls the world's largest
 treatment center, a 1400-bed facility on an <ent type='NORP'>Indian</ent> reservation near
-Newkirk, Okla. (Pop. 2400).  At a 1989 ceremony in Newkirk, the
+<ent type='GPE'>Newkirk</ent>, <ent type='GPE'>Okla</ent>. (Pop. 2400).  At a 1989 ceremony in <ent type='GPE'>Newkirk</ent>, the
 Association for Better Living and Education presented <ent type='ORG'>Narconon</ent> with a
 check for $200000 and a study praising its work.  The association
 turned out to be part of <ent type='ORG'>Scientology</ent> itself.  Today the town is
@@ -400,7 +400,7 @@ the church - journalists, doctors, lawyers and even judges - often
 find themselves engulfed in litigation, stalked by private eyes,
 framed for fictional crimes, beaten up or threatened with death.
 Psychologist Margaret Singer, 69, an outspoken <ent type='ORG'>Scientology</ent> critic and
-professor at the University of <ent type='GPE'><ent type='GPE'>Calif</ent>ornia</ent>, Berkeley, now travels
+professor at <ent type='ORG'>the University</ent> of <ent type='GPE'>California</ent>, <ent type='GPE'>Berkeley</ent>, now travels
 regularly under an assumed name to avoid harassment.
    After the <ent type='GPE'>Los Angeles</ent> <ent type='ORG'>TIME</ent>S published a negative series on the
 church last summer, <ent type='ORG'>Scientologists</ent> spent an estimated $1 million to
@@ -495,7 +495,7 @@ totally off the wall," says Trout.  "Unless it's just for the money."
    One of <ent type='ORG'>Scientology</ent>'s main strategies it to keep advancing the
 tired argument that the church is being "persecuted" by
 anti-religionists.  It is supported in that position by the <ent type='GPE'>America</ent>n
-Civil Liberties Union and the National Council of <ent type='ORG'>Church</ent>es.  But in
+Civil Liberties Union and <ent type='ORG'>the National Council</ent> of <ent type='ORG'>Church</ent>es.  But in
 the end, money is what <ent type='ORG'>Scientology</ent> is all about.  As long as the
 organization's opponents and victims are successfully squelched,
 <ent type='ORG'>Scientology</ent>'s managers and lawyers will keep pocketing millions of
@@ -529,7 +529,7 @@ hired to promote.
 threatened legal action through attorneys.  "What these guys do is
 .take over companies, hype the stock, sell their shares, and then
 there's nothing left," says John Campbell, a former securities lawyer
-who was director of mining company <ent type='ORG'><ent type='ORG'>Athena</ent> Gold</ent> until Baybak and
+who was director of mining company <ent type='ORG'>Athena Gold</ent> until Baybak and
 Gerbino took it over.
    The pattern has become familiar.  The pair promoted a mining
 venture called <ent type='ORG'>Skylark Resources</ent>, whose stock traded at nearly $4 a
@@ -550,7 +550,7 @@ Laurence, editor of <ent type='ORG'>LINN</ent>'S STAMP NEWS, <ent type='GPE'>Ame
 journal.  After the stock topped $6, it began a steady descent, with
 Baybak unloading his shares along the way.  Today it trades at 18
 cents.
-   <ent type='ORG'><ent type='ORG'>Athena</ent> Gold</ent>, the current object of Baybak and Gerbino's
+   <ent type='ORG'>Athena Gold</ent>, the current object of Baybak and Gerbino's
 attentions, was founded by entrepreneur William <ent type='GPE'>Jordan</ent>.  He turned to
 an established <ent type='GPE'>Vancouver</ent> broker in 1987 to help finance the company, a
 4500-acre mining property near <ent type='GPE'>Reno</ent>.  The broker promised to raise
@@ -572,7 +572,7 @@ develop the mine.  That's news to <ent type='ORG'>Placer</ent> Dome.  "There is 
 pre-commitment," says <ent type='ORG'>Placer</ent> executive Cole McFarland.  "We're not
 going to spend that money unless survey results justify the
 expenditure."
-   Baybak's firm represented <ent type='ORG'><ent type='ORG'>Western Resource</ent> Technologies</ent>, a
+   Baybak's firm represented <ent type='ORG'>Western Resource Technologies</ent>, a
 <ent type='GPE'>Houston</ent> oil-and-gas company, but got the boot in October.  Laughs
 Steven McGuire, president of <ent type='ORG'>Western Resource</ent>:  "His is a p.r. firm in
 need of a p.r. firm."  But McGuire cannot laugh too freely.  Baybak

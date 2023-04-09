@@ -54,18 +54,18 @@ version of events more than anything else.
 <p>date  name    connection with case    cause of death
 -----------------------------------------------------------------------------</p>
 
-<p>11/63 karyn kupcinet* tv host's daughter overheard  murdered
+<p>11/63 <ent type='person'>karyn kupcinet</ent>* tv host's daughter overheard  murdered
 telling of <ent type='person'>jfk</ent>'s death prior
 to 11/22/63</p>
 
-<p>12/63 jack zangretti* expressed foreknowlege of gunshot victim
+<p>12/63 <ent type='person'>jack zangretti</ent>* expressed foreknowlege of gunshot victim
 ruby shooting oswald</p>
 
 <p>2/64  eddy benavides* look-alike brother to   gunshot to head
 tippit shooting witness,
 domingo benavides</p>
 
-<p>2/64  betty mcdonald* former ruby employee who  suicide by hanging 
+<p>2/64  <ent type='person'>betty mcdonald</ent>* former ruby employee who  suicide by hanging 
 alibied <ent type='person'>warren reynolds</ent>   in dallas jail
 shooting suspect</p>
 
@@ -73,12 +73,12 @@ shooting suspect</p>
 linking oswald and ruby</p>
 
 <p>3/64  hank <ent type='person'>killam</ent>*  husband of ruby employee, throat cut
-knew oswald acquaintance</p>
+knew <ent type='person'>oswald acquaintance</ent></p>
 
 <p>4/64  bill hunter*  reporter who was in ruby's  accidental shooting
 apartment on 11/24/63   by policeman</p>
 
-<p>5/64  gary underhill* cia agent who claimed agency  gunshot in head ruled
+<p>5/64  <ent type='person'>gary underhill</ent>* cia agent who claimed agency  gunshot in head ruled
 was involved    suicide</p>
 
 <p>5/64  hugh ward*  private investigator working  plane crash in mexico
@@ -92,16 +92,16 @@ morrison      plane</p>
 
 <p>6/64  guy banister* ex-fbi agent in new orleans   heart attack
 connected to ferrie, cia,
-carlos marcello, oswald</p>
+<ent type='person'>carlos marcello</ent>, oswald</p>
 
-<p>9/64  jim koethe*   reporter who was in ruby's  blow to neck
+<p>9/64  <ent type='person'>jim koethe</ent>*   reporter who was in ruby's  blow to neck
 apartment on 11/24/63</p>
 
 <p>9/64  c.d.<ent type='person'>jackson</ent>   life mag senior vp who  unknown
 bought zapruder film and
 locked it away</p>
 
-<p>10/64 mary pinchot* <ent type='person'>jfk</ent> mistress whose  diary murdered
+<p>10/64 <ent type='person'>mary pinchot</ent>* <ent type='person'>jfk</ent> mistress whose  diary murdered
 <ent type='person'>meyer</ent>   was taken by cia chief
 <ent type='person'>james angleton</ent> after her
 death</p>
@@ -110,7 +110,7 @@ death</p>
 turning to rear when shot in
 throat</p>
 
-<p>3/65  tom howard*   ruby's first lawyer, was in   heart attack
+<p>3/65  <ent type='person'>tom howard</ent>*   ruby's first lawyer, was in   heart attack
 ruby's apartment on 11/24/63</p>
 
 <p>5/65  <ent type='person'>maurice gatlin</ent>* pilot for guy banister  fatal fall</p>
@@ -118,7 +118,7 @@ ruby's apartment on 11/24/63</p>
 <p>8/65  mona b. saenz*  texas employment clerk who  hit by dallas bus
 interviewed oswald</p>
 
-<p>?/65  david goldstein dallasite who helped fbi trace  natural causes
+<p>?/65  <ent type='person'>david goldstein dallasite</ent> who helped fbi trace  natural causes
 oswald's pistol</p>
 
 <p>9/65  rose cheramie*  knew of assassination in  hit/run victim
@@ -129,11 +129,11 @@ dallas with cubans</p>
 kilgallen interview with ruby,  pledged
 to "break <ent type='person'>jfk</ent> case"</p>
 
-<p>11/65 mrs earl smith* close friend to dorothy kil-  unknown
+<p>11/65 <ent type='person'>mrs earl smith</ent>* close friend to <ent type='person'>dorothy kil</ent>-  unknown
 gallen, died two days after
 columnist, may have kept notes</p>
 
-<p>12/65 william whaley* cab driver who reportedly drove motor collision (the
+<p>12/65 <ent type='person'>william whaley</ent>* cab driver who reportedly drove motor collision (the
 oswald to oak cliff   only dallas taxi driver
 to die on duty</p>
 
@@ -145,7 +145,7 @@ shooting</p>
 
 <p>1/66  earline roberts oswald's landlady   heart attack</p>
 
-<p>2/66  albert bogard*  car salesman who said <ent type='person'>oswald  </ent>suicide
+<p>2/66  <ent type='person'>albert bogard</ent>*  car salesman who said oswald  suicide
 test drove new car</p>
 
 <p>6/66  capt. frank   dallas police captain who cancer
@@ -161,7 +161,7 @@ fence on grassy knoll</p>
 "delilah"*    after one month 
 walle     of marriage</p>
 
-<p>10/66 william pitzer* <ent type='person'>jfk</ent> autopsy photographer who  gunshot, ruled
+<p>10/66 <ent type='person'>william pitzer</ent>* <ent type='person'>jfk</ent> autopsy photographer who  gunshot, ruled
 described his duty as a   suicide
 "horrifying experience"</p>
 
@@ -186,18 +186,18 @@ of <ent type='person'>jfk</ent> stories</p>
 helped film "last two days"
 about assassination</p>
 
-<p>1/67  jack ruby*  oswald's slayer   lung cancer (he told 
+<p>1/67  <ent type='person'>jack ruby</ent>*  oswald's slayer   lung cancer (he told 
 family he was injected
 with cancer cells)</p>
 
-<p>2/67  harold russell* saw escape of tippit killer   killed by cop in 
+<p>2/67  <ent type='person'>harold russell</ent>* saw escape of tippit killer   killed by cop in 
 barroom brawl</p>
 
 <p>2/67  <ent type='person'>david ferrie</ent>* acquaintance of oswald,   blow to neck, ruled
 garrison suspect, employee  accidental
 of guy bannister</p>
 
-<p>2/67  eladio del  anti-castro cuban associate   gunshot wound, ax wound
+<p>2/67  eladio del  anti-<ent type='person'>castro</ent> cuban associate   gunshot wound, ax wound
 valle * of <ent type='person'>david ferrie</ent> being sought  to head
 by garrison</p>
 
@@ -208,15 +208,15 @@ sherman * cancer research   shot</p>
 ruby</p>
 
 <p>4/68  hiram ingram  dallas deputy sheriff, close  cancer
-friend to roger craig</p>
+friend to <ent type='person'>roger craig</ent></p>
 
 <p>5/68  dr. nicholas  new orleans coroner who ruled heart attack
 chetta  on death of ferrie</p>
 
-<p>8/68  philip geraci*  friend of perry russo, told   electrocution
+<p>8/68  <ent type='person'>philip geraci</ent>*  friend of <ent type='person'>perry russo</ent>, told   electrocution
 of oswald/<ent type='person'>shaw</ent> conversation</p>
 
-<p>1/69  henry delaune*  brother-in-law to <ent type='person'>coroner chetta</ent>  murdered</p>
+<p>1/69  <ent type='person'>henry delaune</ent>*  brother-in-law to <ent type='person'>coroner chetta</ent>  murdered</p>
 
 <p>1/69  e.r. walthers*  dallas deputy sheriff who was shot by felon
 involved in depository search,
@@ -231,19 +231,19 @@ from depository</p>
 ferrie</p>
 
 <p>4/69  <ent type='person'>john crawford</ent>*  close friend to both ruby and crash of private plane
-wesley frazier, who gave ride
+<ent type='person'>wesley frazier</ent>, who gave ride
 to oswald on 11/22/63</p>
 
 <p>7/69  rev. <ent type='person'>clyde</ent>  scheduled to testify about clay fatally shot
-<ent type='person'>johnson</ent> * <ent type='person'>shaw</ent> oswald connection</p>
+<ent type='person'>johnson</ent> * <ent type='person'>shaw oswald connection</ent></p>
 
-<p>1970  george mcmann*  underworld figure connected   murdered
+<p>1970  <ent type='person'>george mcmann</ent>*  underworld figure connected   murdered
 to ruby's friends; wife took
 film in dealey plaza</p>
 
 <p>1/70  darrel garner arrested for shooting warren  drug overdose
 reynolds, released after
-alibi from betty mcdonald</p>
+alibi from <ent type='person'>betty mcdonald</ent></p>
 
 <p>8/70  bill decker   dallas sheriff who saw bullet natural causes
 hit street in front of <ent type='person'>jfk</ent></p>
@@ -252,7 +252,7 @@ hit street in front of <ent type='person'>jfk</ent></p>
 zapruder</p>
 
 <p>12/70 salvatore mobster linked to hoffa,  murdered
-granello* trafficante,castro assassination
+granello* trafficante,<ent type='person'>castro</ent> assassination
 plots</p>
 
 <p>1971  <ent type='person'>james plumeri</ent>*  mobster tied to mob-cia   murdered
@@ -261,7 +261,7 @@ assassination plots</p>
 <p>3/71  clayton fowler  ruby's chief defense atty.  unknown</p>
 
 <p>4/71  gen. charles  cia deputy director connected collapsed and died
-cabell  * to anti-castro cubans   after physical at
+cabell  * to anti-<ent type='person'>castro</ent> cubans   after physical at
 fort myers</p>
 
 <p>The Church Committee Investigation</p>
@@ -274,10 +274,10 @@ of warren commission who began  plane flight
 to publicly express doubts
 about findings</p>
 
-<p>5/72  j edgar hoover* fbi director who pushed "loneheart attack (no 
+<p>5/72  j <ent type='person'>edgar hoover</ent>* fbi director who pushed "loneheart attack (no 
 assassin" theoryautopsy)</p>
 
-<p>9/73  thomas davis* gun runner connected to both  electrocuted trying
+<p>9/73  <ent type='person'>thomas davis</ent>* gun runner connected to both  electrocuted trying
 ruby and cia    to steal wire</p>
 
 <p>2/74  j.a. milteer* miami right-winger who  heater explosion
@@ -286,7 +286,7 @@ capture of scapegoat to a
 police informant</p>
 
 <p>1974  <ent type='person'>dave yaras</ent>*   close friend to both <ent type='person'>Hoffa</ent>  murdered
-and jack ruby</p>
+and <ent type='person'>jack ruby</ent></p>
 
 <p>7/74  <ent type='person'>earl warren</ent>   chief justice who reluctantly heart failure
 chaired warren commission</p>
@@ -294,7 +294,7 @@ chaired warren commission</p>
 <p>8/74  clay <ent type='person'>shaw</ent>*  prime suspect in garrison possible cancer
 case, reportedly a cia 
 contact with ferrie and 
-e. howard hunt</p>
+e. <ent type='person'>howard hunt</ent></p>
 
 <p>1974  earle cabell  mayor of dallas on 11/22/63   natural causes
 whose brother, gen charles
@@ -305,7 +305,7 @@ by <ent type='person'>jfk</ent></p>
 tell about cia-mob death
 plots to senate committee</p>
 
-<p>1975  <ent type='person'>clyde</ent> tolson  j edgar hoovers asst and  natural causes
+<p>1975  <ent type='person'>clyde</ent> tolson  j <ent type='person'>edgar hoover</ent>s asst and  natural causes
 roommate</p>
 
 <p>7/75  allan sweatt  dallas deputy sheriff involved  natural causes
@@ -317,14 +317,14 @@ wheeler </p>
 <p>1976  ralph paul  ruby's business partner   heart attack
 connected with crime figures</p>
 
-<p>4/76  dr. charles   gov john connally's physician heart attack
-gregory</p>
+<p>4/76  dr. charles   gov <ent type='person'>john connally</ent>'s physician heart attack
+<ent type='person'>gregory</ent></p>
 
-<p>6/76  william harvey* cia coordinator for cia-mob   complications of
+<p>6/76  <ent type='person'>william harvey</ent>* cia coordinator for cia-mob   complications of
 assassination plans against   heart surgery
-castro</p>
+<ent type='person'>castro</ent></p>
 
-<p>7/76  john roselli* mobster who testified to  stabbed and stuffed
+<p>7/76  <ent type='person'>john roselli</ent>* mobster who testified to  stabbed and stuffed
 senate, was to appear again   in metal drum</p>
 
 <p>House Select Committee on Assassinations</p>
@@ -332,8 +332,8 @@ senate, was to appear again   in metal drum</p>
 <p>date  name    connection with case    cause of death
 -----------------------------------------------------------------------------</p>
 
-<p>1/77  william pawley* former brazilian embassador   gunshot, ruled suicide
-connected to anti-castro cubans
+<p>1/77  <ent type='person'>william pawley</ent>* former brazilian embassador   gunshot, ruled suicide
+connected to anti-<ent type='person'>castro</ent> cubans
 and crime figures</p>
 
 <p>3/77  george  * close friend to both oswald and gunshot wound, ruled
@@ -341,9 +341,9 @@ demohrenschildt bouvier family (<ent type='person'>jackie kennedy</ent>'s  suici
 parents), cia contract agent</p>
 
 <p>3/77  <ent type='person'>carlos prio</ent>*  formerly cuban president, gunshot wound, ruled
-soccaras  money man for anti-castro cubans  suicide</p>
+soccaras  money man for anti-<ent type='person'>castro</ent> cubans  suicide</p>
 
-<p>3/77  paul raigorodsky  business friend of george   natural causes
+<p>3/77  <ent type='person'>paul raigorodsky</ent>  business friend of george   natural causes
 demohrenschildt and wealthy
 oilman</p>
 
@@ -360,7 +360,7 @@ warren commission</p>
 <p>8/77  <ent type='person'>james cadigan fbi</ent> document expert who   fall in home
 testified to warren commission</p>
 
-<p>8/77  joseph ayres* chief steward on <ent type='person'>jfk</ent>'s air  shooting accident
+<p>8/77  <ent type='person'>joseph ayres</ent>* chief steward on <ent type='person'>jfk</ent>'s air  shooting accident
 force one</p>
 
 <p>8/77  francis powers* u-2 pilot downed in russia in helicopter crash (he
@@ -402,7 +402,7 @@ oswald</p>
 <p>10/81 frank watts   chief felony prosecutor for   natural causes
 dallas d.a.</p>
 
-<p>1/82  <ent type='person'>peter gregory</ent> original translator for marina  natural causess 
+<p>1/82  peter <ent type='person'>gregory</ent> original translator for marina  natural causess 
 oswald and secret service</p>
 
 <p>5/82  dr. james pathologist allowed to see <ent type='person'>jfk</ent>  died while jogging,
@@ -417,7 +417,7 @@ gheesling supervise <ent type='person'>jfk</ent> investigation</p>
 <p>3/84  <ent type='person'>roy kellerman</ent> secret service agent in charge  unknown
 of <ent type='person'>jfk</ent> limousine</p>
 
-<p>Source:  "Crossfire", Jim Marrs, Carroll and <ent type='person'>Graf</ent>, 1989.
+<p>Source:  "Crossfire", <ent type='person'>Jim Marrs</ent>, Carroll and <ent type='person'>Graf</ent>, 1989.
 --
 
 <ent type='person'>Steve Feinstein</ent>

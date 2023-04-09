@@ -1,5 +1,5 @@
 <xml><p>
-    HOMOPOLAR "FREE-ENERGY" GENERATOR TEST</p>
+    <ent type='ORG'>HOMOPOLAR</ent> "FREE-ENERGY" GENERATOR TEST</p>
 
 <p>     Robert Kincheloe
     Professor of <ent type='ORG'>Electrical Engineering</ent> (Emeritus)
@@ -15,7 +15,7 @@
 
 <div> --------------------------------------------------------------------</div>
 
-<p>    HOMOPOLAR "FREE-ENERGY" GENERATOR TEST
+<p>    <ent type='ORG'>HOMOPOLAR</ent> "FREE-ENERGY" GENERATOR TEST
      Robert Kincheloe</p>
 
 <p>     ABSTRACT</p>
@@ -41,15 +41,15 @@
  tests on this particular machine, summarizes and presents
  tentative conclusions from the resulting data.</p>
 
-<p> THE SUNBURST HOMOPOLAR GENERATOR</p>
+<p> THE SUNBURST <ent type='ORG'>HOMOPOLAR</ent> GENERATOR</p>
 
 <p> In July, 1985, I became aware of and was invited to examine and
- test a so-called free-energy generator known as <ent type='ORG'>the <ent type='GPE'>Sunburst</ent></ent> N
+ test a so-called free-energy generator known as <ent type='ORG'>the Sunburst</ent> N
  Machine.</p>
 
 <p> This device, shown  in Figs 1a and 1b, was proposed by Bruce
- DePalma and constructed by Charya Bernard of <ent type='ORG'>the <ent type='GPE'>Sunburst</ent></ent>
- Community in <ent type='GPE'>Santa Barbara</ent>, <ent type='GPE'>CA</ent>, about 1979.</p>
+ DePalma and constructed by Charya Bernard of <ent type='ORG'>the Sunburst</ent>
+ Community in <ent type='GPE'>Santa Barbara</ent>, CA, about 1979.</p>
 
 <p> The term "free-energy" refers to  the  claim  by  DePalma  [1]
  (and others [2]) that it was capable of producing electrical
@@ -185,7 +185,7 @@
  from this point of view  efficiency  in  producing external
  power  was  not required or relevant.</p>
 
-<p> DEPALMA'S RESULTS WITH THE SUNBURST HOMOPOLAR GENERATOR</p>
+<p> DEPALMA'S RESULTS WITH THE SUNBURST <ent type='ORG'>HOMOPOLAR</ent> GENERATOR</p>
 
 <p> In 1980 DePalma conducted  tests  with  the  <ent type='GPE'>Sunburst</ent>
  generator, describing his measurement technique and results in an
@@ -237,13 +237,13 @@
 <p> Of these, the first assumption seems the most serious, and it is my
  opinion that the results of this particular test were inaccurate.</p>
 
-<p> Tim Wilhelm of <ent type='GPE'>Stelle</ent>, <ent type='GPE'>Illinois</ent>, who witnessed tests of <ent type='ORG'>the <ent type='GPE'>Sunburst</ent></ent>
+<p> Tim Wilhelm of <ent type='GPE'>Stelle</ent>, <ent type='GPE'>Illinois</ent>, who witnessed tests of <ent type='ORG'>the Sunburst</ent>
  generator in 1981, had a similar opinion [11].</p>
 
 <p> RECENT TESTS OF THE SUNBURST GENERATOR</p>
 
 <p> Being intrigued by DePalma's hypothesis, I accepted the offer by
- Mr. Norman Paulsen, founder  of <ent type='ORG'>the <ent type='GPE'>Sunburst</ent></ent> Community, to
+ Mr. Norman Paulsen, founder  of <ent type='ORG'>the Sunburst</ent> Community, to
  conduct tests on the generator which apparently  had not been
  used since the tests by DePalma and Bernard in 1979.</p>
 
@@ -253,7 +253,7 @@
  with the physical equipment  shown  in Fig. 10.  The generator
  is  shown coupled by a  long  belt to the drive motor behind it,
  together with the power supplies and metering both  contained
- within and external to <ent type='ORG'>the <ent type='GPE'>Sunburst</ent></ent> power and metering cabinet.</p>
+ within and external to <ent type='ORG'>the Sunburst</ent> power and metering cabinet.</p>
 
 <p> Figure 10b shows the panel of the test cabinet which  provided
  power for the generator magnet and motor field.  The 4-1/2 digit
@@ -279,7 +279,7 @@
  used to measure the  various  currents.  With this
  arrangement  the generator speed could be varied smoothly from 0
  to  over  7000  rpm, with accurate measurement  of  motor  input
- power, metered generator output voltage <ent type='ORG'>Vg</ent> and generator output
+ power, metered generator output voltage Vg and generator output
  current Ig.</p>
 
 <p> Speed was measured with a General  Radio  model 1531 Strobotac
@@ -298,16 +298,16 @@
 
 <p> Various tests were conducted with  the output switch open to
  confirm that generated voltage at both the output brushes (Vbr)
- and metering brushes (<ent type='ORG'>Vg</ent>) were proportional to speed and magnetic
+ and metering brushes (Vg) were proportional to speed and magnetic
  field, with the polarity reversing when magnetic field or
  direction of rotation were reversed.</p>
 
-<p> Tracking of Vbr and <ent type='ORG'>Vg</ent> with variation of magnetic field  is shown
+<p> Tracking of Vbr and Vg with variation of magnetic field  is shown
  in Fig. 11, in  which it is seen that the output voltages are not
  quite linearly related to magnet current, probably due to core
  saturation.</p>
 
-<p> The more rapid departure of <ent type='ORG'>Vg</ent> from  linearity  may  be  due  to
+<p> The more rapid departure of Vg from  linearity  may  be  due  to
  the different brush locations  as  seen  on  Fig 3, differences
  in  the magnetic field at the different brush locations, or other
  causes not evident.  An expanded  plot  of  this voltage
@@ -482,7 +482,7 @@
  volt per brush contact when the current density rises above 10-15
  amperes per square centimeter.</p>
 
-<p> To compare this  with <ent type='ORG'>the <ent type='GPE'>Sunburst</ent></ent> machine the total  brush
+<p> To compare this  with <ent type='ORG'>the Sunburst</ent> machine the total  brush
  voltage was calculated by  subtracting the IR drop due to the
  output current in the known (meter shunt) and calculated  (disk,
  shaft,  and brush lead) resistances from  the  assumed
@@ -545,7 +545,7 @@
 
 <p> The data obtained so far seems to have shown that while DePalma's
  numbers were high, his basic premise has not been disproved.
- While <ent type='ORG'>the <ent type='GPE'>Sunburst</ent></ent> generator does not produce useful output power
+ While <ent type='ORG'>the Sunburst</ent> generator does not produce useful output power
  because of the internal  losses  inherent  in  the  design, a
  number  of techniques could be used to reduce the friction
  losses, increase the total generated voltage and the
@@ -571,7 +571,7 @@
   2. For example, <ent type='ORG'>Satelite News</ent>, 1981, Marinov, 1984, etc.
   3. Martin, 1932, vol. 1, p.381.
   4. Das Gupta, 1961, 1962; Lamme, 1912, etc.
-  5. See, for example, Bumby, 1983; <ent type='ORG'>Bewley</ent>, 1952; Kosow, 1964; Nasar,
+  5. See, for example, Bumby, 1983; <ent type='ORG'>Bewley</ent>, 1952; <ent type='ORG'>Kosow</ent>, 1964; Nasar,
    1970.
   6. There has been much discussion on this point in the
    literature, and about interpretation of flux lines.  <ent type='ORG'>Bewley</ent>,
@@ -595,22 +595,22 @@
 
 <p>    REFERENCES</p>
 
-<p> [<ent type='ORG'>Bewley</ent>, 1949] - L. V. <ent type='ORG'>Bewley</ent>, letter re [<ent type='ORG'>Cohn</ent>, 1949a]; ELECTRI<ent type='GPE'>CA</ent>L
+<p> [<ent type='ORG'>Bewley</ent>, 1949] - L. V. <ent type='ORG'>Bewley</ent>, letter re [<ent type='ORG'>Cohn</ent>, 1949a]; ELECTRICAL
    ENGINEERING, Dec. 1949, p.1113-4.  (Claims error in <ent type='ORG'>Cohn</ent>'s paper)</p>
 
 <p> [<ent type='ORG'>Bewley</ent>, 1952] - L. V. <ent type='ORG'>Bewley</ent>, FLUX LINKAGES &amp; ELECTROMAGNETIC
-   INDUCTION, Macmillan, NY, 1952.  (Explanation  of  induction
+   INDUCTION, <ent type='ORG'>Macmillan</ent>, NY, 1952.  (Explanation  of  induction
    phenomena and the <ent type='ORG'>Faraday</ent> generator)</p>
 
-<p> [Bumby, 1983] - J. R. Bumby, SUPERCONDUCTING ROTATING ELECTRI<ent type='GPE'>CA</ent>L
+<p> [Bumby, 1983] - J. R. Bumby, SUPERCONDUCTING ROTATING ELECTRICAL
    MACHINES, <ent type='ORG'>Claredon Press</ent>, 1983.  (<ent type='ORG'>Homopolar</ent> designs, high current
    brushes including liquid metal)</p>
 
 <p> [<ent type='ORG'>Cohn</ent>, 1949a] - George I. <ent type='ORG'>Cohn</ent>, "Electromagnetic Induction",
-   ELECTRI<ent type='GPE'>CA</ent>L ENGINEERING, May 1949, p441-7.  (Unipolar generator as
+   ELECTRICAL ENGINEERING, May 1949, p441-7.  (Unipolar generator as
    paradox)</p>
 
-<p> [<ent type='ORG'>Cohn</ent>, 1949b] - George <ent type='ORG'>Cohn</ent>, letter re [<ent type='ORG'>Savage</ent>, 1949]; ELECTRI<ent type='GPE'>CA</ent>L
+<p> [<ent type='ORG'>Cohn</ent>, 1949b] - George <ent type='ORG'>Cohn</ent>, letter re [<ent type='ORG'>Savage</ent>, 1949]; ELECTRICAL
    ENGINEERING, Nov 1949, p1018.  (Responds to criticism by <ent type='ORG'>Savage</ent>)</p>
 
 <p> [Crooks, 1978] - M. J. Crooks et al, "One-piece <ent type='ORG'>Faraday</ent> generator:
@@ -633,34 +633,34 @@
    AIEE Trans.  Oct 1962, p399-402.  (Discusses very high current low
    voltage <ent type='ORG'>Faraday</ent> generators)</p>
 
-<p> [DePalma, 1979a] - Bruce DePalma, EXTRACTION OF ELECTRI<ent type='GPE'>CA</ent>L ENERGY
+<p> [DePalma, 1979a] - Bruce DePalma, EXTRACTION OF ELECTRICAL ENERGY
    DIRECTLY FROM SPACE:  THE N-NACHINE, <ent type='ORG'>Simularity Institute</ent>, Santa
-   Barbara <ent type='GPE'>CA</ent>,  6  Mar  1979. (Discusses  <ent type='ORG'>homopolar</ent> generator or N-
+   Barbara CA,  6  Mar  1979. (Discusses  <ent type='ORG'>homopolar</ent> generator or N-
    Machine as free-energy source)</p>
 
 <p> [DePalma, 1979b] - Bruce DePalma,  "The  N-Machine",  Paper given at
-   the World Symposium on Humanity, Pasadena, <ent type='GPE'>CA</ent>, 12 April 1979.
+   the World Symposium on Humanity, Pasadena, CA, 12 April 1979.
    (Describes background, development of "free-energy" theories)</p>
 
 <p> [DePalma, 1979c] - Bruce DePalma,  ROTATION  OF A MAGNETIZED
-   GYROSCOPE, <ent type='ORG'><ent type='ORG'>Simularity Institute</ent> Report</ent> #33,  16  July  1979.
+   GYROSCOPE, <ent type='ORG'>Simularity Institute</ent> Report #33,  16  July  1979.
    (Describes design of <ent type='GPE'>Sunburst</ent> <ent type='ORG'>homopolar</ent> generator)</p>
 
-<p> [DePalma, 1980] - Bruce DePalma, "Performance of <ent type='ORG'>the <ent type='GPE'>Sunburst</ent></ent> N
-   Machine", <ent type='ORG'>Simularity Institute</ent>,  Santa  Barbara,  <ent type='GPE'>CA</ent>,  17 December
+<p> [DePalma, 1980] - Bruce DePalma, "Performance of <ent type='ORG'>the Sunburst</ent> N
+   Machine", <ent type='ORG'>Simularity Institute</ent>,  Santa  Barbara,  CA,  17 December
    1980.  (Description of tests and results)</p>
 
 <p> [DePalma, 1981] - Bruce DePalma, "Studies on rotation leading to the
-   N-Machine", <ent type='ORG'>DePalma Institute</ent>, 1981  (transcript of talk?)
+   N-Machine", DePalma Institute, 1981  (transcript of talk?)
    (Discusses experiments  with  gravity  that  led to development of
    idea of free-energy machine)</p>
 
 <p> [DePalma, 1983] -  Bruce DePalma,  THE  ROTATION  OF  THE  <ent type='ORG'>UNIVERSE</ent>,
-   <ent type='ORG'>DePalma Institute</ent>  Report #83, <ent type='GPE'>Santa Barbara</ent>, <ent type='GPE'>CA</ent>,  25  July  1983.
+   DePalma Institute  Report #83, <ent type='GPE'>Santa Barbara</ent>, CA,  25  July  1983.
    (Uses <ent type='ORG'>Faraday</ent> disc to discuss universal principles).</p>
 
 <p> [DePalma, 1984] - Bruce DePalma, THE SECRET OF THE FARADAY DISC,
-   <ent type='ORG'>DePalma Institute</ent>, <ent type='GPE'>Santa Barbara</ent>, <ent type='GPE'>CA</ent>, 2 Feb 1984.  (Claims
+   DePalma Institute, <ent type='GPE'>Santa Barbara</ent>, CA, 2 Feb 1984.  (Claims
    explanation of <ent type='ORG'>Faraday</ent> disc as a free-energy device)</p>
 
 <p> [Kimball, 1926] - A. L. Kimball,  Jr.,  "Torque  on  revolving
@@ -668,7 +668,7 @@
    (Alternative analysis of torque in a <ent type='ORG'>homopolar</ent> device  to  that of
    Zeleny and Page, 1924)</p>
 
-<p> [Kosow, 1964] - Irving L. Kosow, ELECTRI<ent type='GPE'>CA</ent>L <ent type='GPE'>MACHINERY</ent> &amp; CONTROL,
+<p> [<ent type='ORG'>Kosow</ent>, 1964] - Irving L. <ent type='ORG'>Kosow</ent>, ELECTRICAL <ent type='GPE'>MACHINERY</ent> &amp; CONTROL,
    Prentice-Hall, 1964.  (Discusses high current <ent type='ORG'>homopolar</ent> (acyclic)
    generators)</p>
 
@@ -694,15 +694,15 @@
    NEWS, 15  June 1981.  (Reports  DePalma's  claim  for  free-energy
    generator)</p>
 
-<p> [<ent type='ORG'>Savage</ent>, 1949] - Norton <ent type='ORG'>Savage</ent>, letter re [<ent type='ORG'>Cohn</ent>, 1949a]; ELECTRI<ent type='GPE'>CA</ent>L
+<p> [<ent type='ORG'>Savage</ent>, 1949] - Norton <ent type='ORG'>Savage</ent>, letter re [<ent type='ORG'>Cohn</ent>, 1949a]; ELECTRICAL
    ENGINEERING, July 1949, p645.  (Claims error in <ent type='ORG'>Cohn</ent>'s paper)</p>
 
 <p> [Wilhelm, 1980] - Timothy J. Wilhelm, INVESTIGATIONS OF THE N-EFFECT
-   ONE-PIECE HOMOPOLAR DYNAMOS, <ent type='ORG'>ETC</ent>. (Phase I), <ent type='GPE'>Stelle</ent>, IL, 12 Sept
+   ONE-PIECE <ent type='ORG'>HOMOPOLAR</ent> DYNAMOS, <ent type='ORG'>ETC</ent>. (Phase I), <ent type='GPE'>Stelle</ent>, IL, 12 Sept
    1980.  (Discusses tests on DePalma's N-Machine)</p>
 
 <p> [Wilhelm, 1981] - Timothy J. Wilhelm, INVESTIGATIONS OF THE N-EFFECT
-   ONE-PIECE HOMOPOLAR DYNAMOS, <ent type='ORG'>ETC</ent>. (Phase II), <ent type='GPE'>Stelle</ent>, IL, 10 June
+   ONE-PIECE <ent type='ORG'>HOMOPOLAR</ent> DYNAMOS, <ent type='ORG'>ETC</ent>. (Phase II), <ent type='GPE'>Stelle</ent>, IL, 10 June
    1981.  (Design and tests of improved <ent type='ORG'>homopolar</ent> generator/motor)</p>
 
 <p> [Zeleny, 1924] - John Zeleny &amp; Leigh Page, "Torque on a cylindrical
@@ -776,7 +776,7 @@
 
 <p> Figure 8 - Test data from report by Bruce DePalma</p>
 
-<p>    PERFORMANCE OF THE SUNBURST HOMOPOLAR GENERATOR</p>
+<p>    PERFORMANCE OF THE SUNBURST <ent type='ORG'>HOMOPOLAR</ent> GENERATOR</p>
 
 <p>   machine speed:    6000 r.p.m.
    drive motor current no load   15 amperes
@@ -830,7 +830,7 @@
  GENERATED POWER  0  0  (6113)
  <ent type='ORG'>WATTS</ent></p>
 
-<p>    HOMOPOLAR GENERATOR TEST - <ent type='ORG'>BIG SPRINGS RANCH</ent>   APRIL 26, 1986</p>
+<p>    <ent type='ORG'>HOMOPOLAR</ent> GENERATOR TEST - <ent type='ORG'>BIG SPRINGS RANCH</ent>   APRIL 26, 1986</p>
 
 <div> ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</div>
 
@@ -838,7 +838,7 @@
 
 <p> Another file downloaded from:   NIRVANAnet(tm)</p>
 
-<p> &amp; <ent type='ORG'>the Temple of the Screaming Electron</ent> Jeff Hunter  510-935-5845
+<p> &amp; <ent type='ORG'>the Temple</ent> of the Screaming Electron Jeff Hunter  510-935-5845
  Rat Head     Ratsnatcher  510-524-3649
  Burn This Flag   Zardoz   408-363-9766
  realitycheck   Poindexter Fortran 415-567-7043

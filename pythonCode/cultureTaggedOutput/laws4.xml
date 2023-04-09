@@ -46,13 +46,13 @@ Corvette for the chief assistant prosecutor. //
 {At this point in the article there is a picture of three people  in
 an empty apartment, with the following caption:
 
-   Judy Mulford, 31, and her 13-year old twins, Chris, left, and
+   Judy <ent type='ORG'>Mulford</ent>, 31, and her 13-year old twins, Chris, left, and
    <ent type='ORG'>Jason</ent>, are down to essentials in their Lake Park, <ent type='GPE'>Fla</ent>., home,
    which the government took in 1989 after claiming her husband,
    Joseph, stored cocaine there. Neither parent has been
    criminally charged, but in April a forfeiture jury said Mrs.
-   Mulford must forfeit the house she bought herself with an
-   insurance settlement. The <ent type='ORG'>Mulfords</ent> have divorced, and she has
+   <ent type='ORG'>Mulford</ent> must forfeit the house she bought herself with an
+   insurance settlement. The <ent type='ORG'>Mulford</ent>s have divorced, and she has
    sold most of her belongings to cover legal bills. She's asked
    for a new trial and lives in the near-empty house pending a
    decision. }</p>

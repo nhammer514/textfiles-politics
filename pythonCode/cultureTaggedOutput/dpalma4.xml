@@ -59,7 +59,7 @@
 
 <p> TEST RESULTS:</p>
 
-<p> The drive motor  (<ent type='ORG'>DM</ent>)  takes  no-load current of 2.6  amperes  (1300
+<p> The drive motor  (DM)  takes  no-load current of 2.6  amperes  (1300
  watts) to rotate itself and the <ent type='ORG'>SPG</ent> to overcome windage and friction
  at 2870 rpm. The no-load voltage internally generated in each unit
  of the <ent type='ORG'>SPG</ent> is adjusted to 1.5 volts  d-c  between  the shaft and the
@@ -79,26 +79,26 @@
  is, 3919 watts.  Total electrical power from the two  units  is 7839
  watts.</p>
 
-<p> As the <ent type='ORG'>SPG</ent>  is  electrically  loaded,  the current of <ent type='ORG'>DM</ent> rises to 10
+<p> As the <ent type='ORG'>SPG</ent>  is  electrically  loaded,  the current of DM rises to 10
  amperes, showing a rise of 7.4 amperes over the no-load current, and
  corresponding to a rise in input electrical power of 3700 watts.</p>
 
-<p> The load current  of  the <ent type='ORG'>DM</ent> of 10  amperes  amounts  to  the  total
- electrical input to the <ent type='ORG'>DM</ent> of 5000 watts, out of which 1300 watts is
+<p> The load current  of  the DM of 10  amperes  amounts  to  the  total
+ electrical input to the DM of 5000 watts, out of which 1300 watts is
  utilised to overcome the no-load losses.</p>
 
 <p> The remaining electrical input of 3700 watts generates 7839 watts of
  electrical output power, giving  the  efficiency  of  space  power
  generation in this particular as 211.8%.</p>
 
-<p> Assuming electromagnetic efficiency of the <ent type='ORG'>DM</ent> as 80%, the efficiency
+<p> Assuming electromagnetic efficiency of the DM as 80%, the efficiency
  of the electrical energy generation of the <ent type='ORG'>SPG</ent> will rise to 264.75%.</p>
 
 <p> If the excitation power of 2400 watts  given  to the <ent type='ORG'>SPG</ent> is deducted
  from the total  electrical output from the <ent type='ORG'>SPG</ent> of  7839  watts,  the
  balance electrical output  of  5439  watts  still  exceeds the total
  electrical input of 5000 watts by 439 watts, giving the total system
- efficiency of 105.9% while, in addition  the  <ent type='ORG'>DM</ent>-<ent type='ORG'>SPG</ent>  set  runs as a
+ efficiency of 105.9% while, in addition  the  DM-<ent type='ORG'>SPG</ent>  set  runs as a
  perpetual system drawing 1300 watts of power from space.</p>
 
 <p> QUANTUM OF SPACE POWER:</p>
@@ -179,9 +179,9 @@
    Absolute Vacuum  by  High Speed Rotation of conducting  Magnetic
    Cylinder",
    Magnets in Your Future, Vol. 1 No. 8, August 1986, P.O. Box 580,
-   <ent type='NORP'>Temecula</ent>, <ent type='GPE'>CA</ent> 92390, <ent type='GPE'>USA</ent>.</p>
+   <ent type='NORP'>Temecula</ent>, CA 92390, <ent type='GPE'>USA</ent>.</p>
 
-<p> 3.  Paramahamsa Tewari - "<ent type='ORG'>Interaction of Electron and</ent> <ent type='ORG'>Magnetic Field</ent>
+<p> 3.  Paramahamsa Tewari - "Interaction of Electron and <ent type='ORG'>Magnetic Field</ent>
    in Space Power Generation Phenomenon", Magnets in Your Future,
    Vol. 2 No. 12, December 1987, P.O. Box 580, <ent type='NORP'>Temecula</ent>, Ca. 92390,
    <ent type='GPE'>USA</ent>.</p>
@@ -196,7 +196,7 @@
 
 <p> Another file downloaded from:   NIRVANAnet(tm)</p>
 
-<p> &amp; <ent type='ORG'>the Temple of the Screaming Electron</ent> Jeff Hunter  510-935-5845
+<p> &amp; <ent type='ORG'>the Temple</ent> of the Screaming Electron Jeff Hunter  510-935-5845
  Rat Head     Ratsnatcher  510-524-3649
  Burn This Flag   Zardoz   408-363-9766
  realitycheck   Poindexter Fortran 415-567-7043

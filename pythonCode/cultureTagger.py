@@ -23,23 +23,40 @@ config = {"spans_key": None, "annotate_ents": True, "overwrite": True, "validate
 ruler = nlp.add_pipe("span_ruler", before="ner",  config=config)
 # 2023-04-07: ebb: NOTE: before="ner" setting seems to allow the spaCy NER rules to prevail over these patterns where
 # there is a conflict.
-# after="ner" means that the spaCy ner is TOTALLY OVERWRITTEN and invalidated by our patterns.
+# after="ner" means that the spaCy NER is TOTALLY OVERWRITTEN and invalidated by our patterns.
 
 # Notes: Mattingly has this: ruler = nlp.add_pipe("entity_ruler", after="ner", config={"validate": True})
 # But this only works when spaCy doesn't recognize a word / phrase as a named entity of any kind.
 # If it recognizes a named entity but tags it wrong, we correct it with the span_ruler, not the entity_ruler
 patterns = [
-    {"label": "NULL", "pattern": [{"TEXT" : {"REGEX": "^-\w+?"}}]},
-    {"label": "NULL", "pattern": [{"TEXT" : {"REGEX": "^\w$"}}]},
-    {"label": "GPE", "pattern": [{"TEXT" : {"REGEX": "Babylon(ia)?"}}]},
+    {"label": "NULL", "pattern": [{"TEXT": {"REGEX": "^-\w+?"}}]},
+    {"label": "NULL", "pattern": [{"TEXT": {"REGEX": "^.$"}}]},
+    {"label": "NULL", "pattern": [{"TEXT": {"REGEX": "^\w\w$"}}]},
+    {"label": "NULL", "pattern": [{"TEXT": {"REGEX": "^[a-z]+\s+[a-z]+$"}}]},
+    {"label": "NULL", "pattern": [{"TEXT": {"REGEX": "^.*?__{2,}.*?$"}}]},
+    {"label": "NORP", "pattern": [{"TEXT": {"REGEX": "CHRISTIAN(ITY|DOM)"}}]},
+    {"label": "NORP", "pattern": [{"TEXT": {"REGEX": "CHRISTIAN\s+NETWORK"}}]},
+    # ebb: Don't match on any single characters!
+    {"label": "NULL", "pattern": [{"TEXT": {"REGEX": "[A-Z]{2,}[A-Z][a-z]+"}}]},
+    {"label": "NULL", "pattern": [{"TEXT": {"REGEX": "[a-z]{2,}[A-Z][a-z]+"}}]},
+    {"label": "NULL", "pattern": [{"TEXT": {"REGEX": "^.*?[a-z][A-Z].*?$"}}]},
+    # ebb: Above line attempts to stop matching things like Oak IslandThe Method
+    {"label": "NULL", "pattern": [{"TEXT" : {"REGEX": "^[Mm\-]+$"}}]},
+    # SOCIALISMBY RICHARD
+    # ebb: Above line attempts to stop matching things Mmm-mm or mm , etc.
+    {"label": "GPE", "pattern": [{"TEXT": {"REGEX": "Babylon(ia)?"}}]},
+    {"label": "NORP", "pattern": [{"TEXT": {"REGEX": "Christiani\s*ty"}}]},
+    {"label": "NULL", "pattern": "Christiani"},
     {"label": "NULL", "pattern": "di"},
+    {"label": "NULL", "pattern": "ORG"},
+    {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "(Ludwig [Vv]an )?Beethoven"}}]},
     {"label": "ORG", "pattern": "Falangist"},
     {"label": "NORP", "pattern": "Dropa"},
     {"label": "GPE", "pattern": "Nazareth"},
     {"label": "NULL", "pattern": "Bab"},
 ]
 ruler.add_patterns(patterns)
-
+ruler.add_patterns(patterns)
 
 workingDir = os.getcwd()
 CollPath = os.path.join(workingDir, '../regexConsp')
@@ -114,8 +131,11 @@ def regexFile(file):
                     with open(fileDir, 'w', encoding='utf8') as f:
                         f.write(wrappedText)
                         print("WRAPPING " + entity)
+                    checkTags(file)
+                    # ebb: Added above line to send the tagged file to the checkTags() function for cleaning.
 
-# This part of the code does not run. It is a WIP.
+# This part of the code is a WIP.
+# ebb: I just activated it, and it works! (Nice job.) I altered it just a bit. May need more regexes to match.
 ## It tries to find weird or invalid elements/tags and fix them.
 def checkTags(file):
     content = []
@@ -129,24 +149,35 @@ def checkTags(file):
         for line in content:
             # match = regex.search(r"(<ent type='.+?'>[^<>]*?)<ent[^>]+?>([^<>]+?)</ent>([^<>]*?</ent>)", line)
             # if match:
-            print("broken line found, fixing...")
+            # print("broken line found, fixing...")
+            # ebb: NOTE: If this function only processes a line there's a regex match, we'd have a serious problem:
+            # we'd not output the rest of the file--only the cleaned matches. So the output files would be mostly empty!
+            # Better to just string-clean every line using regex.sub(). Where there's no regex match, no substitution will happen.
+            origLine = line
             # newLine = regex.sub(r"(<ent type='.+?'>[^<>]*?)<ent[^>]+?>([^<>]+?)</ent>([^<>]*?</ent>)", r"\1\2\3",line)
-            newLine = regex.sub(r"(<ent type=\"[A-z]+?\">.*?)<ent type=\"[A-z]+?\">(.+?)</ent>(.*?</ent>)", r"\1\2\3", line)
-            newLine = regex.sub(r"(<ent type=\"[A-z]+?\">.*?)<ent type=\"[A-z]+?\">(.+?)</ent>(.*?</ent>)", r"\1\2\3", newLine)
-            newLine = regex.sub(r"(<ent type=\"[A-z]+?\">.*?)<ent type=\"[A-z]+?\">(.+?)</ent>(.*?</ent>)", r"\1\2\3", newLine)
-            newLine = regex.sub(r"(<spe)<ent type='.+?'>(cia)</ent>(l>)", r"\1\2\3", newLine)
-            newLine = regex.sub(r"(<)<ent type='ORG'>(di)</ent>(v>)", r"\1\2\3", newLine)
+            # <spe<ent type='ORG'>cia</ent>l>
+            newLine = regex.sub(r"(</?spe)<ent type='ORG'>(cia)</ent>(l>)", r"\1\2\3", origLine)
+            # newLine = regex.sub(r"(<)<ent type='ORG'>(di)</ent>(v>)", r"\1\2\3", newLine)
+            newLine = regex.sub(r"(<ent type='[A-z]+?'>[^<]*?)<ent type='[A-z]+?'>([^<]+?)</ent>([^<]*?</ent>)", r"\1\2\3", newLine)
+            newLine = regex.sub(r"(<ent type='[A-z]+?'>[^<]*?)<ent type='[A-z]+?'>([^<]+?)</ent>([^<]*?</ent>)", r"\1\2\3", newLine)
+            newLine = regex.sub(r"(<ent type='[A-z]+?'>[^<]*?)<ent type='[A-z]+?'>([^<]+?)</ent>([^<]*?</ent>)", r"\1\2\3", newLine)
+            # ebb: I'm repeating the above just in case of the weird event of triple or quadruple nested <ent> tags in <ent> tags.
+            # We saw it happen on the LOTR project and running it through multiple passes of the above line ultimately got rid of them all
+            # preserving only the outermost tags.
             newLine = regex.sub(r"(<ent type=')<ent type='ORG'>(ORG)</ent>('>)", r"\1\2\3", newLine)
-#
+# ebb: noticed:
 # <spe<ent type='ORG'>cia</ent>l>
 # <<ent type='ORG'>di</ent>v>
-            print(line + "\n INTO.")
-            line = newLine
-            print(line)
+            if origLine != newLine:
+                print("broken line found, fixing...")
+                print(origLine + "\n INTO.")
+                print(newLine)
+            f.write(str(newLine))
+    print("File checking finished.")
 
 
 for file in insideDir:
     copyTextFiles(file)
     regexFile(file)
-    #checkTags(file)
-    print("File checking finished.")
+    # checkTags(file) # ebb: You don't really want to activate checkTags here,
+    # because it would run over the untagged input files.

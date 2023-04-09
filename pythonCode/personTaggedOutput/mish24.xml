@@ -1,6 +1,6 @@
 <xml>
 <p>THE TEMPEST METHOD OF COMPUTER DATA INTERCEPTION!</p>
-<p>-----------------by <ent type='person'>Al Muick</ent> for P-80 Systems, OCT 86----------</p>
+<p>-----------------by Al Muick for P-80 Systems, OCT 86----------</p>
 <p>
  Let me begin by a brief history of myself.  I spent the better part of six years in Uncle Sam's Country Club (better known as the US Army) working in the Intelligence and Security Command (better known as the ASA--Army Security Agency).  During that time, my primary duties were Cryptology, Cryptologic Intercept, Counterintelligence, and Field First Sergeant (whatta drag!).</p>
 <p> What I'm about to tell you comes under the heading of Cryptologic Intercept.  Incidently, for those of you in the know, I was stationed at Field Station Augsburg in West Germany (if you're not in the know, read the book, THE PUZZLE PALACE).</p>
@@ -18,7 +18,7 @@
 <p> As you know, one ASCII byte consists of 8 bits. simply start at a reasonable point at the beginning of your interception and begin to mark off tick marks along the binary stream.  Even if you come across 1s and 0s that are very wide, mark as many thin ticks from your 3x5" card on them.  This is necessary to break the ASCII code.</p>
 <p>  The complete 8 bit ASCII code is at the end of this tutorial for your convenience.</p>
 <p> Once you have marked off the paper, count off the first eight bits, e.g. 10011101 and refer to the ASCII chart to find a character that fits it.  If you can't find one immediately, don't despair! Try using the complement of the 8-bit code in front of you (i.e. the reverse of what you've decoded. Instead of 10011101, try 01100010.). If you still have not found anything, slide your card over one bit and try to get another byte of ASCII. This time you may come up with 00111010 (complement 11000101).  Check it with the table.  Remeber, you may have to do this eight times (that is, shift a bit over eight times) before you make any sense out of it.  It is long and tedious, but it will pay off in the end.</p>
-<p> Note: this is illegal and is punishable under federal law.  I assume no responsibility for your actions, and neither does the operator of P-80.  This is presented for your information only.  If you have any questions, please leave me mail!......happy hacking!....<ent type='person'>Al Muick</ent>.</p>
+<p> Note: this is illegal and is punishable under federal law.  I assume no responsibility for your actions, and neither does the operator of P-80.  This is presented for your information only.  If you have any questions, please leave me mail!......happy hacking!....Al Muick.</p>
 <p>
 ASA LIVES FOREVER!!</p>
 <p>

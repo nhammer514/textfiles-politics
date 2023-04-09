@@ -1,5 +1,5 @@
 <xml><p>This file is the abstracts or text of 26 articles with references to the
-<ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent>'s participation in the Inslaw scandal. There are also
+<ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent>'s participation in <ent type='ORG'>the Inslaw</ent> scandal. There are also
 references to Danny Casolaro's mysterious death (spelled murder). The
 articles were published in 1991 and 1992.</p>
 
@@ -7,7 +7,7 @@ articles were published in 1991 and 1992.</p>
 
 <p>Copyrights belong to the corresponding journals.</p>
 
-<p> Journal: Newsbytes  March 5 1992
+<p> <ent type='ORG'>Journal</ent>: Newsbytes  March 5 1992
  ----------------------------------------------------------------------------
 Title:   <ent type='ORG'>Justice</ent> Dept. allegedly blocks Inslaw investigation.
 Author:  McCormick, John.
@@ -25,9 +25,9 @@ Topic:   Legal Issues
 Full Text:</p>
 
 <p>****<ent type='ORG'>Justice</ent> Dept Allegedly Blocks Inslaw Investigation 03/05/92 <ent type='GPE'>WASHINGTON</ent>,
-<ent type='GPE'>DC</ent>, U.S.A., 1992 MAR 5 (NB) -- According to a <ent type='ORG'><ent type='ORG'>CNN</ent> Business</ent> report today, the
+DC, U.S.A., 1992 MAR 5 (NB) -- According to a <ent type='ORG'>CNN Business</ent> report today, the
 U.S.  <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent> is harassing individuals who talk with investigators
-who are looking into the Inslaw software case.  Inslaw, a <ent type='GPE'>Washington</ent> based
+who are looking into <ent type='ORG'>the Inslaw</ent> software case.  Inslaw, a <ent type='GPE'>Washington</ent> based
 software company, has charged that <ent type='ORG'>the <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent></ent> made illegal copies
 of its <ent type='ORG'>PROMIS</ent> legal case tracking software and sold or gave it to various
 countries.</p>
@@ -35,7 +35,7 @@ countries.</p>
 <p>Former Attorney General and defeated <ent type='GPE'>Pennsylvania</ent> candidate for the U.S.
 <ent type='ORG'>Senate</ent>, Richard Thornburgh, fought a futile battle to keep congressional
 investigators from obtaining <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent> files relating to the case,
-and although a spokesperson for <ent type='ORG'>the <ent type='ORG'>Department</ent> of <ent type='ORG'>Justice</ent></ent> is saying that
+and although a spokesperson for <ent type='ORG'>the Department</ent> of <ent type='ORG'>Justice</ent> is saying that
 current head William P. Barr has ordered <ent type='ORG'>Department</ent> employees to provide
 "full support" to the investigation, <ent type='ORG'>CNN</ent> reports that Judge Bua said he is
 aware of the allegations that <ent type='ORG'>Justice</ent> is harassing people who talk to his
@@ -56,24 +56,24 @@ million award to the small ($6 million gross) company was overturned on a
 technicality.</p>
 
 <p>More recently there have been suspicions voiced that the death of James D.
-"Danny" Casolaro, a freelance writer who was investigating the Inslaw case,
+"Danny" Casolaro, a freelance writer who was investigating <ent type='ORG'>the Inslaw</ent> case,
 was not a suicide as originally reported.</p>
 
 <p>(John McCormick/19920305)</p>
 
-<p> Journal: Government Computer News  Feb 17 1992 v11 n4 p10(1)
+<p> <ent type='ORG'>Journal</ent>: Government Computer News  Feb 17 1992 v11 n4 p10(1)
 -----------------------------------------------------------------------------
 Title:   Writing is on the wall for the move to open systems. (U.S. <ent type='ORG'>Justice</ent>
    <ent type='ORG'>Department</ent> Information Resources Management Chief Roger M. Cooper)
    (<ent type='ORG'>GCN</ent> Interview) (Interview)
 Author:  Quindlen, Terrey Hatcher.</p>
 
-<p>Summary: <ent type='GPE'>US</ent> <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent> Information Resources Management (<ent type='ORG'>IRM</ent>) Chief
+<p>Summary: US <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent> Information Resources Management (<ent type='ORG'>IRM</ent>) Chief
    Roger M. Cooper has guided the department toward embracing open
    systems.  Currently, the department is putting together a policy
    paper that addresses multiuser systems below the level of
    mainframes.  Cooper would like systems to comply with Posix and to
-   use <ent type='ORG'>the Government Open <ent type='ORG'>Systems</ent> Interconnection Profile</ent>.  The
+   use <ent type='ORG'>the Government Open Systems Interconnection Profile</ent>.  The
    local area network standard will be the 10M-bps twisted-pair
    Ethernet servers and the word processing standard will be Word
    Perfect Corp's WordPerfect 5.1 software package.  Cooper and his
@@ -140,7 +140,7 @@ it.  That was before it got protested.  But that's the way it goes.</p>
 <p>I think <ent type='ORG'>GSA</ent>'s proposed policy of leaving 10 percent of certain big
 procurements for other agencies is a good idea.  We had a very good
 experience at <ent type='ORG'>the Farmers Home Administration</ent>.  We had some AT&amp;T 3B2
-computers we got through a big office automation contract.  <ent type='ORG'>The <ent type='ORG'>Air Force</ent></ent>'s
+computers we got through a big office automation contract.  <ent type='ORG'>The Air Force</ent>'s
 AFCAC 251 had a similar set of hardware and software.  But there was a big
 difference in the prices.</p>
 
@@ -153,7 +153,7 @@ think it's a good idea.  So I'm glad <ent type='ORG'>GSA</ent>'s doing it.</p>
 
 <p>The down side is if you've got a tightly integrated system and someone picks
 out one part of it and says, "Gee, you can buy a PC cheaper here."  Certainly
-some of the criticism we've had on our <ent type='ORG'>Project <ent type='ORG'>Eagle</ent></ent> microcomputers is not
+some of the criticism we've had on our <ent type='ORG'>Project Eagle</ent> microcomputers is not
 fair.  It's all bundled up with software and everything.</p>
 
 <p>You've got to be careful that you're not cream-skimming on the whole thing.
@@ -199,7 +199,7 @@ automatically.</p>
 <p><ent type='ORG'>GCN</ent>:  Last year, <ent type='ORG'>GAO</ent> said the U.S.  attorneys' offices were not getting
 enough training in <ent type='ORG'>sec</ent>urity procedures.  This year the <ent type='ORG'>House</ent> Government
 Operations Subcommittee on Government Information, <ent type='ORG'>Justice</ent> and <ent type='ORG'>Agriculture</ent>
-said sensitive data in <ent type='ORG'>the Bureau of Prisons Sentry</ent> system was not getting
+said sensitive data in <ent type='ORG'>the Bureau</ent> of Prisons Sentry system was not getting
 adequate protection.  Do you think those situations have improved?</p>
 
 <p><ent type='ORG'>COOPER</ent>: I don't necessarily agree with their assessment, but we've improved
@@ -214,8 +214,8 @@ U.S.  attorneys' offices.  Anytime they do communications outside the
 controlled area, we're using some encryption.  It's not classified data, but
 it's certainly very sensitive.</p>
 
-<p><ent type='ORG'>GCN</ent>: How do you respond to the recent criticism of the <ent type='ORG'>Project <ent type='ORG'>Eagle</ent></ent> office
-automation buy from <ent type='NORP'><ent type='NORP'>Democrat</ent>s</ent> on <ent type='ORG'>the <ent type='ORG'>House</ent> <ent type='ORG'>Judiciary</ent> Committee</ent>?</p>
+<p><ent type='ORG'>GCN</ent>: How do you respond to the recent criticism of the <ent type='ORG'>Project Eagle</ent> office
+automation buy from <ent type='NORP'>Democrats</ent> on <ent type='ORG'>the <ent type='ORG'>House</ent> <ent type='ORG'>Judiciary</ent> Committee</ent>?</p>
 
 <p><ent type='ORG'>COOPER</ent>: A great many reports have a particular political spin out there.
 I've heard the arguments about the particular spin on the thing, but that's
@@ -265,7 +265,7 @@ software.  Have you met with Judge Nicholas J. Bua, the special counsel the
 attorney general appointed to investigate Inslaw's claim that <ent type='ORG'>Justice</ent> stole
 copies of <ent type='NORP'>Promis</ent> and tried to drive the company into bankruptcy?</p>
 
-<p><ent type='ORG'>COOPER</ent>: I have not met him.  He has not talked to me.  Most of the Inslaw
+<p><ent type='ORG'>COOPER</ent>: I have not met him.  He has not talked to me.  Most of <ent type='ORG'>the Inslaw</ent>
 thing happened years and years ago.  It has gone to numerous courts.  Our
 position all along has been that it's a contract dispute that's gotten out of
 hand.</p>
@@ -286,7 +286,7 @@ move to open systems without throwing the baby out with the bathwater.</p>
 <ent type='ORG'>IBM</ent>-compatible mainframe background, yet I've found great interest in going
 to open systems.  I think the handwriting is on the wall.</p>
 
-<p>Journal: Government Computer News  Jan 20 1992 v11 n2 p4(1)
+<p><ent type='ORG'>Journal</ent>: Government Computer News  Jan 20 1992 v11 n2 p4(1)
  -----------------------------------------------------------------------------
 Title:   Inslaw owners vow to continue software battle. (<ent type='ORG'>Inslaw Inc</ent>.
    battles U.S. <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent>) (Brief Article)
@@ -303,19 +303,19 @@ Topic:   Legal Issues
 <p>-----------------------------------------------------------------------------
 Full Text:</p>
 
-<p>Even though <ent type='ORG'>the <ent type='ORG'>Supreme Court</ent></ent> last week decided not to hear <ent type='ORG'>Inslaw Inc</ent>.'s
+<p>Even though <ent type='ORG'>the Supreme Court</ent> last week decided not to hear <ent type='ORG'>Inslaw Inc</ent>.'s
 complaint against <ent type='ORG'>the <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent></ent>, the company's owners said they will
 not give up their fight over rights to the <ent type='NORP'>Promis</ent> case management software.</p>
 
 <p>Inslaw owners Nancy B. and William A. Hamilton said they plan to file a new
 suit against <ent type='ORG'>the <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent></ent>, probably in the U.S.  <ent type='ORG'>District Court</ent> for
-<ent type='ORG'>the District of Columbia</ent>.  The Hamiltons have alleged that <ent type='ORG'>Justice</ent> officials
+<ent type='ORG'>the District</ent> of Columbia.  The Hamiltons have alleged that <ent type='ORG'>Justice</ent> officials
 stole versions of the company's <ent type='NORP'>Promis</ent> software and tried to force Inslaw
 into bankruptcy.</p>
 
 <p>"If you don't punish wrongdoing, it's going to come and bite you again,"
 William Hamilton said last week at a briefing sponsored by Federal Sources
-Inc., a consulting firm in McLean, <ent type='GPE'>Va</ent>.</p>
+Inc., a consulting firm in McLean, Va.</p>
 
 <p><ent type='ORG'>Justice</ent> spokesman Joseph <ent type='GPE'>Krovisky</ent> said the department had no comment on the
 <ent type='ORG'>Supreme Court</ent> decision nor on the prospect of more litigation.</p>
@@ -328,7 +328,7 @@ retired judge, to act as a special counsel to investigate the Hamilton's
 money, but surveillance of foreign governments might have been another
 motive.</p>
 
-<p>He said he has been told that the <ent type='NORP'><ent type='GPE'>Iraq</ent>is</ent>, <ent type='ORG'>the Royal <ent type='NORP'>Canadian</ent> Mounted Police</ent>
+<p>He said he has been told that the <ent type='NORP'>Iraqis</ent>, <ent type='ORG'>the Royal Canadian Mounted Police</ent>
 and <ent type='NORP'>British</ent> intelligence have had <ent type='NORP'>Promis</ent> software installed on their
 computers.</p>
 
@@ -353,9 +353,9 @@ governments, William Hamilton said.</p>
 <p>The company also sells software for legal and insurance workload management
 as well as <ent type='NORP'>Promis</ent>.</p>
 
-<p>Journal: Newsbytes  Jan 14 1992
+<p><ent type='ORG'>Journal</ent>: Newsbytes  Jan 14 1992
 -----------------------------------------------------------------------------
-Title:   <ent type='ORG'>Supreme Court</ent> denies Inslaw petition. (court case against <ent type='GPE'>US</ent>
+Title:   <ent type='ORG'>Supreme Court</ent> denies Inslaw petition. (court case against US
    <ent type='ORG'>Department</ent> of <ent type='ORG'>Justice</ent>)
 Author:  McCormick, John.
 -----------------------------------------------------------------------------
@@ -371,7 +371,7 @@ Topic:   Government Agency
 <p>-----------------------------------------------------------------------------
 Full Text:</p>
 
-<p>****<ent type='ORG'>Supreme Court</ent> Denies Inslaw Petition 01/14/92 <ent type='GPE'>WASHINGTON</ent>, <ent type='GPE'>DC</ent>, U.S.A.,
+<p>****<ent type='ORG'>Supreme Court</ent> Denies Inslaw Petition 01/14/92 <ent type='GPE'>WASHINGTON</ent>, DC, U.S.A.,
 1992 JAN 14 (NB) -- The U.S.  <ent type='ORG'>Supreme Court</ent> has refused to reinstate the
 nearly $8 million fine which Inslaw had won against the U.S.  <ent type='ORG'>Justice</ent>
 <ent type='ORG'>Department</ent> in earlier cases.</p>
@@ -387,19 +387,19 @@ company had sued and won its case, but in the wrong court.</p>
 <p>The ball is now back in Inslaw's court and the company has expressed
 confidence that a retrial in the correct court will again result in its
 winning a major award against the U.S.  government.  The <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent>
-would not comment on <ent type='ORG'>the <ent type='ORG'>Supreme Court</ent></ent>'s decision or Inslaw's statement that
+would not comment on <ent type='ORG'>the Supreme Court</ent>'s decision or Inslaw's statement that
 it would continue to pursue the case.</p>
 
 <p>(John McCormick/19920114)</p>
 
-<p> Journal: Newsbytes  Dec 6 1991
+<p> <ent type='ORG'>Journal</ent>: Newsbytes  Dec 6 1991
  ----------------------------------------------------------------------------
 Title:   Suspect <ent type='ORG'>TISOFT</ent> contract given <ent type='ORG'>Eagle</ent>-eye. (<ent type='GPE'>United States</ent>'
    <ent type='ORG'>Department</ent> of <ent type='ORG'>Justice</ent> contract)
 Author:  McCormick, John.
 -----------------------------------------------------------------------------
 Descriptors..
-Company: <ent type='ORG'>TiSoft Inc</ent>. (<ent type='ORG'>Contra</ent>cts).
+Company: TiSoft Inc. (<ent type='ORG'>Contra</ent>cts).
 Topic:   Investigations
    Government <ent type='ORG'>Contra</ent>cts
    Government Agency
@@ -410,7 +410,7 @@ Topic:   Investigations
 <p>-----------------------------------------------------------------------------
 Full Text:</p>
 
-<p>****Suspect <ent type='ORG'>TISOFT</ent> <ent type='ORG'>Contra</ent>ct Given <ent type='ORG'>Eagle</ent>-Eye 12/06/91 <ent type='GPE'>WASHINGTON</ent>, <ent type='GPE'>DC</ent>, U.S.A.,
+<p>****Suspect <ent type='ORG'>TISOFT</ent> <ent type='ORG'>Contra</ent>ct Given <ent type='ORG'>Eagle</ent>-Eye 12/06/91 <ent type='GPE'>WASHINGTON</ent>, DC, U.S.A.,
 1991 <ent type='ORG'>DEC</ent> 6 (NB) -- <ent type='ORG'>Eagle</ent>, a multi- billion dollar computer system being
 installed by the U.S.  <ent type='ORG'>Department</ent> of <ent type='ORG'>Justice</ent>, was apparently a gold-plated
 contract, according to a <ent type='ORG'>Congress</ent>ional investigation by <ent type='NORP'>Democrat</ent> Jack <ent type='ORG'>Brooks</ent>'
@@ -421,15 +421,15 @@ not the lowest but the <ent type='ORG'>sec</ent>ond highest bid.</p>
 <p>Among the charges investigated by the committee were a possible relationship
 between the <ent type='ORG'>Eagle</ent> computer system and <ent type='ORG'>INSLAW</ent>-like software which was
 originally specified for the system.  <ent type='ORG'>CNN</ent> reports that investigators contend
-<ent type='ORG'>the <ent type='ORG'>Department</ent> of <ent type='ORG'>Justice</ent></ent> gave the winning bidder, <ent type='ORG'>TISOFT</ent>, a $200000 payment
+<ent type='ORG'>the Department</ent> of <ent type='ORG'>Justice</ent> gave the winning bidder, <ent type='ORG'>TISOFT</ent>, a $200000 payment
 which was allegedly used to pay off losing bidders who would otherwise have
 contested the award to <ent type='ORG'>TISOFT</ent>.</p>
 
 <p>The committee is still holding hearings on the possible <ent type='ORG'>INSLAW</ent> connection but
 it has reported that the $200000 payment did take place and that, in its
-estimation, <ent type='ORG'>Justice</ent> paid $18 million too much for the <ent type='ORG'>Project <ent type='ORG'>Eagle</ent></ent> system.</p>
+estimation, <ent type='ORG'>Justice</ent> paid $18 million too much for the <ent type='ORG'>Project Eagle</ent> system.</p>
 
-<p>In a televised interview seen on Friday's <ent type='ORG'><ent type='ORG'>CNN</ent> Business</ent> Morning, <ent type='GPE'>Texas</ent>' 9th
+<p>In a televised interview seen on Friday's <ent type='ORG'>CNN Business</ent> Morning, <ent type='GPE'>Texas</ent>' 9th
 District Representative Jack <ent type='ORG'>Brooks</ent> stated, "We didn't find them stealing any
 money, of course - we found ...  neglect.  It took <ent type='ORG'>the <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent></ent> two
 and one-half years to award a contract for equipment that was available in
@@ -450,10 +450,10 @@ said that the payoffs were legal.</p>
 <p>(John McCormick/19911206/Press Contact: Jack <ent type='ORG'>Brooks</ent>, 202-225-6565 or fax
 202-225-1584)</p>
 
-<p>Journal: Government Computer News  Nov 25 1991 v10 n24 p60(1)
+<p><ent type='ORG'>Journal</ent>: Government Computer News  Nov 25 1991 v10 n24 p60(1)
 -----------------------------------------------------------------------------
 Title:   Special counsel appointed to review Inslaw claims. (<ent type='ORG'>Justice</ent>
-   <ent type='ORG'>Department</ent> investigation involving Inslaw Corp.)
+   <ent type='ORG'>Department</ent> investigation involving <ent type='ORG'>Inslaw Corp</ent>.)
 Author:  Quindlen, Terrey Hatcher.</p>
 
 <p>Summary: The <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent> will investigate allegations by <ent type='ORG'>Inslaw Inc</ent>
@@ -489,7 +489,7 @@ claims, Nancy Hamilton expressed doubts about the outcome of such an
 investigation.</p>
 
 <p>A special pro<ent type='ORG'>sec</ent>utor appointed outside the department is sorely needed, she
-said.  It is unreasonable "to think that <ent type='ORG'>the <ent type='ORG'>Department</ent> of <ent type='ORG'>Justice</ent></ent> could
+said.  It is unreasonable "to think that <ent type='ORG'>the Department</ent> of <ent type='ORG'>Justice</ent> could
 investigate itself," she said.</p>
 
 <p>For nearly eight years, the Hamiltons have been fighting to get compensation
@@ -498,14 +498,14 @@ management software, <ent type='NORP'>Promis</ent>.</p>
 
 <p>The U.S.  <ent type='ORG'>Bankruptcy Court</ent> in 1987 found in Inslaw's favor and said <ent type='ORG'>Justice</ent>
 had tried to force the company into bankruptcy.  The following year, the U.S.
-<ent type='ORG'>District Court</ent> for <ent type='ORG'>the District of Columbia</ent> affirmed the bankruptcy court
+<ent type='ORG'>District Court</ent> for <ent type='ORG'>the District</ent> of Columbia affirmed the bankruptcy court
 ruling and awarded Inslaw $6 million.</p>
 
 <p>But in May, the U.S.  Appeals Court for D.C.  threw out those rulings, saying
 the bankruptcy court had exceeded its authority.</p>
 
 <p>Now Barr has asked Nicholas J. Bua, a retired federal judge for the Northern
-District of <ent type='GPE'>Illinois</ent>, to "review all the information related to the Inslaw
+District of <ent type='GPE'>Illinois</ent>, to "review all the information related to <ent type='ORG'>the Inslaw</ent>
 case and advise the attorney general of any further action that may be
 required," <ent type='ORG'>Justice</ent> spokesman Joseph <ent type='GPE'>Krovisky</ent> said.</p>
 
@@ -539,9 +539,9 @@ and the power of a grand jury," she said.</p>
 problems getting the information he needs, he can "lay out what the problem
 is and then request subpoena power from the attorney general," <ent type='GPE'>Krovisky</ent> said.</p>
 
-<p>Meanwhile, the Hamiltons have filed a petition asking <ent type='ORG'>the <ent type='ORG'>Supreme Court</ent></ent> to
+<p>Meanwhile, the Hamiltons have filed a petition asking <ent type='ORG'>the Supreme Court</ent> to
 consider their case.  "We're hoping that there will be a decision sometime
-before the end of the year" on whether <ent type='ORG'>the <ent type='ORG'>Supreme Court</ent></ent> will hear the case,
+before the end of the year" on whether <ent type='ORG'>the Supreme Court</ent> will hear the case,
 Hamilton said.</p>
 
 <p>On the congressional front, <ent type='ORG'>the <ent type='ORG'>House</ent> <ent type='ORG'>Judiciary</ent> Committee</ent> still has the
@@ -551,7 +551,7 @@ Thornburgh resigned, several documents relating to Inslaw had not been turned
 over.  The committee chairman, Rep.  Jack <ent type='ORG'>Brooks</ent> (D-<ent type='GPE'>Texas</ent>), has not said how
 he will proceed.</p>
 
-<p> Journal: Newsbytes  Nov 15 1991
+<p> <ent type='ORG'>Journal</ent>: Newsbytes  Nov 15 1991
  -----------------------------------------------------------------------------
 Title:   Special counsel appointed in Inslaw case. (Nicholas J. Bua)
 Author:  McCormick, John.
@@ -568,14 +568,14 @@ Topic:   Investigations
 <p>-----------------------------------------------------------------------------
 Full Text:</p>
 
-<p>Special Counsel Appointed in Inslaw Case 11/15/91 <ent type='GPE'>WASHINGTON</ent>, <ent type='GPE'>DC</ent>, U.S.A.,
+<p>Special Counsel Appointed in Inslaw Case 11/15/91 <ent type='GPE'>WASHINGTON</ent>, DC, U.S.A.,
 1991 NOV 15 (NB) -- Just a few days after the White <ent type='ORG'>House</ent> suffered a major
 public defeat when its hand- picked <ent type='ORG'>Senate</ent> candidate for <ent type='GPE'>Pennsylvania</ent>, former
 Attorney General Richard Thornburgh, who had blocked all investigations into
-the Inslaw/<ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent> scandal, was defeated by Harris Wofford,
+<ent type='ORG'>the Inslaw</ent>/<ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent> scandal, was defeated by Harris Wofford,
 President Bush's Attorney General-designate, William P. Barr, has appointed a
 special counsel to look into charges that <ent type='ORG'>the <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent></ent> defrauded
-and attempted to bankrupt the Inslaw company.</p>
+and attempted to bankrupt <ent type='ORG'>the Inslaw</ent> company.</p>
 
 <p>Allegations surround Inslaw and claims that <ent type='ORG'>the <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent></ent> and
 intelligence agencies illegally copied, modified, and sold the law
@@ -591,7 +591,7 @@ on to tell the <ent type='ORG'>Senate</ent> that he had appointed retired U.S.  
 Nicholas J. Bua (<ent type='GPE'>Chicago</ent>) to investigate the situation which goes back to
 1984.  Judge Bua was a <ent type='NORP'>Democrat</ent>ic appointee to the bench.</p>
 
-<p>The U.S.  <ent type='ORG'>House</ent> of Representatives tried to investigate the Inslaw case last
+<p>The U.S.  <ent type='ORG'>House</ent> of Representatives tried to investigate <ent type='ORG'>the Inslaw</ent> case last
 year when <ent type='ORG'>House</ent> <ent type='ORG'>Judiciary</ent> Committee Chairman Jack <ent type='ORG'>Brooks</ent> (D-Tex.) subpoenaed
 <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent> documents which former Attorney General Thornburgh only
 grudgingly released early this year.</p>
@@ -599,11 +599,11 @@ grudgingly released early this year.</p>
 <p>A court had earlier found <ent type='ORG'>the <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent></ent> guilty of "fraud, deceit,
 and trickery" and awarded Inslaw $8 million in damages, but that ruling was
 overturned on a minor technicality by another court and the case is now being
-put before <ent type='ORG'>the <ent type='ORG'>Supreme Court</ent></ent>.</p>
+put before <ent type='ORG'>the Supreme Court</ent>.</p>
 
 <p>(John McCormick/19911115)</p>
 
-<p> Journal: Newsbytes  Sept 24 1991
+<p> <ent type='ORG'>Journal</ent>: Newsbytes  Sept 24 1991
    * Full Text COPYRIGHT Newsbytes Inc. 1991.
 -----------------------------------------------------------------------------
 Title:   Wackenhut denies Inslaw connection.
@@ -630,7 +630,7 @@ between Wackenhut and the so-called "Inslaw case."</p>
 
 <p>Wackenhut's name has come up consistently in relation to claims made by
 Michael Riconosciuto that he, while a research director for a joint venture
-between Wackenhut and the <ent type='ORG'>Cabazon</ent> <ent type='NORP'><ent type='NORP'>Indian</ent>s</ent>, modified a stolen copy of Inslaw's
+between Wackenhut and the <ent type='ORG'>Cabazon</ent> <ent type='NORP'>Indians</ent>, modified a stolen copy of Inslaw's
 <ent type='NORP'>Promis</ent> software for sale by Earl Brian to the <ent type='NORP'>Canadian</ent> government.  These
 claims, which surfaced most recently in a <ent type='ORG'>Village Voice</ent> article by James
 Ridgeway ("Software To Die For", <ent type='ORG'>Village Voice</ent>, September 24th), also portray
@@ -646,29 +646,29 @@ this are common in this type of business but his proposals were never
 accepted."</p>
 
 <p>Cannan, continued, commenting on the relationship of Wackenhut and the
-<ent type='ORG'>Cabazon</ent> <ent type='NORP'><ent type='NORP'>Indian</ent>s</ent>, saying: "We were involved in a joint venture in the early
+<ent type='ORG'>Cabazon</ent> <ent type='NORP'>Indians</ent>, saying: "We were involved in a joint venture in the early
 1980s.  The purpose of the venture was to attempt to obtain contracts in our
-base business - the <ent type='ORG'>sec</ent>urity business.  The <ent type='NORP'><ent type='NORP'>Indian</ent>s</ent>, I guess because of their
+base business - the <ent type='ORG'>sec</ent>urity business.  The <ent type='NORP'>Indians</ent>, I guess because of their
 minority status, were believed to have good opportunities of obtaining this
 type of contract.  It turned out that we never got any contracts and, after
 two years, the venture was cancelled."</p>
 
 <p>The Inslaw case involves the alleged theft of software by the <ent type='ORG'>Justice</ent>
-Deptartment from <ent type='ORG'>the Inslaw Corp</ent>. and, has grown from a tile and bankruptcy
+Deptartment from the <ent type='ORG'>Inslaw Corp</ent>. and, has grown from a tile and bankruptcy
 case to one that includes allegations of sales of the software to foreign
 governments (such as <ent type='GPE'>Canada</ent>, <ent type='GPE'>Iraq</ent>, <ent type='GPE'>South Korea</ent>, <ent type='GPE'>Libya</ent> and <ent type='GPE'>Israel</ent>) by such
-Watergate figures as Robert <ent type='ORG'>McFarlane</ent> and Richard Secord.</p>
+Watergate figures as Robert McFarlane and Richard Secord.</p>
 
 <p>The case attracted more public attention following the apparent suicide death
 of journalist Joseph D. "Danny" Casolaro on mid-August in a <ent type='GPE'>Martinsburg</ent> motel
 room.  Casolaro had told friends that he had made connections between Inslaw,
-<ent type='ORG'><ent type='GPE'>Iran</ent><ent type='ORG'>Contra</ent></ent> and the so-called "October Surprise" (allegations that
-representatives of the Reagan-Bush campaign team had convinced the <ent type='NORP'><ent type='GPE'>Iran</ent>ian</ent>
+<ent type='GPE'>Iran</ent><ent type='ORG'>Contra</ent> and the so-called "October Surprise" (allegations that
+representatives of the Reagan-Bush campaign team had convinced the <ent type='NORP'>Iranian</ent>
 government to delay release of <ent type='NORP'>American</ent> hostages until after the 1980 U.S.
 elections).</p>
 
 <p>Casolaro also allegedly told his brother, that, if he reportedly had an
-accident, it was not to be believed.  Former <ent type='GPE'>US</ent> Attorney General Elliot
+accident, it was not to be believed.  Former US Attorney General Elliot
 Richardson, now attorney for Inslaw, has demanded a federal investigation of
 Casolaro's death and has been quoted that Inslaw "is far worse than
 Watergate."</p>
@@ -685,7 +685,7 @@ naval operations, and that might have lead to the incorrect rumor."</p>
 
 <p><ent type='ORG'>The Wackenhut Corp</ent>. is listed on <ent type='ORG'>the New York Stock Exchange</ent> (ticker symbol -
 WAK) and is a conglomerate with subsidiaries throughout the world, including
-<ent type='GPE'>Canada</ent>, <ent type='GPE'>Liberia</ent>, <ent type='GPE'>El Salvador</ent>, <ent type='GPE'>Paraguay</ent>, <ent type='GPE'>Costa Rica</ent>, <ent type='GPE'>Australia</ent>, and Central
+<ent type='GPE'>Canada</ent>, <ent type='GPE'>Liberia</ent>, El Salvador, <ent type='GPE'>Paraguay</ent>, <ent type='GPE'>Costa Rica</ent>, <ent type='GPE'>Australia</ent>, and Central
 Europe.  Its enterprises include the providing of <ent type='ORG'>sec</ent>urity and investigative
 services to business, management of correctional facilities, nuclear material
 auditing, training of <ent type='ORG'>sec</ent>urity and fire and crash rescue personnel, and the
@@ -694,25 +694,25 @@ firm, a travel service and an airline services company.</p>
 
 <p>(Barbara E. McMullen &amp; John F. McMullen/19910924)</p>
 
-<p>Journal: <ent type='ORG'>The New York <ent type='ORG'>Times</ent></ent>  Sept 3 1991 v140 pA17(N) pD12(L) 27 col in.
+<p><ent type='ORG'>Journal</ent>: <ent type='ORG'>The New York Times</ent>  Sept 3 1991 v140 pA17(N) pD12(L) 27 col in.
 -----------------------------------------------------------------------------
 Title:   As U.S. battles computer company, writer takes vision of evil to
-   grave. (the Inslaw case)(Danny Casolaro)
+   grave. (<ent type='ORG'>the Inslaw</ent> case)(Danny Casolaro)
 Author:  Ayres, B. Drummond, Jr.</p>
 
 <p>Summary: The mysterious death of Danny Casolaro, a novelist and magazine
    writer, generates attention to the long-running <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent>
-   vs <ent type='ORG'>Inslaw Inc</ent> court case.  Inslaw, a small <ent type='GPE'>Washington</ent> <ent type='GPE'>DC</ent>-based
+   vs <ent type='ORG'>Inslaw Inc</ent> court case.  Inslaw, a small <ent type='GPE'>Washington</ent> DC-based
    software company, has accused <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent> officials of
    fraud and theft.  Officials allegedly schemed to steal Inslaw's
    software that was developed for tracking the government's record
    of criminal cases, and withheld payments on the pretext of
    contract violations, thereby driving Inslaw to insolvency.  The
    <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent> denies the allegations.  Casolaro, who was
-   openly investigating the case, reportedly believed the Inslaw case
+   openly investigating the case, reportedly believed <ent type='ORG'>the Inslaw</ent> case
    was part of a government-wide scandal involving Reagan
    administration officials.  Inslaw's lawyer, Elliot L. Richardson,
-   has called for an investigation on Casolaro's death and the Inslaw
+   has called for an investigation on Casolaro's death and <ent type='ORG'>the Inslaw</ent>
    case.
 -----------------------------------------------------------------------------
 Descriptors..
@@ -724,7 +724,7 @@ Topic:   Court Cases
    Fraud.
 Person:  Casolaro, Joseph D. (Biography).</p>
 
-<p>Journal: Newsbytes  August 27 1991
+<p><ent type='ORG'>Journal</ent>: Newsbytes  August 27 1991
 -----------------------------------------------------------------------------
 Title:   Casolaro source charges gov't procurement scandal. (William
    Turner; James D. Casolaro died while investigating charges of
@@ -748,7 +748,7 @@ Full Text:</p>
 <p>****CASOLARO SOURCE CHARGES GOV'T PROCUREMENT SCANDAL 08/27/91 <ent type='GPE'>WASHINGTON</ent>,
 D.C., U.S.A., 1991 AUG 27 (NB) -- "Bill," the mysterious Newsbytes source who
 met with investigative journalist James D. "Danny" Casolaro on the night
-before Casolaro's death in a <ent type='GPE'>Martinsburg</ent>, W. <ent type='GPE'>VA</ent> motel, has come forward on
+before Casolaro's death in a <ent type='GPE'>Martinsburg</ent>, W. VA motel, has come forward on
 the August 26th "Inside Edition" television show and discussed his meeting
 with Casolaro.</p>
 
@@ -789,7 +789,7 @@ tapped."</p>
 Richardson's law firm, which is also representing <ent type='ORG'>Inslaw Inc</ent>., the firm whose
 charges against the <ent type='ORG'>Justice</ent> Dept.  has been a major subject of Casolaro's
 investigation.  According to Turner, the law firm has advised him to refuse
-to discuss the Casolaro death with the <ent type='GPE'>Martinsburg</ent>, W. <ent type='GPE'>VA</ent> police who have
+to discuss the Casolaro death with the <ent type='GPE'>Martinsburg</ent>, W. VA police who have
 been trying to contact him.  Turner, who criticized the police investigation
 of the death, said that he will discuss his meeting with Casolaro with the
 police when his attorneys are present.</p>
@@ -801,7 +801,7 @@ that Casolaro had received -- material that Casolaro felt would substantiate
 "Octopus" theory.  (According to friends of Casolaro, "octopus" referred to
 his belief that there was a connection between the various cases, or
 "tentacles," that he was investigating: Inslaw, government procurement,
-<ent type='ORG'><ent type='GPE'>Iran</ent><ent type='ORG'>Contra</ent></ent>, "October Surprise.")</p>
+<ent type='GPE'>Iran</ent><ent type='ORG'>Contra</ent>, "October Surprise.")</p>
 
 <p>Reports from the <ent type='GPE'>Martinsburg</ent> death scene did not report the finding of papers
 mentioned by Turner and their absence has led to charges that Casolaro met
@@ -824,10 +824,10 @@ federal court and that <ent type='ORG'>the <ent type='ORG'><ent type='ORG'>Justi
 inexcusable."</p>
 
 <p>During the appeal process, Inslaw broadened its charges to claim that <ent type='GPE'>Iran</ent>
-<ent type='ORG'>Contra</ent> figures Robert <ent type='ORG'>McFarlane</ent> and Richard Secord had played a role is
+<ent type='ORG'>Contra</ent> figures Robert McFarlane and Richard Secord had played a role is
 disseminating the software to intelligence agencies of <ent type='GPE'>Israel</ent>, <ent type='GPE'>Libya</ent>, <ent type='GPE'>Iraq</ent>,
 <ent type='GPE'>South Korea</ent>, and <ent type='GPE'>Canada</ent>.  These charges, substantiated by Ari Ben-Menashe,
-who claims to be a former <ent type='GPE'>Israel</ent>i intelligence officer, <ent type='NORP'><ent type='GPE'>Iran</ent>ian</ent> arms dealer
+who claims to be a former <ent type='GPE'>Israel</ent>i intelligence officer, <ent type='NORP'>Iranian</ent> arms dealer
 Richard Babayan, and Michael Riconosciuto, who said that he was hired to
 modify the software for use in law enforcement and intelligence agencies
 worldwide, led to a investigation of the case by the <ent type='ORG'>House</ent> <ent type='ORG'>Judiciary</ent>
@@ -840,7 +840,7 @@ connection between Inslaw and his charges concerning Hughes.</p>
 
 <p>(Barbara E. McMullen &amp; John F. McMullen/19910827)</p>
 
-<p>Journal: Newsbytes  August 22 1991
+<p><ent type='ORG'>Journal</ent>: Newsbytes  August 22 1991
 -----------------------------------------------------------------------------
 Title:   Inslaw "source" speaks to Newsbytes.
 Author:  McMullen, Barbara E.; McMullen, John F.
@@ -859,17 +859,17 @@ Full Text:</p>
 
 <p><ent type='ORG'>INSLAW</ent> "SOURCE" SPEAKS TO NEWSBYTES 08/22/91 <ent type='GPE'>WASHINGTON</ent>, D.C., U.S.A., 1991
 AUG 22 (NB) -- "Bill," the person who reportedly met with journalist James D.
-"Danny" Casolaro on the night before Casolaro's death in a <ent type='GPE'>Martinsburg</ent>, W. <ent type='GPE'>VA</ent>
+"Danny" Casolaro on the night before Casolaro's death in a <ent type='GPE'>Martinsburg</ent>, W. VA
 motel, has confirmed to Newsbytes that he provided Casolaro with evidence of
 U.S.  government malfeasance in the procurement of technology.</p>
 
 <p>Bill, speaking to Newsbytes under the promise of anonymity, said that
 Casolaro found this information to be related to Casolaro's year- long
-investigation of accusations made by the Inslaw, Inc. against the United
+investigation of accusations made by <ent type='ORG'>the Inslaw</ent>, Inc. against the United
 States <ent type='ORG'>Department</ent> of <ent type='ORG'>Justice</ent>.  Casolaro had told friends shortly before his
 death that he had taken to calling the investigation the "Octopus" because of
-connections that he had allegedly found between the Inslaw case and such
-things as "<ent type='ORG'><ent type='GPE'>Iran</ent><ent type='ORG'>Contra</ent></ent>," the "October Surprise," investigation and Bill's
+connections that he had allegedly found between <ent type='ORG'>the Inslaw</ent> case and such
+things as "<ent type='GPE'>Iran</ent><ent type='ORG'>Contra</ent>," the "October Surprise," investigation and Bill's
 charges.</p>
 
 <p>Bill, who is now scheduled to "go public" with his charges in an appearance
@@ -917,10 +917,10 @@ the proper federal court and that <ent type='ORG'>the <ent type='ORG'><ent type=
 occurred, is inexcusable."</p>
 
 <p>During the appeal process, Inslaw broadened its charges to claim that <ent type='GPE'>Iran</ent>
-<ent type='ORG'>Contra</ent> figures Robert <ent type='ORG'>McFarlane</ent> and Richard Secord had played a role is
+<ent type='ORG'>Contra</ent> figures Robert McFarlane and Richard Secord had played a role is
 disseminating the software to intelligence agencies of <ent type='GPE'>Israel</ent>, <ent type='GPE'>Libya</ent>, <ent type='GPE'>Iraq</ent>,
 <ent type='GPE'>South Korea</ent>, and <ent type='GPE'>Canada</ent>.  These charges, substantiated by Ari Ben-Menashe,
-who claims to be a former <ent type='GPE'>Israel</ent>i intelligence officer, <ent type='NORP'><ent type='GPE'>Iran</ent>ian</ent> arms dealer
+who claims to be a former <ent type='GPE'>Israel</ent>i intelligence officer, <ent type='NORP'>Iranian</ent> arms dealer
 Richard Babayan, and Michael Riconosciuto, who said that he was hired to
 modify the software for use in law enforcement and intelligence agencies
 worldwide, led to a investigation of the case by the <ent type='ORG'>House</ent> <ent type='ORG'>Judiciary</ent>
@@ -930,7 +930,7 @@ material relating to the case.  The investigation continues at this time.</p>
 
 <p>(Barbara E. McMullen &amp; John F. McMullen/1991082)</p>
 
-<p> Journal: Newsbytes  August 19 1991
+<p> <ent type='ORG'>Journal</ent>: Newsbytes  August 19 1991
  ----------------------------------------------------------------------------
 Title:   Inslaw death investigation continues. (death of reporter Joseph D.
    Casolaro investigating <ent type='ORG'>Inslaw Inc</ent>.'s suit against government)
@@ -947,11 +947,11 @@ Person:  Casolaro, Joseph D. (Biography).</p>
 <p>-----------------------------------------------------------------------------
 Full Text:</p>
 
-<p>****<ent type='ORG'>INSLAW</ent> DEATH INVESTIGATION CONTINUES 08/19/91 <ent type='ORG'>MARTINSBURG</ent>, WEST VIRGINIA,
+<p>****<ent type='ORG'>INSLAW</ent> DEATH INVESTIGATION CONTINUES 08/19/91 <ent type='ORG'>MARTINSBURG</ent>, <ent type='GPE'>WEST VIRGINIA</ent>,
 U.S.A., AUG 19 (NB) -- The <ent type='ORG'>Sheraton</ent> Inn in <ent type='GPE'>Martinsburg</ent>, West <ent type='GPE'>Virginia</ent>, the
 scene of the death of <ent type='GPE'>Washington</ent>, D.C.  journalist Joseph D. "Danny"
 Casolaro, has received more press attention than ever before in its history
-as reporters from ABC-TV, <ent type='ORG'>Newsbytes News Network</ent>, and the <ent type='GPE'>Washington</ent> <ent type='ORG'>Post</ent>
+as reporters from <ent type='ORG'>ABC</ent>-TV, <ent type='ORG'>Newsbytes News Network</ent>, and the <ent type='GPE'>Washington</ent> <ent type='ORG'>Post</ent>
 roamed the halls interrogating bell-hops, waitresses, and desk clerks for
 information regarding the death of Casolaro.</p>
 
@@ -967,11 +967,11 @@ driven the firm into bankruptcy.  Casolaro had told friends and family that
 he was about to receive material that would provide him with documentation
 linking Inslaw to other alleged incidents of Reagan-Bush administration
 wrong-doing.  Casolaro was said to have referred to the alleged conspiracy as
-the "Octopus" and stated that there were links between the Inslaw theft, the
+the "Octopus" and stated that there were links between <ent type='ORG'>the Inslaw</ent> theft, the
 "October Surprise," and <ent type='GPE'>Iran</ent>- <ent type='ORG'>Contra</ent> allegations.</p>
 
 <p>The "October surprise" refers to allegations that representatives of the
-Reagan-Bush campaign team, through meetings with <ent type='NORP'><ent type='GPE'>Iran</ent>ian</ent> representatives,
+Reagan-Bush campaign team, through meetings with <ent type='NORP'>Iranian</ent> representatives,
 delayed the release of the hostages in <ent type='GPE'>Iran</ent> until after the 1980 elections.
 These charges are currently being investigated by <ent type='ORG'>Congress</ent>ional committee.</p>
 
@@ -979,7 +979,7 @@ These charges are currently being investigated by <ent type='ORG'>Congress</ent>
 Saturday, August 10th, two days after his arrival in <ent type='GPE'>Martinsburg</ent>.  He was
 found in the bathtub at approximately 1:00 pm with both wrists slashed.  His
 body was released within three hours to a local funeral parlor for embalming,
-an action that <ent type='ORG'><ent type='GPE'>Berkeley County</ent> Medical</ent> Examiner Sandra Brining was quoted as
+an action that <ent type='ORG'>Berkeley County Medical</ent> Examiner Sandra Brining was quoted as
 saying was normal in the case of a suicide.  "Everything was consistent with
 a self-inflicted wound."</p>
 
@@ -991,7 +991,7 @@ it." Dr. Casolaro also discounted statements made by his brother in a letter
 to a publisher in which he seemed financially strapped and despondent.  Dr.
 Casolaro attributed Casolaro's remarks to a desire to convince the would-be
 publisher of the importance of extending a book contract to him.  Casolaro
-had been immersed in the Inslaw case for over a year and had been
+had been immersed in <ent type='ORG'>the Inslaw</ent> case for over a year and had been
 unsuccessful in two proposals to the publishing firm of Little, Brown &amp; Co.</p>
 
 <p>The clamor for a fuller investigation caused an autopsy to be subsequently
@@ -1008,21 +1008,21 @@ would be continued.  Brining and Gaither also participated in the hour-long
 press conference held in the meeting room of the <ent type='GPE'>Martinsburg</ent> City Council.</p>
 
 <p>Newsbytes has obtained conflicting reports on the state of Casolaro's mental
-condition.  A <ent type='GPE'>California</ent> free-lance journalist, <ent type='GPE'>Virginia</ent> <ent type='ORG'>McCullough</ent>, with
+condition.  A <ent type='GPE'>California</ent> free-lance journalist, <ent type='GPE'>Virginia</ent> McCullough, with
 whom Casolaro had allegedly shared information, told Newsbytes, "It is
 ludicrous to think that Danny took his life.  He was excited about his new
 contact and said that 'For the first time I really believe that the
-government was involved.'" <ent type='ORG'>McCullough</ent>, herself, claims to be the victim of a
+government was involved.'" McCullough, herself, claims to be the victim of a
 government action that drove her electronics firm into bankruptcy and she is
 presently writing a book on her case and other similar cases, including
 Inslaw.</p>
 
-<p><ent type='ORG'>McCullough</ent>'s comments on the unlikelihood of a Casolaro suicide were echoed
+<p>McCullough's comments on the unlikelihood of a Casolaro suicide were echoed
 in quotes from Pat Clawson, president of <ent type='GPE'>Washington</ent>- based Metrowest
 Broadcasting Co., and Richard O'<ent type='ORG'>Connell</ent>, editor of the <ent type='GPE'>Washington</ent> Crime News,
-a newsletter published in <ent type='GPE'>Arlington</ent>, <ent type='GPE'>VA</ent>.  Nancy Hamilton, vice president of
+a newsletter published in <ent type='GPE'>Arlington</ent>, VA.  Nancy Hamilton, vice president of
 Inslaw, also took issue with the suicide finding telling the <ent type='GPE'>Martinsburg</ent>
-Morning Journal, "We don't accept that.  They are saying that here is a man,
+Morning <ent type='ORG'>Journal</ent>, "We don't accept that.  They are saying that here is a man,
 totally sober, mutilating himself."</p>
 
 <p><ent type='GPE'>Martinsburg</ent> residents interviewed by Newsbytes paint a slightly different
@@ -1055,7 +1055,7 @@ documentation.</p>
 <p>The so-called "Inslaw Case" began in 1982 when Inslaw signed a $10 million
 contract to provide an enhanced version of its case tracking software to the
 U.S.  <ent type='ORG'>Department</ent> of <ent type='ORG'>Justice</ent>.  According to Inslaw, shortly after it rebuffed
-attempts by a company owned by Earl Brian, a close friend of former <ent type='GPE'>US</ent>.
+attempts by a company owned by Earl Brian, a close friend of former US.
 Attorney General Edwin Meese, to buy Inslaw, the government stopped its
 contract payments and eventually forced the firm into bankruptcy.  In January
 1988, a federal bankruptcy judge upheld the claims of Inslaw President
@@ -1070,19 +1070,19 @@ said that Hamilton was free to pursue his claims in the proper federal court
 and that <ent type='ORG'>the <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent></ent>'s "conduct, if it occurred, is inexcusable."</p>
 
 <p>During the appeal process, Inslaw broadened its charges to claim that <ent type='GPE'>Iran</ent>
-<ent type='ORG'>Contra</ent> figures Robert <ent type='ORG'>McFarlane</ent> and Richard Secord had played a role is
+<ent type='ORG'>Contra</ent> figures Robert McFarlane and Richard Secord had played a role is
 disseminating the software to intelligence agencies of <ent type='GPE'>Israel</ent>, <ent type='GPE'>Libya</ent>, <ent type='GPE'>Iraq</ent>,
 <ent type='GPE'>South Korea</ent>, and <ent type='GPE'>Canada</ent>.  These charges were substantiated by Ari
-Ben-Menashe, who claims to be a former <ent type='GPE'>Israel</ent>i intelligence officer, <ent type='NORP'><ent type='GPE'>Iran</ent>ian</ent>
+Ben-Menashe, who claims to be a former <ent type='GPE'>Israel</ent>i intelligence officer, <ent type='NORP'>Iranian</ent>
 arms dealer Richard Babayan, and Michael Riconosciuto, who said that he was
 hired to modify the software for use in law enforcement and intelligence
 agencies worldwide.</p>
 
 <p>Riconosciuto, who was arrested in March of this year and is being held in the
 state of <ent type='GPE'>Washington</ent>, also claimed to be involved in a now-defunct joint
-venture between the Wachenhut Corp. of Coral Gables, FL and the <ent type='NORP'>Southern</ent>
+venture between <ent type='ORG'>the Wachenhut Corp</ent>. of <ent type='ORG'>Coral Gables</ent>, FL and the <ent type='NORP'>Southern</ent>
 <ent type='GPE'>California</ent> <ent type='ORG'>Cabazon</ent> <ent type='NORP'>Indian</ent> tribe.  According to Riconosciuto's affidavit, the
-joint venture developed sophisticated weapons for the <ent type='ORG'>Contra</ent>s.  <ent type='ORG'>McFarlane</ent> and
+joint venture developed sophisticated weapons for the <ent type='ORG'>Contra</ent>s.  McFarlane and
 Brian have denied all charges.</p>
 
 <p>There have also been reports that the software, allegedly used by the foreign
@@ -1101,9 +1101,9 @@ committee.  Shortly before Thornburgh's departure to run for the <ent type='ORG'
 <ent type='ORG'>Department</ent> on the release of certain documents and the investigation is now
 continuing.  During the controversy, another former U.S.  Attorney General,
 Elliot Richardson, now serving as counsel for Inslaw, said, "Evidence of the
-widespread ramifications of the Inslaw case comes from many sources and keeps
+widespread ramifications of <ent type='ORG'>the Inslaw</ent> case comes from many sources and keeps
 accumulating.  It remains inexplicable why <ent type='ORG'>the <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent></ent> refuses to
-pursue this evidence and resists cooperation with <ent type='ORG'>the <ent type='ORG'>Judiciary</ent> Committee</ent> of
+pursue this evidence and resists cooperation with <ent type='ORG'>the Judiciary Committee</ent> of
 the <ent type='ORG'>House</ent> of Representatives."</p>
 
 <p>On Wednesday, August 14th, Richardson called for a federal investigation of
@@ -1120,7 +1120,7 @@ so-called 'October Surprise.'"</p>
 
 <p>(Barbara E. McMullen &amp; John F. McMullen/19910819)</p>
 
-<p>Journal: Computergram International  August 16 1991 n1742
+<p><ent type='ORG'>Journal</ent>: Computergram International  August 16 1991 n1742
 -----------------------------------------------------------------------------
 Title:   Minigrams.
 -----------------------------------------------------------------------------
@@ -1129,12 +1129,12 @@ Descriptors..</p>
 <p>-----------------------------------------------------------------------------
 Full Text:</p>
 
-<p>Remember the <ent type='ORG'>InsLaw Inc</ent> case - well it looks set to blow up into a high
-profile and potentially far-reaching scandal: InsLaw is a tiny <ent type='GPE'>Washington</ent> <ent type='GPE'>DC</ent>
-company that was awarded a $10m contract with the <ent type='GPE'>US</ent> <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent> for
+<p>Remember the InsLaw Inc case - well it looks set to blow up into a high
+profile and potentially far-reaching scandal: InsLaw is a tiny <ent type='GPE'>Washington</ent> DC
+company that was awarded a $10m contract with the US <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent> for
 software designed to make it easier for the police and the authorities to
 track cases and keep tabs on dissidents, and in 1983, it sued <ent type='ORG'>Justice</ent>
-claiming that theer ain't no such thing and that the <ent type='ORG'>Department</ent> had stolen
+claiming that theer ain't no such thing and that <ent type='ORG'>the Department</ent> had stolen
 its software; a <ent type='ORG'>House</ent> of Representatives judiciary subcommittee is still
 investigating the case, but meantime Joseph Casolaro, an investigative
 reporter of <ent type='GPE'>Fairfax</ent>, <ent type='GPE'>Virginia</ent> who had been working for a year researching a
@@ -1143,7 +1143,7 @@ slashed; a suicide note was found nearby, but an autopsy has been ordered
 after suspicions were aroused that the death was a murder disguised to look
 like suicide after the family told police he had no reason to kill himself.</p>
 
-<p>Journal: Newsbytes  August 15 1991
+<p><ent type='ORG'>Journal</ent>: Newsbytes  August 15 1991
 -----------------------------------------------------------------------------
 Title:   "Suicide" of Inslaw reporter questioned. (Joseph D. 'Danny'
    Casolaro may have been murdered during investigation of Inslaw
@@ -1167,7 +1167,7 @@ Full Text:</p>
 "Danny" Casolaro on Saturday, August 10th has been challenged by friends and
 relatives.</p>
 
-<p>Casolaro, 44, of <ent type='GPE'>Fairfax</ent>, <ent type='GPE'>Va</ent>., had been, according to reports, involved in an
+<p>Casolaro, 44, of <ent type='GPE'>Fairfax</ent>, Va., had been, according to reports, involved in an
 investigation of the allegations surrounding government activities in the
 Inslaw software case.</p>
 
@@ -1177,22 +1177,22 @@ James Frost, an assistant state medical <ent type='ORG'>examiner</ent> was quote
 wounds are consistent with being self- inflicted, but that doesn't mean that
 someone else couldn't have done this if he were not able to defend himself."</p>
 
-<p><ent type='GPE'>Virginia</ent> <ent type='ORG'>McCullough</ent>, a freelance journalist and friend of Casolaro, told
+<p><ent type='GPE'>Virginia</ent> McCullough, a freelance journalist and friend of Casolaro, told
 Newsbytes that Casolaro was working for over a year on a book concerning the
 allegations by Inslaw president William Hamilton that <ent type='ORG'>the <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent></ent>
 first broke a $10 million contract with his firm, then stole the firm's
 software and subsequently sold and donated it to foreign intelligence
 agencies.</p>
 
-<p><ent type='ORG'>McCullough</ent> said: "It is ludicrous to think that Danny would kill himself.  He
+<p>McCullough said: "It is ludicrous to think that Danny would kill himself.  He
 had recently told me that he was looking forward to a trip that would give
 him the documentation to prove <ent type='ORG'>the <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent></ent>'s involvement.  He
 said: 'For the first time, I've become a real believer that the government
 was involved in these things.'"</p>
 
-<p><ent type='ORG'>McCullough</ent> went on to say that Casolaro was never depressed in his
+<p>McCullough went on to say that Casolaro was never depressed in his
 conversations with her and that they often spoke, sharing information in
-relation to the case.  <ent type='ORG'>McCullough</ent>, herself involved with a company that she
+relation to the case.  McCullough, herself involved with a company that she
 says had very similar experiences to Inslaw, is currently writing a book
 detailing what she says have been questionable acts by government agencies in
 the use of bankruptcy proceedings to stifle the development of technology.</p>
@@ -1202,7 +1202,7 @@ also doubting the suicide reports.  He said that police told him a
 handwritten note saying: "I'm sorry, especially to my son," was found at the
 scene.</p>
 
-<p>The <ent type='ORG'>House</ent> <ent type='ORG'>Judiciary</ent> Committee is presently investigating the Inslaw charges
+<p>The <ent type='ORG'>House</ent> <ent type='ORG'>Judiciary</ent> Committee is presently investigating <ent type='ORG'>the Inslaw</ent> charges
 and had announced in April of this year that <ent type='ORG'>the <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent></ent>, after
 long delays, has agreed to turn over documentation relating to the case.</p>
 
@@ -1222,7 +1222,7 @@ Judge William Bryant upheld the decision and ordered the government to pay
 Inslaw $8 million plus attorney's fees.</p>
 
 <p>The <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent> continued to appeal the case and, on May 7, 1991, was
-successful when the U.S.  Court of Appeals for <ent type='ORG'>the District of Columbia</ent>
+successful when the U.S.  Court of Appeals for <ent type='ORG'>the District</ent> of Columbia
 reversed the bankruptcy rulings saying that the bankruptcy court's rulings
 were too broad and inappropriate for a bankruptcy ruling.</p>
 
@@ -1234,17 +1234,17 @@ occurred, is inexcusable."</p>
 <p>During the appeals, stories of illegal sales of the allegedly stolen software
 to foreign governments including <ent type='GPE'>Iraq</ent>, <ent type='GPE'>Libya</ent>, <ent type='GPE'>South Korea</ent>, <ent type='GPE'>Israel</ent> and <ent type='GPE'>Canada</ent>,
 and involvement of Reagan <ent type='GPE'>Washington</ent> and <ent type='GPE'>California</ent> appointees Earl Brian,
-Robert <ent type='ORG'>McFarlane</ent> and Richard Secord in the transactions have caused the <ent type='ORG'>House</ent>
+Robert McFarlane and Richard Secord in the transactions have caused the <ent type='ORG'>House</ent>
 <ent type='ORG'>Judiciary</ent> Committee to seek involvement -- an involvement that the <ent type='ORG'>Justice</ent>
 <ent type='ORG'>Department</ent> has resisted.</p>
 
 <p>Elliot Richardson, former <ent type='GPE'>United States</ent> Attorney General who now represents
 Hamilton, was quoted during the appeal process as saying: "Evidence of the
-widespread ramifications of the Inslaw case comes from many sources and keeps
+widespread ramifications of <ent type='ORG'>the Inslaw</ent> case comes from many sources and keeps
 accumulating."</p>
 
 <p>"It remains inexplicable why <ent type='ORG'>the <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent></ent> consistently refuses to
-pursue this evidence and resists co-operation with <ent type='ORG'>the <ent type='ORG'>Judiciary</ent> Committee</ent> of
+pursue this evidence and resists co-operation with <ent type='ORG'>the Judiciary Committee</ent> of
 the <ent type='ORG'>House</ent> of Representatives," he added.</p>
 
 <p>The case took still another turn when witness Ari Ben-Menashe reportedly
@@ -1260,7 +1260,7 @@ dissidents and foreign agents.</p>
 
 <p>(Barbara E. McMullen &amp; John F. McMullen/19910815)</p>
 
-<p>Journal: Government Computer News  August 5 1991 v10 n16 p1(2)
+<p><ent type='ORG'>Journal</ent>: Government Computer News  August 5 1991 v10 n16 p1(2)
 -----------------------------------------------------------------------------
 Title:   Thornburgh bows on Inslaw papers. (Attorney General Richard
    Thornburgh turns over to <ent type='ORG'>House</ent> <ent type='ORG'>Judiciary</ent> Committee documents on
@@ -1310,7 +1310,7 @@ suspended."  He said he expects Thornburgh to turn over the remaining
 documents by Sept. 11, when <ent type='ORG'>Congress</ent> reconvenes after its summer holiday.</p>
 
 <p>The missing documents are from one file of the chief litigating attorney in
-the Inslaw case.  <ent type='ORG'>Justice</ent> officials have been telling the committee since May
+<ent type='ORG'>the Inslaw</ent> case.  <ent type='ORG'>Justice</ent> officials have been telling the committee since May
 that the department had misplaced 51 of that attorney's documents.</p>
 
 <p><ent type='ORG'>Justice</ent> reconstructed most of these documents, but at least 12 still are
@@ -1339,7 +1339,7 @@ versions of the software and tried to force the company into bankruptcy.  But
 denying committee investigators access to documents.</p>
 
 <p>Finally, late last month, the <ent type='ORG'>Judiciary</ent> Subcommittee on Economic and
-Commercial Law voted 10 to 6 to subpoena the Inslaw files from Thornburgh.</p>
+Commercial Law voted 10 to 6 to subpoena <ent type='ORG'>the Inslaw</ent> files from Thornburgh.</p>
 
 <p>Although the department had promised repeatedly to supply the missing
 documents, <ent type='ORG'>Brooks</ent> said, the subpoena was necessary because <ent type='ORG'>Justice</ent> had
@@ -1361,7 +1361,7 @@ longer would accept such assurances, and the subcommittee went ahead with the
 subpoena.</p>
 
 <p>The <ent type='ORG'>Judiciary</ent> Committee's relationship with Thornburgh has grown increasingly
-testly during the past few weeks, culminating with the Inslaw subpoena.</p>
+testly during the past few weeks, culminating with <ent type='ORG'>the Inslaw</ent> subpoena.</p>
 
 <p>Thornburgh refused to appear at an earlier committee hearing concerning
 <ent type='ORG'>Justice</ent>'s 1992 budget request [<ent type='ORG'>GCN</ent>, July 22].  <ent type='ORG'>Brooks</ent> has said the committee
@@ -1369,7 +1369,7 @@ may cut finding for several <ent type='ORG'>Justice</ent> programs, including it
 <ent type='ORG'>Eagle</ent> office automation initiative, if that is what is necessary to get the
 department's attention.</p>
 
-<p>Meanwhile, the U.S.  Court of Appeals for <ent type='ORG'>the District of Columbia</ent> has denied
+<p>Meanwhile, the U.S.  Court of Appeals for <ent type='ORG'>the District</ent> of Columbia has denied
 Inslaw's petition for a rehearing by the 11-judge bench.</p>
 
 <p>An appeals court panel in May ruled that the U.S.  <ent type='ORG'>Bankruptcy Court</ent> did not
@@ -1379,7 +1379,7 @@ Inslaw out of business.</p>
 <p>Nancy Hamilton, Inslaw vice president, said the company plans to petition the
 <ent type='ORG'>Supreme Court</ent> to hear its case.</p>
 
-<p>Journal: Computerworld  July 29 1991 v25 n30 p12(1).
+<p><ent type='ORG'>Journal</ent>: Computerworld  July 29 1991 v25 n30 p12(1).
 -----------------------------------------------------------------------------
 Title:   Inslaw papers subpoenaed. (<ent type='ORG'>Judiciary</ent> Committee of the U.S. <ent type='ORG'>House</ent>
    of Representatives issues subpoena to access records thought to be
@@ -1387,11 +1387,11 @@ Title:   Inslaw papers subpoenaed. (<ent type='ORG'>Judiciary</ent> Committee of
    <ent type='ORG'>Justice</ent>)
 Author:  Anthes, Gary H.</p>
 
-<p>Summary: The <ent type='GPE'>US</ent> <ent type='ORG'>House</ent> of Representatives <ent type='ORG'>Judiciary</ent> Committee issued a
-   subpoena to the <ent type='GPE'>US</ent> <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent> to turn over records thought
+<p>Summary: The US <ent type='ORG'>House</ent> of Representatives <ent type='ORG'>Judiciary</ent> Committee issued a
+   subpoena to the US <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent> to turn over records thought
    to be relevant to the on-going dispute initiated in 1983 between
    <ent type='ORG'>the <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent></ent> and <ent type='ORG'>Inslaw Inc</ent>. The <ent type='ORG'>Judiciary</ent> Committee is
-   investigating charges that the <ent type='GPE'>US</ent> <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent> stole
+   investigating charges that the US <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent> stole
    software and tried to force Inslaw out of business.  The subpoena
    asked Attorney General Richard Thornburgh to release 456 documents
    thought to be connected to the case.  Thornburgh has promised to
@@ -1410,16 +1410,16 @@ Topic:   Legal Issues
    Government Agency
    Investigations.</p>
 
-<p> Journal: Government Computer News  July 22 1991 v10 n15 p76(1)
+<p> <ent type='ORG'>Journal</ent>: Government Computer News  July 22 1991 v10 n15 p76(1)
  ----------------------------------------------------------------------------
 Title:   Inslaw asks court to reinstate $6M judgement against <ent type='ORG'>Justice</ent>.
-   (<ent type='ORG'>Inslaw Inc</ent>., U.S. Court of Appeals for <ent type='ORG'>the District of Columbia</ent>,
+   (<ent type='ORG'>Inslaw Inc</ent>., U.S. Court of Appeals for <ent type='ORG'>the District</ent> of Columbia,
    <ent type='ORG'>Department</ent> of <ent type='ORG'>Justice</ent>)
 -----------------------------------------------------------------------------
 Descriptors..
 Company: <ent type='ORG'>INSLAW</ent> Inc. (Cases).
 Topic:   <ent type='GPE'>United States</ent>. <ent type='ORG'>Department</ent> of <ent type='ORG'>Justice</ent>
-   <ent type='GPE'>United States</ent>. Court of Appeals for <ent type='ORG'>the District of Columbia</ent>
+   <ent type='GPE'>United States</ent>. Court of Appeals for <ent type='ORG'>the District</ent> of Columbia
    Circuit
    Court Cases
    Bankruptcy.</p>
@@ -1428,7 +1428,7 @@ Topic:   <ent type='GPE'>United States</ent>. <ent type='ORG'>Department</ent> o
 Full Text:</p>
 
 <p><ent type='ORG'>Inslaw Inc</ent>. has asked the 11-judge bench of the U.S.  Court of Appeals for
-<ent type='ORG'>the District of Columbia</ent> to reinstate a lower court's decision to award
+<ent type='ORG'>the District</ent> of Columbia to reinstate a lower court's decision to award
 Inslaw $6 million in damages from <ent type='ORG'>the <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent></ent>.</p>
 
 <p>For several years, the small <ent type='GPE'>Washington</ent> software company has alleged that
@@ -1453,7 +1453,7 @@ that directly affect the administration of a bankruptcy estate."</p>
 validity of Inslaw's allegations and suggested the company file its
 complaints anew in a court other than bankruptcy court.</p>
 
-<p>Journal: PC Week  June 10 1991 v8 n23 p130(1)
+<p><ent type='ORG'>Journal</ent>: PC Week  June 10 1991 v8 n23 p130(1)
 -----------------------------------------------------------------------------
 Title:   The verdict on Cal? he's 'a nice fellow,' but the jury's still
    out. (<ent type='ORG'>Rumor Central</ent>) (column)
@@ -1474,19 +1474,19 @@ nations without cutting the vendor in on the profits.</p>
 <p>"I don't believe a word of it," Spencer harrumphed.  "It's a matter of public
 record.  Look it up," responded Cal.</p>
 
-<p>Journal: Government Computer News  May 13 1991 v10 n10 p3(2)
+<p><ent type='ORG'>Journal</ent>: Government Computer News  May 13 1991 v10 n10 p3(2)
 -----------------------------------------------------------------------------
 Title:   Appeals Court tosses finding that <ent type='ORG'>Justice</ent> stole from Inslaw.
    (<ent type='ORG'>Department</ent> of <ent type='ORG'>Justice</ent>)
 Author:  <ent type='ORG'>Seaborn</ent>, Margaret M.</p>
 
 <p>Summary: A federal appeals court has dismissed the ruling of a lower court
-   that <ent type='ORG'>the <ent type='ORG'>Department</ent> of <ent type='ORG'>Justice</ent></ent> stole case management software from
-   <ent type='ORG'>Inslaw Inc</ent>. The District of Columbia <ent type='GPE'>US</ent> Court of Appeals ruled
+   that <ent type='ORG'>the Department</ent> of <ent type='ORG'>Justice</ent> stole case management software from
+   <ent type='ORG'>Inslaw Inc</ent>. <ent type='ORG'>The District</ent> of Columbia US Court of Appeals ruled
    that the federal <ent type='ORG'>Bankruptcy Court</ent> overstepped its jurisdiction in
    1987 when it ruled that <ent type='ORG'>the <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent></ent> used fraud,
    trickery and deceit to force the <ent type='GPE'>Washington</ent>-based software company
-   out of business.  The <ent type='GPE'>US</ent> District court affirmed the bankruptcy
+   out of business.  The US District court affirmed the bankruptcy
    ruling and awarded Inslaw a $6 million judgement which the <ent type='ORG'>Justice</ent>
    <ent type='ORG'>Department</ent> never paid.  The appeals court suggested that Inslaw
    start over in the federal court system after five years of legal
@@ -1516,7 +1516,7 @@ Full Text:</p>
 <p>A federal appeals court last week threw out a lower court's findings that the
 <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent> had stolen case management software from <ent type='ORG'>Inslaw Inc</ent>.</p>
 
-<p>The U.S.  Court of Appeals for <ent type='ORG'>the District of Columbia</ent> found that the U.S.
+<p>The U.S.  Court of Appeals for <ent type='ORG'>the District</ent> of Columbia found that the U.S.
 <ent type='ORG'>Bankruptcy Court</ent> had overstepped its jurisdiction in 1987 when it ruled
 <ent type='ORG'>Justice</ent> used "trickery, fraud and deceit" to drive the small <ent type='GPE'>Washington</ent>
 software company out of business.</p>
@@ -1533,7 +1533,7 @@ bankruptcy court simply because Inslaw filed for bankruptcy, and Inslaw has
 succeeded in convincing the bankruptcy court to adjudicate its contract .  .
 .  disputes although the court had no basis to do so."</p>
 
-<p>The court did not rule on the validity of the Inslaw charges and criticized
+<p>The court did not rule on the validity of <ent type='ORG'>the Inslaw</ent> charges and criticized
 the bankruptcy court for its "extraordinary" ruling.  "Such conduct, if it
 occurred, is inexcusable," the appeals court said of Inslaw's complaints
 against <ent type='ORG'>Justice</ent>.  But, "offensive as lawless conduct by one branch of
@@ -1562,7 +1562,7 @@ contractual disagreement."</p>
 consistently hidden behind technical defenses to avoid its duty to enforce
 the laws in regard to the misconduct of its own officials against Inslaw."</p>
 
-<p>Meanwhile, a congressional investigation of the Inslaw-<ent type='ORG'>Justice</ent> dispute is
+<p>Meanwhile, a congressional investigation of <ent type='ORG'>the Inslaw</ent>-<ent type='ORG'>Justice</ent> dispute is
 continuing.  After months of stalling, Attorney General Richard Thornburgh
 has agreed to make several hundred documents about the department's dealings
 with Inslaw available to <ent type='ORG'>House</ent> <ent type='ORG'>Judiciary</ent> Committee investigators.</p>
@@ -1593,7 +1593,7 @@ necessary to force <ent type='ORG'>Justice</ent> to turn over the documents.</p>
 <p>Subsequently, Thornburgh assured <ent type='ORG'>Brooks</ent> he would give him the documents and
 the department would cooperate fully.</p>
 
-<p>Journal: Federal Computer Week  May 6 1991 v5 n12 p4(1).
+<p><ent type='ORG'>Journal</ent>: Federal Computer Week  May 6 1991 v5 n12 p4(1).
 -----------------------------------------------------------------------------
 Title:   <ent type='ORG'>Justice</ent> screens Inslaw document release. (<ent type='ORG'>Department</ent> of <ent type='ORG'>Justice</ent>
    limits access to documents in conspiracy case)
@@ -1605,7 +1605,7 @@ Author:  Sweeney, Shahida.</p>
    that releasing all documents would jeopardize its appeal against
    <ent type='ORG'>INSLAW</ent>.  The <ent type='ORG'>House</ent> <ent type='ORG'>Judiciary</ent> Committee is investigating the
    <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent>'s award of a $212 million office automation
-   contract to <ent type='ORG'>TiSoft Inc</ent>. <ent type='ORG'>House</ent> investigators are being allowed by
+   contract to TiSoft Inc. <ent type='ORG'>House</ent> investigators are being allowed by
    <ent type='ORG'>the <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent></ent> to view relating papers, but may only take
    notes from them for future reference or permission to obtain
    copies.  <ent type='ORG'>INSLAW</ent> is granted permission to examine <ent type='ORG'>Department</ent> of
@@ -1614,7 +1614,7 @@ Author:  Sweeney, Shahida.</p>
 -----------------------------------------------------------------------------
 Descriptors..
 Company: <ent type='ORG'>INSLAW</ent> Inc. (Investigations)
-   <ent type='ORG'>TiSoft Inc</ent>. (<ent type='ORG'>Contra</ent>cts).
+   TiSoft Inc. (<ent type='ORG'>Contra</ent>cts).
 Product: <ent type='NORP'>Promis</ent> (Office automation software) (Investigations).
 Topic:   Software Piracy
    Investigations
@@ -1624,7 +1624,7 @@ Topic:   Software Piracy
    <ent type='GPE'>United States</ent>. <ent type='ORG'>Congress</ent>. <ent type='ORG'>House</ent>. Committee on the <ent type='ORG'>Judiciary</ent>
    Court Cases.</p>
 
-<p>Journal: Newsbytes  April 29 1991
+<p><ent type='ORG'>Journal</ent>: Newsbytes  April 29 1991
 -----------------------------------------------------------------------------
 Title:   <ent type='GPE'>Washington</ent> <ent type='ORG'>Post</ent> calls for Inslaw progress. (software publisher's
    case against the justice <ent type='ORG'>Department</ent>)
@@ -1643,10 +1643,10 @@ Topic:   <ent type='GPE'>United States</ent>. <ent type='ORG'>Department</ent> o
 <p>-----------------------------------------------------------------------------
 Full Text:</p>
 
-<p><ent type='GPE'>WASHINGTON</ent> POST CALLS FOR <ent type='ORG'>INSLAW</ent> PROGRESS 04/29/91 <ent type='GPE'>WASHINGTON</ent>, <ent type='GPE'>DC</ent>, U.S.A.,
+<p><ent type='GPE'>WASHINGTON</ent> POST CALLS FOR <ent type='ORG'>INSLAW</ent> PROGRESS 04/29/91 <ent type='GPE'>WASHINGTON</ent>, DC, U.S.A.,
 1991 APR 29 (NB) -- The <ent type='GPE'>Washington</ent> <ent type='ORG'>Post</ent>, in an April 27th editorial, has
 criticized <ent type='ORG'>the <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent></ent> for the lengthy lack of progress in
-cooperation with <ent type='ORG'>the <ent type='ORG'>House</ent> <ent type='ORG'>Judiciary</ent> Committee</ent>'s investigation of the Inslaw
+cooperation with <ent type='ORG'>the <ent type='ORG'>House</ent> <ent type='ORG'>Judiciary</ent> Committee</ent>'s investigation of <ent type='ORG'>the Inslaw</ent>
 case.</p>
 
 <p>Recalling that it had editorially praised Attorney General Dick Thornburgh a
@@ -1680,11 +1680,11 @@ appealed.</p>
 <p>During the appeals, stories of illegal sales of the allegedly stolen software
 to foreign governments including <ent type='GPE'>Iraq</ent>, <ent type='GPE'>Libya</ent>, <ent type='GPE'>South Korea</ent>, <ent type='GPE'>Israel</ent> and <ent type='GPE'>Canada</ent>,
 and involvement of Reagan <ent type='GPE'>Washington</ent> and <ent type='GPE'>California</ent> appointees Earl Brian,
-Robert <ent type='ORG'>McFarlane</ent> and Richard Secord in the transactions have caused the <ent type='ORG'>House</ent>
+Robert McFarlane and Richard Secord in the transactions have caused the <ent type='ORG'>House</ent>
 <ent type='ORG'>Judiciary</ent> Committee to seek involvement -- an involvement that the <ent type='ORG'>Justice</ent>
 Dept.  has resisted.  Elliot Richardson, former <ent type='GPE'>United States</ent> Attorney
 General who now represents Hamilton, was quoted recently as saying, "Evidence
-of the widespread ramifications of the Inslaw case comes from many sources
+of the widespread ramifications of <ent type='ORG'>the Inslaw</ent> case comes from many sources
 and keeps accumulating.  It remains inexplicable why <ent type='ORG'>the <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent></ent>
 consistently refuses to pursue this evidence and resists cooperation with the
 <ent type='ORG'>Judiciary</ent> Committee of the <ent type='ORG'>House</ent> of Representatives."</p>
@@ -1699,7 +1699,7 @@ time."</p>
 
 <p>(Barbara E. McMullen &amp; John F. McMullen//19910429)</p>
 
-<p> Journal: Government Computer News  April 15 1991 v10 n8 p6(1)
+<p> <ent type='ORG'>Journal</ent>: Government Computer News  April 15 1991 v10 n8 p6(1)
  ----------------------------------------------------------------------------
 Title:   Panel questions <ent type='ORG'>Justice</ent> Dept. on Inslaw. (<ent type='ORG'>House</ent> <ent type='ORG'>Judiciary</ent>
    Committee investigates <ent type='ORG'>Inslaw Inc</ent>. accusation that <ent type='ORG'>Justice</ent> Dept.
@@ -1737,7 +1737,7 @@ attorney general for <ent type='ORG'>IRM</ent>.  But Cooper has said he needs so
 before outlining his priorities.</p>
 
 <p>Meanwhile, committee investigators are continuing to prod <ent type='ORG'>Justice</ent> to provide
-them with information for their continuing review of the Inslaw case, in
+them with information for their continuing review of <ent type='ORG'>the Inslaw</ent> case, in
 which <ent type='ORG'>Justice</ent> is accused of using proprietary software without a license.
 Recently the department also has been accused of distributing the product to
 other organizations.</p>
@@ -1764,7 +1764,7 @@ determine whether the department illegally distributed <ent type='NORP'>Promis</
 <p>Robinson gave <ent type='ORG'>Justice</ent> 30 days to respond to the subpoenas.</p>
 
 <p>Inslaw will subpoena information from <ent type='ORG'>the Drug Enforcement Administration</ent>,
-the U.S.  Marshals Service, the <ent type='ORG'>FBI</ent>, the Bureau of Prisons, the Immigration
+the U.S.  Marshals Service, the <ent type='ORG'>FBI</ent>, <ent type='ORG'>the Bureau</ent> of Prisons, the Immigration
 and Naturalization Service and the <ent type='ORG'>Justice</ent> Management Division, Hamilton
 said.</p>
 
@@ -1798,19 +1798,19 @@ the previous year's spending level.  Instead, the <ent type='ORG'>House</ent> Ap
 Committee restricted <ent type='ORG'>Eagle</ent> installations to management and litigating
 agencies and cut funding by $6.1 million to $16.9 million.</p>
 
-<p> Journal: Computerworld  April 1 1991 v25 n13 p1(2).
+<p> <ent type='ORG'>Journal</ent>: Computerworld  April 1 1991 v25 n13 p1(2).
 -----------------------------------------------------------------------------
-Title:   Spies linked to software scam. (former national <ent type='ORG'>sec</ent>urity adviser
-   Robert C. <ent type='ORG'>McFarlane</ent> implicated)
+Title:   <ent type='ORG'>Spies</ent> linked to software scam. (former national <ent type='ORG'>sec</ent>urity adviser
+   Robert C. McFarlane implicated)
 Author:  Anthes, Gary H.</p>
 
 <p>Summary: Small software developer <ent type='ORG'>Inslaw Inc</ent> has been fighting since 1983
-   to prove that the <ent type='GPE'>US</ent> <ent type='ORG'>Department</ent> of <ent type='ORG'>Justice</ent> misappropriated its
+   to prove that the US <ent type='ORG'>Department</ent> of <ent type='ORG'>Justice</ent> misappropriated its
    product, but the case has taken a new twist with the revelation
-   that former national <ent type='ORG'>sec</ent>urity adviser Robert C. <ent type='ORG'>McFarlane</ent> might be
+   that former national <ent type='ORG'>sec</ent>urity adviser Robert C. McFarlane might be
    linked to case-tracking software allegedly fraudulently obtained
    from Inslaw.  A former <ent type='GPE'>Israel</ent>i intelligence officer has alleged in
-   a sworn statement filed in the <ent type='GPE'>US</ent> <ent type='ORG'>Bankruptcy Court</ent> that <ent type='ORG'>McFarlane</ent>
+   a sworn statement filed in the US <ent type='ORG'>Bankruptcy Court</ent> that McFarlane
    gave the software to the <ent type='GPE'>Israel</ent>i government.  Inslaw claims
    officials of <ent type='ORG'>the <ent type='ORG'><ent type='ORG'>Justice</ent> <ent type='ORG'>Department</ent></ent></ent> and their friends stole its
    <ent type='NORP'>Promis</ent> law-enforcement case-tracking software for use in a complex
@@ -1825,7 +1825,7 @@ Topic:   Software Piracy
    <ent type='GPE'>United States</ent>. <ent type='ORG'>Department</ent> of <ent type='ORG'>Justice</ent>
    Fraud.</p>
 
-<p>Journal: Government Computer News  April 1 1991 v10 n7 p66(2)
+<p><ent type='ORG'>Journal</ent>: Government Computer News  April 1 1991 v10 n7 p66(2)
 -----------------------------------------------------------------------------
 Title:   Inslaw head says software passed like a hot potato. (<ent type='ORG'>Department</ent> of
    <ent type='ORG'>Justice</ent> accused of stealing software)
@@ -1908,7 +1908,7 @@ ruling and has not paid Inslaw any of the awarded money.</p>
  ----------------------------------------------------------------------------
 Company: <ent type='ORG'>INSLAW</ent>, Inc.
 Address: 1125 15th St., NW, Ste. 300
-   <ent type='GPE'>Washington</ent>, <ent type='GPE'>DC</ent>  20005
+   <ent type='GPE'>Washington</ent>, DC  20005
    800-221-3187; 202-828-8600
    FAX: 202-659-0755
 -----------------------------------------------------------------------------
@@ -1920,7 +1920,7 @@ Category:  Software, Applications
    Release date: 1983
    Application: Legal Services-Docket Scheduling
    Compatible with: <ent type='ORG'>IBM</ent> 9370, 30XX, 43XX/DOS, OS, <ent type='ORG'>MVS</ent>, <ent type='ORG'>CICS</ent>; <ent type='ORG'>DEC</ent>
-   <ent type='GPE'>VA</ent>X/ULTRIX; Wang/VS; <ent type='ORG'>Unisys</ent>; AT&amp;T 3B/UNIX System V; HP/HP-UX
+   VAX/ULTRIX; Wang/VS; <ent type='ORG'>Unisys</ent>; AT&amp;T 3B/UNIX System V; HP/HP-UX
    Minimum RAM required: 2 MB
    Source language: COBOL
    Customer support: Maint. fee 12% of licensing fee per yr.
@@ -1935,7 +1935,7 @@ Summary: On-line docketing and calendaring.  Trial court information
 -----------------------------------------------------------------------------
 Company: <ent type='ORG'>INSLAW</ent>, Inc.
 Address: 1125 15th St., NW, Ste. 300
-   <ent type='GPE'>Washington</ent>, <ent type='GPE'>DC</ent>  20005
+   <ent type='GPE'>Washington</ent>, DC  20005
    800-221-3187; 202-828-8600
    FAX: 202-659-0755
 -----------------------------------------------------------------------------
@@ -1947,7 +1947,7 @@ Category:  Software, Applications
    Release date: 1982
    Application: Law Enforcement/Emergency Services
    Compatible with: <ent type='ORG'>IBM</ent> 9370, 30XX, 43XX/DOS, OS, <ent type='ORG'>MVS</ent>, <ent type='ORG'>CICS</ent>; <ent type='ORG'>DEC</ent>
-   <ent type='GPE'>VA</ent>X/ULTRIX; Wang/VS; <ent type='ORG'>Unisys</ent>; AT&amp;T 3B/UNIX System V; HP/HP-UX
+   VAX/ULTRIX; Wang/VS; <ent type='ORG'>Unisys</ent>; AT&amp;T 3B/UNIX System V; HP/HP-UX
    Minimum RAM required: 2 MB
    Source language: COBOL
    Customer support: Maint. fee 12% of licensing fee per yr.
@@ -1965,7 +1965,7 @@ Summary: Arrest booking and jail management.  Tracks arrestees, inmates and
 -----------------------------------------------------------------------------
 Company: <ent type='ORG'>INSLAW</ent>, Inc.
 Address: 1125 15th St., NW, Ste. 300
-   <ent type='GPE'>Washington</ent>, <ent type='GPE'>DC</ent>  20005
+   <ent type='GPE'>Washington</ent>, DC  20005
    800-221-3187; 202-828-8600
    FAX: 202-659-0755
 -----------------------------------------------------------------------------
@@ -1977,7 +1977,7 @@ Category:  Software, Applications
    Release date: 1983
    Application: Legal Services-Practice Management
    Compatible with: <ent type='ORG'>IBM</ent> 9370, 30XX, 43XX/DOS, OS, <ent type='ORG'>MVS</ent>, <ent type='ORG'>CICS</ent>; <ent type='ORG'>DEC</ent>
-   <ent type='GPE'>VA</ent>X/ULTRIX; Wang/VS; <ent type='ORG'>Unisys</ent>; AT&amp;T 3B/UNIX System V; HP/HP-UX
+   VAX/ULTRIX; Wang/VS; <ent type='ORG'>Unisys</ent>; AT&amp;T 3B/UNIX System V; HP/HP-UX
    Minimum RAM required: 2 MB
    Source language: COBOL
    Customer support: Maint. fee 12% of licensing fee per yr.
@@ -1996,7 +1996,7 @@ Summary: Performs claims/matter tracking, attorney timekeeping, outside
  ----------------------------------------------------------------------------
 Company: <ent type='ORG'>INSLAW</ent>, Inc.
 Address: 1125 15th St., NW, Ste. 300
-   <ent type='GPE'>Washington</ent>, <ent type='GPE'>DC</ent>  20005
+   <ent type='GPE'>Washington</ent>, DC  20005
    800-221-3187; 202-828-8600
    FAX: 202-659-0755
 -----------------------------------------------------------------------------
@@ -2008,7 +2008,7 @@ Category:  Software, Applications
    Release date: 1986
    Application: Legal Services
    Compatible with: <ent type='ORG'>IBM</ent> 9370, 30XX, 43XX/DOS, OS, <ent type='ORG'>MVS</ent>, <ent type='ORG'>CICS</ent>; <ent type='ORG'>DEC</ent>
-   <ent type='GPE'>VA</ent>X/ULTRIX; Wang/VS; <ent type='ORG'>Unisys</ent>; AT&amp;T 3B/UNIX System V; HP/HP-UX
+   VAX/ULTRIX; Wang/VS; <ent type='ORG'>Unisys</ent>; AT&amp;T 3B/UNIX System V; HP/HP-UX
    Minimum RAM required: 2 MB
    Source language: COBOL
    Customer support: Maint. fee 12% of licensing fee per yr.
@@ -2025,7 +2025,7 @@ Summary: On-line information system.  Supports claims litigation tracking,
 -----------------------------------------------------------------------------
 Company: <ent type='ORG'>INSLAW</ent>, Inc.
 Address: 1125 15th St., NW, Ste. 300
-   <ent type='GPE'>Washington</ent>, <ent type='GPE'>DC</ent>  20005
+   <ent type='GPE'>Washington</ent>, DC  20005
    800-221-3187; 202-828-8600
    FAX: 202-659-0755
 -----------------------------------------------------------------------------
@@ -2037,7 +2037,7 @@ Category:  Software, Applications
    Release date: 1980
    Application: Law Enforcement/Emergency Services
    Compatible with: <ent type='ORG'>IBM</ent> 9370, 30XX, 43XX/DOS, OS, <ent type='ORG'>MVS</ent>, <ent type='ORG'>CICS</ent>; <ent type='ORG'>DEC</ent>
-   <ent type='GPE'>VA</ent>X/ULTRIX; Wang/VS; <ent type='ORG'>Unisys</ent>; AT&amp;T 3B/UNIX System V; HP/HP-UX
+   VAX/ULTRIX; Wang/VS; <ent type='ORG'>Unisys</ent>; AT&amp;T 3B/UNIX System V; HP/HP-UX
    Minimum RAM required: 2 MB
    Source language: COBOL
    Customer support: Maint. fee 12% of licensing fee per yr.
@@ -2050,7 +2050,7 @@ Summary: Tracks cases, defendants and charges in public pro<ent type='ORG'>sec</
 Company: <ent type='ORG'>INSLAW</ent>, Inc.
  -----------------------------------------------------------------------------
 Address: 1125 15th St., NW, Ste. 300
-   <ent type='GPE'>Washington</ent>, <ent type='GPE'>DC</ent>  20005
+   <ent type='GPE'>Washington</ent>, DC  20005
    800-221-3187; 202-828-8600
    FAX: 202-659-0755
 -----------------------------------------------------------------------------

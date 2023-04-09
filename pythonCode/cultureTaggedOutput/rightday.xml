@@ -1,4 +1,4 @@
-<xml><p>   <ent type='ORG'><ent type='ORG'>FIJA</ent> PROCLAIMS</ent> SEPTEMBER 5 "JURY RIGHTS DAY"!</p>
+<xml><p>   <ent type='ORG'>FIJA PROCLAIMS</ent> SEPTEMBER 5 "JURY RIGHTS DAY"!</p>
 
 <p>  Hey, activist, can you spare an hour?</p>
 
@@ -41,7 +41,7 @@ simultaneously be honoring the very document we seek to protect
 with fully informed juries.</p>
 
 <p>   Leading off the day, at noon EDT, we'll hold a national news 
-conference and rally at the Jefferson Memorial in Washington, DC, 
+conference and rally at the Jefferson Memorial in <ent type='GPE'>Washington</ent>, DC, 
 where spokespersons from a wide range of organizations will speak 
 on the importance of the jury system for individual justice and 
 for maintaining citizen control of our government.</p>

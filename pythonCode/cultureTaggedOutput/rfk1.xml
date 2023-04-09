@@ -27,14 +27,14 @@ That there was something to Deny is clearly stated.</p>
 the periodical, "COMPUTERS AND AUTOMATION; The magazine of
 the design, applications, and implications of information
 processing systems.", Vol. 19, No. 10, October, 1970. a
-Editorial Offices; Berkeley Enterprises, Inc., 815
+<ent type='ORG'>Editorial Offices</ent>; Berkeley Enterprises, Inc., 815
 <ent type='GPE'>Washington</ent> Street, <ent type='GPE'>Newtonville</ent>, Mass. 02160.  Advertising
 contact, The Publisher (617) 332-5453.  Circulation audited
-by <ent type='ORG'>the Audit Bureau of Circulations</ent>.</p>
+by <ent type='ORG'>the Audit Bureau</ent> of Circulations.</p>
 
 <p>From the Table of Contents;</p>
 
-<p>  "52  <ent type='ORG'>THE CONSPIRACY TO ASSASSINATE SENATOR</ent> ROBERT F.
+<p>  "52  <ent type='ORG'>THE CONSPIRACY</ent> TO ASSASSINATE SENATOR ROBERT F.
    KENNEDY AND THE SECOND CONSPIRACY TO COVER IT UP
    By Richard E. Sprague</p>
 
@@ -46,7 +46,7 @@ by <ent type='ORG'>the Audit Bureau of Circulations</ent>.</p>
 <p>  "56  INDEX TO "SPECIAL UNIT SENATOR: The Investigation</p>
 
 <p>   of the Assassination of Senator Robert F. Kennedy"
-   An index is supplied for <ent type='ORG'>the <ent type='ORG'>Random House</ent></ent> book
+   An index is supplied for <ent type='ORG'>the Random House</ent> book
    written by Robert A. <ent type='GPE'>Houghton</ent>, of the <ent type='GPE'>Los Angeles</ent>
    Police Department, about the investigation of the
    assassination of Senator Robert F. Kennedy."</p>
@@ -94,7 +94,7 @@ new evidence or to correct errors.  If corrections are
 needed or new evidence appears, _Computers and Animation_
 will publish both.</p>
 
-<p>  "<ent type='ORG'>THE CONSPIRACY TO ASSASSINATE SENATOR</ent>
+<p>  "<ent type='ORG'>THE CONSPIRACY</ent> TO ASSASSINATE SENATOR
   ROBERT F. KENNEDY AND THE SECOND CONSPIRACY
     TO COVER IT UP</p>
 
@@ -102,9 +102,9 @@ will publish both.</p>
    Hartsdale, N.Y.</p>
 
 <p>  "In June 1970, a group action suit was filed in Los
-Angeles on behalf of all the residents of the State of
+Angeles on behalf of all the residents of <ent type='GPE'>the State</ent> of
 <ent type='GPE'>California</ent> by Theodore Charach, a free-lance journalist, to
-force <ent type='ORG'>the <ent type='GPE'>Los Angeles</ent> Police Department</ent> to make public
+force <ent type='ORG'>the Los Angeles Police Department</ent> to make public
 additional information in their possession relating to a
 possible conspiracy in the assassination of Senator Robert
 F. Kennedy in June 1958...

@@ -492,7 +492,7 @@ Appeals]</p>
 
 <p>FBI ADDRESSES AND PHONE NUMBERS</p>
 
-<p>FBI Headquarters, J. Edgar Hoover Bldg, Washington, D.C., 20535, 
+<p>FBI Headquarters, J. <ent type='person'>Edgar Hoover Bldg</ent>, Washington, D.C., 20535, 
 202-324-5520 (FOI/PA Unit)</p>
 
 <p>Field Offices
@@ -507,11 +507,11 @@ Boston, MA 02203, J.F. Kennedy Federal Office Bldg., 617-742-5533
 Buffalo, NY 14202, 111 W. Huron St., 716-856-7800
 Butte, MT 59701, U.S. Courthouse and Federal Bldg., 406-792-2304
 Charlotte, NC 28202, Jefferson Standard Life Bldg., 704-372-5485
-Chicago, IL 60604, <ent type='person'>Everett McKinley Dirksen Bldg</ent>., 312-431-1333
+Chicago, IL 60604, Everett McKinley Dirksen Bldg., 312-431-1333
 Cincinnati, OH 45202, 400 U.S. Post Office &amp; Crthse Bldg., 513-421-4310
 Cleveland, OH 44199, Federal Office Bldg., 216-522-1401
 Columbia, SC 29201, 1529 Hampton St., 803-254-3011
-Dallas TX 75201, 1810 Commrce St., 214-741-1851
+Dallas TX 75201, 1810 <ent type='person'>Commrce</ent> St., 214-741-1851
 Denver, CO 80202, Federal Office Bldg., 303-629-7171
 Detroit, MI 48226, 477 Michigan Ave., 313-965-2323
 El Paso, TX 79901, 202 U.S. Courthosue Bldg., 915-533-7451
@@ -549,7 +549,7 @@ Salt Lake City, UT 84138, Federal Bldg., 801-355-7521
 San Diego, CA 92188, Federal Office Bldg., 619-231-1122
 San Francisco, CA 94102, 450 Golden Gate Ave., 415-552-2155
 San Juan, PR 00918 U.S. Courthouse and Fed. Bldg., 809-754-6000
-Savannah, GA 31405, 5401 <ent type='person'>Paulson St</ent>., 912-354-9911
+Savannah, GA 31405, 5401 <ent type='person'>Paulson</ent> St., 912-354-9911
 Seattle, WA 98174, 915 2nd Ave., 206-622-0460
 Springfield, IL 62702, 535 W. Jefferson St., 217-522-9675
 Tampa, FL 33602, Federal Office Bldg., 813-228-7661

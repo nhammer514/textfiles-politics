@@ -14,7 +14,7 @@ court in <ent type='GPE'>Chicago</ent>, <ent type='GPE'>Illinois</ent> on Februa
 description of the mail opening program:
 
 ``The <ent type='GPE'>Chicago</ent> Division of the U.S. <ent type='ORG'>Postal Inspection</ent> Service has implemented 
-an <ent type='ORG'><ent type='ORG'>Express Mail</ent> Profile</ent> program at the Air Mail Facility (AMF) at <ent type='GPE'>Chicago</ent> 
+an <ent type='ORG'>Express Mail Profile</ent> program at <ent type='ORG'>the Air Mail Facility</ent> (AMF) at <ent type='GPE'>Chicago</ent> 
 O'Hare International Airport This program consists of a physical profile of 
 <ent type='ORG'>Express Mail</ent> parcels which have been mailed to or from locations within the 
 Northern District of <ent type='GPE'>Illinois</ent>. Targets were cities and/or areas of the United 
@@ -28,7 +28,7 @@ return address and postmark to correspond. The physical appearance in both
 cases were rather generic (according to the descriptions offered in the court 
 files)
 
-W. Earnst <ent type='ORG'>Hills</ent> of <ent type='ORG'>the <ent type='ORG'>Postal Inspection</ent> Service</ent> in <ent type='GPE'>Chicago</ent> said in an 
+W. Earnst <ent type='ORG'>Hills</ent> of <ent type='ORG'>the Postal Inspection Service</ent> in <ent type='GPE'>Chicago</ent> said in an 
 interview that this program was not ongoing but rather goes into effect 
 whenever they get information from other agencies that indicate a suspicious 
 package is on the way. For example, if a <ent type='ORG'>DEA</ent> agent observes a suspected drug 

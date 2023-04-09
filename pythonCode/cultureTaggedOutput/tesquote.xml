@@ -1,4 +1,4 @@
-<xml><p>QUOTES THAT GUIDE <ent type='GPE'>US</ent></p>
+<xml><p>QUOTES THAT GUIDE US</p>
 
 
   <p>"Ere many generations pass, our machinery will be driven  by
@@ -13,7 +13,7 @@
    in  attaching  their  machinery  to  the  very  wheelwork  of
    nature."
 
-   <ent type='ORG'>Nikola</ent> Tesla addressing the American Institute of  Electrical
+   <ent type='ORG'>Nikola</ent> Tesla addressing <ent type='ORG'>the American Institute</ent> of  Electrical
    Engineers,  1891.</p>
 
 
@@ -51,7 +51,7 @@
    designed  this planet...."
 
    <ent type='ORG'>Nikola</ent>  Tesla  describing  what  is  now  known  as  Schumann
-   Resonance (7.8Hz) in  "The Transmission of Electrical  Energy
+   Resonance (7.8Hz) in  "<ent type='ORG'>The Transmission</ent> of Electrical  Energy
    Without  Wires  As A Means  Of Furthering World Peace",
    Electrical World And  Engineer,  January  7,  1905, PP 21-24.</p>
 </xml>

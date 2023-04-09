@@ -1,7 +1,7 @@
 <xml><p>The Law: Guilt Doesn't Matter
 
 Rooted in English common law, forfeiture has surfaced just twice in the
-United States since colonial times. // In 1862, <ent type='ORG'>Congress</ent> permitted the
+<ent type='GPE'>United States</ent> since colonial times. // In 1862, <ent type='ORG'>Congress</ent> permitted the
 president to seize estates of <ent type='ORG'>Confederate</ent> soldiers. Then, in 1970, it
 resurrected forfeiture for the civil war on drugs with the passage of
 racketeering laws that targeted the assets of criminals. // In 1984
@@ -18,13 +18,13 @@ poetic justice, with criminals financing their own undoing.
 But eliminating the necessity of charging or proving a crime has moved
 most of the action to civil court, where the government accuses the item
 -- not the owner -- of being tainted by a crime. // This oddity has
-court dockets looking like purchase orders: <ent type='GPE'>United States of America</ent> vs.
+court dockets looking like purchase orders: <ent type='GPE'>United States</ent> of America vs.
 9.6 acres of land and lake; U.S. vs. 667 bottles of wine. But it's more
 than just a labeling change. Because money and property are at stake
 instead of life and liberty, the constitutional safeguards in criminal
 proceedings do not apply. // The result is that ``jury trials can be
 refused; illegal searches condoned; rules of evidence ignored,'' says
-Louisville, Ky. defense lawyer Donald Heavrin. The ``frenzied quest for
+<ent type='GPE'>Louisville</ent>, Ky. defense lawyer Donald Heavrin. The ``frenzied quest for
 cash,'' he says, is ``destroying the judicial system.''
 
 Every crime package passed since 1984 has expanded the uses of
@@ -33,7 +33,7 @@ state and federal level. Not just for drug cases anymore, forfeiture
 covers the likes of money laundering, fraud, gambling, importing tainted
 meats and carrying intoxicants onto <ent type='NORP'>Indian</ent> land.
 
-The White House, Justice Department and Drug Enforcement Administration
+<ent type='ORG'>The White House</ent>, <ent type='ORG'>Justice Department</ent> and <ent type='ORG'>Drug Enforcement Administration</ent>
 say they've made the most of the expanded law in getting the big-time
 criminals, and they boast of seizing mansions, planes and millions in
 cash. But <ent type='ORG'>the Pittsburgh Press</ent> in just 10 months was able to document
@@ -46,7 +46,7 @@ December.
 
 ``If you want to use that 'war on drugs' analogy, the forfeiture is like
 giving the troops permission to loot,'' says Thomas Lorenzi,
-president-elect of the Louisiana Association of Criminal Defense
+president-elect of <ent type='ORG'>the Louisiana Association</ent> of Criminal Defense
 Lawyers. // The near-obsession with forfeiture continues without any
 proof that it curbs drug crime -- its original target. // ``The reality
 is, it's very difficult to tell what the impact of drug seizure is,''
