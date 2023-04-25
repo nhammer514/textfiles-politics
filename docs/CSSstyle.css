@@ -1,11 +1,11 @@
 body {
       
-      background-color: white; 
-      color: black; 
+      background-color: #6495ED; 
+      color: white; 
       font-family: arial, helvetica, sans-serif; 
-      padding:200px; 
+      padding:15px; 
       line-height:2em;
-      background-image: url('Images/TopSecret.jpg');
+      background-image: url('Images/Background3.jpg');
       border: 1px solid black
       
       
@@ -55,7 +55,7 @@ a:hover {
     text-decoration: underline;
 }
 #citation-link > a:hover {
-    color: red;
+    color: #6495ED;
 }
 
 /* Navbar */
@@ -72,7 +72,7 @@ a:hover {
 }
 
 div.button { 
-  background-color: red; 
+  background-color: #6495ED; 
   border: double black;
   color: black;
   padding: 15px 32px;
@@ -259,7 +259,7 @@ img.dahlia {
     text-decoration: underline;
 }
 #github-links > a:hover {
-    color: red;
+    color: #6495ED;
     display: block;
 }
 
