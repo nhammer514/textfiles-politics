@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Gallery</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="CSSstyle.css">
+    </head>
+    <body>
+        <!-- Credit: https://www.w3schools.com/howto/howto_js_scroll_to_top.asp -->
+        <button onclick="topFunction()" id="to-top" title="Go to top"><img alt="up arrow"
+            src="https://cdn.onlinewebfonts.com/svg/img_231938.png" width="30" /></button>
+        <script>
+                    // Get the button
+                    let mybutton = document.getElementById("to-top");
+                    
+                    // When the user scrolls down 20px from the top of the document, show the button
+                    window.onscroll = function () {
+                        scrollFunction()
+                    };
+                    
+                    function scrollFunction() {
+                        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                            mybutton.style.display = "block";
+                        } else {
+                            mybutton.style.display = "none";
+                        }
+                    }
+                    
+                    // When the user clicks on the button, scroll to the top of the document
+                    function topFunction() {
+                        document.body.scrollTop = 0;
+                        document.documentElement.scrollTop = 0;
+                    }</script>
+        <h1 id="title-index">Gallery</h1>
+        
+            <nav id="menu">
+                <a href="index.html"><div class="button">Home</div></a>
+                <a href="fulltext.html"><div class="button">Fulltext</div></a>
+                <a href="analysis.html"><div class="button">Analysis</div></a>
+                <a href="gallery.html"><div class="button">Gallery</div></a>
+                <a href="methods.html"><div class="button">Methods</div></a>
+                <a href="about.html"><div class="button">About</div></a>
+                <a href="GitHub.html"><div class="button">GitHub <img alt="github icon" src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" width="15"/></div></a>
+            </nav>
+        
+    </body>
+</html>
