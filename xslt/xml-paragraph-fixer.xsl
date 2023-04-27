@@ -18,16 +18,7 @@
     
     <xsl:template match="/">
           <xml>
-      <!--  <html>
-            <head>
-                <title><xsl:value-of select="base-uri(.) ! tokenize(., '/')[last()] ! substring-before(., '.xml')"/></title>
-                <link/>
-                <!-\-Fill in your link line for CSS and JS in the XSLT here! -\->
-                <xsl:comment>Fill in your link line for CSS and JS in the XSLT here! </xsl:comment>
-                
-            </head>-->
-          <!--  <body>-->
-               
+
            <xsl:for-each select="$conspiracy">   
                <xsl:variable name="filename" as="xs:string" select="current() ! base-uri() ! tokenize(., '/')[last()]"/>
                <xsl:result-document method="xml" indent="yes" href="../src-xml/{$filename}"> 
@@ -43,8 +34,7 @@
                </xsl:result-document>
            </xsl:for-each>
         </xml>      
-            <!--</body>-->
-        <!--</html>-->
+  
  
     </xsl:template>
     
@@ -66,6 +56,17 @@
             </xsl:non-matching-substring>-->
         </xsl:analyze-string>
         </div>
+    </xsl:template>
+    
+    <xsl:template match="info">
+        <info type="{@type}">
+            <xsl:apply-templates/>
+        </info>
+    </xsl:template>
+    <xsl:template match="special">
+        <info type="{@type}">
+            <xsl:apply-templates/>
+        </info>
     </xsl:template>
     
     
