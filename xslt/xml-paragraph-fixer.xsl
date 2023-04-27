@@ -13,6 +13,8 @@
     It is an XML-to-XML identity transformation, leaving the files intact but adding paragraph markup where it is missing.
     -->
     
+    <xsl:variable name="conspiracy" as="document-node()+" select="collection('../regexConspTest')"/>
+    
     <xsl:mode on-no-match="shallow-copy"/>
     
     <xsl:template match="/">
@@ -26,7 +28,11 @@
             </head>-->
           <!--  <body>-->
                
-              <xsl:choose>
+           <xsl:for-each select="$conspiracy">   
+               <xsl:variable name="filename" as="xs:string" select="current() ! base-uri() ! tokenize(., '/')[last()]"/>
+            <xsl:result-document >   
+                <!-- ebb: NEED TO LOOK UP HOW TO SET UP INDIVIDUAL RESULT DOCUMENTS output to folder  -->
+               <xsl:choose>
                   <xsl:when test="count(descendant::p) gt 1">
                       <div class="article"><xsl:apply-templates select=".//p" mode="multiparagraph"/></div>
                   </xsl:when>
@@ -34,6 +40,9 @@
                       <xsl:apply-templates select=".//p"/>
                   </xsl:otherwise>
               </xsl:choose>
+           </xsl:result-document>
+           
+           </xsl:for-each>
                 
             <!--</body>-->
         <!--</html>-->
