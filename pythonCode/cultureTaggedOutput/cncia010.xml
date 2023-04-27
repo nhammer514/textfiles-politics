@@ -161,7 +161,7 @@ Note Chapter 14
   <ent type='ORG'>Regional Capitol</ent>:  <ent type='GPE'>Chicago</ent>
    REGION VI:  <ent type='GPE'>Arkansas</ent>, <ent type='GPE'>Louisiana</ent>, <ent type='GPE'>New Mexico</ent>, <ent type='GPE'>Oklahoma</ent>, <ent type='GPE'>Texas</ent>.
   <ent type='ORG'>Regional Capitol</ent>:  <ent type='GPE'>Dallas</ent>-<ent type='GPE'>Fort Worth</ent>
-   REGION VII:  <ent type='GPE'>Iowa</ent>, <ent type='GPE'>Kansas</ent>, <ent type='GPE'>Missouri</ent>, <ent type='GPE'>Nebraska</ent>.
+   REGION VII:  <ent type='GPE'>Iowa</ent>, <ent type='GPE'>Kansas</ent>, 
   <ent type='ORG'>Regional Capitol</ent>:  <ent type='GPE'>Kansas</ent> City
    REGION VIII:  <ent type='GPE'>Colorado</ent>, <ent type='GPE'>Montana</ent>, <ent type='GPE'>North Dakota</ent>, <ent type='GPE'>South Dakota</ent>,
   <ent type='GPE'>Utah</ent>, <ent type='GPE'>Wyoming</ent>.

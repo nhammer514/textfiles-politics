@@ -1,0 +1,991 @@
+<xml><p>HR-3515.TXT</p>
+
+<p>Article by Kaleb Axon
+<ent type='ORG'>House</ent> bill HR 3515 transcribed by James D <ent type='PERSON'>Bryant</ent> II</p>
+
+<p>This file may be requested from 1:280/77 @fidonet as
+"HR-3515.ZIP". The following related files are also available:</p>
+
+<p> HR-3515.ZIP Text of <ent type='ORG'>House</ent> bill HR 3515, and an article
+concerning its contents.</p>
+
+<p> TX-8387.ZIP A brief announcement of the decision in <ent type='GPE'>Texas</ent>
+<ent type='ORG'>PUC</ent> docket 8387, Reginald A. Hirsch, et. al.
+vs <ent type='ORG'>Southwestern <ent type='ORG'>Bell</ent> <ent type='ORG'>Tele</ent>phone</ent> company, and a
+portion of the text of this decision.</p>
+
+<p> 3515-<ent type='ORG'>LTR</ent>.ZIP A sample letter to be sent to your congressmen
+concerning HR 3515. Please do not copy this
+letter exactly; letter-writing compaigns are
+more effective if every letter is different.</p>
+
+<div>----------------------------------------------------------------------</div>
+
+<p> H.R. 3515 -- Transcribed by James D. <ent type='PERSON'>Bryant</ent> II on Nov. 24, 1991
+I have proofed this twice, it should not contain any
+errors or omissions, I can't access my spell checker
+right now, there may be a typo or two somewhere..</p>
+
+<p>Please note that this is not the article written by <ent type='PERSON'>James Bryant</ent>. I
+wrote my own notice here, because I strongly disagree with his
+viewpoint on this bill. His article may be file requested from
+1:1/1 @fidonet as "ta91.zip".</p>
+
+<p>The following document is a full transcription of the
+<ent type='ORG'>Tele</ent>communications Act of 1991.</p>
+
+<p>IF THIS BILL PASSES, IT WILL GIVE THE BELL OPERATING COMPANIES
+AND OTHER PHONE SERVICE CARRIERS THE FREEDOM TO CHARGE BBS
+OPERATORS WHATEVER RATES THEY SEE FIT.</p>
+
+<p>Please write your congressmen, expressing your opposition to this
+bill! Be sure to mention the following points:</p>
+
+<p>1. BBSs are not-for-profit.</p>
+
+<p>2. BBSs are not typically used as heavily as larger, for-profit
+information services.</p>
+
+<p>3. BBS <ent type='ORG'>operat</ent>ors do not typically charge money for use of the
+system.</p>
+
+<p>4. The <ent type='ORG'>sec</ent>tion of the proposed bill which concerns us is (quote
+this exactly):</p>
+
+<p> <ent type='ORG'>sec</ent>tion 201A(e) of this bill's proposed ammendment to the
+<ent type='ORG'>Com</ent>munications Act of 1934</p>
+
+<p>5. In the state of <ent type='GPE'>Texas</ent>, <ent type='ORG'>Southwestern <ent type='ORG'>Bell</ent> <ent type='ORG'>Tele</ent>phone</ent> attempted
+to charge business rates to all BBSs, and the <ent type='GPE'>Texas</ent> Public
+Utilities <ent type='ORG'>Commission</ent> unanimously agreed that this was
+unfair. In your letter, refer to <ent type='GPE'>Texas</ent> <ent type='ORG'>PUC</ent> docket 8387,
+Reginald A. Hirsch, et. al. vs <ent type='ORG'>Southwestern <ent type='ORG'>Bell</ent> <ent type='ORG'>Tele</ent>phone</ent>
+<ent type='ORG'>Com</ent>pany. Partial text of their resolution may be requested
+for inclusion in your letter, from 1:280/77 @fidonet as
+"TX-8387.ZIP".</p>
+
+<p>Please TELL your <ent type='ORG'>Congress</ent>man and Senators, and all members of the
+involved committees to vote <special> NO </special> on this bill, unless it is
+ammended to guarantee residential phone rates to not-for-profit,
+free BBSs.</p>
+
+<p>The basic principle of this bill is a good one; it is intended to
+prevent the <ent type='ORG'>Bell</ent> companies from monopolizing the information
+services. Please do not say anything in your letter which could
+be interpreted as opposition to that basic principle.</p>
+
+<div>--------------------------------------------------------------</div>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 01 of 35]</p>
+
+<p> H.R. 3515</p>
+
+<p>To amend the <ent type='ORG'>Com</ent>munications Act of 1934 to encourage competition in the
+provision of electronic information services, to foster the continued
+diversity of information sources and services, to preserve the universal
+availability of basic <ent type='ORG'>telecommunicati</ent>ons services, and for other
+purposes.</p>
+
+<div>----------------------------------------------------------</div>
+
+<p> IN THE <ent type='ORG'>HOUSE</ent> OF REPRESENTATIVES</p>
+
+<p> October 8, 1991</p>
+
+<p>Mr. <ent type='PERSON'>Cooper</ent> (for himself, Mr. <ent type='ORG'>Bliley</ent>, Mr. <ent type='ORG'>Synar</ent>, Mr. <ent type='PERSON'>Schaefer</ent>, and Mr.
+<ent type='PERSON'>Bryant</ent>) introduced the following bill, which was referred jointly to the
+<ent type='ORG'>Com</ent>mittees on E<ent type='ORG'>ner</ent>gy and <ent type='ORG'>Com</ent>merce and the Judiciary.</p>
+
+<div>----------------------------------------------------------</div>
+
+<p> A BILL</p>
+
+<p>To amend the <ent type='ORG'>Com</ent>munications Act of 1934 to encourage competition in the
+provision of electronic information services, to foster the continued
+diversity of information sources and services, to preserve the universal
+availability of basic <ent type='ORG'>telecommunicati</ent>ons services, and for other
+purposes.</p>
+
+<p>1 Be it enacted by the Senate and <ent type='ORG'>House</ent> of Representa-2 tives of <ent type='GPE'>the United</ent> States of America in <ent type='ORG'>Congress</ent> assembled,</p>
+
+<p>3 <ent type='ORG'>SEC</ent>TION 1. SHORT TITLE</p>
+
+<p>4 This Act may be cited as the "<ent type='ORG'>Tele</ent>communications
+5 Act of 1991".</p>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 02 of 35]</p>
+
+<p> 1 <ent type='ORG'>SEC</ent>TION 2. FINDINGS AND PURPOSES</p>
+
+<p> 2 (a) Findings--The <ent type='ORG'>Congress</ent> finds that--</p>
+
+<p> 3 (1) the national welfare will be enhanced by the
+4 continued development of robust competition in the
+5 provision of electronic information services and tele-6 communications services;</p>
+
+<p> 7 (2) the widest possible availability of informa-8 tion and <ent type='ORG'>telecommunicati</ent>ons services requires an
+9 open <ent type='ORG'>telecommunicati</ent>ons infrastructure that incor-10 porates market-driven advances in technology and
+11 whose features and functions are available on a non-12 discriminatory and unbundled basis;</p>
+
+<p> 13 (3) the availability of multiple and inter-14 con<ent type='ORG'>nec</ent>ted complementary <ent type='ORG'>telecommunicati</ent>ons net-15 works can enhance competition in the provision of
+16 information and <ent type='ORG'>telecommunicati</ent>ons services;</p>
+
+<p> 17 (4) the redundancy inherent in a pluralistic
+18 <ent type='ORG'>telecommunicati</ent>ons infrastructure offers protection
+19 against network failures;</p>
+
+<p> 20 (5) the cost-effective deployment of ad<ent type='ORG'>vanced</ent>
+21 public <ent type='ORG'>telecommunicati</ent>ns networks, subject to ap-22 propriate safeguards, can further the long-standing
+23 goals of universal telephone service at affordable
+24 rates;</p>
+
+<p> 25 (6) the provision of information services by di-26 vested <ent type='ORG'>operat</ent>ing companies prior to the development of</p>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 03 of 35]</p>
+
+<p> 1 an effectively competitive <ent type='ORG'>telecommunicati</ent>ons infra-2 structure would likely lead to higher rates for tele-3 phone exchange service and jepordize the diversity
+4 of information sources and services; and</p>
+
+<p> 5 (7) current regulatory policies must be revised
+6 and supplemented to ensure the universal availability
+7 of telephone exchange service at reasonable rates
+8 and fair competition in delivery of <ent type='ORG'>telecommunicati</ent>-9 cations and information services.</p>
+
+<p> 10 (b) PURPOSES--The purposes of this Act are to--</p>
+
+<p> 11 (1) ensure the continued availability of afford-12 able <ent type='ORG'>telecommunicati</ent>ons and information services
+13 that are essential to full participation in the nation's
+14 economic, political, and social life;</p>
+
+<p> 15 (2) encourage the continued development of ad-16 <ent type='ORG'>vanced</ent>, reliable <ent type='ORG'>telecommunicati</ent>ons networks;</p>
+
+<p> 17 (3) ensure that the costs of such networks and
+18 the services provided over them are allocated equi-19 tably among users; and</p>
+
+<p> 20 (4) ensure that the provision of information
+21 services by divested <ent type='ORG'>operat</ent>ing companies does not
+22 jepordize the universal availability of telephone ex-23 change service at reasonable rates or undermine
+24 competition in the information services marketplace.</p>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 04 of 35]</p>
+
+<p> 1 TITLE I -- INFRASTRUCTURE</p>
+
+<p> 2 DEVELOPMENT</p>
+
+<p> 3 <ent type='ORG'>Sec</ent>. 101. NETWORK STANDARDS</p>
+
+<p> 4 Title II of the <ent type='ORG'>Com</ent>munications Act of 1934 is
+5 amended by inserting after <ent type='ORG'>sec</ent>tion 201 the following new
+6 <ent type='ORG'>sec</ent>tion:</p>
+
+<p> 7 "<ent type='ORG'>Sec</ent>. 201A. NETWORK STANDARDS.</p>
+
+<p> 8 "(a) SERVICE QUALITY --</p>
+
+<p> 9 "(1) ADOPTION OF STANDARDS.-- A <ent type='ORG'>Federal</ent>-10 State <ent type='ORG'>Joint Board</ent> shall be established under <ent type='ORG'>sec</ent>tion
+11 401(c) not later than 90 days after the enactment
+12 of this sub<ent type='ORG'>sec</ent>tion to impose and enforce network
+13 quality standards upon the common carriers for the
+14 purpose of ensuring the combined <ent type='PERSON'>mainte</ent>nance and
+15 evolution of common carrier facilities and services.
+16 Not later than 180 days after the date of enactment
+17 of this sub<ent type='ORG'>sec</ent>tion, <ent type='ORG'>the Joint Board</ent> shall initiate a
+18 rulemaking proceeding to establish standards, to be
+19 enforced by the <ent type='ORG'>Commission</ent> and the State <ent type='ORG'>Commis</ent>-20 sions as to matters within their respective jurisdic-21 tions, for measuring common carrier network qual-22 ity.</p>
+
+<p> 23 "(2) REPORTS -- Each common carrier shall
+24 submit to <ent type='ORG'>the Joint Board</ent> established pursuant to
+25 paragraph (1) a quarterly data report, in a form re-</p>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 05 of 35]</p>
+
+<p>1 quired by <ent type='ORG'>the Joint Board</ent>, reguarding compliance
+2 with the prescribed network quality standards. The
+3 <ent type='ORG'>Joint Board</ent> may require periodic independant audits
+4 of common carrier compliance with the network
+5 quality standards. The <ent type='ORG'>Commission</ent>, upon the rec-6 commendation of <ent type='ORG'>the Joint Board</ent>, shall establish en-7 forcement penalties and procedures, including expe-8 dited <ent type='ORG'>cus</ent>tomer complaint mechanisms, to ensure
+9 common carrier compliance with network quality
+10 standards.</p>
+
+<p>11 "(b) <ent type='ORG'>INTERCONNECTION</ent> --</p>
+
+<p>12 "(1) GENERALLY-- Each local exchange carrier
+13 shall provide intercon<ent type='ORG'>nec</ent>tion, on a reasonable and
+14 nondiscriminatory basis, to common carriers and
+15 other providers of <ent type='ORG'>telecommunicati</ent>ons services and
+16 information services who request it. An intercon<ent type='ORG'>nec</ent>t-17 ing party may physically colocate the equipment <ent type='ORG'>nec</ent>-18 essary for intercon<ent type='ORG'>nec</ent>tion at the premises of a local
+19 exchange carrier, except as provided under para-20 graph (2).</p>
+
+<p>21 "(2) VIRTUAL COLOCATION-- A local exchange
+22 carrier that can demonstrate by clear and convincing
+23 evidence in a particular case that the physical
+24 colocation required under paragraph (1) is not pract-25 ticable for technical reasons or because of space lim-</p>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 06 of 35]</p>
+
+<p> 1 itations shall offer an intercon<ent type='ORG'>nec</ent>ting party virtual
+2 colocation with it's premises. Virtual colocation shall
+3 be economically and technically comparable to inter-4 con<ent type='ORG'>nec</ent>tion that is or would be obtained through
+5 physical colocation of the intercon<ent type='ORG'>nec</ent>ting party's
+6 equipment at the premises of the local exchange car-7 ier. Nothing in this paragraph shall relieve a di-8 vested <ent type='ORG'>operat</ent>ing company of it's obligations under
+9 <ent type='ORG'>sec</ent>tion 227(d)(12).</p>
+
+<p>10 "(3) EXCEPTION FOR RURAL EXCHANGE CAR-11 RIERS.-- Notwithstanding any other provision of this
+12 sub<ent type='ORG'>sec</ent>tion, a rural exchange carrier shall not be re-13 quired to provide intercon<ent type='ORG'>nec</ent>tion to another local ex-14 change carrier.</p>
+
+<p>15 "(4) REGUAL<ent type='ORG'>TIONS</ent>-- Within 270 days after the
+16 date of enactment of the <ent type='ORG'>Tele</ent>communications Act of
+17 1991, the <ent type='ORG'>Commission</ent> shall--</p>
+
+<p>18 "(A) adopt and make effective rules to en-19 force the oblications imposed by this sub<ent type='ORG'>sec</ent>tion;
+20 and</p>
+
+<p>21 "(B) initiate a rulemaking to require that
+22 the intercon<ent type='ORG'>nec</ent>tion offered by a local exchange
+23 carrier pursuant to this sub<ent type='ORG'>sec</ent>tion shall provide
+24 for the portability of telephone numbers.</p>
+
+<p>25 "(c) NETWORK ACCESS--</p>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 07 of 35]</p>
+
+<p> 1 "(1) REVISIONS TO ORDER-- The <ent type='ORG'>Commission</ent>
+2 shall further revise the order of the <ent type='ORG'>Commission</ent> en-3 titled '<ent type='ORG'>Filing and Review</ent> of Open Network Archetec-4 ture Plans' CC Docket 88-2, Phase I, released De-5 cember 22, 1988, and subsequently revised, to re-6 quire that--</p>
+
+<p> 7 "(A) the plans for compliance with such
+8 order offer unbundled features and functions;</p>
+
+<p> 9 "(B) such features and functions are made
+10 available on a reasonably uniform basis by all
+11 of the common carriers subject to such order,
+12 and that such features and functions are acces-13 sible throughout the service territory of each
+14 such carrier;</p>
+
+<p>15 "(C) such plans include a schedule for
+16 timely offering of new features asnd functions;
+17 and</p>
+
+<p>18 "(D) common carriers subject to such
+19 order not unreasonably discriminate between af-20 filiated and unaffiliated providers of informa-21 tion services in offering tariffed and non-22 tariffed features, functions, and capabilities.</p>
+
+<p>23 "(2) REVIEW OF ORDER AND PLANS-- At least
+24 once every three years, the <ent type='ORG'>Commission</ent> shall--</p>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 08 of 35]</p>
+
+<p> 1 "(A) conduct a proceeding in which inter-2 ested parties shall have an opportunity to com-3 ment on whether the order described in para-4 graph (1), as further revised, and the plans
+5 filed pursuant to it have opened the networks of
+6 the carriers subject to such order to reasonable
+7 and non-discriminatory access by providers of
+8 <ent type='ORG'>telecommunicati</ent>ons services and information
+9 services; and</p>
+
+<p>10 "(B) not later than 180 days after receiv-11 ing the reply comments filed in such proceed-12 ing, revise such order as it deems <ent type='ORG'>nec</ent>essary or
+13 appropiate and require the common carriers
+14 subject to such order to file new plans consist-15 ent with such revisions, which new plans shall
+16 also be subject to public comment and <ent type='ORG'>Commis</ent>-17 sion review prior to their becoming effective.</p>
+
+<p>18 "(d) PRIVACY-- Personally identifiable <ent type='ORG'>cus</ent>tomer in-19 formation obtained or collected by a local exchange carrier
+20 in the course of providing telephone exchange service shall
+21 be used only in con<ent type='ORG'>nec</ent>tion with the provision of such serv-22 ice, and shall not be made available to any affiliate of such
+23 carrier or any other person except--</p>
+
+<p>24 "(1) as required by law; or</p>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 09 of 35]</p>
+
+<p> 1 "(2) upon the affirmative request by the <ent type='ORG'>cus</ent>-2 tomer to which such information relates.</p>
+
+<p> 3 "(e) TARIFFS--</p>
+
+<p> 4 "(1) GENERALLY-- A local exchange carrier
+5 shall prepare and file tariffs in accordance with this
+6 Act with respect to the intercon<ent type='ORG'>nec</ent>tion and network
+7 access services required under this <ent type='ORG'>sec</ent>tion. The costs
+8 that a local exchange carrier incurs in providing
+9 such services shall be borne solely by the users of
+10 the features and functions comprising such services.
+11 The <ent type='ORG'>Commission</ent> shall review such tariffs to ensure
+12 that--</p>
+
+<p>13 "(A) the charges for such services are cost-14 based; and</p>
+
+<p>15 "(B) the terms and conditions contained in
+16 such tariffs do not bundle together any sepa-17 rable elements, features, or functions.</p>
+
+<p>18 "(2) SUPPORTING <ent type='ORG'>INFORMA</ent>TION-- A local ex-19 change carrier shall submit supporting information
+20 with it's tariffs for intercon<ent type='ORG'>nec</ent>tion and network ac-21 cess services that is sufficient to enable the <ent type='ORG'>Commis</ent>-22 sion and the public to determine the relationship be-23 tween the proposed charges and the cost of provid-24 ing such services. The submission of such informa-25 tion shall be pursuant to the rules adopted by the <ent type='ORG'>Com</ent>-</p>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 10 of 35]</p>
+
+<p> 1 mission to ensure that similarly situated carriers
+2 provide such information in an uniform fashion.</p>
+
+<p> 3 "(3) UNIVERSAL SERVICE ELEMENTS-- A local
+4 exchange carrier may include in it's tariffs for inter-5 con<ent type='ORG'>nec</ent>tion services an element intended to recover
+6 the amount <ent type='ORG'>nec</ent>essary to preclude any substantial in-7 creases in the rates for telephone exchange service
+8 that would otherwise result from the offering of
+9 intercon<ent type='ORG'>nec</ent>tion services. Such element shall be im-10 posed at a uniform rate on any person who pur-11 chases such services, and shall also be included at
+12 the same rate in such carrier's charges for services
+13 offered by the carrier in competition with the serv-14 ices offered by intercon<ent type='ORG'>nec</ent>ting parties. No later than
+15 270 days after the date of enactment of the <ent type='ORG'>Tele</ent>-16 communications Act of 1991, the <ent type='ORG'>Commission</ent> shall
+17 adopt and make effective rules governing the cal-18 culation of such element. Any amounts recovered by
+19 the local exchange carrier through the imposition of
+20 this additional element shall be used to defray the
+21 costs of providing telephone exchange servicce.</p>
+
+<p>22 "(f) RESALE-- The resale of telephone exchange
+23 service (or the unbundled elements of such service) in <ent type='ORG'>conjunc</ent>-24 tion with the the furnishing of an interstate telecommuni-25 cations service or any information service shall not be pro-</p>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 11 of 35]</p>
+
+<p> 1 hibited or subject to unreasonable conditions by the <ent type='ORG'>Com</ent>-2 mission, any State, or any local exchange carrier.</p>
+
+<p> 3 "(g) <ent type='ORG'>COORDINATED</ent> PLANNING-- The <ent type='ORG'>Commission</ent>
+4 shall adopt and make effective rules for the conduct of
+5 coordinated network planning by common carriers, subject
+6 to <ent type='ORG'>Commission</ent> supervision, to ensure (1) the effective and
+7 efficient intercon<ent type='ORG'>nec</ent>tion and interoperability of common
+8 carrier networks, and (2) that the design of such networks
+9 does not impede access to information services by sub-10 <ent type='ORG'>scriber</ent>s to telephone exchange service furnished by a rural
+11 exchange carrier.</p>
+
+<p>12 "(h) STUDY-- No later than 270 days after the en-13 actment of the <ent type='ORG'>Tele</ent>communications Act of 1991, the <ent type='ORG'>Com</ent>-14 mission shall initiate an inquiry to examine the effects of
+15 competition in the provision of telephone exchange access
+16 and telephone exchange service on the availability and
+17 rates for telephone exchange service furnished by rural ex-18 change carriers.</p>
+
+<p>19 <ent type='ORG'>SEC</ent>. 102. EXPEDITED REVIEW OF CERTAIN COMPLAINTS</p>
+
+<p>20 <ent type='ORG'>Sec</ent>tion 208 of the <ent type='ORG'>Com</ent>munications Act of 1934 is
+21 amended by adding at the end thereof the following new
+22 sub<ent type='ORG'>sec</ent>tion:</p>
+
+<p>23 "(c) EXPEDITED REVIEW OF CERTAIN COM-24 PLAINTS-- The <ent type='ORG'>Commission</ent> shall issue a final order with
+25 respect to any complaint arising from alleged violations</p>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 12 of 35]</p>
+
+<p> 1 of <ent type='ORG'>sec</ent>tion 201A within 270 days after such complaint is
+2 filed".</p>
+
+<p> 3 <ent type='ORG'>SEC</ent>. 103. EXPEDITED LICENSING OF NEW TECHNOLOGIES</p>
+
+<p> 4 AND SERVICES.</p>
+
+<p> 5 <ent type='ORG'>Sec</ent>tion 7 of the <ent type='ORG'>Com</ent>munications Act of 1934 is
+6 amended by adding to the end thereof the following new
+7 sub<ent type='ORG'>sec</ent>tion:</p>
+
+<p> 8 "(c) LICENSING OF NEW TECHNOLOGIES-- Within
+9 twenty-four months after making a determination under
+10 sub<ent type='ORG'>sec</ent>tion (b) that a technology or service related to the
+11 furnishing of tlelcommunications services or information
+12 services is in the public interest, the <ent type='ORG'>Commission</ent> shall
+13 adopt and make effective rules for--</p>
+
+<p>14 "(1) the provision of such technology or service;
+15 and</p>
+
+<p>16 "(2) the filing of applications for the <ent type='ORG'>authoriza</ent>-17 tions <ent type='ORG'>nec</ent>essary to offer such technology or service to
+18 the public, and shall act on any such application
+19 within twenty-four months after it is filed. Any ap-20 plication filed by a carrier under this sub<ent type='ORG'>sec</ent>tion for
+21 the construcction or extension of a line shall also be
+22 subject to <ent type='ORG'>sec</ent>tion 214 and to any <ent type='ORG'>nec</ent>essary approval
+23 by the appropriate State commissions".</p>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 13 of 35]</p>
+
+<p> 1 TITLE II -- PROVISIONS AFFECTING
+2 DIVESTED OPERATING COMPANIES</p>
+
+<p> 3 <ent type='ORG'>SEC</ent>. 201. PROVISION OF <ent type='ORG'>INFORMA</ent>TION SERVICES</p>
+
+<p> 4 Title II of the <ent type='ORG'>Tele</ent>communications Act of 1934 is
+5 amended by adding at the end thereof the following new
+6 <ent type='ORG'>sec</ent>tion:</p>
+
+<p> 7 "<ent type='ORG'>SEC</ent>. 227. PROVISION OF <ent type='ORG'>INFORMA</ent>TION SERVICES BY DI-8 OPERATING COMPANIES.</p>
+
+<p> 9 "(a) PROVISION OF SERVICES-- A divested <ent type='ORG'>operat</ent>ing
+10 company or an affiliate thereof may provide information
+11 services, subject to this <ent type='ORG'>sec</ent>tion and title IV.</p>
+
+<p>12 "(b) ELECTRONIC PUBLISHING-- A divested <ent type='ORG'>operat</ent>-13 ing company or an affiliate thereof may not offer elec-14 tronic publishing services in any State in which such com-15 pany or affiliate provides telephone exchange service until
+16 the <ent type='ORG'>Commission</ent>, after notice and opportunity for public
+17 comment and after consultation with <ent type='ORG'>the Department</ent> of
+18 Justice and the appropriate State commissions, deter-19 mines that--</p>
+
+<p>20 "(1) at least 50 percent of all businesses and
+21 residences within the areas in each State in which
+22 such company or any affiliate thereof provides tele-23 phone exchange service have access to transmission
+24 and switching facilities (other than those owned or
+25 controlled by a divested <ent type='ORG'>operat</ent>ing company or it's af-</p>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 14 of 35]</p>
+
+<p> 1 filiate) that are comparable in quality, cost, geo-2 graphic range, and functionality to those offered by
+3 the divested <ent type='ORG'>operat</ent>ing company for the delivery of
+4 electronic publishing services;</p>
+
+<p> 5 "(2) at least 10 percent of all businesses and
+6 residences within the areas in each State in which
+7 such company provides telephone exchange service
+8 subscribe to services delivered over such alternative
+9 facilities; and</p>
+
+<p>10 "(3) the divested <ent type='ORG'>operat</ent>ing company or affiliate
+11 thereof seeking to provide such electronic publishing
+12 services has demonstrated that there is no substan-13 tial possibility that the divested <ent type='ORG'>operat</ent>ing company
+14 could use it's position as a local exchange carrier to
+15 (A) impede competition in the provision of electronic
+16 publishing services, or (B) impose additional costs
+17 upon sub<ent type='ORG'>scriber</ent>s of telephone exchange service.</p>
+
+<p>18 "(c) WAIVER-- A divested <ent type='ORG'>operat</ent>ing company or an
+19 affiliate thereof may petition the <ent type='ORG'>Commission</ent> for a waiver
+20 of sub<ent type='ORG'>sec</ent>tions (b) and (h) to provide a particular elec-21 tronic publishing service. Such petition shall be granted
+22 if such company or affiliate can demonstrate to the <ent type='ORG'>Com</ent>-23 mission by clear and convincing evidence that (A) such
+24 service would not exist unless offered by such company
+25 or affiliate, and (B) the provision of such service by such</p>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 15 of 35]</p>
+
+<p> 1 company or affiliate would not impose additional costs
+2 upon sub<ent type='ORG'>scriber</ent>s of telephone exchange service. The <ent type='ORG'>Com</ent>-3 mission shall provide notice and opportunity for public
+4 comment with respect to any request for a waiver <ent type='ORG'>persu</ent>-5 ant to this sub<ent type='ORG'>sec</ent>tion. The provision of any service author-6 ized pursuant to this sub<ent type='ORG'>sec</ent>tion shall be subject to all of
+7 the other provisions of this Act, including title IV and the
+8 requirements of this sub<ent type='ORG'>sec</ent>tion.</p>
+
+<p> 9 "(d) SEPARATE SUBSIDIARY--</p>
+
+<p>10 "(1) GENERALLY-- Except as provided in sub-11 <ent type='ORG'>sec</ent>tion (e), a divested <ent type='ORG'>operat</ent>ing company or affiliate
+12 thereof may provide information services only
+13 through a subsidiary that is separated from the tele-14 phone exchange service <ent type='ORG'>operat</ent>ions of the divested
+15 company, in accordance with the requirements of
+16 this sub<ent type='ORG'>sec</ent>tion and the regualations prescribed by the
+17 <ent type='ORG'>Commission</ent> to carry out this sub<ent type='ORG'>sec</ent>tion.</p>
+
+<p>18 "(2) MINIMUM NUMBER OF OUTSIDE DIREC-19 TORS-- Any subsidiary required by this sub<ent type='ORG'>sec</ent>tion
+20 shall have a board of directors not less than 33 per-21 cent of whom are not employees, officers, or direc-22 tors of any divested <ent type='ORG'>operat</ent>ing company or any affili-23 ate of such company.</p>
+
+<p>24 "(3) TRANSACTION REQUIREMENTS-- Any
+25 transaction between any divested <ent type='ORG'>operat</ent>ing company</p>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 16 of 35]</p>
+
+<p> 1 and any other affiliate of such company (including
+2 the subsidiary required by this sub<ent type='ORG'>sec</ent>tion)--</p>
+
+<p> 3 "(A) shall not be based upon any pref-4 erence or discrimination arising out of affili-5 ation;</p>
+
+<p> 6 "(B) shall be carried out in the same man-7 <ent type='ORG'>ner</ent> as such company or affiliate conducts such
+8 business with unaffiliated persons;</p>
+
+<p> 9 "(C) shall be pursuant to contract or tariff
+10 reported to the <ent type='ORG'>Commission</ent> and made available
+11 for public inspection;</p>
+
+<p>12 "(D) shall be fully auditable and reflect all
+13 costs associated with the conduct of such busi-14 ness; and</p>
+
+<p>15 "(E) shall not have the effect of permitting
+16 any violation of the requirements of sub<ent type='ORG'>sec</ent>tion
+17 (f) of this <ent type='ORG'>sec</ent>tion.</p>
+
+<p>18 "(4) SEPERATE OPERATION AND PROPERTY--
+19 A subsidiary required by this sub<ent type='ORG'>sec</ent>tion may not--</p>
+
+<p>20 "(A) enter into any joint venture or part-21 <ent type='ORG'>ner</ent>ship with the divested <ent type='ORG'>operat</ent>ing company;</p>
+
+<p>22 "(B) have employees or a financial struc-23 ture (other than as provided in this <ent type='ORG'>sec</ent>tion) in
+24 common with the divested <ent type='ORG'>operat</ent>ing company;</p>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 17 of 35]</p>
+
+<p>1 "(C) own any property in common with a
+2 divested <ent type='ORG'>operat</ent>ing company; or</p>
+
+<p>3 "(D) establish any other subsidiary or af-4 filiate except after notice to the <ent type='ORG'>Commission</ent> in
+5 such form and containing such information as
+6 the <ent type='ORG'>Commission</ent> may require.</p>
+
+<p>7 "(5) SEPARATE COMMERCIAL ACTIVITIES-- A
+8 subsidiary required by this sub<ent type='ORG'>sec</ent>tion shall carry out
+9 directly it's own marketing, sales, accounting, hiring
+10 and training of personnel, purchasing, and <ent type='PERSON'>mainte</ent>-11 nance.</p>
+
+<p> 12 "(6) BOOKS, <ent type='ORG'>RECORDS</ent>, AND REPORTS-- Any
+13 subsidiary required by this sub<ent type='ORG'>sec</ent>tion shall--</p>
+
+<p> 14 "(A) maintain books, records, and ac-15 counts in a man<ent type='ORG'>ner</ent> prescribed by the <ent type='ORG'>Commis</ent>-16 sion which shall be seperate from the books,
+17 records, and accounts maintained by the di-18 vested <ent type='ORG'>operat</ent>ing company and the other affili-19 ates of the divested <ent type='ORG'>operat</ent>ing company, and
+20 which shall identify any conduct of business
+21 with such company and any such affiliates; and</p>
+
+<p> 22 "(B) prepare it's own financial statements
+23 (including balance sheets and the related state-24 ments of <ent type='ORG'>operat</ent>ions, stockholders' equity, and
+25 cash flows) that are not consolidated with the</p>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 18 of 35]</p>
+
+<p>1 financial statements of the divested <ent type='ORG'>operat</ent>ing
+2 company and any other affiliate of such com-3 pany; and</p>
+
+<p>4 "(C) prepare and file with the <ent type='ORG'>Commission</ent>,
+5 whether or not such subsidiary is publicly trad-6 ed, the annual and periodic reports required of
+7 publicly traded companies by the <ent type='ORG'>Sec</ent>urities and
+8 Exchange <ent type='ORG'>Commission</ent>.</p>
+
+<p>9 "(7) <ent type='ORG'>ADVERTISING</ent>-- A subsidiary required by
+10 this sub<ent type='ORG'>sec</ent>tion may not carry out advertising with
+11 the divested <ent type='ORG'>operat</ent>ing company, except that such
+12 subsidiary may carry out institutional advertising
+13 with such company if (A) such advertising does not
+14 specifically relate to any service, and (B) the sub-15 sidiary and the divested <ent type='ORG'>operat</ent>ing comapany share
+16 any costs of such advertising in proportion to their
+17 revenue.</p>
+
+<p> 18 "(8) <ent type='ORG'>SEC</ent>URITIES <ent type='ORG'>INFORMA</ent>TION-- A subsidiary
+19 required by this sub<ent type='ORG'>sec</ent>tion shall submit to the <ent type='ORG'>Com</ent>-20 mission a copy of any statement or prospectus that
+21 such subsidiary is required to file with the <ent type='ORG'>Sec</ent>urities
+22 and Exchange <ent type='ORG'>Commission</ent>.</p>
+
+<p> 23 "(9) OUTSIDE OWNERSHIP-- A divested <ent type='ORG'>operat</ent>-24 ing company or an affiliate thereof may not own
+25 more than 90 percent of any class of outstanding</p>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 19 of 35]</p>
+
+<p>1 capital stock of any affiliated subsidiary required by
+2 this sub<ent type='ORG'>sec</ent>tion.</p>
+
+<p>3 "(10) <ent type='ORG'>TRANSMISSION</ent> CAPACITY-- A seperate
+4 subsidiary required by this sub<ent type='ORG'>sec</ent>tion may not own
+5 any transmission facilities, and may obtain the use
+6 of such facilities from an affiliated divested <ent type='ORG'>operat</ent>-7 ing company or affiliate thereof only pursuant to
+8 tariffs of ge<ent type='ORG'>ner</ent>al applicability.</p>
+
+<p>9 "(11) PRESERVATION OF SEPERATE SUBSIDI-10 ARY REQUIREMENTS FOR GRANDFATHERED FUNC-11 <ent type='ORG'>TIONS</ent>-- Nothing in this sub<ent type='ORG'>sec</ent>tion shall be con-12 strued to relieve a divested <ent type='ORG'>operat</ent>ing company or
+13 any affiliate thereof (or any other local exchange
+14 carrier or affiliate thereof) of any seperate subsidi-15 ary requirement imposed before October 1, 1991.</p>
+
+<p> 16 "(12) PROVISION OF SERVICES AND <ent type='ORG'>INFORMA</ent>-17 TION-- A divested <ent type='ORG'>operat</ent>ing company may not pro-18 vide any services or information to a subsidiary re-19 quired by this sub<ent type='ORG'>sec</ent>tion unless such services or in-20 formation are made available to others on the same
+21 terms and conditions.</p>
+
+<p> 22 "(e) EXCEPTION TO SEPERATE SUBSIDIARY RE-23 QUIREMENT-- A divested <ent type='ORG'>operat</ent>ing company or affiliate
+24 thereof shall not be required to establish a subsidiary pur-25 suant to sub<ent type='ORG'>sec</ent>tion (d) with respect to any information</p>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 20 of 35]</p>
+
+<p>1 service provided by such company or affiliate on or before
+2 October 1, 1991.</p>
+
+<p>3 "(f) <ent type='EVENT'>PREVENTION</ent> OF CROSS-SUBSIDIARIES--</p>
+
+<p>4 "(1) COST ALLOCATION SYSTEM REQUIRED--
+5 Any divested <ent type='ORG'>operat</ent>ing company that provides infor-6 mation services, or which has an affiliate that is en-7 gaged in the provision of such services, shall estab-8 lish and administer, in accordance with the require-9 ments of this sub<ent type='ORG'>sec</ent>tion and the regulations pre-10 scribed thereunder, a cost allocation system that, to-11 gether with the subsidiary requirements of sub-12 <ent type='ORG'>sec</ent>tion (d), is intended to prohibit any cost of pro-13 viding such services from being subsidized by reve-14 nue from telephone exchange service or telephone ex-15 change access services.</p>
+
+<p> 16 "(2) COST ASSIGNMENT AND ALLOCATION REG-17 ULA<ent type='ORG'>TIONS</ent>--</p>
+
+<p> 18 "(A) GENERALLY-- The <ent type='ORG'>Commission</ent> shall
+19 establish regulations to require the just and
+20 reasonable assignment and allocation of all
+21 costs that are in any way incurred by a divested
+22 <ent type='ORG'>operat</ent>ing company or any affiliate thereof in
+23 the provision of any information service.</p>
+
+<p> 24 "(B) JOINT AND COMMON COSTS-- The
+25 regulations adopted pursuant to this paragraph</p>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 21 of 35]</p>
+
+<p>1 shall include a requirement that any costs of
+2 any investment or other expenditure that can-3 not be allocated based upon direct or indirect
+4 measures of cost causation shall be allocated to
+5 unregulated services--</p>
+
+<p>6 "(i) under a formula that ensures that
+7 the rates for telephone exchange service
+8 are no greater than they would have been
+9 in the absence of such investment (taking
+10 into account any decline in the real costs
+11 of providing such service), or</p>
+
+<p> 12 "(ii) based upon the highest forecast
+13 unregulated usage of the investment over
+14 the life of the investment,</p>
+
+<p> 15 whichever method results in the lesser allocation
+16 of such costs to telephone exchange service.</p>
+
+<p> 17 "(3) INSULATION OF RATEPAYERS--</p>
+
+<p> 18 "(A) ASSETS-- The <ent type='ORG'>Commission</ent> shall, by
+19 regulation, ensure that the economic risks asso-20 ciated with the provision of information services
+21 by divested <ent type='ORG'>operat</ent>ing companies or affiliates
+22 thereof (including any increases in the divested
+23 <ent type='ORG'>operat</ent>ing company's cost of capital that occur
+24 as a result of the provision of such services) are
+25 not borne by <ent type='ORG'>cus</ent>tomers of telephone exchange</p>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 22 of 35]</p>
+
+<p>1 service in the event of a business loss or failure.
+2 Investments or other expenditures assigned to
+3 information services shall not be reassigned to
+4 telephone exchange service or telephone ex-5 change access service.</p>
+
+<p>6 "(B) DEBT-- Any divested <ent type='ORG'>operat</ent>ing com-7 pany affiliate--</p>
+
+<p>8 "(i) which is providing information
+9 services, and</p>
+
+<p> 10 "(ii) which is required to be or is
+11 structurally seperate from an affiliate en-12 gaged in the provision of telephone ex-13 change service,</p>
+
+<p> 14 shall not obtain credit under any arrangement
+15 that (I) would permit a creditor, upon default,
+16 to have recourse to the assets of the divested
+17 <ent type='ORG'>operat</ent>ing company, or (II) would induce a cred-18 itor to rely on the tangible or intangible assets
+19 of the divested <ent type='ORG'>operat</ent>ing company in extending
+20 credit.</p>
+
+<p> 21 "(4) TRANSFERS OF ASSETS BETWEEN AFFILI-22 <ent type='ORG'>ATED</ent> COMPANIES-- The <ent type='ORG'>Commission</ent> shall prescribe
+23 regulations governing the accounting for the transfer
+24 of assets between a divested <ent type='ORG'>operat</ent>ing company and
+25 it's affiliates. Such regulations shall protect the inter-</p>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 23 of 35]</p>
+
+<p>1 ests of ratepayers of telephone exchange service and
+2 require such transfer to be conducted by means of
+3 a transaction that complies with sub<ent type='ORG'>sec</ent>tion (d)(3).
+4 Such regulations shall require that--</p>
+
+<p>5 "(A) any transfer of assets from such an
+6 affiliate to it's affiliated divested <ent type='ORG'>operat</ent>ing com-7 pany be valued at the lesser of net book cost or
+8 fair market value; and</p>
+
+<p>9 "(B) any transfer of assets fromm a divested
+10 <ent type='ORG'>operat</ent>ing company to it's affiliate be valued at
+11 the greater of net book cost or fair market
+12 value.</p>
+
+<p> 13 "(5) ANNUAL AUTIDING REQUIREMENT--</p>
+
+<p> 14 "(A) AUDIT <ent type='ORG'>APPLICABILITY</ent> AND PUR-15 POSE-- Each divested <ent type='ORG'>operat</ent>ing company that
+16 engages in, or has an affiliate that engages in,
+17 or has a financial or management interest in an
+18 orginization or entity that provides information
+19 services, shall provide annually to the <ent type='ORG'>Commis</ent>-20 sion, and to the State <ent type='ORG'>Commission</ent> of each State
+21 within which such company provides telephone
+22 exchange service, a report on the results of an
+23 audit by an independant auditor conducted for
+24 the purpose of determining wether the com-25 pany has--</p>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 24 of 35]</p>
+
+<p>1 "(i) established and administered a
+2 cost allocation system as required by para-3 graph (1) of this sub<ent type='ORG'>sec</ent>tion, and</p>
+
+<p>4 "(ii) complied with the cost assign-5 ment and allocation regulations prescribed
+6 under this sub<ent type='ORG'>sec</ent>tion.</p>
+
+<p>7 "(B) <ent type='ORG'>CONDUIT</ent> OF AUDIT-- Such audit
+8 shall be conducted, at divested <ent type='ORG'>operat</ent>ing com-9 pany expense, in accordance with audit proce-10 dures prescribed by the <ent type='ORG'>Commission</ent>, by regula-11 tion, which shall include approval of auditor se-12 lection by the <ent type='ORG'>Commission</ent> and rotation of audi-13 tors or other procedures to ensure the inde-14 pendence of such auditor.</p>
+
+<p> 15 "(C) SUBMISSION OF AUDIT RESULTS;
+16 CERTIFICATION-- The divested <ent type='ORG'>operat</ent>ing com-17 pany shall submit the audit to the <ent type='ORG'>Commission</ent>,
+18 which shall make the audit report available for
+19 public inspection. Such report shall be certified
+20 by the person conducting the audit and by an
+21 appropriate officer of such affiliate and shall
+22 identify with particularity any qualifications or
+23 limitations on such certification and any other
+24 information relevant to the enforcement of the
+25 requirements of this <ent type='ORG'>sec</ent>tion.</p>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 25 of 35]</p>
+
+<p>1 "(D) ACCESS TO DOCUMENTS-- For pur-2 poses of conducting and reviewing such audit--</p>
+
+<p>3 "(i) the auditor, the <ent type='ORG'>Commission</ent>, and
+4 a State commission with jurisdiction over
+5 the divested <ent type='ORG'>operat</ent>ing company shall have
+6 access to the accounts and records of the
+7 divested <ent type='ORG'>operat</ent>ing company and to those
+8 accounts and records of any of it's affiliates
+9 <ent type='ORG'>nec</ent>essary to verify transactions conducted
+10 with the divested <ent type='ORG'>operat</ent>ing company; and</p>
+
+<p> 11 "(ii) the <ent type='ORG'>Commission</ent> and a State
+12 commission shall have access to the work-13 ing papers and supporting materials of any
+14 auditor who performs an audit under this
+15 paragraph.</p>
+
+<p> 16 "(g) RECOVERY OF USE OF INTANGIBLE ASSETS--
+17 The <ent type='ORG'>Commission</ent> and a State commission shall, within
+18 their respective jurisdictions, require a divested <ent type='ORG'>operat</ent>ing
+19 company to assess any affiliate providing information
+20 services a charge for the reasonable vvalue of any intangible
+21 assets used in the provision of information services, and
+22 to credit the amount of such charge to the provision of
+23 telephone exchange service.</p>
+
+<p> 24 "(h) REMOVAL OF BARRIERS TO COMPETITIVE
+25 ENTRY-- A divested <ent type='ORG'>operat</ent>ing company or affiliate there-</p>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 26 of 35]</p>
+
+<p>1 of may not provide electronic publishing services, other
+2 than those it provided on or before October 1, 1991, in
+3 any State in which such company or affiliate provides tele-4 phone exchange service, unless and untill all entry barriers
+5 to the competitive provision of <ent type='ORG'>telecommunicati</ent>ons services
+6 imposed by each State or State commission in which such
+7 company or affiliate provides telephone exchange service
+8 have been removed with respect to such company or affili-9 ate.</p>
+
+<p> 10 "(i) PROVISION OF GATEWAY SERVICES-- Any di-11 vested <ent type='ORG'>operat</ent>ing company or affiliate thereof that offers
+12 a gateway service shall make such service available concurr-13 ently to all it's sub<ent type='ORG'>scriber</ent>s at the same rates, terms,
+14 and conditions.</p>
+
+<p> 15 "(j) ENFORCEMENT-- A person who is injured by a
+16 violation of any of the requirements of this <ent type='ORG'>sec</ent>tion may,
+17 in lieu of filing a complaint under <ent type='ORG'>sec</ent>tion 208, commence
+18 in a civil action for injunctive relief and monetary damages
+19 in any <ent type='ORG'>Federal</ent> judicial district in which the defendant re-20 sides or has an agent. A residential <ent type='ORG'>cus</ent>tomer of telephone
+21 exchange service shall have standing to commence an ac-22 tion under this <ent type='ORG'>sec</ent>tion, without regard to the amount in
+23 controversy. In any action brought under this <ent type='ORG'>sec</ent>tion, the
+24 court may award the costs of litigation (including reson-25 able attorneys fees).</p>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 27 of 35]</p>
+
+<p>1 "(k) ADDITIONAL AUTHORITY-- In addition to any
+2 other authority which the <ent type='ORG'>Commission</ent> may exercise under
+3 this Act, the <ent type='ORG'>Commission</ent> shall take such actions as are
+4 <ent type='ORG'>nec</ent>essary--</p>
+
+<p>5 "(1) to prevent anticompetitive practicces be-6 tween a divested <ent type='ORG'>operat</ent>ing company and any affili-7 ate of the divested <ent type='ORG'>operat</ent>ing company;</p>
+
+<p>8 "(2) to protect ratepayers of divested <ent type='ORG'>operat</ent>ing
+9 companies from subsidizing the provision of informa-10 tion services by such companies or their affiliates;</p>
+
+<p> 11 "(3) to prevent any divested <ent type='ORG'>operat</ent>ing company
+12 or any affiliate thereof fromm imposing any unjust or
+13 unreasonable rates or charges for any common car-14 ier services that are provided in con<ent type='ORG'>nec</ent>tion with the
+15 provision of information services.</p>
+
+<p> 16 "(m) DEFINI<ent type='ORG'>TIONS</ent>-- As used in this <ent type='ORG'>sec</ent>tion--</p>
+
+<p> 17 "(1) AFFILIATE-- The term 'affiliate' means
+18 any organization or entity that, directly or indirectly,
+19 owns or controls, or is owned or controlled by, or is
+20 under common ow<ent type='ORG'>ner</ent>ship or control with, a divested
+21 <ent type='ORG'>operat</ent>ing company. For purposes of this paragraph,
+22 the terms 'own', 'owned', and 'ow<ent type='ORG'>ner</ent>ship' means a di-23 rect or indirect equity interest (or equivalent there-24 of) of more than 10 percent of an organization or
+25 entity, or the right to more than 10 percent of the</p>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 28 of 35]</p>
+
+<p>1 gross revenues of an organization or entity under a
+2 revenue sharing or royalty agreement.</p>
+
+<p>3 "(3) DIVESTED OPERATING COMPANY-- The
+4 term 'divested <ent type='ORG'>operat</ent>ing company'--</p>
+
+<p>5 "(A) means any of the following compa-6 nies: <ent type='ORG'>Bell</ent> <ent type='ORG'>Tele</ent>phone <ent type='ORG'>Com</ent>pany of Nevada, <ent type='GPE'>Illi</ent>-7 nois <ent type='ORG'>Bell</ent> <ent type='ORG'>Tele</ent>phone <ent type='ORG'>Com</ent>pany, <ent type='NORP'>Indiana</ent> <ent type='ORG'>Bell</ent>
+8 <ent type='ORG'>Tele</ent>phone <ent type='ORG'>Com</ent>pany, Incorporated, <ent type='GPE'>Michigan</ent>
+9 <ent type='ORG'>Bell</ent> <ent type='ORG'>Tele</ent>phone <ent type='ORG'>Com</ent>pany, New England <ent type='ORG'>Tele</ent>-10 phone and <ent type='ORG'>Tele</ent>graph <ent type='ORG'>Com</ent>pany, <ent type='GPE'>New Jersey</ent>
+11 <ent type='ORG'>Bell</ent> <ent type='ORG'>Tele</ent>phone <ent type='ORG'>Com</ent>pany, New York <ent type='ORG'>Tele</ent>phone
+12 <ent type='ORG'>Com</ent>pany, US West <ent type='ORG'>Com</ent>munications <ent type='ORG'>Com</ent>pany,
+13 South Central <ent type='ORG'>Bell</ent> <ent type='ORG'>Tele</ent>phone <ent type='ORG'>Com</ent>pany, South-14 ern <ent type='ORG'>Bell</ent> <ent type='ORG'>Tele</ent>phone and <ent type='ORG'>Tele</ent>graph <ent type='ORG'>Com</ent>pany,
+15 <ent type='ORG'>Southwestern <ent type='ORG'>Bell</ent> <ent type='ORG'>Tele</ent>phone</ent> <ent type='ORG'>Com</ent>pany, the
+16 <ent type='ORG'>Bell</ent> <ent type='ORG'>Tele</ent>phone <ent type='ORG'>Com</ent>pany of <ent type='GPE'>Pennsylvania</ent>, the
+17 <ent type='GPE'>Chesapeake</ent> and <ent type='GPE'>Poto</ent>mac <ent type='ORG'>Tele</ent>phone <ent type='ORG'>Com</ent>pany,
+18 the <ent type='GPE'>Chesapeake</ent> and <ent type='GPE'>Poto</ent>mac <ent type='ORG'>Tele</ent>phone <ent type='ORG'>Com</ent>-19 pany of <ent type='GPE'>Maryland</ent>, the <ent type='GPE'>Chesapeake</ent> and <ent type='GPE'>Poto</ent>-20 mac <ent type='ORG'>Tele</ent>phone <ent type='ORG'>Com</ent>pany of <ent type='GPE'>Virginia</ent>, the
+21 <ent type='GPE'>Chesapeake</ent> and <ent type='GPE'>Poto</ent>mac <ent type='ORG'>Tele</ent>phone <ent type='ORG'>Com</ent>pany
+22 of West <ent type='GPE'>Virginia</ent>, the <ent type='PERSON'>Diamond</ent> State <ent type='ORG'>Tele</ent>phone
+23 <ent type='ORG'>Com</ent>pany, the Ohio <ent type='ORG'>Bell</ent> <ent type='ORG'>Tele</ent>phone <ent type='ORG'>Com</ent>pany,
+24 the Pacific <ent type='ORG'>Tele</ent>phone and <ent type='ORG'>Tele</ent>graph <ent type='ORG'>Com</ent>pany,
+25 and Wisconsin <ent type='ORG'>Tele</ent>phone <ent type='ORG'>Com</ent>pany; and</p>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 29 of 35]</p>
+
+<p>1 "(B) includes any successor or assign of
+2 any such company, but does not include any af-3 filiate of such company.</p>
+
+<p>4 "(3) GATEWAY SERVICE-- The term 'gateway
+5 service' means an information service that, at the re-6 quest of the provider of an electronic publishing
+7 service or other information service, provides a sub-8 <ent type='ORG'>scriber</ent> with access to such electronic publishing
+9 service or other information service, utilizing the fol-10 lowing functions: data transmission, address trans-11 lation, billing information, protocol conversion, and
+12 introductory information content."</p>
+
+<p> 13 <ent type='ORG'>SEC</ent>. 202. AUTHORIZATION OF APPROPRIA<ent type='ORG'>TIONS</ent>.</p>
+
+<p> 14 "(a) AMENDMENT-- <ent type='ORG'>Sec</ent>tion 6 of the <ent type='ORG'>Com</ent>munica-15 tions Act of 1934 is amended by adding at the end thereof
+16 the following new sub<ent type='ORG'>sec</ent>tion:</p>
+
+<p> 17 "(d) SEPERATE SUBSIDIARY REQUIREMENTS-- Such
+18 sums as may be <ent type='ORG'>nec</ent>essary are authorized to be appro-19 priated for the implementation and enforcement of the re-20 quirements of <ent type='ORG'>sec</ent>tion 208(c) and 227 of this Act. Such
+21 funds shall be in addition to any appropriations authorized
+22 under sub<ent type='ORG'>sec</ent>tion (a)."</p>
+
+<p> 23 "(b) PROVISION OF <ent type='ORG'>INFORMA</ent>TION SERVICES-- A di-24 vested <ent type='ORG'>operat</ent>ing company or an affiliate thereof may not
+25 provide information services until enactment of the</p>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 30 of 35]</p>
+
+<p>1 initial appropriation of funds authorized under <ent type='ORG'>sec</ent>tion
+2 6(d) of the <ent type='ORG'>Com</ent>munications Act of 1934, as added by <ent type='ORG'>sec</ent>-3 tion 202(a) of this Act.</p>
+
+<p>4 TITLE III -- MISCELLANEOUS PROVISIONS
+5 <ent type='ORG'>SEC</ent>. 301. DEFINI<ent type='ORG'>TIONS</ent></p>
+
+<p>6 <ent type='ORG'>Sec</ent>tion 3 of the <ent type='ORG'>Com</ent>municatins Act of 1934 is
+7 amended by adding at the end thereof the following new
+8 sub<ent type='ORG'>sec</ent>tions:</p>
+
+<p>9 "(hh) 'Electronic publishing service' means the provi-10 sion of any information--</p>
+
+<p> 11 "(1)(A) that the provider or publisher has (or
+12 has caused to be) authored, originated, gathered,
+13 collected, produced, compiled, edited, categorized, or
+14 indexed; or</p>
+
+<p> 15 "(B) in which the provider or publisher has a
+16 direct or indirect financial or proprietary interest;
+17 and</p>
+
+<p> 18 "(2) which is disseminated to an unaffiliated
+19 person through some electronic means.</p>
+
+<p> 20 "(ii) 'Information services' means the offering of a
+21 capability for ge<ent type='ORG'>ner</ent>ating, acquiring, storing, transforming,
+22 processing, retrieving, utilizing, or making available infor-23 mation that may be conveyed via <ent type='ORG'>telecommunicati</ent>ons, and
+24 includes electronic publishing, but does not include any
+25 use of any such capability for the management, control,</p>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 31 of 35]</p>
+
+<p>1 or <ent type='ORG'>operat</ent>ion of a <ent type='ORG'>telecommunicati</ent>ons service or the man-2 agement of a <ent type='ORG'>telecommunicati</ent>ons service.</p>
+
+<p>3 "(jj) 'Local exchange carrier' means a provider of
+4 telephone exchange service that is classified by the <ent type='ORG'>Com</ent>-5 mission as a dominant carrier.</p>
+
+<p>6 "(kk) 'Rural exchange carrier' means <ent type='PERSON'>menas</ent> a local ex-7 change carrier serving a total of 50000 or fewer access
+8 lines.</p>
+
+<p>9 "(ll) '<ent type='ORG'>Tele</ent>communications' means the transmission,
+10 between or among points specified by the <ent type='ORG'>cus</ent>tomer, of in-11 formation of the <ent type='ORG'>cus</ent>tomer's choosing, without change in
+12 the form or content of the information as sent and re-13 ceived, by means of an electromagnetic transmission me-14 dium, including all instrumentalities, facilities, apparatus,
+15 and services (including the collection, storage, forwarding,
+16 switching, and delivery of such information) essential to
+17 such transmission.</p>
+
+<p> 18 "(mm) '<ent type='ORG'>Tele</ent>communications service' means the pub-19 lic or private offering for hire of <ent type='ORG'>telecommunicati</ent>ons facili-20 ties."</p>
+
+<p> 22 <ent type='ORG'>SEC</ent>. 302. JURISDICTION</p>
+
+<p> 23 <ent type='ORG'>Sec</ent>tion 2 of the <ent type='ORG'>Com</ent>munications Act of 1934 is
+24 amended--</p>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 32 of 35]</p>
+
+<p>1 (1) in sub<ent type='ORG'>sec</ent>tion (b), by striking out "223 or
+2 224" and inserting "223, 224, 225, and 227"; and</p>
+
+<p>3 (2) by adding at the end the thereof the following
+4 new sub<ent type='ORG'>sec</ent>tion:</p>
+
+<p>5 "(c)(1) Notwithstanding sub<ent type='ORG'>sec</ent>tion (b), a State may
+6 not regulate the rates, terms, or conditions for the offering
+7 of information service, except as provided in this sub-8 <ent type='ORG'>sec</ent>tion and title IV.</p>
+
+<p>9 "(2) A State may impose regulations upon a local ex-10 change carrier with respect to the intrastate provision of
+11 information services by such carrier or an affiliate thereof
+12 if--</p>
+
+<p> 13 "(A) such regulations are <ent type='ORG'>nec</ent>essary and appro-14 priate to seperate the provision of such services from
+15 the provision of telephone exchange services by such
+16 carrier or affiliate;</p>
+
+<p> 17 "(B) such regulations are intended to protect
+18 the privacy rights of <ent type='ORG'>cus</ent>tomers of telephone ex-19 change services;</p>
+
+<p> 20 "(C) such regulations do not affect the rates,
+21 terms, or conditions for the provision of such infor-22 mations services or the types of such services offered
+23 by such carrier or affiliate; and</p>
+
+<p> 24 "(D) such regulations are not inconsistent with
+25 the purposes of this Act or impede signifigantly the</p>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 33 of 35]</p>
+
+<p>1 enforcement of this Act or any regulation or order
+2 prescribed by the <ent type='ORG'>Commission</ent> pursuant to the
+3 Act."</p>
+
+<p>4 <ent type='ORG'>SEC</ent>. 303. TELEPHONE EXCHANGE SERVICE IN RURAL
+5 AREAS</p>
+
+<p>6 Nothing in the amendments made by this Act shall
+7 be construed to limit <ent type='ORG'>the authority</ent> of the States to take
+8 actions, consistant with the findings and purposes of that
+9 Act, to ensure thae availability of telephone exchange serv-10 ice at resonable rates in areas served by rural exchange
+11 carriers (as such term is defined in <ent type='ORG'>sec</ent>tion 3(kk) of the
+12 <ent type='ORG'>Com</ent>munications Act of 1934).</p>
+
+<p> 13 <ent type='ORG'>SEC</ent>. 304. <ent type='ORG'>APPLICABILITY</ent> OF OTHER PROVISIONS OF COM-14 MUNICA<ent type='ORG'>TIONS</ent> ACT</p>
+
+<p> 15 Nothing in the amendments made by this Act shall
+16 be construed to relieve a divested <ent type='ORG'>operat</ent>ing company or
+17 affiliate thereof (as such terms are defined in <ent type='ORG'>sec</ent>tion
+18 227(m) of the <ent type='ORG'>Com</ent>munications Act of 1934) of any of
+19 the obligations, limitations, or responsibilities imposed by
+20 any other provision of the <ent type='ORG'>Com</ent>munications Act of 1934,
+21 as amended.</p>
+
+<p> 22 <ent type='ORG'>SEC</ent>. 305. <ent type='ORG'>APPLICABILITY</ent> OF ANTITRUST LAWS</p>
+
+<p> 23 (a) <ent type='ORG'>APPLICABILITY</ent> OF THE MODIFICATION OF FINAL
+24 JUDGEMENT-- A divested <ent type='ORG'>operat</ent>ing company shall remain
+25 fully suubject to the Modification of Final Judgement in all</p>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 34 of 35]</p>
+
+<p>1 respects except as expressly provided in the amendments
+2 made by this Act.</p>
+
+<p>3 (b) NO ANTITRUST IMMUNITY-- Nothing in the
+4 amendments made by this Act shall be construed to create
+5 any immunity to any civil or criminal action under any
+6 <ent type='ORG'>Federal</ent> or State antitrust law, or to alter or restrict in
+7 any man<ent type='ORG'>ner</ent> the applicability of any <ent type='ORG'>Federal</ent> or State anti-8 trust law to the actions of a divested <ent type='ORG'>operat</ent>ing company
+9 or affiliate thereof (as such terms are defined in <ent type='ORG'>sec</ent>tion
+10 227(m) of the <ent type='ORG'>Com</ent>munications Act of 1934).</p>
+
+<p> 11 (c) DEFINI<ent type='ORG'>TIONS</ent>-- For purposes of this <ent type='ORG'>sec</ent>tion--</p>
+
+<p> 12 (1) FEDERAL ANTITRUST LAWS-- The term
+13 '<ent type='ORG'>Federal</ent> antitrust laws' means --</p>
+
+<p> 14 (A) the acts as cited in <ent type='ORG'>sec</ent>tion 1 of the Clay-15 ton Act (15 <ent type='ORG'>USC</ent> 12),</p>
+
+<p> 16 (B) <ent type='ORG'>sec</ent>tion 5 of the <ent type='ORG'>Federal</ent> Trade <ent type='ORG'>Com</ent>-17 mission Act (15 <ent type='ORG'>USC</ent> 45); and</p>
+
+<p> 18 (C) any law enacted after the datr of en-19 actment of this Act by the <ent type='ORG'>Congress</ent> which pro-20 hibits, or makes available to <ent type='GPE'>the United</ent> States
+21 or to any person in any court of <ent type='GPE'>the United</ent>
+22 States any civil remedy with respect to, any re-23 restraint upon, or monopolization of, interstate or
+24 foreign trade or commerce.</p>
+
+<p>H.R. 3515 102nd <ent type='ORG'>Congress</ent>, 1st Session [Page 35 of 35]</p>
+
+<p>1 (2) MODIFICATION OF FINAL JUDGMENT -- The
+2 term 'Modification of final judgment' means the
+3 order entered August 24, 1982, in United States -vs-4 <ent type='ORG'>Western Electric</ent> Co., Civil Action No. 82-0192
+5 (United States <ent type='ORG'>District Court</ent>, District of <ent type='GPE'>Columbia</ent>)</p>
+
+<p>[END]
+
+</p></xml>

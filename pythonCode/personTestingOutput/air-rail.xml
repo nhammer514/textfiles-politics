@@ -1,0 +1,330 @@
+<xml><p> Info pulled from the Usenet. <ent type='ORG'>Air</ent> (atmosphere) <ent type='ORG'>Railway Systems</ent>.</p>
+
+<p>Today and Yesterday
+-------------------------</p>
+
+<p>The ultimate responsibility for this thread :-) belongs to George
+<ent type='PERSON'>Medhurst</ent> (1759-1827), of <ent type='GPE'>England</ent>. During a period of a few years
+about 1810, he invented three distinct forms of air-propelled
+transport. None of them was implemented during his lifetime;
+but all of them saw use eventually, reaching their greatest extent
+in the reverse order of their original invention.</p>
+
+<p>Medhurst's first method involved moving air through a tube a few
+inches in diameter, pushing a capsule along it; this simple idea
+was the pneumatic dispatch tube. Next he realized that if the same
+system was built much larger, it could carry passengers (or freight
+items larger than letters); it was natural to run the vehicle on
+tracks, and so this became known since the vehicle would be large
+enough to require tracks, this became known as a pneumatic railway.</p>
+
+<p>But would anyone actually want to ride along mile after mile inside
+an opaque pipe? Not likely. So he then thought of having only a
+piston moving within the pipe, somehow dragging along a vehicle
+outside it. He proposed several versions of this idea; in most of
+them the vehicle ran on rails, so this became known as an atmospheric
+railway (though a distinction between that term and the pneumatic
+railway was not always observed). The key feature of all versions
+of the system was a longitudinal valve: some sort of flexible flap
+running the length of the pipe, which would be held closed by air
+pressure except when the piston was actually passing. <ent type='PERSON'>Medhurst</ent>
+did try to raise capital to implement this system, but failed.</p>
+
+<p>Now, while the first operable steam locomotive was built about 1804,
+steam-powered trains did not see regular use for passengers for some
+25 years after that. It was in the 1830's and 1840's that the steam
+railway was shown to be practical in both engineering and financial
+senses.</p>
+
+<p>But the same technical developments that made possible the practical
+steam railway also made the atmospheric railway, if not certainly
+practical, at least worth a try. And it offered the prospect of
+considerable advantages. Since the trains wouldn't have to carry
+their prime mover, they would be lighter; therefore the track could
+be built cheaper, and the trains' performance would be better.
+The trains wouldn't trail smoke wherever they went (and into the
+passenger cars in particular), and they would also be quiet.
+And if one section of the route was hilly and required more motive
+power, all that were needed would be more or larger pumping stations
+along that section; no need to add extra locomotives. In short,
+very much the same advantages that electricity gave a few decades
+later. (Plus one more: a derailed train would tend to be kept near
+the track by the pipe and piston.)</p>
+
+<p>The success of the 1830's railways gave rise to the <ent type='ORG'>Railway</ent> Mania
+of the 1840's, when interest in railway shares reached absurd levels.
+In that climate the proposers of atmospheric lines could find the
+backing they needed, and four atmospheric lines opened in a period
+of about 3 years. In order of opening, these were:</p>
+
+<p> * The <ent type='GPE'>Dublin</ent> &amp; <ent type='GPE'>Kingstown</ent>, from <ent type='GPE'>Kingstown</ent> to <ent type='GPE'>Dalkey</ent> in <ent type='GPE'>Ireland</ent>,
+1.5 miles long; operated 1844-54.
+* The <ent type='GPE'>London</ent> &amp; <ent type='GPE'>Croydon</ent>, from <ent type='GPE'>Croydon</ent> to <ent type='ORG'>Forest Hill</ent> in <ent type='GPE'>London</ent>,
+<ent type='GPE'>England</ent>, 5 miles, then extended to <ent type='ORG'>New Cross</ent> for a total
+of 7.5 miles; operated 1846-47.
+* The <ent type='GPE'>Paris</ent> a St-Germain, from Bois de Vezinet to St-Germain
+in <ent type='GPE'>Paris</ent>, <ent type='GPE'>France</ent>, 1.4 miles long; operated 1847-60.
+* The <ent type='GPE'>South Devon</ent>, from <ent type='GPE'>Exeter</ent> to <ent type='GPE'>Teignmouth</ent> in <ent type='GPE'>Devonshire</ent>,
+<ent type='GPE'>England</ent>, 15 miles, then extended to <ent type='ORG'>Newton</ent> (now <ent type='ORG'>Newton</ent> Abbot),
+20 miles altogether; operated 1847-48.</p>
+
+<p>I note in passing that while I (as a fan of his) might like <ent type='GPE'>Isambard</ent>
+Kingdom <ent type='ORG'>Brunel</ent> to have invented the atmospheric system used on the
+<ent type='GPE'>South Devon</ent>, it is wrong to say that he did so. He did choose it
+and actively promoted it (well, "actively" is redundant with <ent type='ORG'>Brunel</ent>).
+It was actually developed by <ent type='PERSON'>Samuel Clegg</ent> and <ent type='PERSON'>Joseph</ent> and <ent type='PERSON'>Jacob Samuda</ent>.</p>
+
+<p>Both of the longer, if shorter-lived, English lines used atmospheric
+propulsion in both directions of travel, whereas the <ent type='NORP'>French</ent> and <ent type='NORP'>Irish</ent>
+lines were built on hills and their trains simply returned downhill
+by gravity. Since all were single-track lines, the one-way system
+simplified the valves needed to let the pistons in and out of the
+pipes at their ends (possibly while traveling at speed).</p>
+
+<p>All four lines were converted to ordinary steam railways in the end,
+and for the next 130 years the atmospheric system appeared dead.
+For one thing, steam locomotive technology had too much of a head
+start in development over the atmospheric system; steam railways
+might have delays due to engine failure but they never had to shut
+down for 6 weeks while a new design of longitudinal valve was
+installed along the entire length of the route!</p>
+
+<p>(The valve involved metal and leather parts and a greasy or waxy
+sealant "composition". Although stories were told about rats
+eating the composition, and this probably did happen sometimes,
+it wasn't really a serious thing; the biggest problems in fact
+were freezing and deterioration of the leather, and corrosion
+of the metal parts.)</p>
+
+<p>Also, the atmospheric system was inflexible, in that if the power
+requirements for a section of route were greater than estimated,
+very little could be done short of splitting the section and adding
+a whole new pumping station. (All the lines used vacuum rather
+than positive pressure in the pipes, which limited the pressure
+differential to about 0.9 atmosphere in practice; but the valve
+designs were marginal anyway and likely wouldn't have stood up
+to greater pressures if they could have been used.)</p>
+
+<p>What today might be seen as the most serious disadvantage of all,
+the requirement for long interruptions of the motive power at
+junctions, was not so noticeable in those days. If the train
+didn't have enough speed to coast across the gap, well, the
+third-class passengers could always get out and push, or maybe
+there would be a horse conveniently at hand. At some stations
+a small auxiliary pipe was used to advance the train from the
+platform to the start of the main pipe.</p>
+
+<p>There were many other proposals in those days for atmospheric
+lines, but in view of these early failures, none of them were
+ever built as atmospheric railways. The next atmospheric railway
+to open actually appeared in 1990!</p>
+
+<p>While the atmospheric railways were vanishing, the first
+pneumatic dispatch tubes were beginning to appear; I'll get
+into that later. But from that start, the pneumatic railway
+idea began to return also. At first these were designed for
+freight. engineers J. Latimer Clark and T. W. <ent type='ORG'>Rammell</ent> formed
+<ent type='ORG'>the Pneumatic Despatch Company</ent>, which built a demonstration tube
+above ground in <ent type='GPE'>Battersea</ent> in 1861. This line successfully carried
+loads up to 3 tons... and even a few passengers, lying down in
+the vehicles in the 30-inch tunnel! The pressure used was up
+to 0.025 atmosphere, and speeds up to 40 mph were reached.</p>
+
+<p><ent type='ORG'>The Post Office</ent> became interested in the system and had several
+tunnels built for it. They were used from 1863 to 1874, though
+interrupted for a time by the financial crisis of 1866.</p>
+
+<p>(At this point they decided that the system didn't gain enough time
+to be worth the cost, not to mention the risk of a vehicle becoming
+stuck in the tube. In the 1920's, when electricity was available,
+they returned a driverless trains system, using tunnels of similar
+size to the old pneumatic tubes. This is the <ent type='ORG'>Post Office</ent> "tube"
+<ent type='ORG'>Railway</ent>, which continues in use to this day. Such systems also
+exist in <ent type='GPE'>Switzerland</ent>, which had it first, and in <ent type='GPE'>West Germany</ent>.)</p>
+
+<p>Meanwhile, while these lines were moving the mail from the streets
+of <ent type='GPE'>London</ent> to tunnels underneath, the first underground railways
+were doing the same with passenger traffic. The first section of
+the <ent type='GPE'>Metropolitan</ent> <ent type='ORG'>Railway</ent> (from <ent type='ORG'>Farringdon</ent>, now <ent type='ORG'>Farringdon</ent> Street,
+to Paddington station) opened in 1863. It was promptly followed
+by extensions, as well as competition in the form of the <ent type='GPE'>Metropolitan</ent> District <ent type='ORG'>Railway</ent>, a subsidiary that got away. (Their
+routes in central <ent type='GPE'>London</ent> today form the <ent type='GPE'>London</ent> Underground's
+<ent type='GPE'>Metropolitan</ent>, District, Circle, and <ent type='GPE'>Hammersmith</ent> &amp; City Lines.)</p>
+
+<p>Now there was no thought of operating the <ent type='GPE'>Metropolitan</ent> with
+anything but steam locomotives, despite the line being mostly
+in tunnel. Sir <ent type='PERSON'>John Fowler</ent>, who later co-designed the Forth Bridge,
+did have the idea of a steam locomotive where the heat from the fire
+would be retained in a cylinder of bricks, and therefore the fire
+could be put out when traveling in the tunnels. One example of
+this design, later called Fowler's Ghost, was tried in 1862.
+It was thermodynamically absurd: as C. <ent type='PERSON'>Hamilton Ellis</ent> put it,
+"the trouble was that her boiler not only refrained from producing
+smoke, it produced very little steam either".</p>
+
+<p>In the end both the <ent type='ORG'>Met</ent> and the District were worked with condensing
+steam locomotives: these emitted smoke as usual, but their exhaust
+steam, while running in tunnels, was directed back into the water
+tanks and condensed. The tanks were drained at the end of the run
+and refilled with cold water.</p>
+
+<p>So people were not only willing to travel in what amounted to an
+opaque tube after all, but in one filled with smoke at that!
+Why not one *without* smoke? And so the pneumatic railway was
+now tried; but it never got past the demonstration stage.</p>
+
+<p>The longest line to carry passengers was opened at the Crystal
+Palace in <ent type='GPE'>London</ent> in 1864. It used a tunnel about 9 by 10 feet,
+1800 feet long. The driving fan was 22 feet across, generating
+about 0.01 atmosphere of pressure -- the larger the tube, the
+lower the pressure you need. The vehicle was a full-size broad
+gauge railway car ringed with bristles; it carried 35 passengers.
+The trip took 50 seconds, thus averaging about 25 mph. Another,
+smaller demonstration line was built at a fair in the US in 1867
+by <ent type='PERSON'>Alfred Ely</ent> <ent type='PERSON'>Beach</ent>.</p>
+
+<p><ent type='PERSON'>Beach</ent> then formed the <ent type='PERSON'>Beach</ent> Pneumatic Transit Company, which
+obtained permission to build a freight-carrying pneumatic line
+under <ent type='LOC'>Broadway</ent> in <ent type='GPE'>New York</ent>. But what he actually opened in 1870
+was a passenger-carrying pneumatic subway, the only one to
+actually operate under a city street. It was only 312 feet long,
+from Warren Street to Murray Street. The tunnel was 9 feet in
+diameter, and was worked by a single car with a capacity of
+18 passengers.</p>
+
+<p><ent type='PERSON'>Beach</ent> tried but failed to get permission to extend the line.
+It closed after a few months, and <ent type='GPE'>New York</ent> did not get a subway
+again until 1904, when the first <ent type='ORG'>Interborough Rapid Transit</ent> route
+was opened (from City Hall station along the present Lexington
+Avenue, 42nd Street shuttle, and 7th Avenue lines to, um, initially
+somewhere around 120th Street). This route was electric and so
+have been all its successors.</p>
+
+<p>Beach's tunnel had been almost forgotten when the crews
+constructing the new subway broke into it in 1912.</p>
+
+<p>In <ent type='GPE'>London</ent>, a pneumatic underground line was started *with* permission,
+but construction was never completed. This was the Waterloo and
+Whitehall <ent type='ORG'>Railway</ent>, which planned to connect Waterloo station to Great
+Scotland Yard, 1/2 mile away, with a 12'9" diameter tunnel passing
+under the <ent type='NORP'>Thames</ent>. Considering that the <ent type='NORP'>Thames</ent> Tunnel project of
+Sir Marc <ent type='ORG'>Brunel</ent> and <ent type='ORG'><ent type='GPE'>Isambard</ent> Kingdom <ent type='ORG'>Brunel</ent></ent> -- now now part of
+the Underground's East <ent type='GPE'>London</ent> Line -- had faced massive technical
+and financial difficulties before its long-delayed completion only
+about 20 years previously, this was no mean undertaking.</p>
+
+<p>The Waterloo &amp; Whitehall was halted by the financial crisis of 1866;
+and it was never revived. The tunnel had been started from the
+<ent type='ORG'>Great Scotland Yard</ent> end, and had just reached the river; work on
+the underwater section was beginning. There were other proposals
+for passenger-carrying pneumatic lines, but none saw construction
+in that form. (At least one, under the <ent type='GPE'>Mersey</ent> at <ent type='GPE'>Liverpool</ent>, <ent type='GPE'>England</ent>,
+was eventually opened as an ordinary railway.)</p>
+
+<p>The next type of underground line to open in <ent type='GPE'>London</ent> was the Tower
+Subway, which also passed under the <ent type='NORP'>Thames</ent>. It was a short route,
+just under the river, worked by a small cable car. It opened in
+1870 and was short-lived. (The tunnel served as a footway for a
+while after that, then was taken over for pipes. The <ent type='NORP'>Thames</ent> Tunnel,
+conversely, had been used first as a footway, then converted to
+railway use.)</p>
+
+<p>After this time, electric railways began to become practical.
+The next underground line to open was the City &amp; South <ent type='GPE'>London</ent>,
+now part of the Underground's <ent type='PERSON'>Northern</ent> Line. Its first section
+(from <ent type='ORG'>Stockwell</ent> to a now disused terminus at King William Street,
+replaced by the present <ent type='ORG'>Bank</ent> station) opened in 1890. It used
+the new deep-level tube tunnels, with more limited ventilation
+than on the <ent type='GPE'>Metropolitan</ent> <ent type='ORG'>Railway</ent>, so steam was out of the question
+in any case. The original plan was for cable haulage, but instead
+the new electric locomotives were tried and the line has always
+been operated electrically. The line was first built with 10'2"
+diameter tunnels, forcing use of rather small cars. (The cars
+also had only tiny windows, on the grounds that there was nothing
+to see -- so they got the nickname of "padded cells".)</p>
+
+<p>All of the later lines in <ent type='GPE'>London</ent>, opened from 1900 onwards, were
+built on the same general pattern as the C&amp;SL, with deep-level
+tubes and electric traction -- first by locomotives and then by
+multiple-unit trains. The other tube lines vary from 11'6" to
+12-foot diameter tunnels, and the C&amp;SL was enlarged in the 1920's
+to match. This is still rather small compared to most other
+subways in the world, and is the reason for the distinctive
+shape of the tube trains.</p>
+
+<p>With the success of the electric lines, the <ent type='GPE'>Metropolitan</ent> and
+District faced the loss of traffic, and they too were converted
+to elecricity -- at least for the underground sections in central
+<ent type='GPE'>London</ent> in 1905. The first line of the present <ent type='GPE'>New York</ent> subway
+system opened in 1904 and this, too, has always used electricity.
+(This was the original <ent type='ORG'>Interborough Rapid Transit</ent> route, from City
+Hall station along the present Lexington Avenue, 42nd Street shuttle,
+and 7th Avenue lines to, um, somewhere around 120th Street). Beach's
+tunnel had been almost forgotten when the crews constructing the
+new subway broke into it in 1912.</p>
+
+<p>Meanwhile, the humble original concept of the pneumatic dispatch tube
+continued to develop. The first of them, 1.5 inches in diameter,
+had been built in 1853 by J. Latimer Clark; it connected the
+Electrical and [sic] International Telegraph Company's office in
+Telegraph Street, <ent type='GPE'>London</ent>, with their branch 675 feet away at the
+Stock Exchange.</p>
+
+<p>The key invention was J. W. Willmott's double sluice valve of 1870,
+which allowed rapid dispatching of successive capsules. It was also
+possible, as had been done on the pneumatic railways, to use both
+positive pressure (on the order of 1 atmosphere) and vacuum, to
+drive the capsules both ways from a single pumping station. The
+tubes became quite common; many miles were built in various European
+and <ent type='PERSON'>North</ent> American cities. By 1886 <ent type='GPE'>London</ent> had over 34 miles of them
+for the <ent type='ORG'>Post Office</ent>'s telegraph service alone. In the <ent type='GPE'>Paris</ent> system
+a person could pay a fee for a message to be sent specifically by
+the tube.</p>
+
+<p>They were also used within large buildings, and some survive in
+use to this day.</p>
+
+<p>Finally, in 1990, the <ent type='NORP'>Brazilian</ent> company <ent type='PERSON'>Sur Coester</ent> stunned the
+world by opening at a fair in <ent type='GPE'>Djakarta</ent>, <ent type='GPE'>Indonesia</ent>, a demonstration
+line of their <ent type='ORG'>Aeromovel</ent> system. This is nothing more nor less
+than an elevated atmospheric railway. The structure is concrete,
+with steel rails and a rectangular concrete air pipe larger than
+those on the 19th century lines. The longitudinal valve is made
+of heavy cloth-reinforced rubber. Computerized remote control
+is used.</p>
+
+<p>Oh yes.</p>
+
+<p>Pneumatic dispatch tubes were depicted in the 1985 movie "<ent type='GPE'>Brazil</ent>";
+Beach's tunnel was depicted, in rather distorted form, in the 1989
+movie "Ghostbusters II"; the modern form of the <ent type='GPE'>New York</ent> subway
+has been depicted in many movies, notably the 1974 one "The Taking
+of <ent type='PERSON'>Pelham</ent> One Two Three"; but I don't believe the atmospheric or
+pneumatic systems have ever been depicted at work in any movie.
+Clearly this needs to be rectified! :-)</p>
+
+<p>References.</p>
+
+<p>Almost all the information in this posting about the pneumatic
+and atmospheric systems comes from one book... "Atmospheric
+<ent type='ORG'>Railway</ent>s: A Victorian Venture in Silent Speed" by <ent type='PERSON'>Charles Hadfield</ent>,
+1967, reprinted 1985 by <ent type='PERSON'>Alan Sutton Publishing</ent>, <ent type='GPE'>Gloucester</ent>; ISBN
+0-86299-204-4.</p>
+
+<p>For other topics, I principally consulted "<ent type='ORG'>The Pictorial</ent>
+Encyclopedia of <ent type='ORG'>Railway</ent>s", 1976 edition, by (C.) <ent type='PERSON'>Hamilton Ellis</ent>,
+<ent type='ORG'>Hamlyn Publishing</ent>; ISBN 0-600-37585-4; some details came from other
+books or my memory.</p>
+
+<p>The information about the <ent type='GPE'>Djakarta</ent> line comes from two postings in
+rec.railroad, one last November by <ent type='PERSON'>Andrew Waugh</ent> quoting the November 24
+issue of "<ent type='ORG'>New Scientist</ent>" magazine, and the recent one by <ent type='PERSON'>Russell Day</ent>
+citing "Towards 2000".</p>
+
+<p>--
+<ent type='PERSON'>Mark Brader</ent>"Great things are not done by those
+SoftQuad Inc., <ent type='GPE'>Toronto</ent> who sit down and count the cost
+<ent type='ORG'>utzoo</ent>!sq!<ent type='ORG'>msb</ent>, <ent type='ORG'>msb</ent>@sq.com of every thought and act." -- <ent type='PERSON'>Daniel</ent> Gooch</p>
+
+<p>This article is in the public domain.
+</p></xml>
