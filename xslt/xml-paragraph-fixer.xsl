@@ -2,7 +2,6 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:math="http://www.w3.org/2005/xpath-functions/math"
-    xmlns="http://www.w3.org/1999/xhtml"
     exclude-result-prefixes="xs math"
     version="3.0">
     
@@ -18,6 +17,7 @@
     <xsl:mode on-no-match="shallow-copy"/>
     
     <xsl:template match="/">
+          <xml>
       <!--  <html>
             <head>
                 <title><xsl:value-of select="base-uri(.) ! tokenize(., '/')[last()] ! substring-before(., '.xml')"/></title>
@@ -30,7 +30,7 @@
                
            <xsl:for-each select="$conspiracy">   
                <xsl:variable name="filename" as="xs:string" select="current() ! base-uri() ! tokenize(., '/')[last()]"/>
-            <xsl:result-document >   
+               <xsl:result-document method="xml" indent="yes" href="../xslt-coll-pclean/{$filename}"> 
                 <!-- ebb: NEED TO LOOK UP HOW TO SET UP INDIVIDUAL RESULT DOCUMENTS output to folder  -->
                <xsl:choose>
                   <xsl:when test="count(descendant::p) gt 1">
@@ -40,10 +40,9 @@
                       <xsl:apply-templates select=".//p"/>
                   </xsl:otherwise>
               </xsl:choose>
-           </xsl:result-document>
-           
+               </xsl:result-document>
            </xsl:for-each>
-                
+        </xml>      
             <!--</body>-->
         <!--</html>-->
  
