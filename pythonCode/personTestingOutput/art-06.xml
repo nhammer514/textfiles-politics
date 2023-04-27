@@ -2,7 +2,7 @@
 Subject: Keyword(s) : KENNEDY and ASSASSINATION
 Title : The Day <ent type='PERSON'><ent type='PERSON'>John</ent> <ent type='PERSON'>Kennedy</ent></ent> Died
 Author : Bryan Woolley
-Source : <ent type='ORG'>Dallas Times Herald</ent> (<ent type='GPE'>Dallas</ent>, <ent type='GPE'>Texas</ent>)
+Source : <ent type='GPE'>Dallas</ent> Times Herald (<ent type='GPE'>Dallas</ent>, <ent type='GPE'>Texas</ent>)
 Publication Date : Nov. 20, 1983
 Page Number(s) : Sec. Sec. 2-3
 </p>
@@ -14,7 +14,7 @@ Reprinted with permission from the author.
 </p>
 <p>
 THE DAY JOHN KENNEDY DIED
-Sun cleared dawn's drizzle, but gloom clouded <ent type='GPE'>Dallas</ent>
+<ent type='LOC'>Sun</ent> cleared dawn's drizzle, but gloom clouded <ent type='GPE'>Dallas</ent>
 by Bryan Woolley
 Staff Writer
 </p>
@@ -41,7 +41,7 @@ President said to his wife. "Just look! Isn't that terrific."
 </p>
 <p>
 In the lobby, he was joined by Vice President <ent type='PERSON'>Lyndon</ent>
-<ent type='PERSON'>John</ent>son, Gov. <ent type='PERSON'>John</ent> <ent type='PERSON'>Connally</ent>, Sen. <ent type='PERSON'>Ralph Yarborough</ent>, several
+<ent type='PERSON'>John</ent>son, Gov. <ent type='PERSON'>John</ent> Connally, Sen. <ent type='PERSON'>Ralph Yarborough</ent>, several
 members of <ent type='ORG'>Congress</ent> and the president of the <ent type='GPE'>Fort Worth</ent> Chamber
 of Commerce. They crossed Eighth Street and plunged into the
 crowd, shaking hands, smiling. They mounted the truck that was to
@@ -69,7 +69,7 @@ to the hotel.
 After an informal speech in the parking lot, he would go to
 the hotel, deliver a breakfast speech, fly from <ent type='ORG'>Carswell</ent> to Love
 Field, ride in a motorcade through <ent type='GPE'>Dallas</ent>, deliver a speech at a
-$100-a-plate luncheon at the <ent type='GPE'>Dallas</ent> <ent type='ORG'>Trade Mart</ent>, fly to <ent type='GPE'>Austin</ent> for
+$100-a-plate luncheon at the <ent type='GPE'>Dallas</ent> Trade Mart, fly to <ent type='GPE'>Austin</ent> for
 a banquet and a reception at the Governor's Mansion, and then go
 to the <ent type='ORG'>LBJ</ent> ranch for a weekend of rest.
 </p>
@@ -125,7 +125,7 @@ inadequate, he said, even citizen's arrests were authorized.
 </p>
 <p>
 Others were preparing, too, in the early morning. Waiters
-were setting the places for the <ent type='ORG'>Trade Mart</ent> luncheon. A warehouse
+were setting the places for the Trade Mart luncheon. A warehouse
 worker named <ent type='PERSON'>Lee Harvey Oswald</ent> sneaked a rifle and a telescopic
 sight into the <ent type='GPE'>Texas</ent> School Book Depository. Because of forecasts
 showing that the rain probably would be past <ent type='GPE'>Dallas</ent> by the time
@@ -158,13 +158,13 @@ fence, smiling, shaking hands; letting people touch him.
 </p>
 <p>
 At 11:55, two motorcycle police officers led the motorcade
-out of Love Field and turned left on <ent type='PERSON'>Mockingbird Lane</ent>. Police
+out of Love Field and turned left on <ent type='LOC'>Mockingbird</ent> Lane. Police
 Chief <ent type='PERSON'>Curry</ent> drove the lead car. With him rode <ent type='GPE'>Dallas</ent> County
 Sheriff <ent type='PERSON'>Bill Decker</ent> and two <ent type='ORG'>Secret Service</ent> agents. Then came
 three more motorcycles. Then the blue limousine with two Secret
-Service agents in the front, <ent type='PERSON'>John</ent> and <ent type='PERSON'>Nellie Connally</ent> in the jump
+Service agents in the front, <ent type='PERSON'>John</ent> and Nellie Connally in the jump
 seats and the <ent type='PERSON'>Kennedy</ent>s in the back seat. Two motorcycles flanked
-the car on each side. <ent type='ORG'>Next</ent> was another convertible, full of
+the car on each side. Next was another convertible, full of
 <ent type='PERSON'>Kennedy</ent> aides and <ent type='ORG'>Secret Service</ent> agents, and four more agents
 standing on its running boards.
 </p>
@@ -178,7 +178,7 @@ procession.
 </p>
 <p>
 The motorcade would move through a sizable portion of
-<ent type='GPE'>Dallas</ent>--along <ent type='PERSON'>Mockingbird</ent> to <ent type='PERSON'>Lemmon Avenue</ent>, right on <ent type='PERSON'>Lemmon</ent> to
+<ent type='GPE'>Dallas</ent>--along <ent type='LOC'>Mockingbird</ent> to <ent type='PERSON'>Lemmon Avenue</ent>, right on <ent type='PERSON'>Lemmon</ent> to
 <ent type='LOC'>Turtle Creek</ent> Boulevard, along <ent type='LOC'>Turtle Creek</ent> and Cedar Springs Road
 to <ent type='PERSON'>Harwood</ent> Street, down <ent type='PERSON'>Harwood</ent> to Main Street, where, at City
 Hall, it would turn right and move westward along Main through
@@ -189,11 +189,11 @@ At the west end of downtown, it would turn right onto
 <ent type='GPE'>Houston</ent> Street and then immediately left onto Elm Street and move
 through the Triple Underpass. A few yards beyond the underpass,
 it would turn right again onto <ent type='PERSON'>Stemmons</ent> Expressway and move to
-the <ent type='ORG'>Trade Mart</ent> at the intersection of <ent type='PERSON'>Stemmons</ent> and <ent type='PERSON'>Harry Hines</ent>
+the Trade Mart at the intersection of <ent type='PERSON'>Stemmons</ent> and <ent type='PERSON'>Harry Hines</ent>
 Boulevard. After the President's speech, it would proceed out
-<ent type='PERSON'>Harry Hines</ent> to <ent type='PERSON'>Mockingbird</ent>, turn right, and return to Love Field.
+<ent type='PERSON'>Harry Hines</ent> to <ent type='LOC'>Mockingbird</ent>, turn right, and return to Love Field.
 The sidewalk crowds were sparse at first. A few people in
-the factories and offices along <ent type='PERSON'>Mockingbird</ent> came out to have a
+the factories and offices along <ent type='LOC'>Mockingbird</ent> came out to have a
 look. The sun was bright now, and Mrs. <ent type='PERSON'>Kennedy</ent> was regretting
 that she was wearing the pink wool suit. She had expected woolen
 weather. It was, after all, late November. She put on sunglasses,
@@ -219,7 +219,7 @@ sour faces. The feared <ent type='GPE'>Dallas</ent> crowd was friendly--even ado
 The nuts had stayed home. It was 12:21 p.m.
 </p>
 <p>
-At the <ent type='ORG'>Trade Mart</ent>, the luncheon guests were showing their
+At the Trade Mart, the luncheon guests were showing their
 tickets to the door guards and filing to their seats. The huge
 building was surrounded by <ent type='GPE'>Dallas</ent> and <ent type='GPE'>Texas</ent> police, standing at
 parade rest, holding riot sticks, glaring at a handful of
@@ -231,7 +231,7 @@ table. The presidential seal had been mounted on the rostrum.
 <p>
 As the motorcade neared <ent type='GPE'>Houston</ent> Street, the size of the
 crowd diminished, but the cheers and applause were still hearty.
-<ent type='PERSON'>Nellie Connally</ent> turned in her seat and said, "You can't say
+Nellie Connally turned in her seat and said, "You can't say
 <ent type='GPE'>Dallas</ent> doesn't love you, Mr. President."
 </p>
 <p>
@@ -241,7 +241,7 @@ crowd diminished, but the cheers and applause were still hearty.
 Workers from the <ent type='GPE'>Texas</ent> School Book Depository, the Dal-Tex
 Building and the <ent type='GPE'>Dallas</ent> County buildings lined the sidewalks at
 <ent type='GPE'>Houston</ent> and Elm as the head of the motorcade turned toward the
-Triple Underpass. Others stood on the grass of <ent type='LOC'>Dealey Plaza</ent>. Many
+Triple Underpass. Others stood on the grass of Dealey Plaza. Many
 had brought their children to see the President. Several
 spectators noticed a man standing very still in a sixth-floor
 corner window of the depository. One man saw the rifle he was
@@ -251,9 +251,9 @@ holding and assumed he was a <ent type='ORG'>Secret Service</ent> agent.
 As the blue limousine made the sharp left turn from <ent type='GPE'>Houston</ent>
 onto Elm, the <ent type='ORG'>Hertz</ent> rental car time-and-temperature sign on the
 roof of the depository red 12:30. A <ent type='ORG'>Secret Service</ent> man in the
-motorcade radioed the <ent type='ORG'>Trade Mart</ent>: "Halfback to Base. Five minutes
+motorcade radioed the Trade Mart: "Halfback to Base. Five minutes
 to destination." He wrote in his shift log: "12:35 p.m. President
-<ent type='PERSON'>Kennedy</ent> arrived at <ent type='ORG'>Trade Mart</ent>."
+<ent type='PERSON'>Kennedy</ent> arrived at Trade Mart."
 </p>
 <p>
 Some thought the noises were firecrackers. Others thought a
@@ -268,7 +268,7 @@ Youngblood climbed from the front seat to the back, threw <ent type='PERSON'>Joh
 to the floorboard and covered him with his own body.
 </p>
 <p>
-In the blue limousine, Gov. <ent type='PERSON'>Connally</ent> had been hit, too. He
+In the blue limousine, Gov. Connally had been hit, too. He
 pitched forward and fell toward his wife. "No, no, no, no, no!"
 he screamed.
 </p>
@@ -278,17 +278,17 @@ spattered the occupants of the blue car. The first lady, in
 shock, tried to climb out over the trunk. A <ent type='ORG'>Secret Service</ent> agent
 pushed her back. The car slowed and then lurched out of the
 motorcade line and sped past the Triple Underpass, with Chief
-<ent type='PERSON'>Curry</ent>'s car and the <ent type='ORG'>Secret Service</ent> car in pursuit.
+Curry's car and the <ent type='ORG'>Secret Service</ent> car in pursuit.
 </p>
 <p>
 UPI <ent type='ORG'>White House</ent> correspondent <ent type='PERSON'>Merriman Smith</ent> was sitting in
 the middle of the front seat of the press pool car. He grabbed
 the mobile phone. He called the wire service's <ent type='GPE'>Dallas</ent> bureau and
 dictated the first bulletin: "Three shots were fired at President
-<ent type='PERSON'>Kennedy</ent>'s motorcade in downtown <ent type='GPE'>Dallas</ent>."
+Kennedy's motorcade in downtown <ent type='GPE'>Dallas</ent>."
 </p>
 <p>
-The cheers of greeting in <ent type='LOC'>Dealey Plaza</ent> rose to screams of
+The cheers of greeting in Dealey Plaza rose to screams of
 horror and fear. "They killed him! They killed him! They killed
 him!" Parents grabbed children and ran. Men and women lay
 prostrate on the grass and sidewalks, as if dead. The motorcade
@@ -305,7 +305,7 @@ they weren't ready. No one was waiting at the emergency entrance.
 A <ent type='ORG'>Secret Service</ent> agent dashed inside to order stretchers.
 </p>
 <p>
-<ent type='PERSON'>Connally</ent>--whose wounds were serious but not fatal--was
+Connally--whose wounds were serious but not fatal--was
 wheeled to Trauma Room No. 2, <ent type='PERSON'>Kennedy</ent> to Trauma Room No. 1. Teams
 of surgeons and nurses went to work. The <ent type='ORG'>Secret Service</ent> regrouped
 around the <ent type='PERSON'>John</ent>sons and hustled them to seclusion in another part
@@ -335,8 +335,8 @@ One at 1:33, while <ent type='PERSON'>Kennedy</ent> press aide <ent type='PERSON
 announcing the President's death to the press.
 </p>
 <p>
-Police were still combing the <ent type='LOC'>Dealey Plaza</ent> area for
-<ent type='PERSON'>Kennedy</ent>'s murderer. Indeed, only a minute after the fatal shot
+Police were still combing the Dealey Plaza area for
+Kennedy's murderer. Indeed, only a minute after the fatal shot
 was fired, <ent type='PERSON'>Marrion Baker</ent>, a <ent type='GPE'>Dallas</ent> motorcycle officer, had
 pointed his pistol at <ent type='PERSON'>Lee Harvey Oswald</ent>. <ent type='PERSON'>Baker</ent> had been riding by
 the <ent type='GPE'>Texas</ent> School Book Depository when the killing occurred, and
@@ -357,7 +357,7 @@ police had questioned the witness who had seen the man standing
 in the depository window with the rifle and had broadcast his
 description from a radio car in front of the depository. Two
 minutes later, <ent type='PERSON'>Oswald</ent> caught a taxicab at the Greyhound bus
-station and rode to <ent type='PERSON'>Beckley</ent> and <ent type='PERSON'>Neely</ent>, a corner near his Oak
+station and rode to <ent type='GPE'>Beckley</ent> and <ent type='PERSON'>Neely</ent>, a corner near his Oak
 Cliff rooming house. He went to his room, got a pistol and left
 again.
 </p>
@@ -375,12 +375,12 @@ rooming house, and spotted <ent type='PERSON'>Oswald</ent> walking along the sid
 <ent type='PERSON'>Tippett</ent>, for reasons never determined, pulled over and stopped
 him. <ent type='PERSON'>Oswald</ent> jerked his pistol from under his jacket, shot four
 times and ran away. Nine people saw the shooting. A pickup truck
-driver took the dead officer's radio <ent type='PERSON'>mike</ent> and said, "Hello,
+driver took the dead officer's radio mike and said, "Hello,
 police operator. We've had a shooting out here."
 </p>
 <p>
 On Air Force One, stewards were removing some of the seats
-in the tail compartment to make room for President <ent type='PERSON'>Kennedy</ent>'s
+in the tail compartment to make room for President Kennedy's
 coffin. In the plane's stateroom, <ent type='PERSON'>Lyndon</ent> <ent type='PERSON'>John</ent>son was watching
 <ent type='PERSON'>Walter Cronkite</ent> on television and was asking aides and
 congressmen whether he should be sworn in immediately or wait
@@ -395,7 +395,7 @@ The aides and congressmen were embarrassed. They could
 remember neither the words nor where to find them. They couldn't
 remember who, besides <ent type='ORG'>Supreme Court</ent> justices, was authorized to
 administer the oath. Everyone was in such shock and confusion
-that phone calls were made to several <ent type='ORG'>Justice Department</ent>
+that phone calls were made to several Justice Department
 officials in <ent type='GPE'>Washington</ent> and <ent type='GPE'>Dallas</ent> before someone remembered that
 a President may be sworn in by any judge and that the oath is in
 the Constitution. Deputy Attorney General <ent type='PERSON'>Nicholas Katzenbach</ent>
@@ -406,17 +406,17 @@ Field.
 </p>
 <p>
 At 1:40, Lee <ent type='PERSON'>Oswald</ent> ran into the <ent type='GPE'>Texas</ent> Theater on West
-Jefferson--eight blocks from officer <ent type='PERSON'>Tippit</ent>'s body--without
+Jefferson--eight blocks from officer Tippit's body--without
 buying a ticket. The box office attendant called the police.
 <ent type='ORG'>Cruisers</ent> began converging on the theater. At 1:50, the house
 lights went up, and officers moved up and down the aisles, looked
-into the faces of the few patrons. Officer M.N. McDonald stopped
+into the faces of the few patrons. Officer M.N. <ent type='PERSON'>McDonald</ent> stopped
 at the 10th row and said to a man sitting alone: "Get up."
 </p>
 <p>
 "Well, it's all over now," <ent type='PERSON'>Oswald</ent> said, according to
-witnesses and he stood up. But when McDonald moved closer, <ent type='PERSON'>Oswald</ent>
-struck him in the face and went for his pistol. McDonald struck
+witnesses and he stood up. But when <ent type='PERSON'>McDonald</ent> moved closer, <ent type='PERSON'>Oswald</ent>
+struck him in the face and went for his pistol. <ent type='PERSON'>McDonald</ent> struck
 back and grabbed for the gun. <ent type='PERSON'>Oswald</ent> pulled the trigger, but the
 web of skin between McDonald's thumb and forefinger was caught
 under the hammer. The gun didn't fire. Other officers joined the
@@ -433,7 +433,7 @@ sitting in a chair. "There he sits," he said.
 </p>
 <p>
 At <ent type='ORG'>Parkland</ent>, a <ent type='ORG'>Secret Service</ent> agent called Oneal's Funeral
-Home in <ent type='GPE'>Oak Lawn</ent> to order a casket. The funeral director, Vernon
+Home in Oak Lawn to order a casket. The funeral director, Vernon
 Oneal, arrived with it at 1:30. After the President's body had
 been placed in the casket, Mrs. <ent type='PERSON'>Kennedy</ent> entered Trauma Room No.
 1, took off her wedding ring and placed it on her husband's
@@ -476,7 +476,7 @@ and went to get it.
 </p>
 <p>
 The oath lasted 28 seconds. At 2:38 p.m., <ent type='PERSON'>Lyndon</ent> B. <ent type='PERSON'>John</ent>son
-became the 36th President of <ent type='GPE'>the United States</ent>. The big jet's
+became the 36th President of <ent type='GPE'>the United</ent> States. The big jet's
 engines already were screaming. "Now, let's get airborne," he
 said.
 </p>

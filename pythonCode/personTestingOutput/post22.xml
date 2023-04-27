@@ -14,11 +14,11 @@ court in <ent type='GPE'>Chicago</ent>, <ent type='GPE'>Illinois</ent> on Februa
 description of the mail opening program:
 
 "The <ent type='GPE'>Chicago</ent> Division of the U.S. <ent type='ORG'>Postal Inspection</ent> Service has implemented
-an <ent type='ORG'>Express Mail Profile</ent> program at <ent type='ORG'>the Air Mail Facility</ent> (AMF) at <ent type='GPE'>Chicago</ent>
+an <ent type='ORG'>Express Mail</ent> Profile program at <ent type='ORG'>the Air Mail Facility</ent> (AMF) at <ent type='GPE'>Chicago</ent>
 O'Hare International Airport This program consists of a physical profile of
 <ent type='ORG'>Express Mail</ent> parcels which have been mailed to or from locations within the
-Northern District of <ent type='GPE'>Illinois</ent>. Targets were cities and/or areas of the United
-States which have been identified by <ent type='ORG'>law enforcement</ent> as being source areas
+<ent type='PERSON'>Northern</ent> District of <ent type='GPE'>Illinois</ent>. Targets were cities and/or areas of <ent type='GPE'>the United</ent>
+States which have been identified by law enforcement as being source areas
 for the distribution of narcotics, and/or controlled substances.''
 
 The package in this particular case had a return address in <ent type='GPE'>Evanston</ent>,

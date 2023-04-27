@@ -9,10 +9,10 @@ communications by various voice encryption methods, with limited success.</p>
 Future Direction'' provides much insight into the difficulties the <ent type='ORG'>FBI</ent> has
 had establishing a secure communications system.</p>
 
-<p>The <ent type='ORG'>FBI</ent>'s original estimate for establishing a digial voice protection system
+<p>The FBI's original estimate for establishing a digial voice protection system
 was $79.3 million.</p>
 
-<p>The March 8th report indicates that "[b]ecause the <ent type='ORG'>FBI</ent>'s estimated savings
+<p>The March 8th report indicates that "[b]ecause the FBI's estimated savings
 cited in the table are very preliminary and are not supported by formal field
 surveys or other documentation, we continue to believe that the $204.4
 million and the latest $205.8 million estimate for the nationwide voice
@@ -41,14 +41,14 @@ estimate included doubled the number of repeaters to compensate for the <ent typ
 range loss.</p>
 
 <p>However, a 1984 from the Deputy Assistant Director, Technical Services
-Division, the following range loss problems were described: "The <ent type='ORG'>Motorola</ent>
+Division, the following range loss problems were described: "The Motorola
 <ent type='ORG'>DVP</ent>/DES [Data Encryption Standard] system has a loss in range as a penalty
 for the effectiveness of the digital voice privacy. Experience in the six
 cities has demonstrated that to equal the existing geographic coverage, there
 is an 80%-100% increase in so called fixed station equipment (e.g. repeaters,
 cross band sites, and backbone equipment).''</p>
 
-<p>Much of the <ent type='ORG'>FBI</ent>'s difficults seems to be from a lack of proper management.
+<p>Much of the FBI's difficults seems to be from a lack of proper management.
 According to the <ent type='ORG'>GAO</ent> report, "[d]uring our review, we could not find any
 evidence that a long range plan for the nationwide <ent type='ORG'>DVP</ent> program had been
 prepared, and <ent type='ORG'>FBI</ent> officials confirmed that a written plan did not exist. The
@@ -69,7 +69,7 @@ sole-source contract for them with <ent type='ORG'>Transcrypt International</ent
 <ent type='GPE'>Buckingham</ent> Dr, <ent type='ORG'>Lincoln</ent>, NE 68506, Phone: (402) 483-2961, Fax: (402) 435-6780,
 <ent type='ORG'>Telex</ent>: 466146.</p>
 
-<p>According to <ent type='GPE'>Transcrypt</ent>'s brochure, "encryption insures that no outside
+<p>According to Transcrypt's brochure, "encryption insures that no outside
 party can understand radio transmissions, an encrypted radio signal has a
 very distinctive sound; and with the right equipment, it can be jammed,
 intercepted, or the source located.''</p>
@@ -77,12 +77,12 @@ intercepted, or the source located.''</p>
 <p><ent type='GPE'>Transcrypt</ent> refused to provide Full Disclosure with pricing information and
 that information was not available from the Government by press time. The
 going rate for this type of equipment, however is said to be approximately
-$10000 per radio. <ent type='GPE'>Transcrypt</ent> will only sell the radio within the United
-States to <ent type='ORG'>law enforcement</ent> agencies.</p>
+$10000 per radio. <ent type='GPE'>Transcrypt</ent> will only sell the radio within <ent type='GPE'>the United</ent>
+States to law enforcement agencies.</p>
 
 <p>Even though their brochure claims that both the public and private sectors
-outside <ent type='GPE'>the United States</ent> have the need for this type of secure
-communications (no mention is made that the private sector within the United
+outside <ent type='GPE'>the United</ent> States have the need for this type of secure
+communications (no mention is made that the private sector within <ent type='GPE'>the United</ent>
 States has such needs), a company spokesman seemed skeptical that the State
 Department would approve the radios for export.</p>
 
@@ -149,7 +149,7 @@ direction finding a much simpler task.</p>
 <p>The following are selected specifications for the PH-26 and MH-26 radios.
 Figures in ()'s are for the MH-26 when different.</p>
 
-<p><ent type='ORG'>Frequency Programming Range</ent>: 148-174MHz. Frequency stability: .0005%.
+<p>Frequency Programming Range: 148-174MHz. Frequency stability: .0005%.
 Frequency spacing: 5, 6.25, 12.5, 15, 25 or 30KHz. Transmitter: Power Output:
 1 or 5 watts (30 watts). Modulation: FM. Receiver: Sensitivity 12 db. Sinad:
 .25uv. Selectivity @30Khz: 70 db. Audio Output: 500mw (5 watts). Frequency

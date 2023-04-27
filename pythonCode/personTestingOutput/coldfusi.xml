@@ -6,24 +6,24 @@ Earl <ent type='PERSON'>Laurence Lovings</ent></p>
 
 <p>1. Proton (1 <ent type='ORG'>Hydrogen</ent> 1) Energy: 938.3 <ent type='PERSON'>Mev</ent> = 1.007825 amu
 2. Neutron (1 Neutron 0) Energy: 939.6 <ent type='PERSON'>Mev</ent> = 1.008665 amu
-3. <ent type='GPE'>Deuterium</ent> (2 <ent type='ORG'>Hydrogen</ent> 1) = 2.014102 amu
+3. Deuterium (2 <ent type='ORG'>Hydrogen</ent> 1) = 2.014102 amu
 4. [(1 Neutron 0) + (1 <ent type='ORG'>Hydrogen</ent> 1) - electron] =
 (939.6 <ent type='PERSON'>Mev</ent> + 938.3 <ent type='PERSON'>Mev</ent> - .511 <ent type='PERSON'>Mev</ent>) = 1877.389 <ent type='PERSON'>Mev</ent> =
 2.015447128 amu
 5. [(1 Neutron 0) - (1 <ent type='ORG'>Hydrogen</ent> 1) + electron] =
 (939.6 <ent type='PERSON'>Mev</ent> - 938.3 <ent type='PERSON'>Mev</ent> + .511 <ent type='PERSON'>Mev</ent>) = 1.811 <ent type='PERSON'>Mev</ent> =
 1.9441763 x 10 - 03 amu
-6. (105 <ent type='ORG'>Palladium</ent> 46) = 104.905064 amu
-7. (103 <ent type='ORG'>Rhodium</ent> 45) = 102.905511 amu</p>
+6. (105 Palladium 46) = 104.905064 amu
+7. (103 Rhodium 45) = 102.905511 amu</p>
 
-<p>The host element fusion experiment begins with a <ent type='ORG'>Palladium</ent>
-electrode submersed in <ent type='GPE'>Deuterium</ent>. A energy source is supplied,
+<p>The host element fusion experiment begins with a Palladium
+electrode submersed in Deuterium. A energy source is supplied,
 which enables the fusion process to begin. My theory on this
 subject is explained below:</p>
 
-<p>The <ent type='GPE'>Deuterium</ent> atoms are allowed inside the <ent type='ORG'>Palladium</ent> electrode due
-to the electric field on the electrode. Once the <ent type='GPE'>Deuterium</ent> atoms
-are inside, the <ent type='GPE'>Deuterium</ent> causes the <ent type='ORG'>Palladium</ent> to become unstable.
+<p>The Deuterium atoms are allowed inside the Palladium electrode due
+to the electric field on the electrode. Once the Deuterium atoms
+are inside, the Deuterium causes the Palladium to become unstable.
 This is done by this process:</p>
 
 <p>[ (105 Pd 46 - (1 Neutron 0 + 1 <ent type='ORG'>Hydrogen</ent> 1 - electron) +
@@ -31,11 +31,11 @@ This is done by this process:</p>
 [ 104.905064 amu - 2.015447128 amu + 1.9441763 x 10-03 amu] =
 102.8916 amu.</p>
 
-<p>The closest element <ent type='ORG'>Palladium</ent> can try to become stable is
-(103 <ent type='ORG'>Rhodium</ent> 45).</p>
+<p>The closest element Palladium can try to become stable is
+(103 Rhodium 45).</p>
 
-<p>Take <ent type='ORG'>Palladium</ent>'s new mass and subtract it with <ent type='ORG'>Rhodium</ent>'s mass.
-(103 <ent type='ORG'>Rhodium</ent> 45) - 102.8916 amu, or
+<p>Take Palladium's new mass and subtract it with Rhodium's mass.
+(103 Rhodium 45) - 102.8916 amu, or
 102.905511 amu - 102.8916 amu = 1.394653 x 10-02 amu.</p>
 
 <p>To find out how many electrons that is equivalent to:
@@ -43,7 +43,7 @@ This is done by this process:</p>
 25.42309 electrons</p>
 
 <p>This is the amount of electrons required to be ionized to enable
-host element fusion with <ent type='GPE'>Deuterium</ent>. </p>
+host element fusion with Deuterium. </p>
 
 <p>That is the first process of host element fusion. </p>
 
@@ -62,8 +62,8 @@ fusion.</p>
 <p>Q = 13.55 <ent type='PERSON'>Mev</ent></p>
 
 <p>You must realize for this process to work for host element fusion,
-you have to have a host element before <ent type='GPE'>Deuterium</ent> will fuse.
-My equation also theoretically works for known <ent type='GPE'>Deuterium</ent> fusion
+you have to have a host element before Deuterium will fuse.
+My equation also theoretically works for known Deuterium fusion
 processes.</p>
 
 <p> Known Equation:</p>
@@ -90,7 +90,7 @@ convert to electrons</p>
 <p>(2.909899 x 10-03 amu x 931.5 <ent type='PERSON'>Mev</ent>/amu) /(.511 <ent type='PERSON'>Mev</ent>/electrons) =
 5.304445 electrons</p>
 
-<p>Now the fusion of <ent type='GPE'>Deuterium</ent> atoms
+<p>Now the fusion of Deuterium atoms
 [(2 <ent type='ORG'>Hydrogen</ent> 1) + (2 <ent type='ORG'>Hydrogen</ent> 1) + 5.30444e - 1877.389 <ent type='PERSON'>Mev</ent>
 + 1.811 <ent type='PERSON'>Mev</ent> - (2 <ent type='ORG'>Hydrogen</ent> 1)] x 931.5 <ent type='PERSON'>Mev</ent> =
 [(2.014102 amu + 2.014102 amu + 2.909899x10-03 amu - 2.015447 amu
@@ -119,7 +119,7 @@ convert to electrons</p>
 <p>(2.500188 x 10-02 amu x 931.5 <ent type='PERSON'>Mev</ent>/amu) /(.511 <ent type='PERSON'>Mev</ent>/electrons) =
 45.57585 electrons</p>
 
-<p>Now the fusion of <ent type='GPE'>Deuterium</ent> atoms
+<p>Now the fusion of Deuterium atoms
 [(2 <ent type='ORG'>Hydrogen</ent> 1) + (2 <ent type='ORG'>Hydrogen</ent> 1) + 45.58 electrons - 1877.389 <ent type='PERSON'>Mev</ent>
 + 1.811 <ent type='PERSON'>Mev</ent> - (2 <ent type='ORG'>Hydrogen</ent> 1)] x 931.5 <ent type='PERSON'>Mev</ent> =
 [(2.014102 amu + 2.014102 amu + 2.500188x10-02 amu - 2.015447 amu
@@ -151,7 +151,7 @@ convert to electrons</p>
 <p>(3.729582x10-03 amu x 931.5 <ent type='PERSON'>Mev</ent>/amu)/(.511 <ent type='PERSON'>Mev</ent>/electrons) =
 6.798641 electrons</p>
 
-<p>Now the fusion of <ent type='GPE'>Deuterium</ent> atoms
+<p>Now the fusion of Deuterium atoms
 [(2 <ent type='ORG'>Hydrogen</ent> 1) + (2 <ent type='ORG'>Hydrogen</ent> 1) + 6.799 electrons - 1877.389 <ent type='PERSON'>Mev</ent>
 + 1.811 <ent type='PERSON'>Mev</ent> - (2 <ent type='ORG'>Hydrogen</ent> 1)] x 931.5 <ent type='PERSON'>Mev</ent> =
 [(2.014102 amu + 2.014102 amu + 3.7296x10-03 amu - 2.015447 amu +

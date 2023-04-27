@@ -12,9 +12,9 @@ PO BOX 1031
 --------------------------------------------------------------------
 <ent type='ORG'>FBI License Plate</ent> Codes</p>
 
-<p> Somewhere in the vicinity of 2500 <ent type='NORP'>Soviet</ent> and <ent type='NORP'>Eastern European</ent>
-officials live in <ent type='GPE'>the United States</ent> at any given time. The U.S.
-<ent type='ORG'>State Department</ent> estimates that 30% to 40% of them are spies.</p>
+<p> Somewhere in the vicinity of 2500 <ent type='NORP'>Soviet</ent> and <ent type='NORP'>Eastern</ent> European
+officials live in <ent type='GPE'>the United</ent> States at any given time. The U.S.
+State Department estimates that 30% to 40% of them are spies.</p>
 
 <p> This comes to about 900 working spies in the diplomatic corps.</p>
 
@@ -40,12 +40,12 @@ the codes for eighteen "problem" nations.</p>
 <ent type='GPE'>Cuba</ent> DC <ent type='GPE'>Poland</ent> QW
 Czechoslavakia PH Romania ND
 East <ent type='GPE'>Germany</ent> TJ South Africa FY
-<ent type='GPE'>Hungary</ent> KH <ent type='NORP'>Soviet</ent> Union SX
+Hungary KH <ent type='NORP'>Soviet</ent> Union SX
 <ent type='GPE'>Iran</ent> DM <ent type='GPE'>Syria</ent> AQ
 <ent type='GPE'>Iraq</ent> TS Vietnam LD</p>
 
 <p> The <ent type='ORG'>Washington Post</ent> published the code against the wishes of the
-<ent type='ORG'>State Department</ent>. They feared <ent type='ORG'>RAMBO</ent> types might attack diplomatic
+State Department. They feared <ent type='ORG'>RAMBO</ent> types might attack diplomatic
 vehicles of countries they did not like.
 --------------------------------------------------------------------</p>
 

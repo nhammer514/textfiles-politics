@@ -50,11 +50,11 @@ Be sure to keep a copy of each letter.
 Step 3: Addressing the letters: Consult list of agency
 addresses.
 <ent type='ORG'>FBI</ent>: A complete request requires a minimum of two letters.
-<ent type='PERSON'>Sen</ent> done letter to <ent type='ORG'>FBI</ent> <ent type='ORG'>Headquarters</ent> and separate letter to each
+Sen done letter to <ent type='ORG'>FBI</ent> <ent type='ORG'>Headquarters</ent> and separate letter to each
 <ent type='ORG'>FBI</ent> field office nearest the location of the individual, the
 organization or the subject matter/event. Consdier the location
 of residences, schools, work and other activities.
-<ent type='ORG'>INS</ent>: <ent type='PERSON'>Sen</ent>d a request letter to each district office nearest
+<ent type='ORG'>INS</ent>: Send a request letter to each district office nearest
 the location of the individual, the organization or the subject
 matter/event.
 Address each letter to the <ent type='ORG'>FOIA</ent>/PA office of the appropraite
@@ -127,14 +127,14 @@ the agency has released all records pertinent to your request,
 with no exclusions or withholdings. The documents may be enclosed
 or, if bulky, may be mailed under separate cover. This is a very
 rare outcome.
-<ent type='ORG'>Next</ent> Step: Check documents for completeness (see
+Next Step: Check documents for completeness (see
 instructions below).
 2. Requested granted in part and denied in part: This
 response indicates that the agency is releasing some material but
 has withheld some documents entirely or excized some passages
 from the documents released. The released documents may be
 enclosed or, if bulky, mailed under separate cover.
-<ent type='ORG'>Next</ent> step: Check documents released for completeness (see
+Next step: Check documents released for completeness (see
 instructions below) and make an administrative appeal of denials
 or incompleteness (see instructions below).
 3. Request denied in full: This response indicates that
@@ -142,16 +142,16 @@ the agency is asserting that all material in its files pertaining
 to your request falls under one or the nine <ent type='ORG'>FOIA</ent> exemptions.
 These are categories of information that the agency may, at its
 discretion, refuse to release.
-<ent type='ORG'>Next</ent> step: Make an administrative appeal (see instructions
+Next step: Make an administrative appeal (see instructions
 below). Since <ent type='ORG'>FOIA</ent> exemptions are not mandatory, even a complete
 denial of your request can and should be appeals.
 4. No records: This response will state that a search of
 the agency's files indicates that it has no records corresponding
 to those you requested.
-<ent type='ORG'>Next</ent> step: Check your original request to be sure you have
+Next step: Check your original request to be sure you have
 not overlooked anything. If you receive documents from other
 agencies, review them for indications that there is <ent type='ORG'>matieral</ent> in
-<ent type='PERSON'>teh</ent> files of the agency claiming it has none. For example, look
+the files of the agency claiming it has none. For example, look
 for correspondence, or references to correspondence, to or from
 that agency. If you determine that there are reasonable grounds,
 file an administrative appeal (see instructions below).</p>
@@ -161,7 +161,7 @@ file an administrative appeal (see instructions below).</p>
 <p> Step 1: Before reading the documents, turn them over and
 number the back of each page sequentilaly. The packet may contain
 documents from the agency's headquarters as well as several field
-office files. Separate the documents into their <ent type='NORP'>reqpective</ent> office
+office files. Separate the documents into their respective office
 packets. Each of these offices will have assigned the
 investigation a separate file number. Try to find the numbering
 system. Usually the lower righthand corner of the first page
@@ -181,7 +181,7 @@ serial number and separated the documents into their proper
 office batches, make a list of all the serial numbers in each
 batch to see if there any any missing numbers. If there are
 missing serial numbers and some documents have been withheld, try
-to determine if <ent type='PERSON'>teh</ent> missing numbers might reasonably correspond
+to determine if the missing numbers might reasonably correspond
 to the withheld documents. If not, the realease may be incomplete
 and an administrative appeal should be made.
 Step 2: Read all the document released to you. Keep a list
@@ -227,7 +227,7 @@ such an elaborate appeal; in fact, you need not offer any reasons
 at all but rather simply write a letter to the appeals unit
 stating that "this letter constitutes an appeal of the agency's
 decision." Of course, if you have identified some real
-<ent type='ORG'>discrepanices</ent>, you will want to set them for fully, but even if
+discrepanices, you will want to set them for fully, but even if
 you have not found any, you may simply ask that the release be
 reviewed.
 If you are still dissatisfied after the administrative
@@ -430,7 +430,7 @@ secregable portion of a record shall be provided to any eprson
 requesting such record after deletion of the portions which are
 exempt," I believe that your agency has not complied with the
 <ent type='ORG'>FOIA</ent>. I believe that there must be (additional) segregble
-portions which do not fall <ent type='PERSON'>wihtin</ent> <ent type='ORG'>FOIA</ent> exemptions and which must
+portions which do not fall within <ent type='ORG'>FOIA</ent> exemptions and which must
 be released.
 [Optional paragraph, to be used in the agency has used the
 (b)(1) exemption for national security, to withhold information]
@@ -504,24 +504,24 @@ Appeals]</p>
 <ent type='GPE'>Baltimore</ent>, MD 21207, 7142 Ambassador Rd., 301-265-8080
 Birminghan, AL 35203, Room 1400, 2121 Bldg. 205-252-7705
 <ent type='GPE'>Boston</ent>, MA 02203, J.F. Kennedy <ent type='ORG'>Fed</ent>eral Office Bldg., 617-742-5533
-Buffalo, NY 14202, 111 W. Huron St., 716-856-7800
-Butte, MT 59701, U.S. <ent type='ORG'>Courthouse</ent> and <ent type='ORG'>Fed</ent>eral Bldg., 406-792-2304
+<ent type='GPE'>Buffalo</ent>, NY 14202, 111 W. Huron St., 716-856-7800
+<ent type='GPE'>Butte</ent>, MT 59701, U.S. <ent type='ORG'>Courthouse</ent> and <ent type='ORG'>Fed</ent>eral Bldg., 406-792-2304
 <ent type='GPE'>Charlotte</ent>, NC 28202, Jefferson Standard Life Bldg., 704-372-5485
 <ent type='GPE'>Chicago</ent>, IL 60604, Everett McKinley Dirksen Bldg., 312-431-1333
 <ent type='GPE'>Cincinnati</ent>, OH 45202, 400 U.S. Post Office &amp; Crthse Bldg., 513-421-4310
 <ent type='GPE'>Cleveland</ent>, OH 44199, <ent type='ORG'>Fed</ent>eral Office Bldg., 216-522-1401
 <ent type='GPE'>Columbia</ent>, SC 29201, 1529 Hampton St., 803-254-3011
-<ent type='GPE'>Dallas</ent> TX 75201, 1810 <ent type='PERSON'>Commrce</ent> St., 214-741-1851
+<ent type='GPE'>Dallas</ent> TX 75201, 1810 Commrce St., 214-741-1851
 Denver, CO 80202, <ent type='ORG'>Fed</ent>eral Office Bldg., 303-629-7171
 <ent type='GPE'>Detroit</ent>, MI 48226, 477 <ent type='GPE'>Michigan</ent> Ave., 313-965-2323
 El Paso, TX 79901, 202 U.S. Courthosue Bldg., 915-533-7451
 <ent type='GPE'>Honolulu</ent>, HI 96850, 300 <ent type='PERSON'>Ala Moana Blvd</ent>., 808-521-1411
 <ent type='GPE'>Houston</ent>, TX 77002, 6015 <ent type='ORG'>Fed</ent>. Bldg and U.S.<ent type='ORG'>Courthouse</ent>, 713-224-1511
-<ent type='GPE'>Indianapolis</ent>, IN 46202, 575 N. <ent type='GPE'>Pennsylvania</ent> St., 317-639-3301
+<ent type='NORP'>Indianapolis</ent>, IN 46202, 575 N. <ent type='GPE'>Pennsylvania</ent> St., 317-639-3301
 Jackson, MS 39205, <ent type='ORG'>Unifirst Federal and Loan Bldg</ent>., 601-948-5000
 <ent type='GPE'>Jacksonville</ent>, FL 32211, 7820 Arlington Expressway, 904-721-1211
 <ent type='GPE'>Kansas City</ent>, MO 64106, 300 U.S. <ent type='ORG'>Courthouse</ent> Bldg., 816-221-6100
-<ent type='GPE'>Knoxville</ent>, TN 37919, 1111 <ent type='GPE'>Northshore</ent> Dr., 615-588-8571
+<ent type='GPE'>Knoxville</ent>, TN 37919, 1111 <ent type='PERSON'>Northshore</ent> Dr., 615-588-8571
 <ent type='GPE'>Las Vegas</ent>, NV 89101, <ent type='ORG'>Fed</ent>eral Office Bldg., 702-385-1281
 Little Rock, AR 72201, 215 U.S Post Office Bldg., 501-372-7211
 <ent type='GPE'>Los Angeles</ent>, CA 90024, 11000 <ent type='PERSON'>Wilshire Blvd</ent>, 213-272-6161
@@ -577,9 +577,9 @@ General Counsel, U.S. Commission on Civil Rights
 <ent type='GPE'>Washington</ent>, D.C. 20415
 202-254-6610</p>
 
-<p><ent type='ORG'>Consumer Product Safety Commission</ent>
+<p>Consumer Product Safety Commission
 Office of the Secretary
-<ent type='ORG'>Consumer Product Safety Commission</ent>
+Consumer Product Safety Commission
 1111 18th St., N.W.
 <ent type='GPE'>Washington</ent>, D.C. 20207
 202-624-7700</p>

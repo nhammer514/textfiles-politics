@@ -12,7 +12,7 @@ I T.B. Pawlicki I
 I 843 FORT STREET I
 I VICTORIA, BRITISH COLUMBIA I
 I V8W 1H6 I
-I CANADA I
+I <ent type='GPE'>CANADA</ent> I
 I______________________________I </p>
 
 <div>********************** FORWARD **********************</div>
@@ -127,7 +127,7 @@ passed while my market grew to critical mass by word of mouth. </p>
 
 <p>Denver in August, l987, that the idea came to me to offer my </p>
 
-<p>audience my current manuscripts explaining <ent type='PERSON'>HYPERSPACE</ent> to
+<p>audience my current manuscripts explaining HYPERSPACE to
 ----------
 everyone who would participate by also sharing their ideas on </p>
 
@@ -427,7 +427,7 @@ believe that anyone may freely copy published material in any </p>
 
 <p>with animated illustrations included on disc, under the title </p>
 
-<p>TIME TRAVEL --- <ent type='ORG'>The Secret Science</ent> of The UFOs. Availing myself
+<p>TIME TRAVEL --- <ent type='ORG'>The Secret Science</ent> of The <ent type='EVENT'>UFOs</ent>. Availing myself
 ----------- ------------------------------
 of the impermanent and quasiconversational nature of magnetic </p>
 
@@ -453,7 +453,7 @@ of the impermanent and quasiconversational nature of magnetic </p>
 
 <p>in <ent type='GPE'>California</ent>. Let me know whether you are willing to buy </p>
 
-<p>TIME TRAVEL --- <ent type='ORG'>The Secret Science</ent> of The UFOs at a prepublication
+<p>TIME TRAVEL --- <ent type='ORG'>The Secret Science</ent> of The <ent type='EVENT'>UFOs</ent> at a prepublication
 ----------- ------------------------------
 price of $10 or a postpublication price of $16. Send no money. I </p>
 

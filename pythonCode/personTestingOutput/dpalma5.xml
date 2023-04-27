@@ -44,11 +44,11 @@ tentative conclusions from the resulting data.</p>
 <p> THE SUNBURST <ent type='ORG'>HOMOPOLAR</ent> GENERATOR</p>
 
 <p> In July, 1985, I became aware of and was invited to examine and
-test a so-called free-energy generator known as <ent type='ORG'>the Sunburst</ent> N
+test a so-called free-energy generator known as the <ent type='LOC'>Sunburst</ent> N
 Machine.</p>
 
-<p> This device, shown in <ent type='PERSON'>Figs</ent> 1a and 1b, was proposed by Bruce
-DePalma and constructed by <ent type='PERSON'>Charya Bernard</ent> of <ent type='ORG'>the Sunburst</ent>
+<p> This device, shown in Figs 1a and 1b, was proposed by Bruce
+DePalma and constructed by <ent type='PERSON'>Charya Bernard</ent> of the <ent type='LOC'>Sunburst</ent>
 Community in <ent type='GPE'>Santa Barbara</ent>, CA, about 1979.</p>
 
 <p> The term "free-energy" refers to the claim by DePalma [1]
@@ -67,7 +67,7 @@ machine to test these claims.</p>
 
 <p> GENERATOR DESCRIPTION</p>
 
-<p> Details of the generator construction are shown in <ent type='PERSON'>Figs</ent>. 2 and 3.</p>
+<p> Details of the generator construction are shown in Figs. 2 and 3.</p>
 
 <p> It consists essentially of an electromagnet formed by a coil of
 3605 turns of #10 copper wire around a soft iron core which
@@ -87,7 +87,7 @@ fiberglass windings allow the magnet to be rotated at high speed.</p>
 
 <p> The generator may be recognized as a so-called <ent type='ORG'>homopolar</ent>, or
 acyclic machine, a device first investigated and described
-by Michael <ent type='ORG'>Faraday</ent> [3] in 1831 (<ent type='PERSON'>Figs</ent>. 45) and shown
+by Michael <ent type='ORG'>Faraday</ent> [3] in 1831 (Figs. 45) and shown
 schematically in Fig. 6.</p>
 
 <p> It consists of a cylindrical conducting disk immersed in an
@@ -131,7 +131,7 @@ field with that produced by the radial output current results in
 torque between the disk and the magnet structure which is not
 reflected back to the mechanical driving source.</p>
 
-<p> <ent type='PERSON'>Lenz</ent>'s law therefore does not apply, and the extraction of
+<p> Lenz's law therefore does not apply, and the extraction of
 output energy does not require additional driving power.
 This is the claimed basis for extracting "free" energy.</p>
 
@@ -161,7 +161,7 @@ reduce the output voltage because of the magnetic field
 distortion resulting from the high currents.</p>
 
 <p> From the standpoint of prior art, the design of the
-<ent type='GPE'>Sunburst</ent> generator is inefficient and not suitable for power
+<ent type='LOC'>Sunburst</ent> generator is inefficient and not suitable for power
 generation:</p>
 
 <p> 1. The magnetic field is concentrated near the axis where
@@ -185,9 +185,9 @@ as a means for testing the free energy principle, however,
 from this point of view efficiency in producing external
 power was not required or relevant.</p>
 
-<p> <ent type='PERSON'>DEPALMA</ent>'S RESULTS WITH THE SUNBURST <ent type='ORG'>HOMOPOLAR</ent> GENERATOR</p>
+<p> DEPALMA'S RESULTS WITH THE SUNBURST <ent type='ORG'>HOMOPOLAR</ent> GENERATOR</p>
 
-<p> In 1980 DePalma conducted tests with <ent type='ORG'>the Sunburst</ent>
+<p> In 1980 DePalma conducted tests with the <ent type='LOC'>Sunburst</ent>
 generator, describing his measurement technique and results in an
 unpublished report [10].</p>
 
@@ -237,13 +237,13 @@ calculated to 62.5 <ent type='GPE'>microohms</ent>.</p>
 <p> Of these, the first assumption seems the most serious, and it is my
 opinion that the results of this particular test were inaccurate.</p>
 
-<p> <ent type='PERSON'>Tim Wilhelm</ent> of <ent type='GPE'>Stelle</ent>, <ent type='GPE'>Illinois</ent>, who witnessed tests of <ent type='ORG'>the Sunburst</ent>
+<p> <ent type='PERSON'>Tim Wilhelm</ent> of <ent type='GPE'>Stelle</ent>, <ent type='GPE'>Illinois</ent>, who witnessed tests of the <ent type='LOC'>Sunburst</ent>
 generator in 1981, had a similar opinion [11].</p>
 
 <p> RECENT TESTS OF THE SUNBURST GENERATOR</p>
 
 <p> Being intrigued by DePalma's hypothesis, I accepted the offer by
-Mr. <ent type='PERSON'>Norman Paulsen</ent>, founder of <ent type='ORG'>the Sunburst</ent> Community, to
+Mr. <ent type='PERSON'>Norman Paulsen</ent>, founder of the <ent type='LOC'>Sunburst</ent> Community, to
 conduct tests on the generator which apparently had not been
 used since the tests by DePalma and <ent type='PERSON'>Bernard</ent> in 1979.</p>
 
@@ -253,7 +253,7 @@ used since the tests by DePalma and <ent type='PERSON'>Bernard</ent> in 1979.</p
 with the physical equipment shown in Fig. 10. The generator
 is shown coupled by a long belt to the drive motor behind it,
 together with the power supplies and metering both contained
-within and external to <ent type='ORG'>the Sunburst</ent> power and metering cabinet.</p>
+within and external to the <ent type='LOC'>Sunburst</ent> power and metering cabinet.</p>
 
 <p> Figure 10b shows the panel of the test cabinet which provided
 power for the generator magnet and motor field. The 4-1/2 digit
@@ -282,7 +282,7 @@ to over 7000 rpm, with accurate measurement of motor input
 power, metered generator output voltage Vg and generator output
 current Ig.</p>
 
-<p> Speed was measured with a <ent type='ORG'>General Radio</ent> model 1531 Strobotac
+<p> Speed was measured with a General Radio model 1531 Strobotac
 which had a calibration accuracy of better than 2% (as verified
 with a frequency counter) and which allowed determination of
 relative speed changes of a few rpm of less.</p>
@@ -482,7 +482,7 @@ a voltage drop that is essentially constant at approximately one
 volt per brush contact when the current density rises above 10-15
 amperes per square centimeter.</p>
 
-<p> To compare this with <ent type='ORG'>the Sunburst</ent> machine the total brush
+<p> To compare this with the <ent type='LOC'>Sunburst</ent> machine the total brush
 voltage was calculated by subtracting the IR drop due to the
 output current in the known (meter shunt) and calculated (disk,
 shaft, and brush lead) resistances from the assumed
@@ -545,7 +545,7 @@ physics, and if true has incredible implications.</p>
 
 <p> The data obtained so far seems to have shown that while DePalma's
 numbers were high, his basic premise has not been disproved.
-While <ent type='ORG'>the Sunburst</ent> generator does not produce useful output power
+While the <ent type='LOC'>Sunburst</ent> generator does not produce useful output power
 because of the internal losses inherent in the design, a
 number of techniques could be used to reduce the friction
 losses, increase the total generated voltage and the
@@ -568,7 +568,7 @@ be a good design techniques, was unsuccessful.</p>
 <p> <ent type='ORG'>FOOTNOTES</ent></p>
 
 <p> 1. DePalma, 1979a,b,c, 1981, 1983, 1984, etc.
-2. For example, <ent type='ORG'>Satelite News</ent>, 1981, <ent type='PERSON'>Marinov</ent>, 1984, etc.
+2. For example, Satelite News, 1981, <ent type='PERSON'>Marinov</ent>, 1984, etc.
 3. <ent type='PERSON'>Martin</ent>, 1932, vol. 1, p.381.
 4. Das Gupta, 1961, 1962; Lamme, 1912, etc.
 5. See, for example, Bumby, 1983; <ent type='ORG'>Bewley</ent>, 1952; <ent type='ORG'>Kosow</ent>, 1964; <ent type='PERSON'>Nasar</ent>,
@@ -596,7 +596,7 @@ drive power so that the results described are conservative.
 <p> REFERENCES</p>
 
 <p> [<ent type='ORG'>Bewley</ent>, 1949] - L. V. <ent type='ORG'>Bewley</ent>, letter re [<ent type='ORG'>Cohn</ent>, 1949a]; ELECTRICAL
-ENGINEERING, Dec. 1949, p.1113-4. (Claims error in <ent type='ORG'>Cohn</ent>'s paper)</p>
+ENGINEERING, Dec. 1949, p.1113-4. (Claims error in Cohn's paper)</p>
 
 <p> [<ent type='ORG'>Bewley</ent>, 1952] - L. V. <ent type='ORG'>Bewley</ent>, FLUX LINKAGES &amp; ELECTROMAGNETIC
 INDUCTION, <ent type='ORG'>Macmillan</ent>, NY, 1952. (Explanation of induction
@@ -606,7 +606,7 @@ phenomena and the <ent type='ORG'>Faraday</ent> generator)</p>
 MACHINES, <ent type='ORG'>Claredon Press</ent>, 1983. (<ent type='ORG'>Homopolar</ent> designs, high current
 brushes including liquid metal)</p>
 
-<p> [<ent type='ORG'>Cohn</ent>, 1949a] - <ent type='PERSON'>George I</ent>. <ent type='ORG'>Cohn</ent>, "Electromagnetic Induction",
+<p> [<ent type='ORG'>Cohn</ent>, 1949a] - George I. <ent type='ORG'>Cohn</ent>, "Electromagnetic Induction",
 ELECTRICAL ENGINEERING, May 1949, p441-7. (Unipolar generator as
 paradox)</p>
 
@@ -616,7 +616,7 @@ ENGINEERING, Nov 1949, p1018. (Responds to criticism by <ent type='ORG'>Savage</
 <p> [Crooks, 1978] - M. J. Crooks et al, "One-piece <ent type='ORG'>Faraday</ent> generator:
 A paradoxical experiment from 1851", Am. J. Phys. 46(7), July
 1978, p729-31. (Derives <ent type='ORG'>Faraday</ent> generator performance using
-<ent type='ORG'>Maxwell</ent>'s equations)</p>
+Maxwell's equations)</p>
 
 <p> [<ent type='PERSON'>Cullwick</ent>, 1957] - E. G. <ent type='PERSON'>Cullwick</ent>, <ent type='ORG'>ELECTROMAGNETISM</ent> AND RELATIVITY,
 Longmans &amp; Green, London, 1957. (Chapter 10, "A Rotating
@@ -643,9 +643,9 @@ Barbara CA, 6 Mar 1979. (Discusses <ent type='ORG'>homopolar</ent> generator or 
 
 <p> [DePalma, 1979c] - Bruce DePalma, ROTATION OF A MAGNETIZED
 GYROSCOPE, <ent type='ORG'>Simularity Institute</ent> Report #33, 16 July 1979.
-(Describes design of <ent type='GPE'>Sunburst</ent> <ent type='ORG'>homopolar</ent> generator)</p>
+(Describes design of <ent type='LOC'>Sunburst</ent> <ent type='ORG'>homopolar</ent> generator)</p>
 
-<p> [DePalma, 1980] - Bruce DePalma, "Performance of <ent type='ORG'>the Sunburst</ent> N
+<p> [DePalma, 1980] - Bruce DePalma, "Performance of the <ent type='LOC'>Sunburst</ent> N
 Machine", <ent type='ORG'>Simularity Institute</ent>, <ent type='GPE'>Santa Barbara</ent>, CA, 17 December
 1980. (Description of tests and results)</p>
 
@@ -679,20 +679,20 @@ generator)</p>
 <ent type='GPE'>Graz</ent>, <ent type='GPE'>Austria</ent>, 1984 (Advertisement in NATURE). (Claims free-energy generator proved by DePalma, Newman)</p>
 
 <p> [<ent type='PERSON'>Martin</ent>, 1932] - Thomas <ent type='PERSON'>Martin</ent> (ed), FARADAY'S DIARY, Bell, 1932,
-in 5 vols. (Transcription and publication of <ent type='ORG'>Faraday</ent>'s original
+in 5 vols. (Transcription and publication of Faraday's original
 diaries)</p>
 
 <p> [<ent type='PERSON'>Nasar</ent>, 1970] - S. <ent type='PERSON'>Nasar</ent>, ELECTROMAGNETIC ENERGY CONVERSION DEVICES
 &amp; SYSTEMS, Prentice-Hall, 1970. (Discusses principles and
 applications of acyclic (<ent type='ORG'>homopolar</ent>) machines)</p>
 
-<p> [<ent type='ORG'>Satellite News</ent>, 1981] - "Researchers see long-life satellite power
+<p> [Satellite News, 1981] - "Researchers see long-life satellite power
 systems in 19th century experiment", Research news, SATELLITE
 NEWS, 15 June 1981. (Reports DePalma's claim for free-energy
 generator)</p>
 
 <p> [<ent type='ORG'>Savage</ent>, 1949] - Norton <ent type='ORG'>Savage</ent>, letter re [<ent type='ORG'>Cohn</ent>, 1949a]; ELECTRICAL
-ENGINEERING, July 1949, p645. (Claims error in <ent type='ORG'>Cohn</ent>'s paper)</p>
+ENGINEERING, July 1949, p645. (Claims error in Cohn's paper)</p>
 
 <p> [<ent type='PERSON'>Wilhelm</ent>, 1980] - Timothy J. <ent type='PERSON'>Wilhelm</ent>, INVESTIGATIONS OF THE N-EFFECT
 ONE-PIECE <ent type='ORG'>HOMOPOLAR</ent> DYNAMOS, <ent type='ORG'>ETC</ent>. (Phase I), <ent type='GPE'>Stelle</ent>, IL, 12 Sept
@@ -702,7 +702,7 @@ ONE-PIECE <ent type='ORG'>HOMOPOLAR</ent> DYNAMOS, <ent type='ORG'>ETC</ent>. (P
 ONE-PIECE <ent type='ORG'>HOMOPOLAR</ent> DYNAMOS, <ent type='ORG'>ETC</ent>. (Phase II), <ent type='GPE'>Stelle</ent>, IL, 10 June
 1981. (Design and tests of improved <ent type='ORG'>homopolar</ent> generator/motor)</p>
 
-<p> [<ent type='PERSON'>Zeleny</ent>, 1924] - John <ent type='PERSON'>Zeleny</ent> &amp; <ent type='PERSON'>Leigh Page</ent>, "Torque on a cylindrical
+<p> [<ent type='PERSON'>Zeleny</ent>, 1924] - John <ent type='PERSON'>Zeleny</ent> &amp; Leigh Page, "Torque on a cylindrical
 magnet through which a current is passing", PHYS. <ent type='ORG'>REV</ent>. v.24, 14
 July 1924, p.544-59. (Theory and experiment on torque in a
 <ent type='ORG'>homopolar</ent> device)</p>
@@ -835,7 +835,7 @@ GENERATED POWER 0 0 (6113)
 
 <p> Another file downloaded from: NIRVANAnet(tm)</p>
 
-<p> &amp; the Temple of the Screaming Electron <ent type='PERSON'>Jeff Hunter</ent> 510-935-5845
+<p> &amp; <ent type='ORG'>the Temple</ent> of the Screaming Electron Jeff Hunter 510-935-5845
 Rat Head Ratsnatcher 510-524-3649
 Burn This Flag Zardoz 408-363-9766
 <ent type='PERSON'>realitycheck Poindexter Fortran</ent> 415-567-7043
@@ -846,7 +846,7 @@ arcane knowledge, political extremism, diversive sexuality,
 insane speculation, and wild rumours. ALL-TEXT BBS SYSTEMS.</p>
 
 <p> Full access for first-time callers. We don't want to know who you are,
-where you live, or what your phone number is. We are not <ent type='ORG'>Big Brother</ent>.</p>
+where you live, or what your phone number is. We are not Big Brother.</p>
 
 <p> "Raw Data for Raw Nerves"</p>
 

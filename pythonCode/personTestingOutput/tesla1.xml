@@ -1,18 +1,13 @@
 <xml><p>TESLA HOWITZER</p>
 
 <p>
-Written by
-
-T. E. Bearden
-
-
-. Nikola <ent type='ORG'>Tesla</ent>
-and
-The <ent type='ORG'>Tesla</ent> Howitzer</p>
+Written by T. E. Bearden
+.
+<ent type='PERSON'>Nikola</ent> <ent type='PERSON'>Tesla</ent> and The <ent type='PERSON'>Tesla</ent> Howitzer</p>
 
 
-<p>Before the turn of the century, Nikola <ent type='ORG'>Tesla</ent> had discovered and
-was utilizing a new type of electric wave. <ent type='ORG'>Tesla</ent> repeatedly
+<p>Before the turn of the century, <ent type='PERSON'>Nikola</ent> <ent type='PERSON'>Tesla</ent> had discovered and
+was utilizing a new type of electric wave. <ent type='PERSON'>Tesla</ent> repeatedly
 stated his waves were non-<ent type='GPE'>Hertzian</ent>, and his wireless
 transmissions did not fall off as the square of the distance.
 His discovery was apparently so fundamental (and his intent to
@@ -21,18 +16,18 @@ responsible for the withdrawal of his financial backing, his
 deliberate isolation, and the gradual removal of his name from
 the history books.</p>
 
-<p>By 1914 or so, <ent type='ORG'>Tesla</ent> had been successfully isolated and was
-already nearly a "nonperson." Thereafter <ent type='ORG'>Tesla</ent> lived in nearly
+<p>By 1914 or so, <ent type='PERSON'>Tesla</ent> had been successfully isolated and was
+already nearly a "nonperson." Thereafter <ent type='PERSON'>Tesla</ent> lived in nearly
 total seclusion, occasionally surfacing (at his annual birthday
 party for members of the press) to announce the discovery of an
 enormous new source of free energy, the perfection of wireless
 transmission of energy without losses, fireball weapons to
 destroy whole armies and thousands of airplanes at hundreds of
-miles distance, and a weapon (the "<ent type='ORG'>Tesla</ent> Shield," I've dubbed
+miles distance, and a weapon (the "<ent type='PERSON'>Tesla</ent> Shield," I've dubbed
 it) that could provide an impenetrable defense and thus render
 war obsolete.</p>
 
-<p>In my pursuit of <ent type='ORG'>Tesla</ent>'s secret, it gradually became apparent to
+<p>In my pursuit of Tesla's secret, it gradually became apparent to
 me that present orthodox electromagnetic theory is seriously
 flawed in some fundamental respects. One of these is in the
 definition and use of <ent type='ORG'>THETA</ent>, the scalar electrostatic
@@ -79,7 +74,7 @@ be the "instantaneous stress" on spacetime itself, and a measure
 of the intensity of the virtual state flux through a 4-dimensional spacetime point.</p>
 
 <p>Potential theory was largely developed in the 1800's before the
-theory of relativity. <ent type='ORG'>Time</ent> flowrate was then regarded as
+theory of relativity. Time flowrate was then regarded as
 immutable. Accordingly, electrostatic "intensity" was chosen as
 "spatial intensity," with the connotation of "spatial flux
 density." This assumes a constant, immutable rate of flow of
@@ -111,7 +106,7 @@ different indeed.</p>
 
 <p>To speak of a spatial "amount" of charge erroneously limits the
 basic EM theory to a fixed time flowrate condition (which of
-course it was considered to be, prior to <ent type='PERSON'>Einstein</ent>'s development
+course it was considered to be, prior to Einstein's development
 of relativity). Thus when the limited present theory encounters
 a "relativistic" case (where the time flowrate changes), all
 sorts of extraordinary corrections must be introduced. The real
@@ -138,20 +133,20 @@ accumulated charge is like so much pressure on both the water
 <p> Now, if one varies the <ent type='ORG'>SEP</ent> solely as a point function, one would
 have a purely scalar complex longitudinal wave, and not a vector
 wave at all. This is the fundamentally new electrical wave that
-<ent type='ORG'>Tesla</ent> discovered in 1899.</p>
+<ent type='PERSON'>Tesla</ent> discovered in 1899.</p>
 
 <p>Rigorously, all vector fields are two-point functions and thus
 decomposable into two scalar fields, as <ent type='PERSON'>Whittaker</ent> showed in
 1903. It follows that any vector wave can be decomposed into
 two scalar waves. By implication, therefore, a normal
 transverse EM vector wave, e.g., must simply be two coupled
-scalar (<ent type='ORG'>Tesla</ent>) waves -- and these scalars independently would be
+scalar (<ent type='PERSON'>Tesla</ent>) waves -- and these scalars independently would be
 longitudinal if uncoupled. An ordinary transverse EM vector
-wave is thus two pair-coupled <ent type='ORG'>Tesla</ent> scalar longitudinal waves,
+wave is thus two pair-coupled <ent type='PERSON'>Tesla</ent> scalar longitudinal waves,
 and only a single special case of the much more fundamental
-electromagnetics discovered by Nikola <ent type='ORG'>Tesla</ent>.</p>
+electromagnetics discovered by <ent type='PERSON'>Nikola</ent> <ent type='PERSON'>Tesla</ent>.</p>
 
-<p> A <ent type='ORG'>Tesla</ent> (scalar potential) wave -- i.e., a massless wave in pure
+<p> A <ent type='PERSON'>Tesla</ent> (scalar potential) wave -- i.e., a massless wave in pure
 0,O, the stress of the spacetime medium -- would have very
 strange characteristics indeed. For one thing, since it moves
 in a complex 4-space, it has many more modes of movement than
@@ -161,7 +156,7 @@ theory, one 03-field does not directly interact or couple with
 other existing 03-fields except by simple superposition.
 Therefore presently the <ent type='ORG'>THETA</ent>-field is considered to have no
 drag limitation at all, hence infinite velocity. (E.g., as
-stated in <ent type='PERSON'>Jackson</ent>'s, (Classical Electrodynamics, 2nd edition,
+stated in Jackson's, (Classical Electrodynamics, 2nd edition,
 page 223.)</p>
 
 <p>Actually, a 04-wave can and will interact with some of the
@@ -180,13 +175,13 @@ The velocity of the 04-wave is thus both variable and
 controllable or adjustable (e.g., simply by varying its initial
 amplitude which through a given medium changes the percentage of
 pair-coupling and hence the degree of drag on the scalar wave.)
-The <ent type='ORG'>Tesla</ent> scalar wave thus can have either subluminal or
+The <ent type='PERSON'>Tesla</ent> scalar wave thus can have either subluminal or
 superluminal velocity, in contradiction to present theory.</p>
 
-<p>Note that the scalar wave also violates one of <ent type='PERSON'>Einstein</ent>'s
+<p>Note that the scalar wave also violates one of Einstein's
 fundamental postulates -- for the speed of our "new kind of
 light" wave is not limited to c, and need not be the same to
-every observer. Thus <ent type='ORG'>Tesla</ent> scalar waves lead to a new "super-relativity" of which the present <ent type='PERSON'>Einstein</ent> relativity is only a
+every observer. Thus <ent type='PERSON'>Tesla</ent> scalar waves lead to a new "super-relativity" of which the present <ent type='PERSON'>Einstein</ent> relativity is only a
 highly special case!</p>
 
 <p>But let us now look for some subtle but real examples of scalar
@@ -212,7 +207,7 @@ waves, the amplitude of the ordinary vector wave is increased.</p>
 <p><ent type='ORG'>Scalar</ent> potential waves can thus augment or diminish, or create
 or destroy, ordinary EM waves at a distance by pair-coupling
 interference under appropriate conditions, and this is in
-consonance with the implications of <ent type='PERSON'>Whittaker</ent>'s fundamental 1903
+consonance with the implications of Whittaker's fundamental 1903
 work.</p>
 
 <p>An earthquake fault zone is such a scalar interferometer.
@@ -265,11 +260,11 @@ energy of the ball lightening, as compared to the lesser energy
 of an earth stress light, could well be due to the enormous
 electrical charges between clouds or between cloud and earth,
 available to fuel the scalar interferometer. Very probably it
-is this phenomenon which gave <ent type='ORG'>Tesla</ent> the clue to scalar wave
+is this phenomenon which gave <ent type='PERSON'>Tesla</ent> the clue to scalar wave
 interferometry.</p>
 
 <p>Thus such phenomena as earth stress lights, ball lightening, and
-the <ent type='ORG'>Tesla</ent> system of wireless transmission of energy at a
+the <ent type='PERSON'>Tesla</ent> system of wireless transmission of energy at a
 distance with negligible lasses and at speeds exceeding the
 speed of light may be explained. They are complex, however, and
 involve fundamental changes to present electromagnetic theory.
@@ -283,7 +278,7 @@ exists in time -- including the mind, both of the individual and
 at various levels of unconsciousness. Therefore the same
 functions that result in earth stress lights also affect mind
 and thought, and are in turn affected by mind and thought. This
-is the missing ingredient in <ent type='PERSON'>Persinger</ent>'s theory that UFO's are
+is the missing ingredient in Persinger's theory that UFO's are
 correlated with, and a result of, fault zones and earth
 stresses. While <ent type='PERSON'>Persinger</ent> seems to feel this is a "normal
 physics" explanation, it indeed involves a paranormal
@@ -299,7 +294,7 @@ Identification, Prentice-Hall, 1981.)</p>
 <p>These ideas in condensed form comprise the concepts required to
 violate the speed of light and produce an ordinary
 electromagnetic field at a distance, using scalar
-interferometry, without losses -- as <ent type='ORG'>Tesla</ent> had done in his
+interferometry, without losses -- as <ent type='PERSON'>Tesla</ent> had done in his
 wireless transmission system which he had tested prior to 1900
 and had perfected by the 1930's. <ent type='ORG'>Scalar</ent> interferometry can give
 stable regions of EM or "light energy" at a distance without
@@ -338,7 +333,7 @@ scalar waves without knowing it.</p>
 charged mass pileups can be increased by utilizing charged mass
 streaming. Essentially the charged masses must be moved
 suddenly, as quickly as possible, at or near the complete
-breakdown of the medium. For this reason, <ent type='ORG'>Tesla</ent> utilized
+breakdown of the medium. For this reason, <ent type='PERSON'>Tesla</ent> utilized
 sparkgaps in his early transmission systems, but also found that
 he could induce ionized media to "breakdown" in such fashion by
 a slow growth process. One of his early patented atmospheric
@@ -347,7 +342,7 @@ it was necessary to use a very high voltage, insuring extreme
 stress on the medium and hence some spillover stress onto time
 itself. In other words, <ent type='ORG'>THETA</ent>-3 is always an approximation; at
 sufficiently high spatial stress, sufficient spillover <ent type='ORG'>THETA</ent>-4
-exists to give <ent type='ORG'>Tesla</ent> scalar waves. For this reason, <ent type='ORG'>Tesla</ent> used
+exists to give <ent type='PERSON'>Tesla</ent> scalar waves. For this reason, <ent type='PERSON'>Tesla</ent> used
 very high voltages and extremely sharp discharges to give
 "streaming" of the charged masses and thus high percentages of
 <ent type='ORG'>THETA</ent>-4 waves. This suggests that the breakdown of dielectrics
@@ -363,43 +358,43 @@ addition, a <ent type='ORG'>PHI</ent>-wave is to be interpreted as a scalar
 longitudinal wave in complex spacetime -- directly in <ent type='ORG'>THETA</ent>-0,
 the normal average 4-space stress itself. And charge and
 charged mass must be recognized as two separate concepts. This
-is the gist of what I finally recognized about Nikola <ent type='ORG'>Tesla</ent>'s
+is the gist of what I finally recognized about <ent type='PERSON'>Nikola</ent> Tesla's
 work and fundamental discovery.</p>
 
-<p>This is exciting, for it means that <ent type='ORG'>Tesla</ent> stress waves can
+<p>This is exciting, for it means that <ent type='PERSON'>Tesla</ent> stress waves can
 affect either space or time individually, or both space and time
 simultaneously, or even oscillate back and forth between
-primarily affecting time and primarily affecting space. <ent type='ORG'>Tesla</ent>'s
+primarily affecting time and primarily affecting space. Tesla's
 waves were actually these <ent type='ORG'>THETA</ent>-field scalar waves. As such,
 they were fundamentally different from ordinary electromagnetic
-waves, and had entirely different characteristics, just as <ent type='ORG'>Tesla</ent>
-often stated. E.g., a <ent type='ORG'>Tesla</ent> wave can either move spatially, with
+waves, and had entirely different characteristics, just as <ent type='PERSON'>Tesla</ent>
+often stated. E.g., a <ent type='PERSON'>Tesla</ent> wave can either move spatially, with
 time flowing linearly; move temporally only (sitting at a point
 and waxing and waning in magnitude -- but changing the rate of
 flow of time itself in doing so, and affecting gravitational
 field, fundamental constants of nature, etc.), or move in a
-combination of the two modes. In the latter case, the <ent type='ORG'>Tesla</ent>
+combination of the two modes. In the latter case, the <ent type='PERSON'>Tesla</ent>
 wave moves in space with a very strange motion -- it oscillates
 between (1) spatially standing still and flexing time, and (2) moving smoothly in space while time flows smoothly and evenly.
 I.e., it stands at one point (or at one columnar region),
 flexing for a moment; then slowly picks up spatial velocity
 until it is moving smoothly through space; then slows down again
-to a "standing column," etc. This is <ent type='ORG'>Tesla</ent>'s fabulous "standing
+to a "standing column," etc. This is Tesla's fabulous "standing
 columnar wave."</p>
 
-<p>Another wild characteristic of the <ent type='ORG'>Tesla</ent> wave is that it can
+<p>Another wild characteristic of the <ent type='PERSON'>Tesla</ent> wave is that it can
 affect the rate of flow of time itself; hence it can affect or
 change every other field -- including the gravitational field --
 that exists in time flow. It can also affect all universal
 constants, the mass of an object, the inertia of a body, and the
 mind and thoughts as well! All of these exist in the flow of
 time, and they are affected if the time stream in which they
-exist is affected. This was the awful secret that <ent type='ORG'>Tesla</ent>
+exist is affected. This was the awful secret that <ent type='PERSON'>Tesla</ent>
 partially discovered by 1900, and which he came more and more
 to fully realize as he pursued it nature and its ramifications
 into the 1920's and 1930's.</p>
 
-<p><ent type='ORG'>Tesla</ent> also found he could set up standing <ent type='ORG'>THETA</ent>-field waves
+<p><ent type='PERSON'>Tesla</ent> also found he could set up standing <ent type='ORG'>THETA</ent>-field waves
 through the earth. He in fact intended to do so, for he had
 also discovered that all charges in the highly stressed earth
 regions in which such a standing wave existed produced <ent type='ORG'>THETA</ent>-fields which would feed (kindle) energy into the standing <ent type='ORG'>THETA</ent>-field wave by pair coupling. I.e., normal vector field energy
@@ -410,31 +405,31 @@ electromagnetic energy. In such case, a single generator would
 enable anyone to put up a simple antenna and extract all the
 free energy they desired.</p>
 
-<p>When <ent type='ORG'>Tesla</ent>'s alarmed financial backers discovered this was his
+<p>When Tesla's alarmed financial backers discovered this was his
 real intent, they considered him a dangerous madman and found it
 necessary to ruthlessly stop his at all costs. And so his
 financial support was withdrawn, he was harassed in his more
 subtle patent efforts (and the patents themselves were
 adulterated), and his name gradually was removed from all the
-electrical textbooks. By 1914 <ent type='ORG'>Tesla</ent>, who had been the greatest
+electrical textbooks. By 1914 <ent type='PERSON'>Tesla</ent>, who had been the greatest
 inventor and scientist in the world, had become essentially a
 nonperson.</p>
 
 <p>A few other persons in the early 1900's also were aware that
 potential and voltage are different. And some of them even
-learned to utilize <ent type='ORG'>Tesla</ent>'s <ent type='ORG'>PHI</ent>-field, even though they only
+learned to utilize Tesla's <ent type='ORG'>PHI</ent>-field, even though they only
 vaguely understood they were utilizing a fundamentally different
 kind of electromagnetic wave. For example, <ent type='PERSON'>James <ent type='PERSON'>Harris</ent> <ent type='ORG'>Rogers</ent></ent>
 patented an undersea and underground communications system which
-<ent type='ORG'>Tesla</ent> later confirmed utilized <ent type='ORG'>Tesla</ent> waves. The U.S. secretly
+<ent type='PERSON'>Tesla</ent> later confirmed utilized <ent type='PERSON'>Tesla</ent> waves. The U.S. secretly
 used the <ent type='ORG'>Rogers</ent> communications system in <ent type='EVENT'>World War</ent> I to
 communicate with U. S. submarines underwater, and to communicate
-through the earth to the American Expeditionary Force
-Headquarters in <ent type='LOC'>Europe</ent>. The <ent type='ORG'>Rogers</ent> system was declassified after the <ent type='ORG'>War</ent> --and very shortly after that, it had mysteriously
+through the earth to <ent type='ORG'>the American</ent> Expeditionary Force
+Headquarters in Europe. The <ent type='ORG'>Rogers</ent> system was declassified after the <ent type='ORG'>War</ent> --and very shortly after that, it had mysteriously
 been scrubbed off the face of the earth. Again, potential
-stress waves -- <ent type='ORG'>Tesla</ent> waves -- were eliminated and "buried."</p>
+stress waves -- <ent type='PERSON'>Tesla</ent> waves -- were eliminated and "buried."</p>
 
-<p> Probably the most brilliant inventor and researcher into <ent type='ORG'>Tesla</ent>'s
+<p> Probably the most brilliant inventor and researcher into Tesla's
 electromagnetics was T. <ent type='PERSON'>Henry Moray</ent> of <ent type='GPE'>Salt Lake City</ent>, <ent type='GPE'>Utah</ent>.
 Dr. Moray actually succeeded in tapping the limitless zero-point
 energy of vacuum (spacetime) itself. By 1939, Dr. Moray's
@@ -448,16 +443,16 @@ heartbreaking accumulation of 29 working tubes from thousands
 made -- was destroyed by a <ent type='NORP'>Soviet</ent> agent in 1939, but not before
 the agent had obtained the drawing for building the tubes and
 the device itself. Today the Moray amplifier is a standard
-component of many of the <ent type='NORP'>Soviet</ent> secret superweapons and <ent type='ORG'>Tesla</ent>
+component of many of the <ent type='NORP'>Soviet</ent> secret superweapons and <ent type='PERSON'>Tesla</ent>
 weapons.</p>
 
-<p>In the 20's and 30's, <ent type='ORG'>Tesla</ent> announced the final perfection of
+<p>In the 20's and 30's, <ent type='PERSON'>Tesla</ent> announced the final perfection of
 his wireless transmission of energy without losses -- even to
 interplanetary distances. In several articles (e.g., H.
-Winfield Secor, "<ent type='ORG'>Tesla</ent> Maps Our Electrical Future," Science and
-Invention, Vol. XVII, No. 12, pp. 1077, 1124-1126), <ent type='ORG'>Tesla</ent> even
+Winfield Secor, "<ent type='PERSON'>Tesla</ent> Maps Our Electrical Future," Science and
+Invention, Vol. XVII, No. 12, pp. 1077, 1124-1126), <ent type='PERSON'>Tesla</ent> even
 revealed he used longitudinal stress waves in his wireless power
-transmission. Quoting from the article, "<ent type='ORG'>Tesla</ent> upholds the
+transmission. Quoting from the article, "<ent type='PERSON'>Tesla</ent> upholds the
 startling theory formulated by him long ago, that the radio
 transmitters as now used, do not emit <ent type='ORG'>Hertz</ent> waves, as commonly
 believed, but waves of sound." "He says that a <ent type='ORG'>Hertz</ent> wave would
@@ -465,36 +460,36 @@ only be possible in a solid either, but he has demonstrated
 already in 1897 that the either is a gas, which can only
 transmit waves of sound; that is such as are propagated by
 alternate compressions and rarefactions of the medium in which
-transverse waves are absolutely impossible." The wily <ent type='ORG'>Tesla</ent> did
+transverse waves are absolutely impossible." The wily <ent type='PERSON'>Tesla</ent> did
 not reveal, of course, that such scalar waves nearly always
 immediately pair-coupled into vector waves when produced by
-normal means. <ent type='ORG'>Tesla</ent> himself was working with longitudinal
+normal means. <ent type='PERSON'>Tesla</ent> himself was working with longitudinal
 scalar waves.</p>
 
-<p>In the 1930's <ent type='ORG'>Tesla</ent> announced other bizarre and terrible
+<p>In the 1930's <ent type='PERSON'>Tesla</ent> announced other bizarre and terrible
 weapons: a death ray, a weapon to destroy hundreds or even
 thousands of aircraft at hundreds of miles range, and his
-ultimate weapon to end all war -- the <ent type='ORG'>Tesla</ent> shield, which
+ultimate weapon to end all war -- the <ent type='PERSON'>Tesla</ent> shield, which
 nothing could penetrate. However, by this time no one any
 longer paid any real attention to the forgotten great genius.
-<ent type='ORG'>Tesla</ent> died in 1943 without ever revealing the secret of these
+<ent type='PERSON'>Tesla</ent> died in 1943 without ever revealing the secret of these
 great weapons.</p>
 
 <p>Unfortunately, today in 1981 the <ent type='NORP'>Soviet</ent> Union has long since
-discovered and weaponized the <ent type='ORG'>Tesla</ent> scalar wave effects. Here
+discovered and weaponized the <ent type='PERSON'>Tesla</ent> scalar wave effects. Here
 we only have time to detail the most powerful of these
-frightening <ent type='ORG'>Tesla</ent> weapons -- which <ent type='ORG'>Brezhnev</ent> undoubtedly was referring to in 1975 when the <ent type='NORP'>Soviet</ent> side at the <ent type='ORG'>SALT</ent> talks
+frightening <ent type='PERSON'>Tesla</ent> weapons -- which <ent type='ORG'>Brezhnev</ent> undoubtedly was referring to in 1975 when the <ent type='NORP'>Soviet</ent> side at the <ent type='ORG'>SALT</ent> talks
 suddenly suggested limiting the development of new weapons "more
 frightening than the mind of man had imagined." One of these
-weapons is the <ent type='ORG'>Tesla</ent> howitzer recently completed at the
+weapons is the <ent type='PERSON'>Tesla</ent> howitzer recently completed at the
 <ent type='ORG'>Saryshagan</ent> missile range and presently considered to be either a
 high energy laser or a particle beam weapon. (See Aviation Week
 &amp; Space Technology, July 28, 1980, p. 48 for an artist's
 conception.)</p>
 
-<p>The <ent type='ORG'>Saryshagan</ent> howitzer actually is a huge <ent type='ORG'>Tesla</ent> scalar
+<p>The <ent type='ORG'>Saryshagan</ent> howitzer actually is a huge <ent type='PERSON'>Tesla</ent> scalar
 interferometer with four modes of operation. One continuous
-mode is the <ent type='ORG'>Tesla</ent> shield, which places a thin, impenetrable
+mode is the <ent type='PERSON'>Tesla</ent> shield, which places a thin, impenetrable
 hemispherical shell of energy over a large defended area. The 3-dimensional shell is created by intefereing two Fourier-expansion, 3-dimensional scalar hemispherical patterns in space
 so they pair-couple into a dome-like shell of intense, ordinary
 electromagnetic energy. The air molecules and atoms in the
@@ -510,10 +505,10 @@ nuclear explosion above the stack cannot penetrate all the
 shells due to repetitive absorption and re-radiation, and
 scattering in the layered plasmas.</p>
 
-<p> In the continuous shield mode, the <ent type='ORG'>Tesla</ent> interferometer is fed
+<p> In the continuous shield mode, the <ent type='PERSON'>Tesla</ent> interferometer is fed
 by a bank of Moray free energy generators, so that enormous
-energy is available in the shield. A diagram of the <ent type='ORG'>Saryshagan</ent>-type <ent type='ORG'>Tesla</ent> howitzer can be seen in drawing TESLA-1. TESLA-2
-shows the <ent type='ORG'>Tesla</ent> shield produced by the howitzer.</p>
+energy is available in the shield. A diagram of the <ent type='ORG'>Saryshagan</ent>-type <ent type='PERSON'>Tesla</ent> howitzer can be seen in drawing TESLA-1. TESLA-2
+shows the <ent type='PERSON'>Tesla</ent> shield produced by the howitzer.</p>
 
 <p> In the pulse mode, a single intense 3-dimensional scalar <ent type='ORG'>Theta</ent>-field pulse form is fired, using two truncated Fourier
 transforms, each involving several frequencies, to provide the
@@ -535,12 +530,12 @@ infrared only, with no visible spectrum. Nuclear flashes do not
 do that, and neither does super-lightening, meteorite strikes, meteors, etc. In addition, one of the scientists at the Arecibo
 Ionospheric Observatory observed a gravitational wave
 disturbance -- signature of the truncated Fourier pattern and
-the time-squeezing effect of the <ent type='ORG'>Tesla</ent> potential wave --
+the time-squeezing effect of the <ent type='PERSON'>Tesla</ent> potential wave --
 traveling toward the vicinity of the explosion.</p>
 
 <p> The pulse mode may be fed from either Moray generators or -- if
 the Moray generators have suffered their anomalous "all fail"
-malfunction -- ordinary explosive generators. Thus the <ent type='ORG'>Tesla</ent>
+malfunction -- ordinary explosive generators. Thus the <ent type='PERSON'>Tesla</ent>
 howitzer can always function in the pulse mode, but it will be
 limited in power if the Moray generators fail.</p>
 
@@ -549,16 +544,16 @@ limited in power if the Moray generators fail.</p>
 energy at the region where they approach an in-phase condition.
 In this mode, the energy in the distant "ball" or geometric
 region would appear continuously and be sustained -- and this is
-<ent type='ORG'>Tesla</ent>'s secret of wireless transmission of energy at a distance
+Tesla's secret of wireless transmission of energy at a distance
 without losses. It is also the secret of a "continuous
 fireball" weapon capable of destroying hundreds of aircraft or
 missiles at a distance.</p>
 
-<p>The volume of the <ent type='ORG'>Tesla</ent> fireball can be vastly expanded to yield
+<p>The volume of the <ent type='PERSON'>Tesla</ent> fireball can be vastly expanded to yield
 a globe which will not vaporize physical vehicles but will
 deliver and EMP to them to dud their electronics. A test of
 this mode has already been witnessed, See Gwyne Roberts,
-"Witness to a Super Weapon?, the <ent type='GPE'>London</ent> Sunday <ent type='ORG'>Time</ent>s, 17 August
+"Witness to a Super Weapon?, <ent type='ORG'>the London</ent> <ent type='LOC'>Sunday</ent> Times, 17 August
 1980 for several tests of this mode at <ent type='ORG'>Saryshagan</ent>, seen from
 <ent type='GPE'>Afghanistan</ent> by <ent type='NORP'>British</ent> TV cameraman and former <ent type='ORG'>War</ent> Correspondent
 <ent type='PERSON'>Nick Downie</ent>.</p>
@@ -568,7 +563,7 @@ limited in power and range could conceivably be sustained by
 powering the interferometer from more conventional power sources
 such as advanced magneto-hydrodynamic generators.</p>
 
-<p>Typical strategic <ent type='ORG'>ABM</ent> uses of <ent type='ORG'>Tesla</ent> weapons are shown in <ent type='ORG'>Tesla</ent>-4. In addition, of course, smaller <ent type='ORG'>Tesla</ent> howitzer systems for
+<p>Typical strategic <ent type='ORG'>ABM</ent> uses of <ent type='PERSON'>Tesla</ent> weapons are shown in <ent type='PERSON'>Tesla</ent>-4. In addition, of course, smaller <ent type='PERSON'>Tesla</ent> howitzer systems for
 anti-tactical ballistic missile defense of tactical troops and
 installations could be constituted of more conventional field
 missile systems using paired or triplet radars, of conventional
@@ -578,12 +573,12 @@ external appearance, in a scalar interferometer mode.</p>
 reentry vehicles with scalar antennas and transmitters, ICBM
 reentry systems now can become long range "blasters" of the
 target areas, from thousands of kilometers distance (TESLA-5).
-Literally, "Star <ent type='ORG'>War</ent>s" is liberated by the <ent type='ORG'>Tesla</ent> technology.
-And in air attack, jammers and <ent type='ORG'>ECM</ent> aircraft now become "<ent type='ORG'>Tesla</ent>
-blasters." With the <ent type='ORG'>Tesla</ent> technology, emitters become primary
+Literally, "Star <ent type='ORG'>War</ent>s" is liberated by the <ent type='PERSON'>Tesla</ent> technology.
+And in air attack, jammers and <ent type='ORG'>ECM</ent> aircraft now become "<ent type='PERSON'>Tesla</ent>
+blasters." With the <ent type='PERSON'>Tesla</ent> technology, emitters become primary
 fighting components of stunning power.</p>
 
-<p>The potential peaceful implications of <ent type='ORG'>Tesla</ent> waves are also
+<p>The potential peaceful implications of <ent type='PERSON'>Tesla</ent> waves are also
 enormous. By utilizing the "time squeeze" effect, one can get
 antigravity, materialization and dematerialization,
 transmutation, and mind boggling medical benefits. One can also
@@ -593,10 +588,10 @@ also provides a unified field theory, higher orders of reality,
 and a new super-relativity, but detailing these possibilities
 must wait for another book.</p>
 
-<p>With two cerebral brain halves, the human being also has a <ent type='ORG'>Tesla</ent>
+<p>With two cerebral brain halves, the human being also has a <ent type='PERSON'>Tesla</ent>
 scalar interferometer between his ears. And since the brain and
 nervous system processes avalanche discharges, it can produce
-(and detect) scalar <ent type='ORG'>Tesla</ent> waves to at least a limited degree.
+(and detect) scalar <ent type='PERSON'>Tesla</ent> waves to at least a limited degree.
 Thus a human can sometimes produce anomalous spatio-temporal
 effects at a distance and through time. This provides an exact
 mechanism for psychokinesis, levitation, psychic healing,
@@ -605,20 +600,20 @@ also provides a reason why an individual can detect a "stick" on
 a radionics or <ent type='NORP'>Hieronymus</ent> machine (which processes scalar
 waves), when ordinary detectors detect nothing. Unfortunately
 there is not room to develop the implications of this human
-<ent type='ORG'>Tesla</ent> interferometry in detail, for that must wait for yet
+<ent type='PERSON'>Tesla</ent> interferometry in detail, for that must wait for yet
 another book, presently in its initial stages, that <ent type='PERSON'>Hal Crawford</ent>
 and I are writing.</p>
 
 <p> At the July 1981 U.S. Psychotronics Association's Annual
 Conference in <ent type='GPE'>Dayton</ent>, <ent type='GPE'>Ohio</ent>, I presented the first rough paper on
-the <ent type='ORG'>Tesla</ent> secret and scalar interferometry. A videotape of the
+the <ent type='PERSON'>Tesla</ent> secret and scalar interferometry. A videotape of the
 presentation was made and will shortly be available. I am also
 scheduled to make a special presentation at the Alternate Energy
 Conference in <ent type='GPE'>Toronto</ent>, <ent type='GPE'>Canada</ent> in latter October, 1981. A
 professional, videotaped two-hour presentation on this subject
 is also being prepared. Wide distribution of the material
 through the international underground physics and technology
-network has already been made. This time, God willing, <ent type='ORG'>Tesla</ent>'s
+network has already been made. This time, God willing, Tesla's
 secret will not be suppresses for another 80 years!</p>
 
 <p>And perhaps it is not yet too late. The material has cost me
@@ -628,10 +623,10 @@ foundation, or governmental agency would support such an effort,
 either financially or otherwise. Indeed, most ordinary journals
 will not even accept material on such matters. Nonetheless, the
 area is of overwhelming importance -- and I truly believe
-<ent type='ORG'>Tesla</ent>'s lost secret will shortly affect the lives of every human
+Tesla's lost secret will shortly affect the lives of every human
 being on earth.</p>
 
-<p>Perhaps with the free and open release of <ent type='ORG'>Tesla</ent>'s secret, the
+<p>Perhaps with the free and open release of Tesla's secret, the
 scientific and governmental bureaucracies will be shocked awake
 from their slumber, and we can develop defense before <ent type='ORG'>Armageddon</ent>
 occurs. Perhaps there is hope after all -- for even <ent type='ORG'>Brezhnev</ent>,
@@ -646,12 +641,12 @@ must know that these weapons are two-edged swords, and that the
 backlash from their use can be far more terrible to the user
 than was the original effect to his victim.</p>
 
-<p>If we can avoid the Apocalypse, the fantastic secret of Nikola
-<ent type='ORG'>Tesla</ent> can be employed to cure and elevate man, not kill him.
-<ent type='ORG'>Tesla</ent>'s discovery can eventually remove every conceivable
+<p>If we can avoid the Apocalypse, the fantastic secret of <ent type='PERSON'>Nikola</ent>
+<ent type='PERSON'>Tesla</ent> can be employed to cure and elevate man, not kill him.
+Tesla's discovery can eventually remove every conceivable
 external human limitation. If we humans ourselves can elevate
-our consciousness to properly utilize the <ent type='ORG'>Tesla</ent>
-electromagnetics, then Nikola <ent type='ORG'>Tesla</ent> -- who gave us the
+our consciousness to properly utilize the <ent type='PERSON'>Tesla</ent>
+electromagnetics, then <ent type='PERSON'>Nikola</ent> <ent type='PERSON'>Tesla</ent> -- who gave us the
 electrical twentieth century in the first place -- may yet give
 us a fantastic new future more shining and glorious than all the
 great scientists and sages have imagined.</p>
@@ -661,14 +656,14 @@ great scientists and sages have imagined.</p>
 
 <p> Part II
 
-Reference Articles for Solutions to <ent type='ORG'>Tesla</ent>'s Secrets
+Reference Articles for Solutions to Tesla's Secrets
 
 The Electrical Engineer - <ent type='GPE'>London</ent>
 Dec. 24, 1909, p. 893</p>
 
 <p> NIKOLA TESLA'S NEW WIRELESS
 
-Mr. Nikola <ent type='ORG'>Tesla</ent> has announced that as the result of experiments
+Mr. <ent type='PERSON'>Nikola</ent> <ent type='PERSON'>Tesla</ent> has announced that as the result of experiments
 conducted at <ent type='LOC'>Shoreham</ent>, <ent type='LOC'>Long Island</ent>, he has perfected a new
 system of wireless telegraphy and telephony in which the
 principles of transmission are the direct opposite of <ent type='GPE'>Hertzian</ent>
@@ -677,7 +672,7 @@ effected by rays akin to light, which pass through the air and
 cannot be transmitted through the ground, while in the former
 the <ent type='ORG'>Hertz</ent> waves are practically suppressed and the entire energy
 of the current is transmitted through the ground exactly as
-though a big wire. Mr. <ent type='ORG'>Tesla</ent> adds that in his experiments in
+though a big wire. Mr. <ent type='PERSON'>Tesla</ent> adds that in his experiments in
 <ent type='GPE'>Colorado</ent> it was shown that a very powerful current developed by
 the transmitter traversed the entire globe and returned to its
 origin in an interval of 84 one-thousandths of a second, this
@@ -695,14 +690,14 @@ Pulling a Lever.
 
 To Shatter Armies Also.
 
-"Impractical," He says of <ent type='ORG'>Westerner</ent>'s Plan to <ent type='ORG'>Circle Country</ent>
+"Impractical," He says of Westerner's Plan to <ent type='ORG'>Circle Country</ent>
 with <ent type='ORG'>Electric Fire</ent>.
 
-Nikola <ent type='ORG'>Tesla</ent>, the inventor, winner of the 1915 Nobel Physics
+<ent type='PERSON'>Nikola</ent> <ent type='PERSON'>Tesla</ent>, the inventor, winner of the 1915 Nobel Physics
 Prize, has filed patent applications on the essential parts of a
 machine the possibilities of which test a layman's imagination
-and promise a parallel of <ent type='PERSON'>Thor</ent>'s shouting thunderbolts from the
-sky to punish those who angered the gods. Dr. <ent type='ORG'>Tesla</ent> insists
+and promise a parallel of Thor's shouting thunderbolts from the
+sky to punish those who angered the gods. Dr. <ent type='PERSON'>Tesla</ent> insists
 there is nothing sensational about it, that it is but the
 fruition of many years of work and study. He is not yet ready
 to give the details of the engine which he says will render
@@ -721,7 +716,7 @@ that will paralyze of kill, as is desired. A man in a tower on
 working a lever, if the inventor's anticipations become
 realizations.
 
-"It is not the time," said Dr. <ent type='ORG'>Tesla</ent> yesterday, "to go into the
+"It is not the time," said Dr. <ent type='PERSON'>Tesla</ent> yesterday, "to go into the
 details of this thing. It is founded on a principle that means
 great things in peace, it can be used for great things in war.
 But I repeat, this is no time to talk of such things.
@@ -743,21 +738,21 @@ not be necessarily destructive, for, if existence is made to
 depend upon it, its withdrawal or supply will bring about the
 same results as those now accomplished by force of arms.
 
-Dr. <ent type='ORG'>Tesla</ent> then said that it would be possible with his wireless
+Dr. <ent type='PERSON'>Tesla</ent> then said that it would be possible with his wireless
 mechanism to direct an ordinary aeroplane, manless, to any point
 over a ship or an army, and to discharge explosives of great
 strength from the base of operations.
 
-Asked to express an opinion upon the announcement last Sunday of
+Asked to express an opinion upon the announcement last <ent type='LOC'>Sunday</ent> of
 Charles H. <ent type='PERSON'>Harris</ent>, and electrical engineer of <ent type='GPE'>Los Angeles</ent>, that
 he would be able to surround this country with an electrical
-wall of fire in time of war, Dr. <ent type='ORG'>Tesla</ent> gave it as his opinion
+wall of fire in time of war, Dr. <ent type='PERSON'>Tesla</ent> gave it as his opinion
 that Mr. <ent type='PERSON'>Harris</ent> was not practical.
 
 "It is hard to stamp as impossible such results as those
 described in the press dispatches to which you refer. Granted,
 however, that the project is feasible, it would take more than
-all the motive power obtainable in <ent type='GPE'>the United States</ent> to throw a
+all the motive power obtainable in <ent type='GPE'>the United</ent> States to throw a
 wall of fire around the country. In fact, even the passage of
 small currents at considerable distances through air consumes a
 great deal of energy on account of the immense pressure
