@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p> Short History of Nikola <ent type='PERSON'>Tesla</ent>
+<xml>
+   <div class="article">
+      <p> Short History of Nikola <ent type='PERSON'>Tesla</ent>
 </p>
-   <p>
+      <p>
 This is a file to straighten out misconception and
 disinformation that has occurred over the years, about how
 supposedly "great" Edison was, and how Nikola <ent type='PERSON'>Tesla</ent> was
@@ -20,7 +21,7 @@ Nikola <ent type='PERSON'>Tesla</ent> was pretty much always a genius, after
 having made many improvements in the electric trolleys, and
 trains in his country, he came to America, sought
 employment, and eventually ended up working for Edison.
-Edison had contracted with New York City to build
+Edison had contracted with <ent type='GPE'>New York City</ent> to build
 Direct Current (D.C.) power plants every square mile or so,
 so as to power the lights that he supposedly invented.
 Street lights, hotel lighting etc. Having trenches dug
@@ -41,9 +42,9 @@ already had a huge investment in D.C. power.
 <ent type='PERSON'>Tesla</ent> proselytized A.C. power and had some success
 building A.C. power plants, and providing A.C. power to
 various entities. One of these was Sing Sing prison, in
-upstate New York. <ent type='PERSON'>Tesla</ent> provided A.C. power for the
+upstate <ent type='GPE'>New York</ent>. <ent type='PERSON'>Tesla</ent> provided A.C. power for the
 "electric chair" there. Edison had big articles printed in
-the New York newspapers, saying that A.C. power was
+the <ent type='GPE'>New York</ent> newspapers, saying that A.C. power was
 dangerous "killing" power, and in general, gave a bad name
 to <ent type='PERSON'>Tesla</ent>.
 To contradict this jab, <ent type='PERSON'>Tesla</ent> set out on his own
@@ -81,7 +82,7 @@ company of broke but influential ex-Wall-streeters.
 During the short lunch period, he would tell his buddies
 about phased A.C. electricity, and how it was efficient,
 etc. Along about 1932, he was working at a small generator
-rebuilding shop in New York, and one of the bankers that he
+rebuilding shop in <ent type='GPE'>New York</ent>, and one of the bankers that he
 used to dig ditches with, found him, and took him to Mr.
 Westinghouse, to whom he told his stories. Westinghouse
 bought 19 patents outright, and gave <ent type='PERSON'>Tesla</ent> a dollar per
@@ -96,4 +97,5 @@ after <ent type='PERSON'>Tesla</ent> died in 1943, his huge laboratory on Long
 Island mysteriously burned down, no records saved, and the
 remnants were bulldozed the day after that to further
 eradicate any equipment still left. So much for "free energy".</p>
-</div>
+   </div>
+</xml>

@@ -1,37 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>From: aq817@cleveland.Freenet.Edu (Steve Crocker)
+<xml>
+   <div class="article">
+      <p>From: aq817@cleveland.Freenet.Edu (Steve Crocker)
 Newsgroups: alt.conspiracy
-Subject: Repost - Barrons Article on Inslaw
+Subject: Repost - Barrons Article on <ent type='ORG'>Inslaw</ent>
 <info type="Message-ID"> 1992Aug22.093924.11815@usenet.ins.cwru.edu</info>
 Date: 22 Aug 92 09:39:24 GMT</p>
-   <p>Date: Thu, 10 Oct 1991 17:40:40 CDT
+      <p>Date: Thu, 10 Oct 1991 17:40:40 CDT
 Reply-To: dave 'who can do? ratmandu!' ratcliffe
-<info type="">dave@ratmandu.corp.sgi.com</info>
-Sender: Activists Mailing List <info type="">ACTIV-L@UMCVMB.BITNET</info>
+<special>dave@ratmandu.corp.sgi.com</special>
+Sender: Activists Mailing List <special>ACTIV-L@UMCVMB.BITNET</special>
 From: dave 'who can do? ratmandu!' ratcliffe
-<info type="">dave@ratmandu.corp.sgi.com</info>
+<special>dave@ratmandu.corp.sgi.com</special>
 Subject: the INSLAW Case: part I of "BARRON'S" 1988 2-part piece</p>
-   <p>Subject: the INSLAW Case: part I of "BARRON'S" 1988 2-part piece
+      <p>Subject: the INSLAW Case: part I of "BARRON'S" 1988 2-part piece
 Keywords: U.S. Deptartment of Justice != "with liberty and justice for all"
 Lines: 510</p>
-   <p> although these 2 articles are dated by more than 3 1/2 succeeding
+      <p> although these 2 articles are dated by more than 3 1/2 succeeding
 years-worth of newer revelations and mounting evidence of cynical
 corruption at the highest levels of the executive branch, as well
 as linkages into the judicial branch of the u.s. government, they
 still provide very useful and well-researched background material.</p>
-   <p> In his decision, [federal bankruptcy judge George] Bason compares
+      <p> In his decision, [federal bankruptcy judge George] Bason compares
 the Justice Department to someone who decides to test drive an
 automobile: "So the customer drives off with the car and this is
 the last the dealer ever sees of him. I think that is approximately
 what the Department of Justice has done in this case."</p>
-   <p> First of a 2-part piece which began in the March 21, 1988 issue of
+      <p> First of a 2-part piece which began in the March 21, 1988 issue of
 "BARRON'S NATIONAL BUSINESS AND FINANCIAL WEEKLY"
 -----------------------------------------------------------------------------</p>
-   <p> Beneath Contempt
+      <p> Beneath Contempt
 Did the Justice Dept. Deliberately Bankrupt INSLAW?
 By MAGGIE MAHAR</p>
-   <p> "A VERY strange thing happened at the Department of Justice . .
+      <p> "A VERY strange thing happened at the Department of Justice . .
 ."
 What that very strange thing was was described in clear and
 exhaustive detail in Judge George Bason's blistering ruling before
@@ -99,7 +100,7 @@ recalls. "But that restraining order lasts only 10 days. I don't
 know what's happening now."
 "It seemed as if the controversy was winding down," observes
 INSLAW'S former attorney, Leigh Ratiner. "It would follow a
-natural course in the press, and then fade from view." Inslaw
+natural course in the press, and then fade from view." <ent type='ORG'>Inslaw</ent>
 would become another shocking event that slinks off into obscurity:
 Someone occasionally might dimly remember and idly ask, "What ever
 did happen to Bill Hamilton and those INSLAW people? A real shame
@@ -129,7 +130,7 @@ INSLAW scandal--but not paradoxically, those responsible for the
 scandals. The trio of victims includes Judge Bason and Pasciuto--
 who received notice that he would be fired after he testifed, and
 just two days after Judge Bason was informed that he would not be
-reappointed. The third casualty of the Inslaw affair was Leigh
+reappointed. The third casualty of the <ent type='ORG'>Inslaw</ent> affair was Leigh
 Ratiner a former partner at Dickstein Shapiro and Morin, the firm
 that represented Edwin Meese during his confirmation hearings for
 Attorney General.
@@ -167,7 +168,7 @@ former employee, disgruntled or otherwise, for such a task, Bason
 observes. But, Bason wrote, he was amazed to find "no hint in
 Jensen's testimony that he recognized there was any possible
 applicability of that general principle to the case of Mr. Brewer
-and Inslaw."
+and <ent type='ORG'>Inslaw</ent>."
 Hamilton discloses that Mr. Jensen himself was already familiar
 with INSLAW. Hamilton ran into Jensen in the early 1970s, when
 Hamilton was developing PROMIS, the case-tracking system that he
@@ -203,7 +204,7 @@ interested in salvaging the company than like an attorney for the
 Justice Department bent on liquidating it. More coincidences:
 AT&amp;T's outside counsel, Ken Rosen, was with an obscure New Jersey
 firm, but formerly had been a member of Deputy Attorney General
-Burns's New York law firm. Rosen's co-counsel, Shea &amp; Gould, is
+Burns's <ent type='GPE'>New York</ent> law firm. Rosen's co-counsel, Shea &amp; Gould, is
 not AT&amp;T's usual outside counsel, either, though it is the firm
 used by Earl Brian.
 Bason questions the failure of high Justice Department officials
@@ -242,7 +243,7 @@ February 1985, the government terminated the contract with smaller
 offices that had been generating revenues of $200000-$300000 a
 month.
 INSLAW's cash flow shriveled. By Feb. 7, 1985, the government
-had withheld $1.77 million. Inslaw twisted and turned, trying to
+had withheld $1.77 million. <ent type='ORG'>Inslaw</ent> twisted and turned, trying to
 negotiate with the Justice Department, desperate to find out what
 went wrong. Finally, in financial shambles, INSLAW filed for
 bankruptcy in late February. The Department of Justice kept the
@@ -303,14 +304,14 @@ pressed to liquidate INSLAW. According to Pasciuto, in 1985 White
 told him that he was resisting the pressure. As a result, White
 informed Pasciuto, Stanton denied White's Alexandria office
 administrative and budgetary support and, at the same time, tried
-to have an assistant from the U.S. Trustee's office in New York
+to have an assistant from the U.S. Trustee's office in <ent type='GPE'>New York</ent>
 take over the case and convert it.
 The Hamiltons were told by Pasciuto that Cornelius Blackshear,
-the U.S. trustee in New York at the time of INSLAW's Chapter 11
+the U.S. trustee in <ent type='GPE'>New York</ent> at the time of INSLAW's Chapter 11
 filing, knew all about Stanton's plan. Pasciuto said that Judge
 Blackshear had repeated this tale of pressure in the presence of
 United States Court of Appeals Judge Lawrence Pierce in the judge's
-chambers in Foley Square in New York. Pasciuto also told the
+chambers in Foley Square in <ent type='GPE'>New York</ent>. Pasciuto also told the
 Hamiltons that the Justice Department had blacklisted INSLAW on the
 department's computer system procurements.
 On March 25, 1985, INSLAW's lawyers deposed Blackshear, and he
@@ -339,7 +340,7 @@ about it."
 "I did ask him for help--six months before it all happened. I
 didn't know what to do," Pasciuto recalls. "Judge Pierce and I go
 back to the time when I was an assistant dean at the School of
-Criminal Justice in Albany--in 1972. He was a visiting faculty
+Criminal Justice in <ent type='GPE'>Albany</ent>--in 1972. He was a visiting faculty
 member for one year. We became good friends. I considered him a
 father figure.
 In his ruling, Judge Bason noted that Blackshear had given "two
@@ -384,21 +385,21 @@ he had gone on record with the Office of Professional
 Responsibility about financial indiscretions by Stanton. According
 to Pasciuto, Stanton in September 1986 called him a "traitor."
 Pasciuto began actively looking for other employment, including a
-job as Assistant U.S. Trustee in Albany, N.Y. But no transfers
+job as Assistant U.S. Trustee in <ent type='GPE'>Albany</ent>, N.Y. But no transfers
 were available for Anthony Pasciuto--until he was subpeonaed to
 testify in the INSLAW case.
 "Within an hour of receiving that subpeona to testify, Mr.
 Pasciuto was given a copy of an appointment paper for a job as the
-Assistant United States Trustee, Albany, New York, signed by Mr.
+Assistant United States Trustee, <ent type='GPE'>Albany</ent>, <ent type='GPE'>New York</ent>, signed by Mr.
 Stanton," Simpson, Pasciuto's attorney, reports in last week's
 letter to Burns. After the trial was over, however, Pasciuto was
 told that the procedure "was changed" and that the deputy Attorney
 General would have to sign off on the form. That never happened.
 But Pasciuto, who believed the signed appointment papers, sold
-his house in Maryland for $200000 and bought a house in Albany for
+his house in Maryland for $200000 and bought a house in <ent type='GPE'>Albany</ent> for
 $250000. On the day the movers came, he was told that the sale of
 the Maryland house had fallen through. "We had to move, we had to
-carry two houses--and we couldn't even move into the Albany house
+carry two houses--and we couldn't even move into the <ent type='GPE'>Albany</ent> house
 yet because the owners wouldn't be moving out for a month," Tony
 Pasciuto recalls. "So, we stayed with in-laws for a month." That
 was May 22, 1987. Nine days later Tony Pasciuto walked into court.
@@ -440,7 +441,7 @@ betrayed by Blackshear's change of heart. The meeting was awkward.
 As Simpson tells the story in the letter to Arnold Burns, it was
 six in the evening, when Pasciuto and his wife were leaving the
 home of a mutual friend, Harry Jones, now U.S. Trustee for the
-Southern District of New York. Judge Blackshear came up to Tony
+Southern District of <ent type='GPE'>New York</ent>. Judge Blackshear came up to Tony
 Pasciuto, put his arm around him, and said, "I am sorry, it will be
 all right."
 Pasciuto replied: "No, it is not going to be all right, they
@@ -478,9 +479,9 @@ Recalling the scene, Pasciuto says: "You know, even now--I'm
 not angry. I can't help it. I'm not. Blackshear is basically a
 wonderful person. It's sad--I'm sorry, I'm not angry. It really
 is sad. I feel devastated."
-Tony Pasciuto now has a house in Albany, and soon will have no
-job either in Washington or New York. Over the past nine months,
-he has spent $12000 commuting from Albany to the job he still
+Tony Pasciuto now has a house in <ent type='GPE'>Albany</ent>, and soon will have no
+job either in Washington or <ent type='GPE'>New York</ent>. Over the past nine months,
+he has spent $12000 commuting from <ent type='GPE'>Albany</ent> to the job he still
 clung to in D.C. Legal fees are draining his savings--the bills
 total $25000 so far. "We're lucky that my wife and I were always
 frugal and have the money saved," he says proudly.
@@ -496,10 +497,10 @@ made the accusations, but the deputy Attorney General, Arnold
 Burns, will fire me. How does it feel to know that the deputy
 Attorney General of the United States wants to destroy a GS 15?
 It's scary. It scares me to death."</p>
-   <p>Subject: the INSLAW Case: part II of "BARRON'S" 1988 2-part piece
+      <p>Subject: the INSLAW Case: part II of "BARRON'S" 1988 2-part piece
 Keywords: U.S. Deptartment of Justice != "with liberty and justice for all"
 Lines: 877</p>
-   <p> That the U.S. Justice Department could engage in a vendetta that would
+      <p> That the U.S. Justice Department could engage in a vendetta that would
 end the career of a federal judge, bankrupt a company, force a partner
 out of his law firm, cause another federal judge to recant under oath
 and reach down and wreck the career of a 21-year government-service
@@ -507,16 +508,16 @@ employee--that's the stuff of a spy novel, set, one would hope, in
 another country. But resignations en masse from a Department of
 Justice inhabited by "moles" suggest alarming facts, not diverting
 fiction.</p>
-   <p> Conclusion of a 2-part piece which appeared in the April 4, 1988 issue of
+      <p> Conclusion of a 2-part piece which appeared in the April 4, 1988 issue of
 "BARRON'S NATIONAL BUSINESS AND FINANCIAL WEEKLY"</p>
-   <p> This part was the cover story with the following title emblazzoned
+      <p> This part was the cover story with the following title emblazzoned
 above the seal of the United States Department of Justice:</p>
-   <p> Rogue Justice: Who and What
+      <p> Rogue Justice: Who and What
 Were Behind The Vendetta Against INSLAW?</p>
-   <p> Rogue Justice
+      <p> Rogue Justice
 What Really Sparked the Vendetta Against INSLAW
 By MAGGIE MAHAR</p>
-   <p> TWO weeks ago, "Barron's" told the story of INSLAW, a small software
+      <p> TWO weeks ago, "Barron's" told the story of INSLAW, a small software
 company that landed a $10 million contract with the Justice
 Department in 1982. Bill Hamilton, INSLAW'S 42-year-old founder was
 jubilant when Justice bought the Prosecutor's Management Information
@@ -580,9 +581,9 @@ When INSLAW's lawyers deposed Blackshear, he confirmed the story.
 During INSLAW's suit, Judge Blackshear recanted. Meanwhile, about
 one hour after Pasciuto was subpoenaed to testify, his superiors in
 the Justice Department offered him a long-awaited transfer to
-Albany, N.Y.
+<ent type='GPE'>Albany</ent>, N.Y.
 Feeling scared and "out there all alone," Tony Pasciuto bought a
-house in Albany and changed his story. Close to tears, he recanted
+house in <ent type='GPE'>Albany</ent> and changed his story. Close to tears, he recanted
 on the stand. Judge Bason recalls the scene: "Mr. Pasciuto seemed
 to be basically a very honest person who had been caught up amongst
 a gang of very tough people--and he just didn't know what to do."
@@ -597,12 +598,12 @@ conversation. And I don't have any problems with what Tony
 remembers."
 Meanwhile, after Tony Pasciuto recanted in court, the Justice
 Department told him, "Sorry, the procedure was changed. No transfer
-to Albany." Then, B. Boykin Rose, one of the Justice Department
+to <ent type='GPE'>Albany</ent>." Then, B. Boykin Rose, one of the Justice Department
 officials who resigned last week, wrote a letter to Deputy Attorney
 General Arnold Burns--another member of the Justice group who bailed
 out--recommending that Pasciuto be fired.
 When "Barron's" last talked to Pasciuto, he was commuting from
-the new house in Albany to a job in Washington, where he said, "I
+the new house in <ent type='GPE'>Albany</ent> to a job in Washington, where he said, "I
 feel like I'm under house arrest." And he was awaiting the end of
 his 21-year career in government service.
 "My boss, Thomas Stanton, can't fire me," Pasciuto explained.
@@ -614,7 +615,7 @@ Tony Pasciuto's tale is chilling. And it raises two equally
 disquieting questions: Why did the U.S. Department of Justice want
 to liquidate Bill Hamilton's software company? And, how high did
 the coverup of the scheme to destroy INSLAW go?</p>
-   <p> WHEN six Department of Justice officials resigned last week,
+      <p> WHEN six Department of Justice officials resigned last week,
 department spokesmen insisted that they were NOT leaving because
 they feared Attorney General Edwin Meese was about to be indicted.
 Nor had they beaten their wives--should anyone ask. But, according
@@ -988,7 +989,7 @@ Justice.
 Under Meese, Jensen rose to No. 2, and developed a reputation as
 a buffer between Ed Meese and his critics. The 58-year-old Democrat
 was described as "soft-spoken" "apolitical" and a "gentleman of the
-old standard" in a 1986 "New York Times" tribute, which added,
+old standard" in a 1986 "<ent type='ORG'>New York Times</ent>" tribute, which added,
 "Colleagues say that Mr. Jensen, better than anyone else at the
 Justice Department, knows how to duck."
 The Justice Department's diplomat had to duck when congressional
@@ -996,7 +997,7 @@ investigators looking into the Iran-Contra affair reportedly found a
 Justice Department memo dated March 20, 1986, saying that Deputy
 Assistant Attorney General D. Lowell Jensen was giving a "heads-up"
 to the National Security Council, warning that Miami federal
-prosecutors were on Ollie North's trail.
+prosecutors were on Ollie <ent type='LOC'>North</ent>'s trail.
 Bill Hamilton believes Jensen displayed the same talent for
 diplomatic bobbing and weaving throughout the INSLAW affair. When
 Hamilton pieced together the anomalies, he realized Jensen's rise to
@@ -1218,7 +1219,7 @@ experience, and there's considerable circumstantial evidence that he
 could have been the victim of a California cabal encompassing
 onetime members of the Reagan gubernatorial cabinet, and alumni of
 the Alameda County Mafia. Ed Meese belonged to both groups.</p>
-   <p> Why did INSLAW rate the attention of such a powerful group? INSLAW
+      <p> Why did INSLAW rate the attention of such a powerful group? INSLAW
 was, one Senate staffer suggests, the leading edge of Justice's $200
 million "Project Eagle," a plan to computerize the department's tax
 division, criminal division and the 94 U.S. Attorney's offices.
@@ -1240,7 +1241,7 @@ Asked about his priorities, Colgate was quoted in the trade
 publication as saying that, for the leadership of the department,
 "Eagle is the No. 1 priority. Eagle is the technology legacy that
 this Administration wants to leave behind."
-A member of Sen. Christopher Dodd's staff who has been looking
+A member of Sen. Christopher <ent type='PERSON'>Dodd</ent>'s staff who has been looking
 into the INSLAW case for more than a year takes a more cynical view:
 "If you wanted to wire [fix] something, this would be the
 project," he confides. "It's been anticipated for a long time.
@@ -1268,8 +1269,8 @@ of times, but he didn't say anything. More than once, he nodded
 assent. When I stated that Blackshear had recanted, he nodded
 again. And," Simpson concludes, "Burns didn't look like he was
 hearing any of it for the first time."</p>
-   <p> Where Are They Now?</p>
-   <p> LEIGH RATINER has left the practice of law. The man who once
+      <p> Where Are They Now?</p>
+      <p> LEIGH RATINER has left the practice of law. The man who once
 negotiated the Law of the Sea treaty for the U.S. government now
 runs his own business, LSR Enterprises, a maker of filing systems
 for lawyers.
@@ -1288,12 +1289,12 @@ I can. But when I make up my mind, I'm very firm. To a very
 aggressive person I may give the impression of being a pushover, and
 when I prove not to be one, such people can be very angry."
 TONY PASCIUTO is luckier. He has been offered a good job at a
-large financial firm based in New York. If he takes it, he'll be
+large financial firm based in <ent type='GPE'>New York</ent>. If he takes it, he'll be
 making a lateral move from Justice into the private sector.
 Meanwhile, his attorney, Gary Simpson, awaits final word on
 Pasciuto's honorable discharge from the department. The papers are
 scheduled to be signed today.</p>
-   <p> if you've made it to the end of these 2 articles, you understand that there
+      <p> if you've made it to the end of these 2 articles, you understand that there
 are a lot of questions Ms. Mahar leaves open-ended since, during the spring
 of 1988 when she wrote this, many aspects of this situation were still
 grinding on and had not achieved the clarity now more evident. obviously,
@@ -1303,33 +1304,34 @@ concrete evidence that has since become available. if any of you are
 interested in following up on any of the points raised in these 2 articles,
 i'd like to suggest at least a couple of obvious starting points. Maggie
 Mahar writes that</p>
-   <p> Bason questions the failure of high Justice Department officials
+      <p> Bason questions the failure of high Justice Department officials
 to take any action to investigate serious allegations of misconduct.</p>
-   <p> and alludes to the Senate Permanent Subcommittee on Investigations, chaired
+      <p> and alludes to the Senate Permanent Subcommittee on Investigations, chaired
 at that time by Sam Nunn:</p>
-   <p> The Senate's Permanent Subcommittee on Investigations is now
+      <p> The Senate's Permanent Subcommittee on Investigations is now
 looking into INSLAW--a sign that the lawmakers, too, think that the
 whole story of the "something strange" that happened in the Justice
 Department has yet to be told. . . . At the end of the week, that
 committee met with Bason, as well. Senator Nunn's committee may
 find some answers--and ask more questions--that will illuminate
 this bizarre story.</p>
-   <p> why not call up Senator Nunn's office and ask "what happened?" "what did
+      <p> why not call up Senator Nunn's office and ask "what happened?" "what did
 you find out? what did you conclude? is there a report you can send me?"
-also Senator Dodd's office should be called:</p>
-   <p> A member of Sen. Christopher Dodd's staff . . . has been looking
+also Senator <ent type='PERSON'>Dodd</ent>'s office should be called:</p>
+      <p> A member of Sen. Christopher <ent type='PERSON'>Dodd</ent>'s staff . . . has been looking
 into the INSLAW case for more than a year . . .</p>
-   <p> to see if the member she alludes to is still there or ever wrote up a
+      <p> to see if the member she alludes to is still there or ever wrote up a
 report of their examinations.</p>
-   <p>--
+      <p>--
 daveus rattus</p>
-   <p> yer friendly neighborhood ratman</p>
-   <p> KOYAANISQATSI
+      <p> yer friendly neighborhood ratman</p>
+      <p> KOYAANISQATSI
 
 ko.yan.nis.qatsi (from the Hopi Language) n. 1. crazy life. 2. life
 in turmoil. 3. life out of balance. 4. life disintegrating.
 5. a state of life that calls for another way of living.
-<info type="">end reposted material</info>
+<special>end reposted material</special>
 -Steve Crocker
 </p>
-</div>
+   </div>
+</xml>

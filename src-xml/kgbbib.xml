@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p> ANNOTATED BIBLIOGRAPHY
+<xml>
+   <div class="article">
+      <p> ANNOTATED BIBLIOGRAPHY
 OF
 BOOKS CONCERNING SOVIET STATE SECURITY
 by Charles Trew Burke, Virginia </p>
-   <p> The following is a short collection of books concerning,
+      <p> The following is a short collection of books concerning,
 either directly or indirectly, the Soviet Committee for State
 Security (Komitet Gosudarstvennoy Bezopasnosti, or KGB).
 All of the books were written during the 1980's and are
@@ -17,8 +18,8 @@ provide information on the Soviet state security apparatus. Some
 of the works deal only with the KGB. Others deal primarily
 with other topics yet, still provide insightful commentary on a
 specific topic concerning the KGB. </p>
-   <p> INTRODUCTION</p>
-   <p> During the late spring of 1989, at the Soviet Congress of
+      <p> INTRODUCTION</p>
+      <p> During the late spring of 1989, at the Soviet Congress of
 People's Deputies, former weight lifter Yuri Vlasov made one of
 the harshest attacks on the Soviet Committee for State Security
 (KGB) in recent memory.
@@ -49,13 +50,13 @@ frequently the KGB is compared to the American Central
 Intelligence Agency (CIA). However, the scope of activities
 carried out by the KGB include the functions that are carried out
 in the United States by at least a dozen Federal agencies.</p>
-   <p> ANNOTATED BIBLIOGRAPHY
+      <p> ANNOTATED BIBLIOGRAPHY
 OF
 BOOKS CONCERNING SOVIET STATE SECURITY
 by Charles Trew Burke, Virginia</p>
-   <p>Barron, John. KGB Today. New York: Reader's Digest, 1983. 489 pp.
+      <p>Barron, John. KGB Today. <ent type='GPE'>New York</ent>: Reader's Digest, 1983. 489 pp.
 Contains photographs and index. </p>
-   <p> Barron, an editor at Reader's Digest, has written a number
+      <p> Barron, an editor at Reader's Digest, has written a number
 of articles and books on the KGB. He has benefitted enormously
 from CIA cooperation on his books. His access to government
 officials and documents, and a number of Soviet defectors, has
@@ -69,10 +70,10 @@ For this work, Barron worked extensively with Stanislav
 Levchenko, a former KGB Major who defected while on operational
 assignment in Japan in the late 1970's (Levchenko has also been
 involved in two other works that will be discussed further on). </p>
-   <p>Corson, William R. and Robert T. Crowley. The New KGB. New York:
+      <p>Corson, William R. and Robert T. Crowley. The New KGB. <ent type='GPE'>New York</ent>:
 William Morrow and Company, Inc., 1985. Contains index and
 photographs. 560 pp.</p>
-   <p> Both authors are retired American intelligence officers.
+      <p> Both authors are retired American intelligence officers.
 This work is a very well researched piece which covers many
 different periods of Soviet state security.
 The objective of the work is to present the reader a
@@ -80,9 +81,9 @@ The objective of the work is to present the reader a
 strategies of the new KGB." The authors argue that the KGB has
 taken on a more active role in Soviet government and has
 increased its dominance in the Communist Party of the USSR. </p>
-   <p>Dzhirkvelov, Ilya. Secret Servant. New York: Harper &amp; Row,
+      <p>Dzhirkvelov, Ilya. Secret Servant. <ent type='GPE'>New York</ent>: Harper &amp; Row,
 Publishers, 1987. 398 pp. Contains index. </p>
-   <p> A fascinating account by a former member of the KGB who
+      <p> A fascinating account by a former member of the KGB who
 defected to the West in 1980. Dzhirkvelov, who participated in
 many "direct action" operations, is particularly interesting
 because he defected for personal reasons and remains unrepentant
@@ -90,9 +91,9 @@ for many of his activities. He is still an admirer of Joseph
 Stalin, for example, and some of the extermination operations he
 participated in against nationalist minorities in the USSR after
 WWII. A very unusual autobiography. </p>
-   <p>Dziak, John J. Chekisty. Lexington, MA: Lexington Books, 1988.
+      <p>Dziak, John J. Chekisty. Lexington, MA: Lexington Books, 1988.
 234 pp. Contains index. </p>
-   <p> A very well written historical account by a senior
+      <p> A very well written historical account by a senior
 intelligence official with the Defense Intelligence Agency (DIA).
 The extensive documentation, frequently using Soviet materials,
 is invaluable. The bibliography is also quite useful.
@@ -102,9 +103,9 @@ police by Felix Dzerzhinski, its founder: "We represent in
 ourselves organized terror --- this must be said very clearly..."
 (interview with B. Rossov, "From Our Moscow Correspondent,"
 Novaya Zhizhin,' June 9, 1918, p. 4). Highly recommended work. </p>
-   <p>Knight, Amy W. the KGB. Boston: Unwin Hyman, 1988. 348 pp.
+      <p>Knight, Amy W. the KGB. Boston: Unwin Hyman, 1988. 348 pp.
 Contains index.</p>
-   <p> An excellent scholarly work by a senior analyst with the
+      <p> An excellent scholarly work by a senior analyst with the
 Congrssional Research Service of the Library of Congress.
 The focus of the work is the politcal role of the KGB in
 the government of the USSR. This work is very rich in
@@ -112,26 +113,26 @@ documentation and detail and is definately more for a specialist.
 Other readers may find the work rough going. Researchers will
 find this work invaluable and very well balanced. Highly
 recommended work. </p>
-   <p>Leggett, George. The Cheka: Lenin's Political Police. Oxford:
+      <p>Leggett, George. The Cheka: Lenin's Political Police. Oxford:
 Clarendon Press, 1981 (reprinted with corrections as
 paperback, 1986). 514 pp. With index.</p>
-   <p> This piece is a masterwork of research by a British
+      <p> This piece is a masterwork of research by a <ent type='NORP'>British</ent>
 scholar. This book is one of the best works ever on the Soviet
 secret police, certainly on the Cheka. Totally comprehensive and
 "must reading" for information on the beginnings of Soviet state
 security.</p>
-   <p>Levchenko, Stanislav. On the Wrong Side. Washington: Pergammon-Brassey's, 1988. 244 pp. </p>
-   <p> Levchenko was a member of the First Chief Directorate of
+      <p>Levchenko, Stanislav. On the Wrong Side. Washington: Pergammon-Brassey's, 1988. 244 pp. </p>
+      <p> Levchenko was a member of the First Chief Directorate of
 the KGB (Foreign Operations) working in Japan. This book is his
 autobiography and covers the early years of his life and career
 up to his defection to the United States in 1979.
-This work is very Russian and emotional in style. While
+This work is very <ent type='NORP'>Russian</ent> and emotional in style. While
 telling the reader about his life and career, Levchenko
 effectively illustrates the difficuly and strains of conflicting
 loyalties and beliefs. </p>
-   <p>Pacepa, Ion Mihai. Red Horizons. Washington: Regnery Gateway,
+      <p>Pacepa, Ion Mihai. Red Horizons. Washington: Regnery Gateway,
 1987. 446 pp. With index and photographs.</p>
-   <p> A controversial work by a Romanian spymaster who defected
+      <p> A controversial work by a Romanian spymaster who defected
 to the United States in 1978. Pacepa had held a number of
 exteremely sensitive positions in the Romanian Securitate. One of
 his duties included directing the personal security of Romanian
@@ -145,7 +146,7 @@ insightful.
 
 Richelson, Jeffrey T. Sword and Shield. Cambridge, MA: Ballinger
 Publishing Co., 1986. 279 pp.</p>
-   <p> The author, a professor from the Washington DC area, has
+      <p> The author, a professor from the Washington DC area, has
 written a number of works on intelligence matters.
 Compared to some of the other works available on the KGB,
 this work has pretty shallow research behind it. In a number of
@@ -153,14 +154,14 @@ areas, up to 20 footnotes will be taken up using only two, maybe
 three different sources. Non-specialists may, however, find the
 work an easier read than some of the more thoroughly researched
 books. </p>
-   <p>Rocca, Raymond G. and John J. Dziak. Bibliography of Soviet
+      <p>Rocca, Raymond G. and John J. Dziak. Bibliography of Soviet
 Intelligence and Security Services. Boulder, CO: Westview
 Press, 1985. 203 pp. With index. </p>
-   <p> An indispensible tool for researching the KGB and its
+      <p> An indispensible tool for researching the KGB and its
 cousins. The work covers other bibliographies, Soviet accounts,
 Defector/First Hand accounts, Second Hand accounts, and
 government materials. This is another "must have" work. </p>
-   <p>Rommerstein, Herbert and Stanislav Levchenko. The KGB Against
+      <p>Rommerstein, Herbert and Stanislav Levchenko. The KGB Against
 Main Enemy. Lexington, MA: Lexington Books, 1989. 369 pp.
 With index.
 
@@ -176,18 +177,18 @@ through the Freedom of Information Act. The book also includes
 material on events in the late 1980's.
 
 
-Sharansky, Natan (Anatoly). Fear No Evil. New York: Random House,
+Sharansky, Natan (Anatoly). Fear No Evil. <ent type='GPE'>New York</ent>: Random House,
 1988. 437 pp. Contains index and photographs. </p>
-   <p> This is the memior from one of the most well-known of the
+      <p> This is the memior from one of the most well-known of the
 Soviet refuseniks and dissidents. Sharansky's dislike of the KGB
 is matched only by the dislike of the KGB toward him. The book is
 a dramatic testament from an intense, determined man.
 The work is useful because of the unique view it gives of
 some of the KGB's internal roles. Sharansky also has a very
 articulate and effective writing style.</p>
-   <p>Shevchenko, Arkady. Breaking With Moscow. New York: Alfred A.
+      <p>Shevchenko, Arkady. Breaking With Moscow. <ent type='GPE'>New York</ent>: Alfred A.
 Knopf, 1985. 378 pp. With index.</p>
-   <p> Shevchenko was serving as under Secretary-General of the
+      <p> Shevchenko was serving as under Secretary-General of the
 United Nations during the 1970's when he agreed to spy for the
 United States. He later defected.
 Because of Shevchenko's senior diplomatic position, he has
@@ -195,10 +196,10 @@ information to provide in a number of areas. One area is Soviet
 intelligence operations. Shevchenko, and most other Soviet
 employees at the UN, had to preform duties for the KGB. Because
 of his senior position, Shevchenko had regular contact with the
-top Soviet security personnel in New York and Washington. </p>
-   <p>Wise, David. The Spy Who Got Away. New York: Random House, 1988.
+top Soviet security personnel in <ent type='GPE'>New York</ent> and Washington. </p>
+      <p>Wise, David. The Spy Who Got Away. <ent type='GPE'>New York</ent>: Random House, 1988.
 288 pp. With index and photographs.</p>
-   <p> Wise is a journalist with a number of articles and books
+      <p> Wise is a journalist with a number of articles and books
 on intelligence matters to his credit. In this book Wise analyzes
 the Edward Lee Howard affair. Howard was an employee of the CIA
 being trained to run US agents in Moscow. The CIA discovered that
@@ -208,17 +209,18 @@ passing information to the Soviets. He later made a rare US
 defection to the Soviet Union shortly before he was to be
 arrested by the FBI.
 Wise was actually able, with KGB permission, to interview
-Howard in Budapest, Hungary (around the same time British
+Howard in Budapest, Hungary (around the same time <ent type='NORP'>British</ent>
 espionage journalist Phillip Knightly was allowed to interview
 Kim Philby in Moscow). Wise also reveals very interesting details
 of FBI and CIA counterintelligence operations. A good story. </p>
-   <p>Wright, Peter. Spy Catcher. New York: Viking Penguin, Inc., 1987.
+      <p>Wright, Peter. Spy Catcher. <ent type='GPE'>New York</ent>: Viking Penguin, Inc., 1987.
 392 pp. With index and photographs.
 
 The highly controversial memior from a former MI5 official
-that the British government tried desperately (and
+that the <ent type='NORP'>British</ent> government tried desperately (and
 unsuccessfully) to prevent from being published. The book is a
-treasure trove of accounts of American, British, and Soviet
+treasure trove of accounts of American, <ent type='NORP'>British</ent>, and Soviet
 intelligence operations. The intrigues and conspiricies run wild
 in this one. </p>
-</div>
+   </div>
+</xml>

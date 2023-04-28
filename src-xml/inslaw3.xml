@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>Article 11142 of alt.activism:
+<xml>
+   <div class="article">
+      <p>Article 11142 of alt.activism:
 Xref: bilver alt.activism:11142 alt.conspiracy:5175
 Path: bil-ver!tous!peora!masscomp!usenet.coe.montana.edu!rpi!sci.ccny.cuny.edu!psinnt
 p!psinntp!sgigate!odin!ratmandu.corp.sgi.com!dave
@@ -13,7 +14,7 @@ Date: 15 Oct 91 16:01:08 GMT
 Sender: news@odin.corp.sgi.com (Net News)
 Organization: Silicon Graphics, Inc.
 Lines: 195</p>
-   <p> The House Judiciary Committee has been investigating the scandal
+      <p> The House Judiciary Committee has been investigating the scandal
 since August 1989. After months of foot-dragging, Attorney General
 Richard Thornburgh, under subpoena by the committee, finally
 released <ent type='ORG'>Inslaw</ent>-related files. However, according to a source in
@@ -30,12 +31,12 @@ could be 'dirtier than Watergate,' and, as a victim of the scandal,
 he should know. Thornburgh's conduct is the most powerful reason
 for believing that Danny Casolaro really saw an octopus before he
 died."</p>
-   <p>from "The First Stone" column of the Sept. 4-10 1991 issue of "In These
+      <p>from "The First Stone" column of the Sept. 4-10 1991 issue of "In These
 Times":
 ---------------------------------------------------------------------------
 Murder in the Martinsburg Sheraton?
 By Joel Bleifuss</p>
-   <p> For more than a year, Danny Casolaro, a Washington D.C.-based
+      <p> For more than a year, Danny Casolaro, a Washington D.C.-based
 freelance investigator, had been sorting through a web of intrigue-
 -the S&amp;L debacle, BCCI, Iran-Contra, the contra-connected <ent type='ORG'>Wackenhut</ent>
 Corp., the <ent type='ORG'>Wackenhut</ent>-connected <ent type='ORG'>Inslaw</ent> case, and the <ent type='ORG'>Inslaw</ent>-connected
@@ -78,7 +79,7 @@ was notified? West Virginia law requires family approval prior to
 embalming. Who was the man who telephoned Casolaro's house on
 Saturday evening? When a housekeeper picked up the phone, a voice
 said, "You're dead, you bastard."</p>
-   <p> MOTIVE FOR MURDER? What was Casolaro investigating that could have
+      <p> MOTIVE FOR MURDER? What was Casolaro investigating that could have
 put his life in such danger? David MacMichael is a former CIA
 analyst who now directs the Washington office of the Association of
 National Security Alumni, a watchdog group. MacMichael had talked
@@ -104,7 +105,7 @@ to collect the final evidence needed to wrap up his investigation of
 a scandal that, as MacMichael put it, involves "real crimes, real
 people and real money"--the <ent type='ORG'>Inslaw</ent> case. (See "In These Times," May
 29 ["Software Pirates" posted on-line previously].)</p>
-   <p> INSLAW MEETS THE LAW: For eight years, <ent type='ORG'>Inslaw</ent> Inc, has been
+      <p> INSLAW MEETS THE LAW: For eight years, <ent type='ORG'>Inslaw</ent> Inc, has been
 battling the Justice Department for possession of Promis, an
 innovative case-management software program developed by company
 owner Bill Hamilton. In 1986 <ent type='ORG'>Inslaw</ent> filed suit against the
@@ -147,7 +148,7 @@ services, the U.S. National Security Agency would then be able to
 infiltrate the computerized intelligence files of these countries.
 Modifications on the pirated software were allegedly carried out by
 the <ent type='ORG'>Wackenhut</ent> Corp. of Coral Gables, Fla.</p>
-   <p> WHERE IS JUSTICE?: <ent type='ORG'>Inslaw</ent>'s attorney, Elliot Richardson, the Nixon
+      <p> WHERE IS JUSTICE?: <ent type='ORG'>Inslaw</ent>'s attorney, Elliot Richardson, the Nixon
 attorney general who resigned rather than participate in the
 Watergate cover-up, has long asked for the appointment of a special
 prosecutor to investigate the Justice Department's handling of the
@@ -188,13 +189,14 @@ interest in the matter."
 As for former Attorney General Thornburgh, he is now running for
 the Senate in <ent type='GPE'>Pennsylvania</ent>. If Justice is served, perhaps he will
 also run for cover.</p>
-   <p>--
+      <p>--
 daveus rattus</p>
-   <p> yer friendly neighborhood ratman</p>
-   <p> KOYAANISQATSI</p>
-   <p> ko.yan.nis.qatsi (from the Hopi Language) n. 1. crazy life. 2. life
+      <p> yer friendly neighborhood ratman</p>
+      <p> KOYAANISQATSI</p>
+      <p> ko.yan.nis.qatsi (from the Hopi Language) n. 1. crazy life. 2. life
 in turmoil. 3. life out of balance. 4. life disintegrating.
 5. a state of life that calls for another way of living.
 
 </p>
-</div>
+   </div>
+</xml>

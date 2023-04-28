@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p> #$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@
+<xml>
+   <div class="article">
+      <p> #$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@
 $%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#%$&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#
 %&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$
 &amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%
@@ -17,10 +18,10 @@ $%&amp;@# $%&amp;@#
 @#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;
 #$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@#$%&amp;@
 </p>
-   <p>Comments on the New <ent type='PERSON'>Tesla</ent> Electromagnetics
+      <p>Comments on the New <ent type='PERSON'>Tesla</ent> Electromagnetics
 ------------------------------------------
 A:Discrepancies in Present EM Theory</p>
-   <p> There are at least twenty-two major discrepancies presently existing in
+      <p> There are at least twenty-two major discrepancies presently existing in
 conventional electromagnetics theory. This paper presends a summary of those
 flaws, and is a further commentary on my discussion of scalar longitudinal
 waves in a previous paper, "Solutions to <ent type='PERSON'>Tesla</ent>'s Secrets and the Soviet <ent type='PERSON'>Tesla</ent>
@@ -49,7 +50,7 @@ theory. Decoupled charge -- that is, the absence of mass -- is simply what we
 presently refer to as "Vacuum." Vacuum, spacetime, and massless charge are all
 identical. Rigorously, we should utilize any of these three as an "ether," as
 suggested for vacuum by Einstein himself (see Max Born, Einstiein's Theory of
-Relativity, Revised Edition, Dover Publications, New York, 1965, p. 224). And
+Relativity, Revised Edition, Dover Publications, <ent type='GPE'>New York</ent>, 1965, p. 224). And
 all three of them are identically anenergy -- not energy, but more fundamental
 components of energy.
 
@@ -110,7 +111,7 @@ Excalibur Briefing, Strawberry Hill Press, San Francisco, 1980, pp. 128-130.
 connected to) the magnetic field. In fact it is a separate, fundamental field
 of nature and it can be entirely disconnected from the magnetic field. See
 Richard P. Feynman et al, The Feynman Lectures on Physics, Addison-Wesley
-Publishing Co., New York, 1964, Vol. II, pp. 15-8 to 15-14. Curiously, this
+Publishing Co., <ent type='GPE'>New York</ent>, 1964, Vol. II, pp. 15-8 to 15-14. Curiously, this
 fact has been proven for years, yet it has been almost completely ignored in
 the West. The "(triangle)x" operator, when applied to the A-field, makes
 B-field. If the (triangle)x operator is not applied, the "freed" A-field
@@ -627,10 +628,11 @@ very feet.
 Electromagnetically, we have been rather like one of the five blind men who
 touched an elephant. We have only touched one small portion of the
 electromagnetism "elephant," yet we thought we had grasped the entire beast.</p>
-   <p>------------------------------------------------------------------------------
+      <p>------------------------------------------------------------------------------
 Use this information in any way that you wish; I take no responsibility for
 the results of your actions. This file was presented for "informational use"
 only.
 ------------------------------------------------------------------------------
 </p>
-</div>
+   </div>
+</xml>

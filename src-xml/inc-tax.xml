@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>*** NOTE: Excerpted from the Academic American Encyclopedia (electronic) ***</p>
-   <p>TITLE(s): income tax
+<xml>
+   <div class="article">
+      <p>*** NOTE: Excerpted from the Academic American Encyclopedia (electronic) ***</p>
+      <p>TITLE(s): income tax
 The income tax is a levy based on the income of individuals, families, and
 corporations.
 
@@ -79,7 +80,7 @@ are not the same because, first, some income is not taxed--due to
 exemptions, deductions, and credits; and, second, the progressive tax
 schedule taxes lower levels of income at a lower rate than higher levels of
 income. </p>
-   <p> The Tax Reform Act of 1986 simplified the tax structure and reduced the
+      <p> The Tax Reform Act of 1986 simplified the tax structure and reduced the
 total number of tax brackets to four. Lowest-income taxpayers had an income
 tax rate of 15%, and as income rose, the marginal tax rate rose to 28%, then
 to 33%, and then back down to 28%. For the first time in the history of the
@@ -119,7 +120,7 @@ contributions can be deducted, providing an incentive for charitable giving.
 The use of the tax system to provide these kinds of incentives is
 controversial, and the Tax Reform Act of 1986 eliminated many incentives of
 this type. </p>
-   <p> THE CORPORATE INCOME TAX
+      <p> THE CORPORATE INCOME TAX
 
 In 1960 the corporate income tax comprised 23.2% of federal tax revenues,
 but had fallen to 12.5 percent of federal tax revenues by 1980, due to the
@@ -177,7 +178,7 @@ enacted to help the sagging economy. The logic was that a tax cut would give
 consumers more money to spend, which would stimulate business activity. This
 was the first time that income tax reform was undertaken primarily to try to
 fine-tune the economy. </p>
-   <p> President Kennedy also instituted the investment tax credit to encourage
+      <p> President Kennedy also instituted the investment tax credit to encourage
 investment, and throughout the 1960s and 1970s many other tax benefits were
 added to the tax system. Among them were oil depletion allowances that made
 oil exploration more profitable, an energy tax credit that provided an
@@ -209,13 +210,13 @@ reform is that only minor changes were made to the income tax structure in
 the five years following that reform.
 
 Randall G. Holcombe </p>
-   <p> Bibliography: Bradford, D. F., Untangling the Income Tax (1986); Davies,
+      <p> Bibliography: Bradford, D. F., Untangling the Income Tax (1986); Davies,
 David G., United States Taxes and Tax Policy (1986); Hall, Robert E., and
 Rabushka, Alvin, The Flat Tax (1985); Holcombe, Randall G., Public Sector
 Economics (1988); Peacock, Alan, and Forte, Frances, eds., The Political
 Economy of Taxation (1981); (1985); Strassels, Paul N., The 1986 Tax Reform
 Act (1987). </p>
-   <p>TITLE(s): Treasury, U.S. Department of the
+      <p>TITLE(s): Treasury, U.S. Department of the
 The U.S.
 
 Department of the Treasury is the department of the executive branch of
@@ -243,13 +244,13 @@ Mint, which manufactures coinage; the Bureau of Alcohol, Tobacco and
 Firearms, which enforces federal laws on production, use and distribution;
 and the SECRET SERVICE, which protects top U.S. officials and presidential
 candidates and enforces laws against counterfeiting. </p>
-   <p> Bibliography: Adams, S., The United States Treasury System (1979);
+      <p> Bibliography: Adams, S., The United States Treasury System (1979);
 Gaines, Tilford C., Techniques of Treasury Debt Management (1962); Gurney,
 Gene and Clare, The United States Treasury: A Pictorial History (1977);
 Taus, Esther R., Central Banking Functions of the United States Treasury,
 1789-1941 (1943; repr. 1966); Walston, M., The Department of the Treasury
 (1989). </p>
-   <p>TITLE(s): Internal Revenue Service
+      <p>TITLE(s): Internal Revenue Service
 The U.S. government's tax collecting agency, the Internal Revenue Service,
 was created in 1862.
 
@@ -299,11 +300,11 @@ IRS information has been used by other state and government agencies. In
 most cases--the enforcement of child-support laws, for example, or the
 attempt to find those who have defaulted on student loans--the disclosure of
 information has been authorized by Congress. </p>
-   <p> Bibliography: Burnham, David: A Law unto Itself: Power, Politics, and the
+      <p> Bibliography: Burnham, David: A Law unto Itself: Power, Politics, and the
 IRS (1990); Saltzman, Michael, IRS Practice and Procedures (1981);
 Shafiroff, I., Internal Revenue Service Practice and Procedure Deskbook, 2d
 ed. (1989). </p>
-   <p>TITLE(s): Tax Court, U.S.
+      <p>TITLE(s): Tax Court, U.S.
 The United States Tax Court is a court of the federal government that
 hears cases brought by taxpayers who challenge decisions of the Internal
 Revenue Service (IRS) dealing with overpayment or underpayment of taxes.
@@ -322,6 +323,7 @@ judges appointed by the chief judge who serve at the pleasure of the court.
 It is augmented by retired judges when the case load is heavy. The court's
 offices are in Washington, D.C., but it maintains a field office in Los
 Angeles and holds trial sessions throughout the United States. </p>
-   <p> Bibliography: Taylor, M. W., and Simonson, K. J., Tax Court Practice, 7th
+      <p> Bibliography: Taylor, M. W., and Simonson, K. J., Tax Court Practice, 7th
 ed. (1990). </p>
-</div>
+   </div>
+</xml>

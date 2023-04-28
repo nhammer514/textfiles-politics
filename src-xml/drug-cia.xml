@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>
-WBAI Pacifica Radio New York
+<xml>
+   <div class="article">
+      <p>
+WBAI Pacifica Radio <ent type='GPE'>New York</ent>
 Interview with Mark Swaney
 By: Paul DeRienzo.</p>
-   <p>WBAI radio interview with Mark Swaney from "Faithful Arkansas"
+      <p>WBAI radio interview with Mark Swaney from "Faithful Arkansas"
 a citizens group, speaking of Bill Clinton's and George Bush's
 connection with the CIA covert drug smuggling operation in
 Mena Arkansas in support of the Contras.
@@ -49,7 +50,7 @@ Chief of Security, a man named Raymond Buddy Young, and
 another man Tommy Baker, Private Investigator and I'm told
 former member of the Arkansas State Police, were framing
 Terry Reid for mail fraud. What this involved was the so
-called project donation that Oliver North had set up. Terry
+called project donation that Oliver <ent type='LOC'>North</ent> had set up. Terry
 Reid's plane had been stolen a number of years earlier
 -- and used in drug missions and such without his knowledge
 -- and he claimed the insurance money for his plane being stolen
@@ -68,7 +69,7 @@ PAUL DeRIENZO:
 How would he have known that was the plane?
 
 MARK SWANEY: </p>
-   <p>Oh that's never been explained. Along with a number of aspects
+      <p>Oh that's never been explained. Along with a number of aspects
 in this famous story. We're in contact with Terry Reid's defense
 attorney in Witchita and she's promised to send us all of the
 documents --we have some of the documents already that indicate
@@ -76,11 +77,11 @@ documents --we have some of the documents already that indicate
 
 
 PAUL DeRIENZO:</p>
-   <p>Is that the same Buddy Young by the way who's head of Governor
+      <p>Is that the same Buddy Young by the way who's head of Governor
 Clinton's security detail.
 
 MARK SWANEY:</p>
-   <p>Yes he is.
+      <p>Yes he is.
 
 PAUL DeRIENZO:
 
@@ -91,7 +92,7 @@ of Mena Arkansas --that was determinates of a lot of these
 Iran-Contra resupply flights.
 
 MARK SWANEY:</p>
-   <p>Yes, in fact Terry Reid has stated in that same article that
+      <p>Yes, in fact Terry Reid has stated in that same article that
 you have that it was the *hub* of the Contra resupply effort.
 Many people are not aware that Arkansas was very heavily and
 very deeply involved in the Iran-Contra affair all during the
@@ -122,7 +123,7 @@ PAUL DeRIENZO:
 Hassenfusse's plane was based there.
 
 MARK SWANEY: </p>
-   <p>Pardon me.
+      <p>Pardon me.
 
 PAUL DeRIENZO:
 
@@ -130,7 +131,7 @@ Hassenfusse's plane, the plane that was shot down, was based
 in Mena Arkansas.
 
 MARK SWANEY:</p>
-   <p>That plane was based there formally before Barry Seal was
+      <p>That plane was based there formally before Barry Seal was
 murdered just a few months before it was shot down. That
 was Barry Seal's own personal airplane. But anyway what
 you need to do, if you're a CIA or a drug smuggler is you
@@ -171,7 +172,7 @@ that came out just a couple of days ago that Larry Nichols
 has dropped a lawsuit that he had instituted in 1990 against
 Governor Clinton that came after his 1988 dismissal from that
 state job for miss-use of agency telephones.</p>
-   <p>Can you tell us who Larry Nichols was.
+      <p>Can you tell us who Larry Nichols was.
 
 MARK SWANEY:
 
@@ -389,7 +390,7 @@ Thank you very much Mark Swaney --this is an amazing story and
 the amazing thing about it is that this is the *real* story about
 Governor Bill Clinton and that what we're getting served to us from
 all the media from start to finish from morning to night headlines
-in all the New York papers, is this thing about Governor Clinton
+in all the <ent type='GPE'>New York</ent> papers, is this thing about Governor Clinton
 and this woman Jennifer Flowers and her association with the
 Governor who is married for 14 years, and the real story which
 you get on WBAI underneath it all from our contacts in Arkansas
@@ -400,13 +401,13 @@ wonder why should I even bother voting -- who's there to vote for.
 I mean both sides the Democrats and the Republicans are involved.
 
 MARK SWANEY: </p>
-   <p>That's another part of the story --you know the best way to buy
+      <p>That's another part of the story --you know the best way to buy
 off an election is to pay off both candidates. There's significant
 Republican interest in seeing Bill Clinton get the nomination
 from the standpoint that they will be assured then that none
 of the issues of the Iran-Contra affair are likely to be talked
 about. Certainly Clinton doesn't want to talk about them.</p>
-   <p>We tried before we knew that Mr. Clinton was involved in this --
+      <p>We tried before we knew that Mr. Clinton was involved in this --
 we only came across this information 5 or 6 months ago and
 for two years now we've been doing demonstrations, writing
 letters collecting petitions holding informational gatherings
@@ -440,12 +441,13 @@ Governor's office we said -freedom of information act
 to back up your statement that you are willing to help the
 Polk County investigators do their own state investigation
 in this affair. And he could not produce a single thing.</p>
-   <p>"Why of course the people don't want war... It is the leaders...who
+      <p>"Why of course the people don't want war... It is the leaders...who
 determine the policy and it is always a simple matter to drag the
 people along...all you have to do is tell them they are being attacked
 and denounce the pacifists for lack of patriotism and exposing the
 country to danger. It works the same in any country.</p>
-   <p>Hermann Goering, 1936
+      <p>Hermann Goering, 1936
 
 </p>
-</div>
+   </div>
+</xml>

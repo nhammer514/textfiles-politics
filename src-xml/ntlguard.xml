@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>
+<xml>
+   <div class="article">
+      <p>
 
 Subject: the national guards (military consolidating control of info and comm)
 Keywords: we don't appreciate how quickly our society is being locked up.</p>
-   <p>
+      <p>
 the U.S. military is the lens focusing the agendas of the corporate states
 of 'murka. the following article is already four and a half YEARS old.
 this piece is staggering in its implications. the high-tech gulf war show
@@ -17,10 +18,10 @@ take for people to stand up and put themselves on the line to stop this
 brand of spreading totalitarian democracy? their own complete enslavement?
 by that time it'll be just too damn late. (and people balk at the idea
 that Kennedy was killed by a military coup d'etat...) --ratitor</p>
-   <p>
+      <p>
 excerpts from "THE NATIONAL GUARDS"
 (C) 1987 OMNI MAGAZINE, MAY 1987</p>
-   <p>
+      <p>
 These attempts to keep unclassified data out of the hands of
 scientists, researchers, the news media, and the public at large are a
 part of an alarming trend that has seen the military take an ever-increasing role in controlling the flow of information and
@@ -51,18 +52,18 @@ system's vulnerability to outside manipulation, the NSA obtained a
 detailed knowledge of that computer program. "In my view," Brooks
 says, "this is an unprecedented and ill-advised expansion of the
 military's influence in our society."</p>
-   <p>
+      <p>
 ========================================================
 ORIGIN: ParaNet Information Service BBS
 CONTRIBUTED TO PARANET BY: Donald Goldberg
 ========================================================</p>
-   <p>
+      <p>
 THE NATIONAL GUARDS
 (C) 1987 OMNI MAGAZINE, MAY 1987
 (Reprinted with permission and license to
 ParaNet Information Service and its affiliates.)</p>
-   <p>By Donald Goldberg</p>
-   <p>
+      <p>By Donald Goldberg</p>
+      <p>
 The mountains bend as the fjord and the sea beyond stretch out
 before the viewer's eyes. First over the water, then a sharp left
 turn, then a bank to the right between the peaks, and the secret naval
@@ -113,16 +114,16 @@ the Reagan administration, Department of Defense (DoD) officials have
 quietly implemented a number of policies, decisions, and orders that
 give the military unprecedented control over both the content and
 public use of data and communications. For example:</p>
-   <p>
+      <p>
 * The Pentagon has created a new category of
 "sensitive" but unclassified information that allows
 it to keep from public access huge quantities of data
 that were once widely accessible.</p>
-   <p>* Defense Department officials have attempted to
+      <p>* Defense Department officials have attempted to
 rewrite key laws that spell out when the president can
 and cannot appropriate private communications
 facilities.</p>
-   <p>* The Pentagon has installed a system that enables it
+      <p>* The Pentagon has installed a system that enables it
 to seize control of the nation's entire communications
 network -- the phone system, data transmissions, and
 satellite transmissions of all kinds -- in the event
@@ -133,7 +134,7 @@ emergency is restricted to times of natural disaster,
 war, or when national security is specifically
 threatened. Now the military has attempted to redefine
 emergency.</p>
-   <p>The point man in the Pentagon's onslaught on communications is
+      <p>The point man in the Pentagon's onslaught on communications is
 Assistant Defense Secretary Donald C. Latham, a former NSA deputy
 chief. Latham now heads up an interagency committee in charge of
 writing and implementing many of the policies that have put the
@@ -350,7 +351,7 @@ communications companies whose employees would later staff the
 National Coordinating Center. The meetings, which continued over the
 next three years, were held at the White House, the State Department,
 the Strategic Air Command (SAC) headquarters at Offutt Air Force Base
-in Nebraska, and at the <ent type='PERSON'>North</ent> American Aerospace Defense Command
+in Nebraska, and at the <ent type='LOC'>North Command</ent>
 (NORAD) in Colorado Springs.
 The industry officials attending constituted the National Security
 Telecommunications Advisory Committee -- called <ent type='ORG'>NSTAC</ent> (pronounced N-stack) -- set up by President Reagan to address those same problems
@@ -451,9 +452,10 @@ that it can happen all too easily. The official mechanisms are already
 in place; and few barriers remain to guarantee that what we hear, see,
 and read will come to us courtesy of our being members of a free and
 open society and not courtesy of the Pentagon.</p>
-   <p>
+      <p>
 =============================================================================
 =============================================================================</p>
-   <p>Black Crawling Systems @ V0iD Information Archives</p>
-   <p>( 6 1 7 ) 4 8 2 - 6 3 5 6</p>
-</div>
+      <p>Black Crawling Systems @ V0iD Information Archives</p>
+      <p>( 6 1 7 ) 4 8 2 - 6 3 5 6</p>
+   </div>
+</xml>

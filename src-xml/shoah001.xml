@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p> THE TRUE HISTORY OF THE HOLOCAUST</p>
-   <p> BY RICHARD HARWOOD</p>
-   <p> Introduction</p>
-   <p> In the following chapters the author has, he believes,
+<xml>
+   <div class="article">
+      <p> THE TRUE HISTORY OF THE HOLOCAUST</p>
+      <p> BY RICHARD HARWOOD</p>
+      <p> Introduction</p>
+      <p> In the following chapters the author has, he believes,
 brought together irrefutable evidence that the allegation that 6
 million Jews died during the Second World War, as a direct
 result of official German policy of extermination, is utterly
@@ -21,7 +22,7 @@ accompanied every conflict of the 20th century and doubtless
 will continue to do so. During the first World War, the Germans
 were actually accused of eating Belgian babies, as well as
 delighting to throw them into the air and transfix them on
-bayonets. The British also alleged that the German forces were
+bayonets. The <ent type='NORP'>British</ent> also alleged that the German forces were
 operating a "Corpse Factory", in which they boiled down the
 bodies of their own dead in order to obtain glycerine and other
 commodities, a calculated insult to the honor of an Imperial
@@ -53,7 +54,7 @@ race and nationality had its share of suffering in the Second
 World War, but none has so successfully elaborated it and turned
 it to such great advantage. The alleged extent of their
 persecution quickly aroused sympathy for the Jewish homeland
-they had sought for so long; after the War the British
+they had sought for so long; after the War the <ent type='NORP'>British</ent>
 Government did little to prevent Jewish emigration to Palestine
 which they had declared illegal, and it was not long afterwards
 that the Zionists wrested from the Government the land of
@@ -73,8 +74,8 @@ out in compensation by the Federal Government of West Germany,
 mostly to the State of Israel (which did not even exist during
 the Second World War), as well as to individual Jewish
 claimants.</p>
-   <p> DISCOURAGEMENT OF NATIONALISM</p>
-   <p> In terms of political blackmail, however, the allegation that
+      <p> DISCOURAGEMENT OF NATIONALISM</p>
+      <p> In terms of political blackmail, however, the allegation that
 Six Million Jews died during the Second World War has much more
 far-reaching implications for the people of Britain and Europe
 than simply the advantages it has gained for the Jewish nation.
@@ -93,14 +94,14 @@ hammered home by the United Nations until nationhood itself; the
 very guarantee of freedom, is abolished.
 A classic example of the use of the 'Six Million' as an anti-national weapon appears in Manvell and Frankl's book, The
 Incomparable Crime (London, 1967), which deals with 'Genocide in
-the Twentieth Century'. Anyone with a pride in being British
+the Twentieth Century'. Anyone with a pride in being <ent type='NORP'>British</ent>
 will be somewhat supersede by the vicious attack made on the
 British Empire in this book. The authors quote Pandit Nehru, who
-wrote the following while in a British prison in India: "Since
+wrote the following while in a <ent type='NORP'>British</ent> prison in India: "Since
 Hitler emerged from obscurity and became the Fuhrer of Germany,
 we have heard a great deal about racialism and the Nazi theory
 of the "Herrenvolk"...But we in India have known racialism in
-all its forms ever since the commitment of British rule. The
+all its forms ever since the commitment of <ent type='NORP'>British</ent> rule. The
 whole idealogy of this rule was that of the "Herrenvolk" and the
 master race...India as a nation and <ent type='NORP'>Indians</ent> as individuals were
 subjected to insult, humiliation and contemptuous treatment.
@@ -113,8 +114,8 @@ to regarding themselves as a "Herrenvolk". The twentieth
 century, the century of Auschwitz, has also achieved the first
 stage in the recognition of multi-racial partnership" (ibid, p.
 14).</p>
-   <p> THE RACE PROBLEM SUPPRESSED</p>
-   <p> One could scarcely miss the object of this diatribe, with its
+      <p> THE RACE PROBLEM SUPPRESSED</p>
+      <p> One could scarcely miss the object of this diatribe, with its
 insidious hint about "multi-racial partnership". Thus the
 accusation of the Six Million is not only used to undermine the
 principle of nationhood and national pride, but it threatens the
@@ -127,7 +128,7 @@ midst. Unless something is done in Britain to halt the
 immigration and assimilation of <ent type='NORP'>Africans</ent> and Asians into our
 country, we are faced in the near future, quite apart from the
 bloodshed of racial conflict, with the biological alteration and
-destruction of the British people as they have existed since the
+destruction of the <ent type='NORP'>British</ent> people as they have existed since the
 coming of the Saxons. In short, we are threatened with the
 irrecoverable loss of our European culture and racial heritage.
 But what happens if a man dares to speak of the race problem, of
@@ -160,8 +161,8 @@ truth, but towards lifting the burden of a Lie from our own
 shoulders, so that we may freely confront the dangers that
 threaten us all.
 Richard E. Harwood</p>
-   <p> 1) GERMAN POLICY TOWARDS THE JEWS PRIOR TO THE WAR</p>
-   <p> Rightly or wrongly, the Germany of Adolf Hitler considered
+      <p> 1) GERMAN POLICY TOWARDS THE JEWS PRIOR TO THE WAR</p>
+      <p> Rightly or wrongly, the Germany of Adolf Hitler considered
 the Jews to be a disloyal and avaricious element within the
 national community, as well as a force of decadence in Germany's
 cultural life. This was held to be particularly unhealthy since,
@@ -186,8 +187,8 @@ majority of German Jews had emigrated, all of them with a
 sizable proportion of their assets. Never at any time had the
 Nazi leadership even contemplated a policy of genocide towards
 them.</p>
-   <p> JEWS CALLED EMIGRATION 'EXTERMINATION'</p>
-   <p> It is very significant, however, that certain Jews were quick
+      <p> JEWS CALLED EMIGRATION 'EXTERMINATION'</p>
+      <p> It is very significant, however, that certain Jews were quick
 to interpret these policies of internal discrimination as
 equivalent to extermination itself. A 1936 anti-German
 propaganda book by Leon Feuchtwanger and others entitles Der
@@ -202,7 +203,7 @@ of genocide, and special reference is made to the 100 Jews still
 detained in <ent type='LOC'>Dachau</ent> in 1936, of whom 60 had been there since
 1933. A further example was the sensational book by the German-Jewish Communist, Hans Beimler, called Four Weeks in the Hands
 of Hitler's Hell-Hounds: The Nazi Murder Camp at <ent type='LOC'>Dachau</ent>, which
-was published in New York as early as 1933. Detained for his
+was published in <ent type='GPE'>New York</ent> as early as 1933. Detained for his
 Marxist affiliations, he claimed that <ent type='LOC'>Dachau</ent> was a death camp,
 though by his own admission he was released after only a month
 there. The present regime in East Germany now issues a Hans
@@ -223,8 +224,8 @@ Reitlinger admits that between 1934 and 1938 it seldom exceeded
 20000 throughout the whole of Germany, and the number of Jews
 was never more than 3000. (The S.S.: Alibi of a Nation, London,
 1956, p. 253)</p>
-   <p> ZIONIST POLICY STUDIED</p>
-   <p> The Nazi view of Jewish emigration was not limited to a
+      <p> ZIONIST POLICY STUDIED</p>
+      <p> The Nazi view of Jewish emigration was not limited to a
 negative policy of simple expulsion, but was founded along the
 lines of modern Zionism. Theodore Herzl, in his work The Jewish
 State had originally conceived of Madagascar as a national
@@ -242,7 +243,7 @@ The first Nazi proposals for a Madagascar solution were made
 in association with the Schacht Plan of 1938. On the advice of
 Goering, Hitler agreed to send the President of the Reichbank,
 Dr. Hjalmar Schacht, to London for discussions with Jewish
-representatives Lord Bearsted and Mr. Rublee of New York (cf.
+representatives Lord Bearsted and Mr. Rublee of <ent type='GPE'>New York</ent> (cf.
 Reitlinger, The Final Solution, London, 1953, p. 20). The plan
 was that German Jewish assets would be frozen as security for an
 international loan to finance Jewish emigration to Palestine,
@@ -262,7 +263,7 @@ emigration in the Evian Conference of July, 1938. However, by
 1939 the scheme of Jewish emigration to Madagascar had gained
 the most favor in German circles. It is true that in London
 Helmuth Wohltat of the German Foreign Office discussed limited
-Jewish emigration to Rhodesia and British Guiana as late as
+Jewish emigration to Rhodesia and <ent type='NORP'>British</ent> Guiana as late as
 April 1939; but by January 24th, when Goering wrote to Interior
 Minister Frick ordering the creation of a Central Emigration
 Office for Jews, and commissioned Heydrich of the Reich Security
@@ -291,8 +292,8 @@ well into the war period, notably the Madagascar Plan, which
 Eichmann discussed in 1940 with French Colonial Office experts
 after the defeat of France had made the surrender of the colony
 a practical proposition.</p>
-   <p> 2) GERMAN POLICY TOWARDS THE JEWS AFTER THE OUTBREAK OF WAR</p>
-   <p> With the coming of the war, the situation regarding the Jews
+      <p> 2) GERMAN POLICY TOWARDS THE JEWS AFTER THE OUTBREAK OF WAR</p>
+      <p> With the coming of the war, the situation regarding the Jews
 altered drastically. It is not widely known that world Jewry
 declared itself to be a belligerent party in the Second World
 War, and therefore there was ample basis under international law
@@ -304,8 +305,8 @@ will fight on the side of the democracies...The Jewish Agency is
 ready to enter into immediate arrangements for utilizing Jewish
 manpower, technical ability, resources ect..." (Jewish Chronicle
 September 8, 1939)</p>
-   <p> DETENTION OF ENEMY ALIENS</p>
-   <p> All Jews had thus been declared agents willing to prosecute a
+      <p> DETENTION OF ENEMY ALIENS</p>
+      <p> All Jews had thus been declared agents willing to prosecute a
 war against the German Reich, and as a consequence, Himmler and
 Heydrich were eventually to begin the policy of internment. It
 is worth noting that the United states and Britain had already
@@ -313,10 +314,10 @@ interned all <ent type='NORP'>Japanese</ent> aliens and citizens of <ent type='N
 detention camps before the Germans applied the same security
 measures against the Jews of Europe. Moreover, there had been no
 such evidence or declaration of disloyalty by these <ent type='NORP'>Japanese</ent>
-Americans as had been given by Weizmann. The British, too,
+Americans as had been given by Weizmann. The <ent type='NORP'>British</ent>, too,
 during the Boer War, interned all the women and children of the
 population and thousands died as a result, yet in no sense could
-the British be charged with wanting to exterminate the Boers.
+the <ent type='NORP'>British</ent> be charged with wanting to exterminate the Boers.
 The detention of the Jews in the occupied territories of
 Europe served two essential purposes from the German viewpoint.
 The first was to prevent unrest and subversion; Himmler had
@@ -363,8 +364,8 @@ plan to exterminate millions of people in them. It was the
 function of the S.S. Economy and Administration Office, headed
 by Oswald Pohl, to see that the concentration camps became major
 industrial producers.</p>
-   <p> EMIGRATION STILL FAVORED</p>
-   <p> It is a remarkable fact, however, that well into the war
+      <p> EMIGRATION STILL FAVORED</p>
+      <p> It is a remarkable fact, however, that well into the war
 period, the Germans continued to implement the policy of Jewish
 emigration. The fall of France in 1940 enabled the German
 Government to open serious negotiations with the French for the
@@ -442,7 +443,7 @@ be believed, there were scarcely one million Jews left by May,
 would greatly inconvenience the German war-effort, but were
 prepared to allow it in exchange for 10000 trucks to be used
 exclusively on the <ent type='NORP'>Russian</ent> front. Unfortunately, the plan came
-to nothing; the British concluded that Brand must be a dangerous
+to nothing; the <ent type='NORP'>British</ent> concluded that Brand must be a dangerous
 Nazi agent and immediately imprisoned him in Cairo, while the
 Press denounced the offer as a Nazi trick. Winston Churchill,
 though orating to the effect that the treatment of the Hungarian
@@ -454,8 +455,8 @@ Although the plan was fruitless, it well illustrates that no one
 allegedly carrying out "thorough" extermination would permit the
 emigration of a million Jews, and it demonstrates, too, the
 prime importance placed by the Germans on the war-effort.</p>
-   <p> 3) POPULATION AND EMIGRATION</p>
-   <p> Statistics relating to Jewish populations are not everywhere
+      <p> 3) POPULATION AND EMIGRATION</p>
+      <p> Statistics relating to Jewish populations are not everywhere
 known in precise detail, approximation for various countries
 differing widely, and it is also unknown exactly how many Jews
 were deported and interned at any one time between the years
@@ -472,7 +473,7 @@ Jewish statistical data, establishes that between 1933 and 1945,
 1500000 Jews emigrated to Britain, Sweden, Spain, Portugal,
 Australia, China, India, Palestine and the United States. This
 is confirmed by the Jewish journalist Bruno Blau, who cites the
-same figure in the New York Jewish paper Aufbau, August 13th,
+same figure in the <ent type='GPE'>New York</ent> Jewish paper Aufbau, August 13th,
 1948. Of these emigrants, approximately 400000 came from
 Germany before September 1939. This is acknowledged by the World
 Jewish Congress in its publication Unity in Dispersion (P. 3778)
@@ -510,8 +511,8 @@ escaped the consequences of the war. According to the 1942 World
 Almanac (p. 594) the number of Jews living in Gibraltar,
 Britain, Portugal, Spain, Sweden. Switzerland, Ireland and
 Turkey was 413128.</p>
-   <p> 3 MILLION JEWS IN EUROPE</p>
-   <p> A figure consequently, of around 3 million Jews in German-occupied Europe is as accurate as the available emigration
+      <p> 3 MILLION JEWS IN EUROPE</p>
+      <p> A figure consequently, of around 3 million Jews in German-occupied Europe is as accurate as the available emigration
 statistics will allow. Approximately the same number, however,
 can be deduced in another way if we examine statistics for the
 Jewish populations remaining in countries occupied by the Reich.
@@ -554,8 +555,8 @@ million. This excess is due to the fact that the latter figures
 are pre-war estimates unaffected by emigration, which from these
 countries accounted for about 120000 (see above). This cross-checking, therefore, confirms the estimate of approximately 3
 million Jews under German occupation.</p>
-   <p> RUSSIAN JEWS EVACUATED</p>
-   <p> The precise figures concerning <ent type='NORP'>Russian</ent> Jews are unknown, and
+      <p> RUSSIAN JEWS EVACUATED</p>
+      <p> The precise figures concerning <ent type='NORP'>Russian</ent> Jews are unknown, and
 have therefore been the subject of extreme exaggeration. The
 Jewish statistician Jacob Leszczynski states that in 1939 there
 were 2100000 Jews living in future German-occupied Russia,
@@ -583,8 +584,8 @@ hundred thousand persons were killed by the German Action Groups
 as partisans and Bolshevik commissars, not all of whom were
 Jews. By contrast, the partisans themselves claimed to have
 murdered five times that number of German troops.</p>
-   <p> "SIX MILLION" UNTRUE ACCORDING TO NEUTRAL SWISS</p>
-   <p> It is clear, therefore, that the Germans could not have
+      <p> "SIX MILLION" UNTRUE ACCORDING TO NEUTRAL SWISS</p>
+      <p> It is clear, therefore, that the Germans could not have
 possibly have gained control over or exterminated anything like
 six million Jews. Excluding the Soviet Union, the number of Jews
 in Nazi-occupied Europe after emigration was scarcely more than
@@ -612,16 +613,16 @@ survivors after the war, but we shall show that the numbers of
 claims for compensation by Jewish survivors is more than
 double that figure. This information was not available to the
 Swiss in 1946.</p>
-   <p> IMPOSSIBLE BIRTH RATE</p>
-   <p> Indisputable evidence is also provided by the post-war world
+      <p> IMPOSSIBLE BIRTH RATE</p>
+      <p> Indisputable evidence is also provided by the post-war world
 Jewish population statistics. The World Almanac of 1938 gives
 the number of Jews in the world as 16588259. But after the
-war, the New York Times, February 22nd, 1948 placed the number
+war, the <ent type='ORG'>New York Times</ent>, February 22nd, 1948 placed the number
 of Jews in the world at a minimum of 15600000 and a maximum of
 18700000. Quite obviously, these figures make it impossible
 for the number of Jewish war-time casualties to be measured in
 anything but thousands. 15 1/2 million in 1939 minus the alleged
-six million leaves nine million; the New York Times figures
+six million leaves nine million; the <ent type='ORG'>New York Times</ent> figures
 would mean, therefore, that the world's Jews produced seven
 million births, almost doubling their numbers, in the space of
 ten years. This is patently ridiculous!
@@ -632,7 +633,7 @@ before, during and after the war. And emigrants also, in vast
 numbers to Palestine during and especially at the end of the
 war. After 1945, boat-loads of these Jewish survivors entered
 Palestine illegally from Europe, causing considerable
-embarrassment to the British Government at the time; indeed, so
+embarrassment to the <ent type='NORP'>British</ent> Government at the time; indeed, so
 great were the numbers that the H.M. Stationary Office
 publication No. 190 (November 5th, 1946) described them as
 "almost amounting to a second Exodus." It was these emigrants to
@@ -652,7 +653,7 @@ quota visas for central and eastern Europe were issued to the
 uprooted."
 Reprinted on this page [in the booklet] is just one extract
 from hundreds that regularly appear in the obituary columns of
-Aufbau, the Jewish American weekly published in New York (June
+Aufbau, the Jewish American weekly published in <ent type='GPE'>New York</ent> (June
 16th, 1972). It shows how Jewish emigrants to the United States
 subsequently changer their names: their former names when in
 Europe appear in bracket. For example, as below, Arthur Kingsley
@@ -662,7 +663,7 @@ in the missing six million of Europe?
 -----------------------
 Am 30 Janur 1972 verschied mein herzensguter Mann, unser
 geliebter Vater und Grossvater</p>
-   <p> ARTHUR KINGSLEY
+      <p> ARTHUR KINGSLEY
 (Fruher Dr. Konigsberger. Frankfort/Main)
 drei Woohen vor seinem 90. Geburtstag.
 In tiefer Trauer:
@@ -678,9 +679,9 @@ Anne and Martin Kingsley
 232 <ent type='LOC'>Sunset</ent> Drive
 Wilmette Ill. 60691
 Nina and Ronnie</p>
-   <p> [ad as it is reproduced in the article]
+      <p> [ad as it is reproduced in the article]
 4) THE SIX MILLION: DOCUMENTARY EVIDENCE</p>
-   <p> From the foregoing it would seem certain that the figure of
+      <p> From the foregoing it would seem certain that the figure of
 six million murdered Jews amounts to nothing more than a vague
 compromise between several quite baseless estimates; there is
 not a shred of documentary evidence for it that is trustworthy.
@@ -697,7 +698,7 @@ Committee favors 5012000, but the Jewish "expert" Reitlinger
 suggests a novel figure of 4192000 "missing Jews" of whom an
 estimated one third died of natural causes. This would reduce
 the number deliberately "exterminated" to 2796000. However,
-Dr. M. Perlzweig, the New York delegate to a World Jewish press
+Dr. M. Perlzweig, the <ent type='GPE'>New York</ent> delegate to a World Jewish press
 conference held at Geneva in 1948 stated: "The price of the
 downfall of National Socialism and Fascism is the fact that seven
 million Jews lost their lives thanks to cruel Anti-Semitism." In
@@ -705,11 +706,11 @@ the Press and elsewhere, the figure is often casually lifted to
 eight million or sometimes even nine million. As we have proved
 in the previous chapter, none of these figures are in the
 remotest degree plausible, indeed, they are ridiculous.</p>
-   <p> FANTASTIC EXAGGERATIONS</p>
-   <p> So far as is known, the first accusation against the Germans
+      <p> FANTASTIC EXAGGERATIONS</p>
+      <p> So far as is known, the first accusation against the Germans
 of mass murder of Jews in war-time Europe was made by the Polish
 Jew Rafael Lemkin in his book Axis Rule in Occupied Europe,
-published in New York in 1943. Somewhat coincidentally, Lemkin
+published in <ent type='GPE'>New York</ent> in 1943. Somewhat coincidentally, Lemkin
 was later to draw up the U.N. Genocide Convention, which seeks
 to outlaw "racialism". His book claimed that the Nazis had
 destroyed millions of Jews, perhaps as many as six millions.
@@ -777,8 +778,8 @@ the whole of the latter period of the war, and it is therefore
 very odd indeed that he never gave the slightest hint to the
 Americans of a policy to murder Jews, even though he worked
 directly under Heydrich and Eichmann.</p>
-   <p> ABSENCE OF EVIDENCE</p>
-   <p> It should be emphasized straight away that there is not a
+      <p> ABSENCE OF EVIDENCE</p>
+      <p> It should be emphasized straight away that there is not a
 single document in existence which proves that the Germans
 intended to, or carried out, the deliberate murder of Jews. In
 Poliakov and Wulf's Das Dritte Reich und die Juden: Dokumente
@@ -845,8 +846,8 @@ is what the memorandum is really about. Again, of course, the
 "was made known to Heydrich by Goering verbally" (ibid p. 118).
 The convenience of these "verbal" directives issuing back and
 forth is obvious.</p>
-   <p> THE WANNSEE CONFERENCE</p>
-   <p> The final details of the plan to exterminate Jews were
+      <p> THE WANNSEE CONFERENCE</p>
+      <p> The final details of the plan to exterminate Jews were
 supposedly to have been made at a conference at Gross Wannsee in
 Berlin on 20th January 1942, presided over by Heydrich
 (Poliakov, Das Dritte Reich und die Juden, p. 1220 ff.
@@ -891,8 +892,8 @@ According to Reitlinger, and others, innumerable directives
 actually specifying extermination then passed between Himmler,
 Heydrich, Eichmann and Commandant Hoess in the subsequent months
 of 1942, but of course, "none have survived".</p>
-   <p> TWISTED WORDS AND GROUNDLESS ASSUMPTIONS</p>
-   <p> The complete lack of documentary evidence to support the
+      <p> TWISTED WORDS AND GROUNDLESS ASSUMPTIONS</p>
+      <p> The complete lack of documentary evidence to support the
 existence of an extermination plan has led to the habit of re-interpreting the documents that do survive. For example, it is
 held that a document concerning deportation is not about
 deportation at all, but a cunning way of talking about
@@ -924,4 +925,5 @@ Contemporary Jewish Documentation at Tel-Aviv. Attempts to find
 Himmler's to his S.S. Obergruppenfuhrers at Posen in 1943 are
 likewise hopeless. Nuremberg statements extracted after the war,
 invariably under duress, are examined in the following chapter. </p>
-</div>
+   </div>
+</xml>

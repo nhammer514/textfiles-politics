@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>To USSR-L subscribers,
+<xml>
+   <div class="article">
+      <p>To USSR-L subscribers,
 There have been some postings lately asking what SOVSET is and
 who it serves. In general it would not be proper to copy
 SOVSET's material and distribute in USSR-L, since SOVSET is
@@ -8,11 +9,11 @@ a service subscribers pay for. In the case of the following
 article, which was posted by SOVSET today (Nov. 13), I own the
 copyright. I am posting it on USSR-L partly to give you an idea
 of the material carried by SOVSET.</p>
-   <p>Darrell Hammer</p>
-   <p> WRITING A NEW RUSSIAN CONSTITUTION</p>
-   <p> Darrell P. Hammer
-Indiana University</p>
-   <p> In June the newly elected Congress of People's Deputies of
+      <p>Darrell Hammer</p>
+      <p> WRITING A NEW RUSSIAN CONSTITUTION</p>
+      <p> Darrell P. Hammer
+<ent type='NORP'>Indiana</ent> University</p>
+      <p> In June the newly elected Congress of People's Deputies of
 the RSFSR resolved to write a new constitution for the republic,
 and appointed a constitutional commission of 100 members under
 the chairmanship of Boris Eltsin.[1] The commission promptly
@@ -35,7 +36,7 @@ left to be resolved by the constitutional commission. The
 experts were unable to agree on two important points, the nature
 of the Presidential office, and the electoral system.
 BASIC PRINCIPLES
-The working draft solemnly proclaims the Russian Federation
+The working draft solemnly proclaims the <ent type='NORP'>Russian</ent> Federation
 to be a sovereign state, repeating the language of the
 Declaration on Sovereignty adopted by the first Congress of
 People's Deputies.[3] Since the RSFSR was already "sovereign"[4]
@@ -86,7 +87,7 @@ obrazovanie), without defining this term. It offers the
 individual "social protection against unemployment" but it does
 not guarantee everyone a job.
 As in the Declaration on Sovereignty, the draft provides that
-citizens are under the protection of the Russian Federation, both
+citizens are under the protection of the <ent type='NORP'>Russian</ent> Federation, both
 on its territory and outside its borders.
 The draft provides for procedural rights in language much
 like that of the U. S. Constitution. It protects accused persons
@@ -151,7 +152,7 @@ can, through a referendum, transform itself into a republic, and
 any republic can become a territory. The draft lists twenty-four
 functions which are reserved to the federation, and of these the
 following are of special interest:
-1. Preserving the unity of an all-Russian market.
+1. Preserving the unity of an all-<ent type='NORP'>Russian</ent> market.
 2. Control over natural resources.
 3. Managing the money supply, including foreign currency.
 4. Foreign policy and inter-state relations.
@@ -162,7 +163,7 @@ following are of special interest:
 9. Defense and the armed forces, security services and
 federal police.
 These are all functions which now belong to the all-union
-government. If they are in fact assumed by the Russian republic,
+government. If they are in fact assumed by the <ent type='NORP'>Russian</ent> republic,
 the adoption of this constitution would mean the disappearance of
 the USSR as we know it. In addition, the draft provides that the
 federation has jurisdiction in criminal law, as at present. In
@@ -173,10 +174,10 @@ This provision follows the present model, where the all-Union
 Supreme Soviet enacts "fundamental laws" but the drafting of
 codes is left to the union republics.[9]
 The USSR is never mentioned in the working draft. However,
-the document provides that the Russian Federation can voluntarily
+the document provides that the <ent type='NORP'>Russian</ent> Federation can voluntarily
 enter into a commonwealth or union with other sovereign states.
-The Russian Federation would reserve to itself the right to
-secede from any such union. The Russian language is to be the
+The <ent type='NORP'>Russian</ent> Federation would reserve to itself the right to
+secede from any such union. The <ent type='NORP'>Russian</ent> language is to be the
 official language of the federation. Every subject, however, can
 choose a different official language for its own territory.
 THE ORGANIZATION OF THE STATE
@@ -316,7 +317,7 @@ formally adopted if two-thirds of the subjects agree to
 ratification.
 CONCLUSION
 This working draft is more than a constitution. It is also a
-declaration of independence. The Russian Federation, operating
+declaration of independence. The <ent type='NORP'>Russian</ent> Federation, operating
 under this proposed constitution, would be an independent and
 sovereign state. Even if the federation chose to exercise its
 right to enter into a commonwealth, the resulting union would
@@ -327,7 +328,7 @@ constitution before the all-union constitutional commission
 finishes its work. However, the draft is far too long for an
 effective constitution. Large sections of the document could be
 left for enactment by the new parliament, as organic law.
-Before it finishes its work, the Russian commission must
+Before it finishes its work, the <ent type='NORP'>Russian</ent> commission must
 decide what kind of presidency it wants. It ought to give
 consideration to a third model--the German model, where the
 President is only a ceremonial head of state and real executive
@@ -367,4 +368,5 @@ Constitutional Court, and there is a second version of this
 section which omits any mention of that court. In the second
 version, the Supreme Court rather than the Constitutional Court
 would be involved in the impeachment process.</p>
-</div>
+   </div>
+</xml>

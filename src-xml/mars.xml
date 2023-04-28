@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>FILE: MARS.TXT
+<xml>
+   <div class="article">
+      <p>FILE: MARS.TXT
 AUTHOR: David <ent type='PERSON'>Reynolds</ent>
 DATE: 03-01-88
 SUBJECT: Excerpt from the book The Truth About Mars
@@ -8,13 +9,13 @@ SUBJECT: Excerpt from the book The Truth About Mars
 ORIGIN OF UPLOAD: SAN DIEGO
 CONTRIBUTED BY: David <ent type='PERSON'>Reynolds</ent>/ UNARIUS
 ==================================================</p>
-   <p> THE TRUTH ABOUT MARS</p>
-   <p>copyright 1956</p>
-   <p>by Dr. Ernest L. Norman</p>
-   <p>Excerpts from the book.</p>
-   <p>___________________</p>
-   <p> INTRODUCTION</p>
-   <p>For centuries before spacecraft transformed our under-standing
+      <p> THE TRUTH ABOUT MARS</p>
+      <p>copyright 1956</p>
+      <p>by Dr. Ernest L. Norman</p>
+      <p>Excerpts from the book.</p>
+      <p>___________________</p>
+      <p> INTRODUCTION</p>
+      <p>For centuries before spacecraft transformed our under-standing
 of the solar system, almost all the planets were believed, with
 varying degrees of conviction, to be inhabited. This belief conformed
 to the Copernican world view, in which Earth is not unique among the
@@ -24,17 +25,17 @@ face of it - and from the beginning the search for life on Mars became
 a major goal of the United States' Space Program. The result was the
 historic series of spacecraft that began with MARINER 4, in 1965, and
 ended with VIKINGS 1 &amp; 2, in 1976.</p>
-   <p>The dawning of the Space Age is a material event, occurring in
+      <p>The dawning of the Space Age is a material event, occurring in
 the latter part of the 20th Century, and as the description that
 follows is a result of a developed mental means of communication, it
 strengthens the understanding of this means of communication as being
 the real and more apparent factor in the transference of energy from
 point to point.</p>
-   <p>Dr. Ernest L. Norman is the progenitor and a mental giant,
+      <p>Dr. Ernest L. Norman is the progenitor and a mental giant,
 writing from the higher statement of a full consciousness of the
 reality of the mind as a cosmic centrifuge. This is the first book
 written by him in 1955, inaugurating the Unarius Academy of Science.</p>
-   <p>In this small but important book, a first, Dr. Norman extends the
+      <p>In this small but important book, a first, Dr. Norman extends the
 present knowledge of life on our close companion planet Mars, which
 has all of the basic biological and geological conditions for the
 evolutionary development of life forms, including Homo sapiens. He
@@ -47,29 +48,29 @@ this planet. This enigma has been tantalizing the minds of humankind
 for hundreds of years, that has occasioned a series of narrations over
 the years, titillating the imagination of mankind throughout
 civilizations up until the present time.</p>
-   <p>The importance of this booklet is that the mind, man's enigma,
+      <p>The importance of this booklet is that the mind, man's enigma,
 can reveal the power existent, to apply in all ways necessary for the
 progressive development of any individual so desirous of expanding the
 central intelligence of himself in his relationship to the apparency
 and to the vitality of society on this and other earth planets.</p>
-   <p>For this reason, Dr. Norman, as an Elder Brother, pointed the way
+      <p>For this reason, Dr. Norman, as an Elder Brother, pointed the way
 for aspiring mankind to overcome the limitations of his narrow
 confinement in the material sectors of life, as is the present
 pioneering efforts of our scientific community through the auspices of
 the United States National Aeronautics &amp; Space Administration.</p>
-   <p>The expository nature of Dr. Norman's description of the reality
+      <p>The expository nature of Dr. Norman's description of the reality
 of human life, living underground, is a vital teaching, not only of
 the magnanimous nature of man in overcoming the limitations of his
 material environment, but also of the reality of the interplanetary
 life of Homo sapiens!</p>
-   <p>The data now being collated by the many thousands of computer-enhanced images from the ZINC probes are validating the pre-history of
+      <p>The data now being collated by the many thousands of computer-enhanced images from the ZINC probes are validating the pre-history of
 Mars as an integrated and formed world of an ancient civilization.
 However, it will not be until Earth humans land on Mars that the
 evidence of Martian society will be known and accepted. The computer-enhanced image revealing a 'face on Mars', is capturing the interest
 of many people, including those in the scientific sector; a prelude to
 the buildup of further hard data, revealing the evidence of the ruins
 of ancient, advanced civilizations in the Cydonia region of Mars.</p>
-   <p>All of the precluding is the material evidence necessary for
+      <p>All of the precluding is the material evidence necessary for
 those who do not have second sight or who have not developed the
 mechanics of their third eye, with the reality of their sixth, seventh
 and higher senses. But this should not deter anyone, and in fact, is
@@ -78,23 +79,23 @@ capacity in that he too, can communicate through his sixth and higher
 senses. This so-called 'telepathy' a principle of frequency and
 harmonics, will reveal to him the evidence of the evolutionary design
 of life on companion earth planets.</p>
-   <p>The exploration of Mars is in this sense, the first phase of
+      <p>The exploration of Mars is in this sense, the first phase of
 reawakening mankind to the reality of the expanding universe, right in
 his own backyard, in his own solar system. The reality is that earth
 planets are abundant in our Milky Way Galaxy. The reality is that man
 has communicated via spacecraft and is continuing to communicate with
 the denizens of this planet through telecommunication or mental means,
 -the normal methods of communication of advanced Space Brothers.</p>
-   <p>With all of this, of course, is the other reality! Present Earth
+      <p>With all of this, of course, is the other reality! Present Earth
 history has not revealed the true story of man's past, and the reasons
 why technology has outdistanced the knowledge of man's humanity to his
 fellowman and of his creative spirituality.</p>
-   <p>You will therefore read in this booklet that the Martian people
+      <p>You will therefore read in this booklet that the Martian people
 are wiser in their knowledge of their inherent human nature and
 practice this cosmic principle in their society. War is not a factor
 to disrupt their peaceful existence, and science and technology
 functions equally balanced with man's spiritual coefficient.</p>
-   <p>The picture that emerges is of earthman beginning to realize that
+      <p>The picture that emerges is of earthman beginning to realize that
 he has the capacity to leave his nest, to move out into the stars and
 regain his lost heritage, the birthright which has always been the
 objective and purpose for his being. Essentially, life's purpose is to
@@ -102,7 +103,7 @@ advance one's knowledge of the principle of evolution, to integrate
 these evolutionary principles, using both the material technology and
 the spiritual technology, thus advancing both man and society on an
 upward and intelligent, progressive evolution.</p>
-   <p>Dr. Ernest L. Norman is the Cofounder of the Unarius Educational
+      <p>Dr. Ernest L. Norman is the Cofounder of the Unarius Educational
 Foundation. From 1954 to 1971, with his wife, Ruth Norman, he
 pioneered the teaching of Interdimensional Physics, explaining the
 evolutionary nature of atoms and man, planets and solar systems,
@@ -110,52 +111,52 @@ galaxies and universes. He authored the first twenty texts of the
 curriculum of the Unarius Academy of Science - teachings which explain
 the unified field theory - quantum mechanics, and the present theory
 of Superstrings!</p>
-   <p>Dr. Norman as one who has attained Cosmic Consciousness, is an
+      <p>Dr. Norman as one who has attained Cosmic Consciousness, is an
 example of his teachings. Today, through the efforts of Ruth Norman
 (Uriel) the present Director of the Unarius Academy of Science, the
 curriculum has expanded to over 100 texts, adding immense knowledge to
 the reality of Consciousness and of its continuity after the
 completion of the cycle of physical life (or death).</p>
-   <p>The account of Dr. Norman's psychic trip to Mars proves the
+      <p>The account of Dr. Norman's psychic trip to Mars proves the
 science of fourth dimensional physics - the principle of mental
 attunement. It is hoped that the reader will continue in his desire to
 advance himself as well, to attain those abilities that lie within but
 needs to be called to his attention and developed.</p>
-   <p>In 1977, Ruth Norman tuned in psychically to the underground
+      <p>In 1977, Ruth Norman tuned in psychically to the underground
 cities on planet Mars, in thirty-three separate visions. This book
 titled THE UNDERGROUND CITIES OF MARS is a continuation and
 explanation of the truth about Mars, as it includes the realizations
 and flashbacks presented in the testimonials of persons who remembered
 their own experiences when they contacted the Martian civilization.</p>
-   <p>This work is an exciting and telling account of the
+      <p>This work is an exciting and telling account of the
 interplanetary contact of Earth and Mars, knowledge which will
 validate the reality of interplanetary travel and of the
 extraterrestrial nature of earth civilizations.
 El Cajon, California
 March 11988
 </p>
-   <p>A Word About the Author</p>
-   <p>Just fifty years ago in a small town in northern Utah, Ernest L.
+      <p>A Word About the Author</p>
+      <p>Just fifty years ago in a small town in northern Utah, Ernest L.
 Norman made his debut into this planet Earth. It was apparent right
 from the first that he was an unusual child. His mother nearly died in
 the process of his introduction, because of the abnormally large head.
 It is said he had the body of an eight pound child, but weighed over
 twelve pounds!</p>
-   <p>Before he was hardly two, he was experimenting with writing and
+      <p>Before he was hardly two, he was experimenting with writing and
 long before he went to school for the first time, he was quite
 familiar with the English language; so much so, he was reading his
 father's Library. His father, incidentally, was a very learned man, of
 royal Norwegian descent and had degrees in law, psychology, physiology
 and phrenology.</p>
-   <p>The author was the fifth of eight boys and girls, all strong lads
+      <p>The author was the fifth of eight boys and girls, all strong lads
 and lassies and it was quite natural for them to resent having a
 brother who was so studious.</p>
-   <p>At the tender age of five he constructed his first microscope
+      <p>At the tender age of five he constructed his first microscope
 using the eyepiece section from his father's telescope, and by
 inserting it in a wooden frame made from a cigar box and a small piece
 of mirror, he was able to count the hairs on earthworms. The Truth
 About Mars</p>
-   <p>At the age of six he performed an unusual and prodigious feat.
+      <p>At the age of six he performed an unusual and prodigious feat.
 Using his knowledge of Archimedean laws of fulcrums, levers and
 rollers, he moved an 8 x 12 foot coal shed containing one-half a ton
 of coal over a distance of approximately 200 feet, through an apple
@@ -164,47 +165,47 @@ This feat took him about three weeks to accomplish and was one which
 would have taxed the strength and endurance of a strong man. This
 accomplishment was carefully noted day by day, by his father who would
 boastingly report the progress made to the townspeople.</p>
-   <p>It was also at this early period of life, that he constructed a
+      <p>It was also at this early period of life, that he constructed a
 rabbit hutch which was vastly superior in design and workmanship to
 one constructed by an adult neighbor more than six times his age. This
 he did, using old rusted out, discarded tools.</p>
-   <p>Another time, at the age of seven, he bested his father in an
+      <p>Another time, at the age of seven, he bested his father in an
 argument i.e., that all energy was electronic. At present he is
 completely vindicated inasmuch as science today is resolving into this
 conclusion.</p>
-   <p>During his early teens-age years in junior and senior high
+      <p>During his early teens-age years in junior and senior high
 school, he established several new "high water" marks in biology,
 genetics, science, etc., and won several noteworthy citations as well
 as attracting some interest from his teachers.</p>
-   <p>It is estimated that at the age of fourteen, he had a vocabulary
+      <p>It is estimated that at the age of fourteen, he had a vocabulary
 of about sixty thousand words! It was easy to see then, that this boy,
 who in winter time read almost continuously or dreamed the summer away
 watching nature, had not wasted or played his time away as most lads
 are wont to do.</p>
-   <p>At the age of seventeen, his family moved to California and
+      <p>At the age of seventeen, his family moved to California and
 temporarily, at least, formal school was finished. But he persisted,
 even taking night classes in various subjects. At the age of twenty-three, and just before the depression, he married and remained so for
 fourteen years.</p>
-   <p>During this time, he became very active in radio and electronics.
+      <p>During this time, he became very active in radio and electronics.
 It was his wife who always said they had the best radios in the
 neighborhood and they were always hand constructed.</p>
-   <p>After World War Two, he devoted himself to his lifetime dream,
+      <p>After World War Two, he devoted himself to his lifetime dream,
 metaphysics, and became an ordained minister in an occult science
 church. From the very start, in this work, it became evident he
 possessed an outstanding clairvoyant development and, during the war
 years, demonstrated this talent not only in churches and lecture
 halls, but in almost any place opportunity presented itself and
 achieved no small measure of fame in this capacity.</p>
-   <p>However, it is his ambition at this time and has been for many
+      <p>However, it is his ambition at this time and has been for many
 years, to fill in the gaps in our scientific and spiritual
 philosophies of the world, and to set up a new and integrated
 philosophy of life.</p>
-   <p>With this most outstanding ability of clairvoyance, coupled with
+      <p>With this most outstanding ability of clairvoyance, coupled with
 a tremendous grasp of scientific knowledge, he is very humble and
 unpretentious, refusing to attach the stigma of self to whatever comes
 through the channel of his mind and is ever aware of attunement with
 the Superconscious.</p>
-   <p>On the forehead of the author is a large welt, in a perfect
+      <p>On the forehead of the author is a large welt, in a perfect
 raised circle. This becomes activated at times when he is inspired or
 attuned, as though it is a necessary factor in making contact,
 mentally, with the intelligences of other dimensions or on other
@@ -215,7 +216,7 @@ points of great interest in showing that he is indeed a most unusual
 soul, mentally and spiritually and has reached a very rare, if ever
 duplicated, state of consciousness through his countless thousands of
 lifetimes of endeavor in these fields.</p>
-   <p>Many very miraculous healings have come through Dr. Norman. His
+      <p>Many very miraculous healings have come through Dr. Norman. His
 conscious mind is able to contact the Superconscious which can tune
 into the past experiences and past lives of the individuals to
 actually locate and view the experience in a former life which is
@@ -223,17 +224,17 @@ responsible for the present illness; thus being able to eliminate or
 neutralize the impinging vortex from the psychic body of the
 individual by mental and spiritual means. Many wonderful healings and
 permanent cures have thusly been achieved.</p>
-   <p>The Spiritual Science of Unarius which is used is not one of
+      <p>The Spiritual Science of Unarius which is used is not one of
 happenstance or guesswork but his ability to tap, in a scientific way,
 the energies of the Infinite. Just so surely, those same powers and
 energies are ever present to keep us well, vital and at peace when we
 align ourselves into them.
 </p>
-   <p>Ruth E. Norman
+      <p>Ruth E. Norman
 </p>
-   <p> ______________</p>
-   <p>PREFACE</p>
-   <p>A few months ago the astronomical and astrophysical world was
+      <p> ______________</p>
+      <p>PREFACE</p>
+      <p>A few months ago the astronomical and astrophysical world was
 tremendously excited by the approaching conjunction of the earth with
 the planet. Mars. (This article being written in May, 1955, refers to
 the conjunction of Mars with the earth at the turn of the year 1954 to
@@ -248,7 +249,7 @@ more confused than ever. In an over-all sense, it can be said that
 they arrived at no definite conclusion whatever nor will any new
 conclusions that may be arrived at have, by the same token, any more
 validity than the original concepts (see addenda).</p>
-   <p>Therefore any new attempt at visualizing life or the canals on
+      <p>Therefore any new attempt at visualizing life or the canals on
 Mars resolves into the realm of clairvoyance and not by the making of
 bigger and more powerful telescopes. The two hundred inch telescope at
 Mt. Palomar has, in a sense, merely increased the size of the Universe
@@ -256,7 +257,7 @@ for man rather than brought it closer to him. Now, just in case the
 term clairvoyant should arouse any antagonism or question in some
 persons, let us digress a moment to explain just what is meant by the
 word clairvoyance.</p>
-   <p>Clairvoyance (or the development of the sixth sense) is only
+      <p>Clairvoyance (or the development of the sixth sense) is only
 another word for extrasensory perception taking place within the
 consciousness of man rather than through the reactionary physical
 senses such as physical sight, hearing, smell, touch and taste.
@@ -270,7 +271,7 @@ and organizations, national and international, whose many years of
 work have proven beyond a doubt that man does have, and can also
 develop, this extra sense or clairvoyance, sometimes called the sixth
 sense.</p>
-   <p>Any doubting Thomas can, if he is open minded enough, find in a
+      <p>Any doubting Thomas can, if he is open minded enough, find in a
 short time, an overwhelming mass of evidence to support this truth. In
 an advanced state of clairvoyance, an individual sees and lives in a
 state of consciousness which "tunes" him in, as it were, to past or
@@ -279,13 +280,13 @@ an awareness or consciousness is almost as real as the everyday
 objects around him. Any particular electrical or mechanical device,
 such as the television set will demonstrate to some extent the nature
 of this conception.</p>
-   <p>A savage in the jungle would immediately be confounded were he
+      <p>A savage in the jungle would immediately be confounded were he
 presented with the appearance of some of our every day appliances. He
 would quite likely, in his failure to understand or conceive, throw up
 his hands and deny the whole thing. He would, in a sense, be like the
 farmer who saw the giraffe for the first time, exclaiming that "there
 is no such animal!"</p>
-   <p>It is, as it has always been, the great lack of ability to form
+      <p>It is, as it has always been, the great lack of ability to form
 new concepts which has always caused man to throw up his hands, and
 cry out loudly against the appearance of any new thought, or
 mechanical or electrical contrivance. This is also quite true of most
@@ -294,7 +295,7 @@ chemistry or of astronomy. Therefore it is up to individuals who have
 developed this extra sense or clairvoyance, to fill in the obvious
 gaps in our many branches of science as well as in some of the more
 firmly established spiritual concepts.</p>
-   <p>In writing an article of this kind, no effort is being made to
+      <p>In writing an article of this kind, no effort is being made to
 prove what I have found and believe is true. Truth is entirely
 independent of the individual. After my thirty five years of active
 research in the fields of electronics, physics, astrophysics,
@@ -311,10 +312,10 @@ state entered into, maintaining conscious continuity and being able to
 quote at the time, just what is taking place both audibly and visibly,
 at all times.
 </p>
-   <p>_____________________________</p>
-   <p>CONTACT WITH PLANET MARS
+      <p>_____________________________</p>
+      <p>CONTACT WITH PLANET MARS
 </p>
-   <p>Since the dawn of time and the beginning of man's history on this
+      <p>Since the dawn of time and the beginning of man's history on this
 planet, the starry skies have always been something of not only great
 and wondrous beauty, but also filled with mystery and awe. The
 histories of the ancient times contain numerous references to the sun,
@@ -326,7 +327,7 @@ conjecture as to life and the existence of man in some form on some of
 these bright specks of light. This 'is especially true of the moon and
 of the planets of our solar system. Men like Copernicus, Galileo,
 Plato, etc., all speculated on this possibility.</p>
-   <p>During the last twenty-five years or so, there has been a
+      <p>During the last twenty-five years or so, there has been a
 tremendous impetus given to astronomical interests; perhaps this is
 partly due to the approach of the conclusion of a great cycle and the
 actual beginning of the Aquarian age. There are numerous monthly
@@ -339,13 +340,13 @@ through my father's telescope (which was of very modest power) at the
 moon or other bright points of interest; winter nights would often be
 devoted to pouring over any book or article containing anything of
 astronomical nature.</p>
-   <p>It was not, however, until the close of World War II and the
+      <p>It was not, however, until the close of World War II and the
 sudden influx of flying saucer stories, that time and circumstances
 permitted resuming this fascinating subject. Along with
 metaphysical work which I did both in churches and independently, the
 planets, space travel, etc., all became an integrated part of this
 work.</p>
-   <p>It was inevitable that sooner or later I should actually take a
+      <p>It was inevitable that sooner or later I should actually take a
 "flight" to some planet, not that this would be done in a rocket or
 some such machine; man has not progressed to such an advanced state of
 engineering as yet. So any such trips would be in a clairvoyant state.
@@ -355,7 +356,7 @@ are too numerous to mention at this time. I might add that much of
 what is written in the following pages has since been corroborated by
 some of these persons, without my previously having read any articles
 so written by them.</p>
-   <p>It has been my consistent habit to spend an hour or so of the
+      <p>It has been my consistent habit to spend an hour or so of the
 late evening time in meditation. During these hours I have made
 innumerable contacts with those who have passed from this plane of
 existence. However no serious attempt at interplanetary contact was
@@ -378,7 +379,7 @@ other contacts, as was convenient and necessary. Since this first
 contact and trip was made, I have returned on several occasions; in
 fact, Nur El often stood beside me as I wrote, to further clear up, or
 refresh my memory regarding any details which were not entirely clear.</p>
-   <p>Now I will contact my Martian guide and take an astral flight
+      <p>Now I will contact my Martian guide and take an astral flight
 through space, and see just how it is that man lives on the red
 planet. Almost immediately a very distinguished looking man stands
 before me; he is Nur El, a man of high position and esteem from one of
@@ -386,7 +387,7 @@ the Martian cities. He is dressed in a very brilliant red suit. The
 coat is long, almost to the knees, with loose fitting pantiloons. On
 his head is a red hat with a square shaped brim that is turned up on
 four sides.</p>
-   <p>Our trip there is a matter of split seconds as no craft is used
+      <p>Our trip there is a matter of split seconds as no craft is used
 or needed. Arriving on the surface of Mars, we are at once aware of
 the extremely rugged terrain, rocky hills and sandy wastes, that
 stretches out endlessly around us. There are many peculiar whirling
@@ -408,7 +409,7 @@ very luxuriant green alga-like plant that follows the melting snow
 line. This spongy growth often attains a height (or depth) of forty to
 fifty feet. It appears and disappears with the season as it grows
 tremendously rapidly, and it also disintegrates very fast.</p>
-   <p>There are also a number of species of lizards, reptiles and of
+      <p>There are also a number of species of lizards, reptiles and of
 some insects whose hard shells have enabled them to weather the
 extreme atmospheric conditions and among them are giant ants which
 walk semi-erect on the two hind feet. The guide tells me these are
@@ -424,7 +425,7 @@ open disclosing a car-like elevator. We entered and, after the door
 closed, I had the familiar dropping sensation of our own modern
 elevators. The trip down took but a few seconds, and, upon stopping, I
 stepped forth into what was my first glimpse of a Martian city.</p>
-   <p>I was immediately impressed by the soft white light that seemed
+      <p>I was immediately impressed by the soft white light that seemed
 to come from everywhere. We were standing near the entrance of a large
 tube. On Mars the cities are all underground and are connected
 together by huge oval metal tubes from three to five hundred feet in
@@ -432,7 +433,7 @@ diameter. There are monorail cars as long as our pullman trains which
 glide silently and very swiftly from one city to another. The bottoms
 of these immense tubes are used for parks, growing foodstuffs and
 innumerable small manufacturing plants.</p>
-   <p>Because of the great distances between the cities, these tubes
+      <p>Because of the great distances between the cities, these tubes
 have been built only partially submerged. There are emergency air
 locks and bulkheads at the ends where they connect to the domes; other
 safety and precautionary measures are used to protect the cities and
@@ -441,7 +442,7 @@ which have confused the astronomers on the earth. Some believe them to
 be canals. There are also other theories. The shifting desert sands
 often cover or uncover them which leads to further confusion inasmuch
 as they seem to appeal' and disappear.</p>
-   <p>Turning about and looking down into the city is an unforgettable
+      <p>Turning about and looking down into the city is an unforgettable
 experience. Like all cities on Mars, it is built on the floor of a
 huge metal dome. These domes are sometimes four or five miles in
 diameter, and up to three thousand feet high. They are constructed of
@@ -461,11 +462,11 @@ people. As these domes are built in the bottom of excavations, the
 sands soon drift over them and cover them up, giving added protection
 from the strong surface rays.
 </p>
-   <p>___________________________</p>
-   <p>The Underground Cities</p>
-   <p>of Mars
+      <p>___________________________</p>
+      <p>The Underground Cities</p>
+      <p>of Mars
 </p>
-   <p>The cities are laid out like a wheel. The center hub is a very
+      <p>The cities are laid out like a wheel. The center hub is a very
 large circular structure which houses the various municipal and civic
 governmental departments. Underground is a very large atomic power
 plant for supplying the cities' needs. The streets stretch away from
@@ -487,21 +488,21 @@ about two inches apart. After the walls are fastened together, a
 liquid foam like plastic material is injected or blown in between the
 walls. After this hardens, it gives the whole structure tremendous
 strength. This hardened plastic foam acts also as a good insulator.</p>
-   <p>There is no problem of heat or cold in a Martian city, with an
+      <p>There is no problem of heat or cold in a Martian city, with an
 abundance of atomic power. The whole city is air conditioned, free
 from dust and fumes, and is maintained at a constant temperature of
 about 68 degrees. Huge electronic pumps suck in and filter the thin
 outside air and raise the pressure to about seven pounds per square
 inch. It also strengthens the overhead dome structure by pushing out
 uniformly at all points simultaneously.</p>
-   <p>As the outside atmosphere is very rare and of a low oxygen
+      <p>As the outside atmosphere is very rare and of a low oxygen
 content, the Martian cities are becoming less and less dependent on
 that source of air supply. Many thousands of years ago they learned
 how to obtain air from water by electrolysis. They also make a great
 effort to create great underground reservoirs near the ice caps to
 drain off and store any surplus surface water which also, along with
 the oxygen, has become increasingly rare through the centuries.</p>
-   <p>At the present time, scientists on Mars are learning to make air
+      <p>At the present time, scientists on Mars are learning to make air
 and water synthetically out of other elements. They have also explored
 every possible existing subterranean river or lake and have added much
 to the dwindling water supply by some important discoveries. It is
@@ -509,7 +510,7 @@ estimated that, with careful conservation, they will have enough water
 for several thousand years, during which time other means will have
 been arrived at for solving this problem.
 . . .</p>
-   <p>All buildings are supplied with electric power from the central
+      <p>All buildings are supplied with electric power from the central
 power plant. The power is radiated over ultra high frequency beams
 which crisscross the streets, and are relayed by smaller substations.
 On top of each building is a split ball-like antenna which intercepts
@@ -518,7 +519,7 @@ which in turn radiates the power through the building, lighting the
 lights, operating the various motors, etc. These are, of course, all
 constructed very differently than the motors and electric lights on
 earth, which are large, clumsy and very inefficient by comparison.</p>
-   <p>Window glass is a polarized material which transmits light one
+      <p>Window glass is a polarized material which transmits light one
 way, from outside in, which gives privacy without the problem of shade
 and drapes. A simple metal folding shutter is sometimes drawn across
 the window to shut out the light when sleeping, etc. Furniture in the
@@ -537,7 +538,7 @@ cabinet, a dial set, and after a few minutes all are clean and
 sparkling; no water is used. Instead, streams of electronic energy of
 some sort does the job. The dishes are made of a plastic like material
 which is repellent to soil.</p>
-   <p>The bathroom is also quite different. The stool appears or
+      <p>The bathroom is also quite different. The stool appears or
 disappears in the wall as needed. Disposal is efficiently taken care
 of by electrolysis. Very little water apparently is used. Bathing is
 done in a small booth where an atomized spray of pleasant smelling
@@ -551,7 +552,7 @@ normally expected house cleaning is done in a Martian home; all
 interior surfaces are dirt repellent and, as the air is normally very
 clean and inasmuch as there is no smoking, frying or similar soot
 producers, the homes are very clean and spotless.</p>
-   <p>Mounting a flight of stairs to the roof, we emerge onto a
+      <p>Mounting a flight of stairs to the roof, we emerge onto a
 typical Martian garden. The roofs of these homes are flat and planted
 with a wide variety of fruits, vegetables and flowers. Each home
 grows quite a lot of the normal supply of foodstuff it consumes. They
@@ -559,7 +560,7 @@ take great pride in these roof gardens and frequently engage in
 friendly competition in contests between neighbors in an attempt to
 raise the most beautiful displays of horticulture.
 . . .</p>
-   <p>Now I understood why the streets slanted up and the lack of
+      <p>Now I understood why the streets slanted up and the lack of
 stores and commercial buildings, for here stretched out before me was
 a huge shopping center, which in some odd way reminded me of one of
 our annual state fairs. Up and down and around were streets and
@@ -588,12 +589,12 @@ is also a species of rice which grows with very little moisture. It
 seems that many of these plant crops have been evolved through a
 Luther Burbank-like process to a point where they require the
 absolute minimum of water.</p>
-   <p>No heavy manufacturing is done in these cities, but there are
+      <p>No heavy manufacturing is done in these cities, but there are
 several domes which are devoted to, and used almost exclusively for,
 this type of work. But time was slipping by, and reluctantly I
 followed my guide to another elevator and we ascended back to the
 main level.</p>
-   <p>As we walked along one of the streets I could not help but feel
+      <p>As we walked along one of the streets I could not help but feel
 overawed by the beauty of all the things around me: the lovely homes
 and roof gardens, the landscaped parkways growing lush with fruits
 and flowers, the peace and quiet which was everywhere. I looked
@@ -606,7 +607,7 @@ faces. Their eyes were quite large and black with a distinct slant,
 the skin was wax-like and beautifully colored, lips red and well
 shaped, which in all left nothing to be desired in any external
 adornment.</p>
-   <p>There are other things which were noticeable by their absence':
+      <p>There are other things which were noticeable by their absence':
 there is no smoking, the use of tobacco being unheard of. Nur el
 chuckled when I asked about this, stating that such a practice was
 grown up thumb sucking and was a habit belonging only to those who
@@ -622,16 +623,16 @@ simple with long loose flowing lines, with nothing to bind them, in
 many brilliant colors including many shades we know not. All clothing
 is made of synthetic materials as no natural fibers are grown.
 </p>
-   <p> ______________________________</p>
-   <p> THE MARTIAN - CHINESE LINK
+      <p> ______________________________</p>
+      <p> THE MARTIAN - CHINESE LINK
 </p>
-   <p>Martians are much older in soul-evolution than the earthians.
+      <p>Martians are much older in soul-evolution than the earthians.
 They originally migrated in space craft to Mars from a dying planet
 more than a million years ago. They also came to this earth and
 started a colony but found it impractical to maintain. It was also
 explained by Nur El that this colony became our Chinese race through
 the evolution of time.</p>
-   <p>The great space-ships in their intercourse with the planet Mars
+      <p>The great space-ships in their intercourse with the planet Mars
 established a series of six colonies, stretching from the lower
 planes of China into the more northern reaches, around what is now
 known as Peking in the northern provinces of China. There was in
@@ -653,7 +654,7 @@ colonists became somewhat infused into the racial characteristics of
 these people. However, for the most part, the various dynasties of
 the Chinese Empire can be traced directly back to the Martian line.
 . . .</p>
-   <p>Cancer and many other so-called incurable diseases are removed
+      <p>Cancer and many other so-called incurable diseases are removed
 or corrected using an advanced electronic healing process. It was
 also explained, that in all cases, the patient was given a psychic
 diagnosis which correctly locates the true originating cause, as a
@@ -676,7 +677,7 @@ of the usual sexual stimulants such as advertising, spiced heavy
 foods etc., which tend to overexcite the people of earth.
 Consequently, sex assumes its rightful place in the life of the
 Martians.</p>
-   <p>These people have a basic spiritual concept which teaches them
+      <p>These people have a basic spiritual concept which teaches them
 from birth, the importance of love of one another and finding their
 greatest joys of life in doing for each other, not doing each other.
 I did not see any of our familiar churches and steeples; it was
@@ -684,25 +685,25 @@ explained to me that there are none. Worship is not a pagan-like
 bowing down to some mythical god (or gods), but a twice daily
 observance to the Great Infinite Creative Source, and there is a once
 weekly community observance giving thanks to this Source.</p>
-   <p>Other Spiritual aspects of Martian life include communications
+      <p>Other Spiritual aspects of Martian life include communications
 with those who have passed into the spirit world; in fact, every
 Martian considers his spirit friends and relatives a part of his
 daily life. No doubt our Chinese have derived their ancestor worship
 from this source.</p>
-   <p>The Martians have also developed reincarnation to a point where
+      <p>The Martians have also developed reincarnation to a point where
 it forms an integral part of their lives; they plan for a future time
 when they will relive a new life among old friends and relatives.
 Many children frequently identify themselves as former loved ones.
 </p>
-   <p>______________________</p>
-   <p> Martian Education
+      <p>______________________</p>
+      <p> Martian Education
 </p>
-   <p>Soon after the birth of a child, all the potential mental
+      <p>Soon after the birth of a child, all the potential mental
 faculties and quotients were determined by an electronic diagnosis
 and any criminal or negative characteristics were removed by a
 radiant energy process. The child was further conditioned against
 such recurrence. There are no public schools.</p>
-   <p>The child is taught to a large extent in his sleep by a "Z-ray"
+      <p>The child is taught to a large extent in his sleep by a "Z-ray"
 which imparts the lessons or knowledge directly into his subconscious
 mind. This ray can be likened somewhat to a radio frequency which
 carries the spoken word yet is inaudible to the ear; in this case
@@ -725,7 +726,7 @@ diver going down beneath the water too quickly. " He paused a moment
 then continued, "Then there would be deadly disease germs and the
 many viruses that we here on Mars, not having had such things for
 thousands of years, have lost our resistance to."</p>
-   <p>I could see his point but I wondered a bit as to how they knew
+      <p>I could see his point but I wondered a bit as to how they knew
 so much about the earth, but patiently he explained that there were
 semi-surface observatories with electronic telescopes as well as a
 variety of radio and radar-like devices which gave them a very good
@@ -733,7 +734,7 @@ idea of what went on there. Besides some of the more advanced
 scientists were masters at astral flight. Even an ordinary citizen of
 Mars was quite adept at mental telepathy and this type of
 communication was used as much as speech.</p>
-   <p>Going back into the ring shaped building, we emerged into what
+      <p>Going back into the ring shaped building, we emerged into what
 were some of the chambers used for judging or administrative phases.
 The government is of a very simple form. I was amazed when told there
 are no written laws. Each citizen lives under a simple understanding,
@@ -762,9 +763,9 @@ was all in very good taste, however, and most pleasing to the eye.
 These traits are quite evident in our modern Chinese.
 . . .
 </p>
-   <p> Monorail Transportation
+      <p> Monorail Transportation
 </p>
-   <p>Going through several of these offices we again emerged into the
+      <p>Going through several of these offices we again emerged into the
 open air. Before us was one of the larger radial streets; coming down
 this street was what looked like a silver gondola of some sort,
 suspended from an overhead rail. Going closer to examine this strange
@@ -779,7 +780,7 @@ blast of a noiseless supersonic whistle and started after the
 passengers sit down. A number of the main radial streets have this
 monorail shuttle car system. Others used moving sidewalks, somewhat
 similar to escalators.</p>
-   <p>It seems that these people do not travel much, as compared to
+      <p>It seems that these people do not travel much, as compared to
 our earth people. There is, of course, considerable inner-city travel
 over the monorail car system which I saw in the tube. There is
 however, a kind of communication which renders a great deal of travel
@@ -798,7 +799,7 @@ such things as the festivals, lectures, various stage presentations
 or musicals which take place in the central theater. Little or no
 news is broadcast and then only that which is of a nature which would
 not cause fear or restlessness.</p>
-   <p>Music plays an important part in life here. Most of the
+      <p>Music plays an important part in life here. Most of the
 instruments are of the string type and are usually plucked. There are
 some reed or flute-like instruments which help give variety. There
 are none of the heavy percussive type which form a large part of our
@@ -808,7 +809,7 @@ moral lesson; or even historical events are portrayed. Considerable
 color is used in the stage presentations, which gives much added
 charm as the innumerable color combinations rise and fall with the
 rhythm of the chant.</p>
-   <p>Since my initial trip, I have returned to Mars several times and
+      <p>Since my initial trip, I have returned to Mars several times and
 have learned much more about this fascinating civilization. To those
 who are proponents and ardent supporters of our free enterprise
 system, let it be said that they have a great shock coming to them.
@@ -835,7 +836,7 @@ various departmental or executive heads are all highly trained
 specialists and hold their positions because of ability and
 integrity.
 . . .</p>
-   <p>From childhood they are taught to be useful and productive.
+      <p>From childhood they are taught to be useful and productive.
 Because of their simplified living habits, they have more time for
 self-improvement and for developing new types of plastics, textiles,
 etc. They usually limit their meals to only two a day and even those
@@ -852,16 +853,16 @@ sweet. It is called sit-yu. Some other vegetables are grown in
 troughs in long rows. These look like huge mushrooms and have a
 delicious meat.
 </p>
-   <p> The Harmony of Martian Life
+      <p> The Harmony of Martian Life
 </p>
-   <p>Martians are closely connected with the Venusians through
+      <p>Martians are closely connected with the Venusians through
 thought transference or mental telepathy. At one time, interplanetary
 travel was used, but these spacecraft are at present stored in huge
 underground hangars, and are being held in readiness for any
 emergency, such 'as a sudden mass evacuation of the population should
 any unexpected need arise.
 . . .</p>
-   <p>It was explained that the science of interplanetary travel was
+      <p>It was explained that the science of interplanetary travel was
 something very difficult for the earth man to understand inasmuch as
 the people and the craft itself would, in taking off, actually change
 the rate of vibration of their own and the craft's atomic structure.
@@ -876,7 +877,7 @@ have progressed to a point where a man's body can be changed into
 electrical energies, sent over a radar beam and then changed back to
 the original state; all in a matter of a split second, and with no
 pain or discomfort to the individual.</p>
-   <p>This no doubt sounds fantastic. Nowadays it is only the ignorant
+      <p>This no doubt sounds fantastic. Nowadays it is only the ignorant
 mam who scoffs at any new ideas, and no doubt there will be those who
 will be unable to believe these truths; but it does not matter, since
 that still does not alter the facts. Just fifty years ago they were
@@ -884,7 +885,7 @@ laughing at the Wright brothers - and think of what has been invented
 and improved and brought into use since that time. No less so in the
 future. The things of science which are commonplace in the Martian
 way of life could well become a part of ours in some future day.</p>
-   <p>I was informed that the Martians understand what is happening to
+      <p>I was informed that the Martians understand what is happening to
 the earth people and its veritable rat race, and they are very
 desirous of aiding through mental telepathy to inspire as many of the
 earthians as are receptive to their ways for the advancement of
@@ -896,7 +897,7 @@ that it is realized only too well that they must not interfere with
 the evolution or progress of man on earth to any great extent, for it
 would not be in keeping with God's immutable law of individual soul
 progress.</p>
-   <p>The scientists of Mars have informed me that our telescopes, in
+      <p>The scientists of Mars have informed me that our telescopes, in
 the photographing process, are subject to error and do not get
 refraction but infraction. Sometimes the light rays, or vibrations as
 they are more properly called, are at times subjected to distortions,
@@ -907,7 +908,7 @@ what he thinks he is seeing. Also the planet Mars, on the outside of
 its surface, has a tremendously charged shell. While it is invisible
 to the eye, this can cause great distortions in light-ray
 frequencies.</p>
-   <p>And so the time has come, at least for the present, to return to
+      <p>And so the time has come, at least for the present, to return to
 our more familiar planet earth, and I do so reluctantly, for there
 are still many more facets of life on (rather in) Mars of which I
 have only a slight understanding. I would like to learn more of their
@@ -918,7 +919,7 @@ visits to Mars without a deep feeling of awe, reverence and gratitude
 to this very fine person who calls himself Nur El for giving so
 unselfishly of his time and efforts in explaining so many things
 about the planet, its people, manners, etc.</p>
-   <p>There is also a grave concern by these people about our
+      <p>There is also a grave concern by these people about our
 destructive downhill way of life. We are creating and breeding a race
 of psychopathic misfits I in our highly specialized, mechanical
 world. The people are becoming robots. They cannot sleep for
@@ -930,7 +931,7 @@ hammer home these cheap and malicious messages until the brain
 becomes numb and neurotic. Exploitation of the masses has become a
 highly specialized science, ruthless and cold-blooded, running the
 gamut from charity to vice.</p>
-   <p>On the other hand there are almost equally frantic attempts
+      <p>On the other hand there are almost equally frantic attempts
 being made by various religious groups, churches, individuals, etc.,
 to portray in some way to the great masses the grave dangers
 confronting them. These efforts are pitifully small and weak.
@@ -938,10 +939,10 @@ Moreover, these efforts are not above suspicion, for there are, here
 as elsewhere, many charlatans.
 . . .
 </p>
-   <p>_______________________________</p>
-   <p>The Supernova Connection
+      <p>_______________________________</p>
+      <p>The Supernova Connection
 </p>
-   <p>It was intimated in the foregoing pages that it was quite
+      <p>It was intimated in the foregoing pages that it was quite
 obvious that it would require several trips to gain a comprehensive
 understanding of the Martian way of life, and that therefore, I would
 quite likely, from time to time, make similar visits or flights.
@@ -984,14 +985,14 @@ hours. Day by day they watched the white glowing mass of light grow
 larger and larger. There was no really accurate way by which to
 measure how close it would pass or just how hot it would be. No doubt
 many thought it would be the end!</p>
-   <p>Finally the hour struck. Nur El stated that for eight days the
+      <p>Finally the hour struck. Nur El stated that for eight days the
 planet was rocked, torn and twisted as great forces blasted and
 ripped the surface. Plant and animal life disappeared almost
 entirely, except for the few species which escaped by being buried or
 in caves. The air and water too, were largely dissipated or drawn off
 with the passing nova. When it was over, Mars was decimated and
 burned to a cinder.</p>
-   <p>Other planets also suffered. On earth there were great
+      <p>Other planets also suffered. On earth there were great
 earthquakes and tidal waves. A great continent and civilization,
 called Lemuria, sank beneath the sea. Great deserts were burned into
 the surface in places which were formerly beautiful forests and
@@ -1008,18 +1009,18 @@ of this cataclysm will clear up some of the mysteries of Earth's
 history which have been puzzling the seekers of truth for many years.
 . . .
 </p>
-   <p>Our present civilization, good as it is in some respects, leaves
+      <p>Our present civilization, good as it is in some respects, leaves
 much to be desired. It has been the purpose of Nur El, the people of
 Mars and myself to bring you some understanding of their ways of
 life, hoping thus to bring about, not only among the nations of the
 world, but future interplanetary relationships which are harmonious
 and conducive to a better way of life.
 </p>
-   <p>We all salute you and wish you infinite love, wisdom and peace.
+      <p>We all salute you and wish you infinite love, wisdom and peace.
 
 Appendix
 </p>
-   <p>Shortly after writing this article there appeared in the
+      <p>Shortly after writing this article there appeared in the
 Saturday Review, on May 28, 1955, an article written by Dr. Robert S.
 Richardson, astronomer at Mount Palomar, which refers to the findings
 of the International Committee on Mars, which closed its fourth
@@ -1030,7 +1031,7 @@ exist. This is at least some progress in the right direction. Also he
 is quite correct about the deserts. Most of the surface of this
 planet is semi-arid wastelands. It is however, incorrect to say
 there is no oxygen there.</p>
-   <p>The presence of the green maria, which he calls sponge-like
+      <p>The presence of the green maria, which he calls sponge-like
 algae, proves the presence of oxygen, although in a comparatively
 rare state. As everyone knows, oxygen is necessary in the breathing
 cycle of any plant which contains chlorophyll (oxygen on Mars is
@@ -1038,29 +1039,29 @@ about 10% of the density of the earth's oxygen) as was stated in the
 aforementioned article. This sponge-like algae is found growing along
 the edges of the snow banks and often attains a height of forty to
 fifty feet. It dries up with the vanishing of the snow caps and re-grows the following spring.</p>
-   <p>What the doctor states regarding water on Mars is very true. It
+      <p>What the doctor states regarding water on Mars is very true. It
 is very scarce and the people of the underground cities take great
 pains to conserve every gallon of it.</p>
-   <p>As to the temperatures. that is still a matter of conjecture. It
+      <p>As to the temperatures. that is still a matter of conjecture. It
 is a very tricky business to measure heat over thirty-five millions
 of miles distance. Moreover, surface temperatures do not affect the
 inhabitants of the underground cities, as they are completely
 pressurized and conditioned with temperatures maintained at a
 comfortable level.</p>
-   <p>The most surprising part of the entire article was that there
+      <p>The most surprising part of the entire article was that there
 was absolutely no mention of the famous canals of Mars. I wonder
 what happened to them? These canals were for many years a great
 controversial subject. The photograph in this article does not show
 them, but this is perhaps explained by the fact that this photo was
 taken with infra-red light film. It may be that the savants at Mt.
 Palomar would like to explain this.</p>
-   <p>It is of questionable value that the writer interjected such a
+      <p>It is of questionable value that the writer interjected such a
 material angle as real estate. It seems it would have been wise to
 confine the remarks within the domain of science and leave this
 problem up to some of our great promoters in that future day of
 landing. It might also be that the Martians would resent our tearing
 up their planet.</p>
-   <p>It is also probable that in that future day when man does have
+      <p>It is also probable that in that future day when man does have
 space travel to Mars, he will be able to take his wife or loved ones
 along. Landing there will be somewhat like taking a plane to a far
 off city on this planet. On arriving on Mars the space ship will be
@@ -1069,25 +1070,26 @@ hotels and accommodations in a similar fashion as on earth. (Assuming
 of course that such factors as freedom from germ life, health,
 adaptability to lower air pressures, etc., have been fully
 compensated for.)</p>
-   <p>It is unfortunate indeed that the astronomers of today take such
+      <p>It is unfortunate indeed that the astronomers of today take such
 a dim view of the possibility of life on other planets. They should
 be in a position to know better than anyone else. Does it not seem a
 bit preposterous to assume that in all the countless billions of
 suns, star clusters. galaxies. etc. and their associated planetary
 systems, that earth and Mars clone are inhabited?</p>
-   <p>Perhaps we should refer to Jesus of <ent type='GPE'>Nazareth</ent> when he stated
+      <p>Perhaps we should refer to Jesus of <ent type='GPE'>Nazareth</ent> when he stated
 that, "In my Father's house are many mansions.'</p>
-   <p>In that distant day when space travel is a reality, let us hope
+      <p>In that distant day when space travel is a reality, let us hope
 that our men of science are universally schooled in the knowledge of
 the Infinite God and that we will find in this wisdom an integrated
 philosophy of life, one which will supply our need and an answer to
 every problem.</p>
-   <p>In that future day, we will have put aside all our petty
+      <p>In that future day, we will have put aside all our petty
 quibbling over interpretations. We will find God not only in the
 heart and mind of man but in everything in this material Universe.</p>
-   <p>FOR MORE INFORMATION:
+      <p>FOR MORE INFORMATION:
 CONTACT THE UNARIUS ACADEMY OF SCIENCE
 145 SO. MAGNOLIA AVE.
 EL CAJON, CA. 92020-4522
 </p>
-</div>
+   </div>
+</xml>

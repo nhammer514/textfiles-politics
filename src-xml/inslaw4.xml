@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>Article 11143 of alt.activism:
+<xml>
+   <div class="article">
+      <p>Article 11143 of alt.activism:
 Xref: bilver alt.activism:11143 alt.conspiracy:5176
 Path: bil-ver!tous!peora!masscomp!usenet.coe.montana.edu!rpi!sci.ccny.cuny.edu!psinnt
 p!psinntp!sgigate!odin!ratmandu.corp.sgi.com!dave
@@ -13,17 +14,17 @@ Date: 15 Oct 91 16:01:42 GMT
 Sender: news@odin.corp.sgi.com (Net News)
 Organization: Silicon Graphics, Inc.
 Lines: 180</p>
-   <p> The <ent type='ORG'>Wackenhut</ent> Corporation: the maturation of "private" government.</p>
-   <p> <ent type='ORG'>Wackenhut</ent>'s Director of Special Investigations Service Wayne Black
+      <p> The <ent type='ORG'>Wackenhut</ent> Corporation: the maturation of "private" government.</p>
+      <p> <ent type='ORG'>Wackenhut</ent>'s Director of Special Investigations Service Wayne Black
 told the "Washington Times"' Deanna Hoagin earlier this year: "We
 are similar to a private FBI." The company's board of directors
 reads like a who's who of the intelligence community.</p>
-   <p>from "The First Stone" column of the Sept. 18-24 1991 issue of "In These
+      <p>from "The First Stone" column of the Sept. 18-24 1991 issue of "In These
 Times":</p>
-   <p>---------------------------------------------------------------------------
+      <p>---------------------------------------------------------------------------
 Scandal Gates
 By Joel Bleifuss</p>
-   <p> As CIA Director-designate Robert Gates pleads ignorance to knowledge
+      <p> As CIA Director-designate Robert Gates pleads ignorance to knowledge
 of CIA misdeeds before the Senate Intelligence Committee this week,
 the lawmakers might do well to remember his sworn testimony of March
 March 6, 1986. At the time, CIA Director William Casey had
@@ -48,7 +49,7 @@ example, former Deputy CIA Director Bobby Inman, currently one of
 Gates' main boosters in Washington, was a director of the company.
 And among those on the 1983 board were two former FBI special
 agents, one retired Air Force general, one former commander in chief
-of the <ent type='PERSON'>North</ent> American Air Defense Command (NORAD), one former
+of the <ent type='LOC'>North Command</ent> (NORAD), one former
 director of the Defense Intelligence Agency, former CIA Director
 William Rabor, Nixon-appointed FBI Director Clarence Kelly and
 former CIA Deputy Director Frank Carlucci (who would later become
@@ -58,7 +59,7 @@ commissioner of customs until 1980, when he became a vice president
 of <ent type='ORG'>Wackenhut</ent>. Also in 1980, soon-to-be CIA chief William Casey
 served as <ent type='ORG'>Wackenhut</ent>'s outside legal counsel--the same year he
 managed the Reagan-Bush election campaign.</p>
-   <p> ON THE RESERVATION: It was in 1980 that <ent type='ORG'>Wackenhut</ent> began working
+      <p> ON THE RESERVATION: It was in 1980 that <ent type='ORG'>Wackenhut</ent> began working
 closely with Southern California's Cabazon <ent type='NORP'>Indians</ent> and their tribal
 administrator John Philip Nichols. The "San Francisco Chronicle"'s
 Jonathan Littman reported this month that Nichols, a white American
@@ -105,7 +106,7 @@ the Palm Springs "Press-Enterprise" reports that in 1985, when
 Nichols was arrested for hiring the hitman, the U.S. Justice
 Department was investigating his possible involvement in those 1981
 deaths. No charges were ever filed.</p>
-   <p> ANOTHER MURDER? The Cabazon/<ent type='ORG'>Wackenhut</ent> connection was of particular
+      <p> ANOTHER MURDER? The Cabazon/<ent type='ORG'>Wackenhut</ent> connection was of particular
 interest to Danny Casolaro, the Washington-based journalist who was
 found dead in the Martinsburg, W. Va., Sheraton on August 10 (see
 "The First Stone," Sept. 4 [an earlier post in this on-line
@@ -139,7 +140,7 @@ intelligence agent Ari Ben-Menashe alleges that Brian--now the head
 of United Press International--was directly involved in arranging
 the 1980 deal. Ben-Menashe claims that Brian "worked very closely"
 on the deal with Robert Gates, who was then a top CIA official.</p>
-   <p> NO JUSTICE: <ent type='ORG'>Wackenhut</ent> is also linked to the <ent type='ORG'>Inslaw</ent> scandal.
+      <p> NO JUSTICE: <ent type='ORG'>Wackenhut</ent> is also linked to the <ent type='ORG'>Inslaw</ent> scandal.
 Michael Riconosciuto--a weapons-systems designer and software
 specialist--was director of research for the <ent type='ORG'>Wackenhut</ent>/Cabazon joint
 venture in the early '80s. In a March 1991 affidavit for the <ent type='ORG'>Inslaw</ent>
@@ -157,7 +158,7 @@ Judiciary Committee probe of the <ent type='ORG'>Inslaw</ent> case. Seven days a
 filing the affidavit (which was not, technically, part of the
 committee investigation), Riconosciuto was arrested on drug-selling
 charges. He is now in a Seattle jail awaiting trial.</p>
-   <p> PRIVATE SPIES The 1980s were a decade of privatization. As a for-profit intelligence service, <ent type='ORG'>Wackenhut</ent> appears to have taken on the
+      <p> PRIVATE SPIES The 1980s were a decade of privatization. As a for-profit intelligence service, <ent type='ORG'>Wackenhut</ent> appears to have taken on the
 kind of work that in earlier years the FBI and CIA would have done
 (and still do), albeit illegally.
 On the environmental-crime front, <ent type='ORG'>Wackenhut</ent> is now the object of
@@ -170,13 +171,14 @@ environmental organization and having agents pose as reporters. It
 is alleged in press reports that the company also monitored Rep.
 George Miller (D-CA) whose house subcommittee has been investigating
 environmental crimes allegedly committed by the consortium which is
-composed of British Petroleum, Exxon, ARCO, Phillips, Unocal, Mobil
+composed of <ent type='NORP'>British</ent> Petroleum, Exxon, ARCO, Phillips, Unocal, Mobil
 and Amerada Hess.</p>
-   <p>--
+      <p>--
 daveus rattus</p>
-   <p> yer friendly neighborhood ratman</p>
-   <p> KOYAANISQATSI</p>
-   <p> ko.yan.nis.qatsi (from the Hopi Language) n. 1. crazy life. 2. life
+      <p> yer friendly neighborhood ratman</p>
+      <p> KOYAANISQATSI</p>
+      <p> ko.yan.nis.qatsi (from the Hopi Language) n. 1. crazy life. 2. life
 in turmoil. 3. life out of balance. 4. life disintegrating.
 5. a state of life that calls for another way of living.</p>
-</div>
+   </div>
+</xml>

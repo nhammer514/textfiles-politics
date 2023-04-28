@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>NO TREASON: THE CONSTITUTION OF NO AUTHORITY</p>
-   <p>By Lysander Spooner</p>
-   <p>Lysander Spooner (1808-1887) was a Massachussetts lawyer noted for
+<xml>
+   <div class="article">
+      <p>NO TREASON: THE CONSTITUTION OF NO AUTHORITY</p>
+      <p>By Lysander Spooner</p>
+      <p>Lysander Spooner (1808-1887) was a Massachussetts lawyer noted for
 his vigorous and brilliant opposition to the encroachment of the
 State upon the liberty of the individual. His writings on the
 unconstitutionality of slavery influenced pre-Civil War thought. His
@@ -10,15 +11,15 @@ challenge to the postal monopoly (he set up a thriving private post)
 resulted in an Act of Congress sharply reducing postage rates.
 Unfortunately, he was so successful that Congress finally outlawed
 his enterprise.</p>
-   <p>The following is the first of a several-part posting of Spooner's
+      <p>The following is the first of a several-part posting of Spooner's
 work, "No Treason: The Constitution of No Authority," which
 _Playboy_ magazine said "may be the most subversive document ever
 penned in this nation." Due to the lack of italic characters in
 ASCII, italicized words are indicated by uppercase.</p>
-   <p>NO TREASON: THE CONSTITUTION OF NO AUTHORITY</p>
-   <p>By Lysander Spooner</p>
-   <p>I.</p>
-   <p>The Constitution has no inherent authority or obligation. It has no
+      <p>NO TREASON: THE CONSTITUTION OF NO AUTHORITY</p>
+      <p>By Lysander Spooner</p>
+      <p>I.</p>
+      <p>The Constitution has no inherent authority or obligation. It has no
 authority or obligation at all, unless as a contract between man and
 man. And it does not so much as even purport to be a contract
 between persons now existing. It purports, at most, to be only a
@@ -41,14 +42,14 @@ agreement between any body but "the people" THEN existing; nor does
 it, either expressly or impliedly, assert any right, power, or
 disposition, on their part, to bind anybody but themselves. Let us
 see. Its language is:</p>
-   <p> We, the people of the United States (that is, the people
+      <p> We, the people of the United States (that is, the people
 THEN EXISTING in the United States), in order to form a
 more perfect union, insure domestic tranquility, provide
 for the common defense, promote the general welfare, and
 secure the blessings of liberty to ourselves AND OUR
 POSTERITY, do ordain and establish this Constitution for
 the United States of America.</p>
-   <p>It is plain, in the first place, that this language, AS AN
+      <p>It is plain, in the first place, that this language, AS AN
 AGREEMENT, purports to be only what it at most really was, viz., a
 contract between the people then existing; and, of necessity,
 binding, as a contract, only upon those then existing. In the
@@ -59,17 +60,17 @@ under it. It only says, in effect, that their hopes and motives in
 adopting it were that it might prove useful to their posterity, as
 well as to themselves, by promoting their union, safety,
 tranquility, liberty, etc.</p>
-   <p>Suppose an agreement were entered into, in this form:</p>
-   <p> We, the people of Boston, agree to maintain a fort on
+      <p>Suppose an agreement were entered into, in this form:</p>
+      <p> We, the people of Boston, agree to maintain a fort on
 Governor's Island, to protect ourselves and our
 posterity against invasion.</p>
-   <p>This agreement, as an agreement, would clearly bind nobody but the
+      <p>This agreement, as an agreement, would clearly bind nobody but the
 people then existing. Secondly, it would assert no right, power, or
 disposition, on their part, to compel their "posterity" to maintain
 such a fort. It would only indicate that the supposed welfare of
 their posterity was one of the motives that induced the original
 parties to enter into the agreement.</p>
-   <p>When a man says he is building a house for himself and his
+      <p>When a man says he is building a house for himself and his
 posterity, he does not mean to be understood as saying that he has
 any thought of binding them, nor is it to be inferred that he is so
 foolish as to imagine that he has any right or power to bind them,
@@ -77,14 +78,14 @@ to live in it. So far as they are concerned, he only means to be
 understood as saying that his hopes and motives, in building it, are
 that they, or at least some of them, may find it for their happiness
 to live in it.</p>
-   <p>So when a man says he is planting a tree for himself and his
+      <p>So when a man says he is planting a tree for himself and his
 posterity, he does not mean to be understood as saying that he has
 any thought of compelling them, nor is it to be inferred that he is
 such a simpleton as to imagine that he has any right or power to
 compel them, to eat the fruit. So far as they are concerned, he only
 means to say that his hopes and motives, in planting the tree, are
 that its fruit may be agreeable to them.</p>
-   <p>So it was with those who originally adopted the Constitution.
+      <p>So it was with those who originally adopted the Constitution.
 Whatever may have been their personal intentions, the legal meaning
 of their language, so far as their "posterity" was concerned, simply
 was, that their hopes and motives, in entering into the agreement,
@@ -99,35 +100,35 @@ their objective was, not "to secure to them the blessings of
 liberty," but to make slaves of them; for if their "posterity" are
 bound to live under it, they are nothing less than the slaves of
 their foolish, tyrannical, and dead grandfathers.</p>
-   <p>It cannot be said that the Constitution formed "the people of the
+      <p>It cannot be said that the Constitution formed "the people of the
 United States," for all time, into a corporation. It does not speak
 of "the people" as a corporation, but as individuals. A corporation
 does not describe itself as "we," nor as "people," nor as
 "ourselves." Nor does a corporation, in legal language, have any
 "posterity." It supposes itself to have, and speaks of itself as
 having, perpetual existence, as a single individuality.</p>
-   <p>Moreover, no body of men, existing at any one time, have the power
+      <p>Moreover, no body of men, existing at any one time, have the power
 to create a perpetual corporation. A corporation can become
 practically perpetual only by the voluntary accession of new
 members, as the old ones die off. But for this voluntary accession
 of new members, the corporation necessarily dies with the death of
 those who originally composed it.</p>
-   <p>Legally speaking, therefore, there is, in the Constitution, nothing
+      <p>Legally speaking, therefore, there is, in the Constitution, nothing
 that professes or attempts to bind the "posterity" of those who
 established it.</p>
-   <p>If, then, those who established the Constitution, had no power to
+      <p>If, then, those who established the Constitution, had no power to
 bind, and did not attempt to bind, their posterity, the question
 arises, whether their posterity have bound themselves. If they have
 done so, they can have done so in only one or both of these two
 ways, viz., by voting, and paying taxes.</p>
-   <p>II.</p>
-   <p>Let us consider these two matters, voting and tax paying,
+      <p>II.</p>
+      <p>Let us consider these two matters, voting and tax paying,
 separately. And first of voting.</p>
-   <p>All the voting that has ever taken place under the Constitution, has
+      <p>All the voting that has ever taken place under the Constitution, has
 been of such a kind that it not only did not pledge the whole people
 to support the Constitution, but it did not even pledge any one of
 them to do so, as the following considerations show.</p>
-   <p>1. In the very nature of things, the act of voting could bind nobody
+      <p>1. In the very nature of things, the act of voting could bind nobody
 but the actual voters. But owing to the property qualifications
 required, it is probable that, during the first twenty or thirty
 years under the Constitution, not more than one-tenth, fifteenth, or
@@ -136,15 +137,15 @@ women, and minors) were permitted to vote. Consequently, so far as
 voting was concerned, not more than one-tenth, fifteenth, or
 twentieth of those then existing, could have incurred any obligation
 to support the Constitution.</p>
-   <p>At the present time [1869], it is probable that not more than
+      <p>At the present time [1869], it is probable that not more than
 one-sixth of the whole population are permitted to vote.
 Consequently, so far as voting is concerned, the other five-sixths
 can have given no pledge that they will support the Constitution.</p>
-   <p>2. Of the one-sixth that are permitted to vote, probably not more
+      <p>2. Of the one-sixth that are permitted to vote, probably not more
 than two-thirds (about one-ninth of the whole population) have
 usually voted. Many never vote at all. Many vote only once in two,
 three, five, or ten years, in periods of great excitement.</p>
-   <p>No one, by voting, can be said to pledge himself for any longer
+      <p>No one, by voting, can be said to pledge himself for any longer
 period than that for which he votes. If, for example, I vote for an
 officer who is to hold his office for only a year, I cannot be said
 to have thereby pledged myself to support the government beyond that
@@ -154,14 +155,14 @@ population are usually under any pledge to support the Constitution.
 [In recent years, since 1940, the number of voters in elections has
 usually fluctuated between one-third and two-fifths of the
 populace.]</p>
-   <p>3. It cannot be said that, by voting, a man pledges himself to
+      <p>3. It cannot be said that, by voting, a man pledges himself to
 support the Constitution, unless the act of voting be a perfectly
 voluntary one on his part. Yet the act of voting cannot properly be
 called a voluntary one on the part of any very large number of those
 who do vote. It is rather a measure of necessity imposed upon them
 by others, than one of their own choice. On this point I repeat
 what was said in a former number, viz.:</p>
-   <p> "In truth, in the case of individuals, their actual
+      <p> "In truth, in the case of individuals, their actual
 voting is not to be taken as proof of consent, EVEN FOR
 THE TIME BEING. On the contrary, it is to be considered
 that, without his consent having even been asked a man
@@ -195,14 +196,14 @@ in an exigency into which he had been forced by others,
 and in which no other means of self-defence offered, he,
 as a matter of necessity, used the only one that was
 left to him.</p>
-   <p> "Doubtless the most miserable of men, under the most
+      <p> "Doubtless the most miserable of men, under the most
 oppressive government in the world, if allowed the
 ballot, would use it, if they could see any chance of
 thereby meliorating their condition. But it would not,
 therefore, be a legitimate inference that the government
 itself, that crushes them, was one which they had
 voluntarily set up, or even consented to.</p>
-   <p> "Therefore, a man's voting under the Constitution of the
+      <p> "Therefore, a man's voting under the Constitution of the
 United States, is not to be taken as evidence that he
 ever freely assented to the Constitution, EVEN FOR THE
 TIME BEING. Consequently we have no proof that any very
@@ -212,7 +213,7 @@ Constitution, EVEN FOR THE TIME BEING. Nor can we ever
 have such proof, until every man is left perfectly free
 to consent, or not, without thereby subjecting himself
 or his property to be disturbed or injured by others."</p>
-   <p>As we can have no legal knowledge as to who votes from choice, and
+      <p>As we can have no legal knowledge as to who votes from choice, and
 who from the necessity thus forced upon him, we can have no legal
 knowledge, as to any particular individual, that he voted from
 choice; or, consequently, that by voting, he consented, or pledged
@@ -223,7 +224,7 @@ upon the voluntary support of anybody. On general principles of law
 and reason, it cannot be said that the government has any voluntary
 supporters at all, until it can be distinctly shown who its
 voluntary supporters are.</p>
-   <p>4. As taxation is made compulsory on all, whether they vote or not,
+      <p>4. As taxation is made compulsory on all, whether they vote or not,
 a large proportion of those who vote, no doubt do so to prevent
 their own money being used against themselves; when, in fact, they
 would have gladly abstained from voting, if they could thereby have
@@ -238,7 +239,7 @@ individuals are, if there are any, who are willing to be taxed for
 the sake of voting, we can have no legal knowledge that any
 particular individual consents to be taxed for the sake of voting;
 or, consequently, consents to support the Constitution.</p>
-   <p>5. At nearly all elections, votes are given for various candidates
+      <p>5. At nearly all elections, votes are given for various candidates
 for the same office. Those who vote for the unsuccessful candidates
 cannot properly be said to have voted to sustain the Constitution.
 They may, with more reason, be supposed to have voted, not to
@@ -249,12 +250,12 @@ be supposed to have voted against the Constitution itself. This
 supposition is the more reasonable, inasmuch as such voting is the
 only mode allowed to them of expressing their dissent to the
 Constitution.</p>
-   <p>6. Many votes are usually given for candidates who have no prospect
+      <p>6. Many votes are usually given for candidates who have no prospect
 of success. Those who give such votes may reasonably be supposed to
 have voted as they did, with a special intention, not to support,
 but to obstruct the exection of, the Constitution; and, therefore,
 against the Constitution itself.</p>
-   <p>7. As all the different votes are given secretly (by secret ballot),
+      <p>7. As all the different votes are given secretly (by secret ballot),
 there is no legal means of knowing, from the votes themselves, who
 votes for, and who votes against, the Constitution. Therefore,
 voting affords no legal evidence that any particular individual
@@ -262,37 +263,37 @@ supports the Constitution. And where there can be no legal evidence
 that any particular individual supports the Constitution, it cannot
 legally be said that anybody supports it. It is clearly impossible
 to have any legal proof of the intentions of largealar one of them.</p>
-   <p>8. There being no legal proof of any man's intentions, in voting, we
+      <p>8. There being no legal proof of any man's intentions, in voting, we
 can only conjecture them. As a conjecture, it is probable, that a
 very large proportion of those who vote, do so on this principle,
 viz., that if, by voting, thest cases, wholly contingent upon the question whether, by means
 of the Constitution, they can make themselves masters, or are to be
 made slaves.</p>
-   <p>Such contingent consent as that is, in law and reason, no consent at
+      <p>Such contingent consent as that is, in law and reason, no consent at
 all.</p>
-   <p>9. As everybody who supporMAKE HIMSELF PERSONALLY RESPONSIBLE FOR THE ACTS OF HIS AGENTS, SO
+      <p>9. As everybody who supporMAKE HIMSELF PERSONALLY RESPONSIBLE FOR THE ACTS OF HIS AGENTS, SO
 LONG AS THEY ACT WITHIN THE LIMITS OF THE POWER HE DELEGATES TO
 THEM.</p>
-   <p>10. As all voting is secret (by secret ballot), and as all secret
+      <p>10. As all voting is secret (by secret ballot), and as all secret
 governments are necessarily only secret bands of robbers, tyrants,
 and murderers, the general fact that our government is practically
 carried on by means of such voting, on murder, the rest of the people. The simple fact of the
 existence of such a vand does nothing towards proving that "the
 people of the United States," or any one of them, voluntarily
 supports the Constitution.</p>
-   <p>For all the reasons that have now been given, voting furnishes no
+      <p>For all the reasons that have now been given, voting furnishes no
 legal evidence as to who the particular individuals are (if there
 are any), who voluntarily support the Constitution. It therefore
 furnishes no legal evidence that anybody supports it voluntarily.</p>
-   <p>So far, therefore, as voting is concerned, the Constitution, legally
+      <p>So far, therefore, as voting is concerned, the Constitution, legally
 speaking, has no supporters at all.</p>
-   <p>And, as a matter of fact, there is not the slightest probability
+      <p>And, as a matter of fact, there is not the slightest probability
 that the Constitution has a single bona fide supporter in the
 country. That is to say, there is not the slightest probability
 that there is a single man in the country, who both understands what
 the Constitution really is, AND SINCERELY SUPPORTS IT FOR WHAT IT
 REALLY IS.</p>
-   <p>The ostensible supporters of the Constitution, like the ostensible
+      <p>The ostensible supporters of the Constitution, like the ostensible
 supporters of most other governments, are made up of three classes,
 viz.: 1. Knaves, a numerous and active class, who see in the
 governmey can use for their own
@@ -309,14 +310,14 @@ the evils of government, but either do not see how to get rid of
 them, or do not choose to so far sacrifice their private interests
 as to give themselves seriously and earnestly to the work of making
 a change.</p>
-   <p>-----------
+      <p>-----------
 [1] Suppose it be "the best government on earth," does that prove
 its own goodness, or only the badness of all other
 governments?</p>
-   <p>III.</p>
-   <p>The payment of taxes, being compulsory, of course furnishes no
+      <p>III.</p>
+      <p>The payment of taxes, being compulsory, of course furnishes no
 evidence that any one voluntarily supports the Constitution.</p>
-   <p>1. It is true that the THEORY of our Constitution is, that all taxes
+      <p>1. It is true that the THEORY of our Constitution is, that all taxes
 are paid voluntarily; that our government is a mutual insurance
 company, voluntarily entered into by the people with each other;
 that that each man makes a free and purely voluntary contract with
@@ -324,16 +325,16 @@ all others who are parties to the Constitution, to pay so much money
 for so much protection, the same as he does with any other insurance
 company; and that he is just as free not to be protected, and not to
 pay tax, as he is to pay a tax, and be protected.</p>
-   <p>But this theory of our government is wholly different from the
+      <p>But this theory of our government is wholly different from the
 practical fact. The fact is that the government, like a highwayman,
 says to a man: "Your money, or your life." And many, if not most,
 taxes are paid under the compulsion of that threat.</p>
-   <p>The government does not, indeed, waylay a man in a lonely place,
+      <p>The government does not, indeed, waylay a man in a lonely place,
 spring upon him from the roadside, and, holding a pistol to his
 head, proceed to rifle his pockets. But the robbery is none the
 less a robbery on that account; and it is far more dastardly and
 shameful.</p>
-   <p>The highwayman takes solely upon himself the responsibility, danger,
+      <p>The highwayman takes solely upon himself the responsibility, danger,
 and crime of his own act. He does not pretend that he has any
 rightful claim to your money, or that he intends to use it for your
 own benefit. He does not pretend to be anything but a robber. He
@@ -355,16 +356,16 @@ you dispute his authority, or resist his demands. He is too much of
 a gentleman to be guilty of such impostures, and insults, and
 villanies as these. In short, he does not, in addition to robbing
 you, attempt to make you either his dupe or his slave.</p>
-   <p>The proceedings of those robbers and murderers, who call themselves
+      <p>The proceedings of those robbers and murderers, who call themselves
 "the government," are directly the opposite of these of the single
 highwayman.</p>
-   <p>In the first place, they do not, like him, make themselves
+      <p>In the first place, they do not, like him, make themselves
 individually known; or, consequently, take upon themselves
 personally the responsibility of their acts. On the contrary, they
 secretly (by secret ballot) designate some one of their number to
 commit the robbery in their behalf, while they keep themselves
 practically concealed. They say to the person thus designated:</p>
-   <p>Go to A_____ B_____, and say to him that "the government" has need
+      <p>Go to A_____ B_____, and say to him that "the government" has need
 of money to meet the expenses of protecting him and his property.
 If he presumes to say that he, are permitted to vote; and thus
 to make themselves parts of, or (if they choose) opponents of, the
@@ -378,7 +379,7 @@ make them no pledge. Of necessity, therefore, his paying taxes to
 them implies, on his part, no contract, consent, or pledge to
 support them -- that is, to support "the government," or the
 Constitution.</p>
-   <p>3. Not knowing who the particular individuals are, who call
+      <p>3. Not knowing who the particular individuals are, who call
 themselves "the government," the taxpayer does not know whom he pays
 his taxes to. All he knows is that a man comes to him, representing
 himself to be the agent of "the government" -- that is, the agent of
@@ -393,7 +394,7 @@ To say, therefore, that by giving up his money to their agent, he
 entered into a voluntary contract with them, that he pledges himself
 to obey them, to support them, and to give them whatever money they
 should demand of him in the future, is simply ridiculous.</p>
-   <p>4. All political power, so called, rests practically upon this
+      <p>4. All political power, so called, rests practically upon this
 matter of money. Any number of scoundrels, having money enough to
 start with, can establish themselves as a "government"; because,
 with money, they can hire soldiers, and with soldiers extort more
@@ -406,7 +407,7 @@ primarily upon money. With money they can hire soldiers, and with
 soldiers extort money. And, when their authority is denied, the
 first use they always make of money, is to hire soldiers to kill or
 subdue all who refuse them more money.</p>
-   <p>For this reason, whoever desires liberty, should understand these
+      <p>For this reason, whoever desires liberty, should understand these
 vital facts, viz.: 1. That every man who puts money into the hands
 of a "government" (so called), puts into its hands a sword which
 will be used against him, to extort more money from him, and also to
@@ -431,24 +432,24 @@ be used, for their benefit, and not for their injury. 6. That no
 government, so called, can reasonably be trusted for a moment, or
 reasonably be supposed to have honest purposes in view, any longer
 than it depends wholly upon voluntary support.</p>
-   <p>These facts are all so vital and so self-evident, that it cannot
+      <p>These facts are all so vital and so self-evident, that it cannot
 reasonably be supposed that any one will voluntarily pay money to a
 "government," for the purpose of securing its protection, unless he
 first make an explicit and purely voluntary contract with it for
 that purpose.</p>
-   <p>It is perfectly evident, therefore, that neither such voting, nor
+      <p>It is perfectly evident, therefore, that neither such voting, nor
 such payment of taxes, as actually takes place, proves anybody's
 consent, or obligation, to support the Constitution. Consequently
 we have no evidence at all that the Constitution is binding upon
 anybody, or that anybody is under any contract or obligation
 whatever to support it. And nobody is under any obligation to
 support it.</p>
-   <p>IV.</p>
-   <p>THE CONSTITUTION NOT ONLY BINDS NOBODY NOW, BUT IT NEVER DID BIND
+      <p>IV.</p>
+      <p>THE CONSTITUTION NOT ONLY BINDS NOBODY NOW, BUT IT NEVER DID BIND
 ANYBODY. It never bound anybody, because it was never agreed to by
 anybody in such a manner as to make it, on general principles of law
 and reason, binding upon him.</p>
-   <p>It is a general principle of law and reason, that a WRITTEN
+      <p>It is a general principle of law and reason, that a WRITTEN
 instrument binds no one until he has signed it. This principle is
 so inflexible a one, that even though a man is unable to write his
 name, he must still "make his mark," before he is bound by a written
@@ -462,7 +463,7 @@ written contract must be signed; and men who could not write, either
 upon wax affixed to the parchment on which their contracts were
 written. Hence the custom of affixing seals, that has continued to
 this time.</p>
-   <p>The laws holds, and reason declares, that if a written instrument is
+      <p>The laws holds, and reason declares, that if a written instrument is
 not signed, the presumption must be that the party to be bound by
 it, did not choose to sign it, or to bind himself by it. And law
 and reason both give him until the last moment, in which to decide
@@ -476,7 +477,7 @@ not THEN sign it, his reason is supposed to be, that he does not
 choose to enter into such a contract. The fact that the instrument
 was written for him to sign, or with the hope that he would sign it,
 goes for nothing.</p>
-   <p>Where would be the end of fraud and litigation, if one party could
+      <p>Where would be the end of fraud and litigation, if one party could
 bring into court a written instrument, without any signature, and
 claim to have it enforced, upon the ground that it was written for
 another man to sign? that this other man had promised to sign it?
@@ -487,12 +488,12 @@ Yet that is the most that could ever be said of the Constitution.
 the Constitution -- from an instrument that nobody ever signed --
 would spurn any other instrument, not signed, that should be brought
 before them for adjudication.</p>
-   <p>-----------
+      <p>-----------
 [1] The very men who drafted it, never signed it in any way to
 bind themselves by it, AS A CONTRACT. And not one of them
 probably ever would have signed it in any way to bind himself
 by it, AS A CONTRACT.</p>
-   <p>Moreover, a written instrument must, in law and reason, not only be
+      <p>Moreover, a written instrument must, in law and reason, not only be
 signed, but must also be delivered to the party (or to some one for
 him), in whose favor it is made, before it can bind the party making
 it. The signing is of no effect, unless the instrument be also
@@ -502,12 +503,12 @@ not only never signed by anybody, but it was never delivered by
 anybody, or to anybody's agent or attorney. It can therefore be of
 no more validity as a contract, then can any other instrument that
 was never signed or delivered.</p>
-   <p>V.</p>
-   <p>As further evidence of the general sense of mankind, as to the
+      <p>V.</p>
+      <p>As further evidence of the general sense of mankind, as to the
 practical necessity there is that all men's IMPORTANT contracts,
 especially those of a permanent nature, should be both written and
 signed, the following facts are pertinent.</p>
-   <p>For nearly two hundred years -- that is, since 1677 -- there has
+      <p>For nearly two hundred years -- that is, since 1677 -- there has
 been on the statute book of England, and the same, in substance, if
 not precisely in letter, has been re-enacted, and is now in force,
 in nearly or quite all the States of this Union, a statute, the
@@ -518,12 +519,12 @@ CHARGEABLE UPON THEM. [At this point there is a footnote listing 34
 states whose statute books Spooner had examined, all of which had
 variations of this English statute; the footnote also quotes part of
 the Massachussetts statute.]</p>
-   <p>The principle of the statute, be it observed, is, not merely that
+      <p>The principle of the statute, be it observed, is, not merely that
 written contracts shall be signed, but also that all contracts,
 except for those specially exempted -- generally those that are for
 small amounts, and are to remain in force for but a short time --
 SHALL BE BOTH WRITTEN AND SIGNED.</p>
-   <p>The reason of the statute, on this point, is, that it is now so easy
+      <p>The reason of the statute, on this point, is, that it is now so easy
 a thing for men to put their contracts in writing, and sign them,
 and their failure to do so opens the door to so much doubt, fraud,
 and litigation, that men who neglect to have their contracts -- of
@@ -534,7 +535,7 @@ necessity, is demonstrated by the fact that it has been acted upon
 in England for nearly two hundred years, and has been so nearly
 universally adopted in this country, and that nobody thinks of
 repealing it.</p>
-   <p>We all know, too, how careful most men are to have their contracts
+      <p>We all know, too, how careful most men are to have their contracts
 written and signed, even when this statute does not require it. For
 example, most men, if they have money due them, of no larger amount
 than five or ten dollars, are careful to take a note for it. If
@@ -542,7 +543,7 @@ they buy even a small bill of goods, paying for it at the time of
 delivery, they take a receipted bill for it. If they pay a small
 balance of a book account, or any other small debt previously
 contracted, they take a written receipt for it.</p>
-   <p>Furthermore, the law everywhere (probably) in our country, as well
+      <p>Furthermore, the law everywhere (probably) in our country, as well
 as in England, requires that a large class of contracts, such as
 wills, deeds, etc., shall not only be written and signed, but also
 sealed, witnessed, and acknowledged. And in the case of married
@@ -550,7 +551,7 @@ women conveying their rights in real estate, the law, in many
 States, requires that the women shall be examined separate and apart
 from their husbands, and declare that they sign their contracts free
 of any fear or compulsion of their husbands.</p>
-   <p>Such are some of the precautions which the laws require, and which
+      <p>Such are some of the precautions which the laws require, and which
 individuals -- from motives of common prudence, even in cases not
 required by law -- take, to put their contracts in writing, and have
 them signed, and, to guard against all uncertainties and
@@ -562,36 +563,36 @@ claimed) has nevertheless bound three generations of men, consisting
 of many millions, and which (it is claimed) will be binding upon all
 the millions that are to come; but which nobody ever signed, se the folly and wickedness of
 mankind.</p>
-   <p>VI.</p>
-   <p>It is no exaggeration, but a literal truth, to say that, by the
+      <p>VI.</p>
+      <p>It is no exaggeration, but a literal truth, to say that, by the
 Constitution -- NOT AS I INTERPRET IT, BUT AS IT IS INTERPRETED BY
 THOSE WH never be "questioned" as to any disposal
 they make of them.</p>
-   <p>Thus the Constitution (Art. I, Sec. 6) provides that, "for any
+      <p>Thus the Constitution (Art. I, Sec. 6) provides that, "for any
 speech or debate (or vote), in either house, they (the senators and
 representatives) shall not be questioned in any other place."</p>
-   <p>The whole law-making power is given to these senators and
+      <p>The whole law-making power is given to these senators and
 representatives (when acting by a two-thirds vote); [1] and this
 provision protects them from all responsibility for the laws they
 make.</p>
-   <p>-----------
+      <p>-----------
 [1] And this two-thirds vote may be but two-thirds of a quorum --
 that is two-thirds of a majority -- instead of two-thirds of
 the whole.</p>
-   <p>The Constitution also enables them to secure the execution of all
+      <p>The Constitution also enables them to secure the execution of all
 their laws, by giving them power to withhold the salaries of, and to
 impeach and remove, all judicial and executive officers, who refuse
 to execute them.</p>
-   <p>Thus the whole power of the government is in their hands, and they
+      <p>Thus the whole power of the government is in their hands, and they
 are made utterly irresponsible for the use they make of it. What is
 this but absolute, irresponsible power?</p>
-   <p>It is no answer to this view of the case to say that these men are
+      <p>It is no answer to this view of the case to say that these men are
 under oath to use their power only within certain limits; for what
 care they, or what should they care, for oaths or limits, when it is
 expressly provided, by the Constitution itself, that they shall
 never be "questioned," or held to any resonsibility whatever, for
 violating their oaths, or transgressing those limits?</p>
-   <p>Neither is it any answer to this view of the case to say that the
+      <p>Neither is it any answer to this view of the case to say that the
 men holding this absolute, irresponsible power, must be men chosen
 by the people (or portions of them) to hold it. A man is none the
 less a slave because he is allowed to choose a new master once in a
@@ -600,11 +601,11 @@ permitted periodically to choose new masters. What makes them
 slaves is the fact that they now are, and are always hereafter to
 be, in the hands of men whose power over them is, and always is to
 be, absolute and irresponsible. [2]</p>
-   <p>-----------
+      <p>-----------
 [2] Of what appreciable value is it to any man, as an individual,
 that he is allowed a voice in choosing these public masters?
 His voice is only one of several millions.</p>
-   <p>The right of absolute and irresponsible dominion is the right of
+      <p>The right of absolute and irresponsible dominion is the right of
 property, and the right of property is the right of absolute,
 irresponsible dominion. The two are identical; the one necessarily
 implies the other. Neither can exist without the other. If,
@@ -614,7 +615,7 @@ of it -- gives them, it can only be because they own us as property.
 If they own us as property, they are our masters, and their will is
 our law. If they do not own us as property, they are not our
 masters, and their will, as such, is of no authority over us.</p>
-   <p>But these men who claim and exercise this absolute and irresponsible
+      <p>But these men who claim and exercise this absolute and irresponsible
 dominion over us, dare not be consistent, and claim either to be our
 masters, or to own us as property. They say they are only our
 servants, agents, attorneys, and representatives. But this
@@ -631,7 +632,7 @@ it is of no importance whether I called him master or servant, agent
 or owner. The only question is, what power did I put in his hands?
 Was it an absolute and irresponsible one? or a limited and
 responsible one?</p>
-   <p>For still another reason they are neither our servants, agents,
+      <p>For still another reason they are neither our servants, agents,
 attorneys, nor representatives. And that reason is, that we do not
 make ourselves responsible for their acts. If a man is my servant,
 agent, or attorney, I necessarily make myself responsible for all
@@ -646,7 +647,7 @@ Congress, can come to the individual electors, and hold them
 responsible for these acts of their so-called agents or
 representatives. This fact proves that these pretended agents of
 the people, of everybody, are really the agents of nobody.</p>
-   <p>If, then, nobody is individually responsible for the acts of
+      <p>If, then, nobody is individually responsible for the acts of
 Congress, the members of Congress are nobody's agents. And if they
 are nobody's agents, they are themselves individually responsible
 for their own acts, and for the acts of all whom they employ. And
@@ -657,8 +658,8 @@ his property or his liberty, has the same right to hold them
 individually responsible, that he has to hold any other trespasser
 individually responsible. He has the same right to resist them, and
 their agents, that he has to resist any other trespassers.</p>
-   <p>VII.</p>
-   <p>It is plain, then, that on general principles of law and reason --
+      <p>VII.</p>
+      <p>It is plain, then, that on general principles of law and reason --
 such principles as we all act upon in courts of justice and in
 common life -- the Constitution is no contract; that it binds
 nobody, and never did bind anybody; and that all those who pretend
@@ -666,7 +667,7 @@ to act by its authority, are really acting without any legitimate
 authority at all; that, on general principles of law and reason,
 they are mere usurpers, and that everybody not only has the right,
 but is morally bound, to treat them as such.</p>
-   <p>If the people of this country wish to maintain such a government as
+      <p>If the people of this country wish to maintain such a government as
 the Constitution describes, there is no reason in the world why they
 should not sign the instrument itself, and thus make known their
 wishes in an open, authentic manner; in such manner as the common
@@ -683,7 +684,7 @@ himself; nor such as he has any right to impose upon others. It is,
 to all moral intents and purposes, as destitute of obligations as
 the compacts which robbers and thieves and pirates enter into with
 each other, but never sign.</p>
-   <p>If any considerable number of the people believe the Constitution to
+      <p>If any considerable number of the people believe the Constitution to
 be good, why do they not sign it themselves, and make laws for, and
 administer them upon, each other; leaving all other persons (who do
 not interfere with them) in peace? Until they have tried the
@@ -696,15 +697,15 @@ power it gives them over the persons and properties of others. But
 for this latter reason, all their eulogiums on the Constitution, all
 their exhortations, and all their expenditures of money and blood to
 sustain it, would be wanting.</p>
-   <p>VIII.</p>
-   <p>The Constitution itself, then, being of no authority, on what
+      <p>VIII.</p>
+      <p>The Constitution itself, then, being of no authority, on what
 authority does our government practically rest? On what ground can
 those who pretend to administer it, claim the right to seize men's
 property, to restrain them of their natural liberty of action,
 industry, and trade, and to kill all who deny their authority to
 dispose of men's properties, liberties, and lives at their pleasure
 or discretion?</p>
-   <p>The most they can say, in answer to this question, is, that some
+      <p>The most they can say, in answer to this question, is, that some
 half, two-thirds, or three-fourths, of the male adults of the
 country have a TACIT UNDERSTANDING that they will maintain a
 government under the Constitution; that they will select, by ballot,
@@ -712,14 +713,14 @@ the persons to administer it; and that those persons who may receive
 a majority, or a plurality, of their ballots, shall act as their
 representatives, and administer the Constitution in their name, and
 by their authority.</p>
-   <p>But this tacit understanding (admitting it to exist) cannot at all
+      <p>But this tacit understanding (admitting it to exist) cannot at all
 justify the conclusion drawn from it. A tacit understanding between
 A, B, and C, that they will, by ballot, depute D as their agent, to
 deprive me of my property, liberty, or life, cannot at all authorize
 D to do so. He is none the less a robber, tyrant, and murderer,
 because he claims to act as their agent, than he would be if he
 avowedly acted on his own responsibility alone.</p>
-   <p>Neither am I bound to recognize him as their agent, nor can he
+      <p>Neither am I bound to recognize him as their agent, nor can he
 legitimately claim to be their agent, when he brings no WRITTEN
 authority from them accrediting him as such. I am under no
 obligation to take his word as to who his principals may be, or
@@ -727,13 +728,13 @@ whether he has any. Bringing no credentials, I have a right to say
 he has no such authority even as he claims to have: and that he is
 therefore intending to rob, enslave, or murder me on his own
 account.</p>
-   <p>This tacit understanding, therefore, among the voters of the
+      <p>This tacit understanding, therefore, among the voters of the
 country, amounts to nothing as an authority to their agents.
 Neither do the ballots by which they select their agents, avail any
 more than does their tacit understanding; for their ballots are
 given in secret, and therefore in such a way as to avoid any
 personal responsibility for the acts of their agents.</p>
-   <p>No body of men can be said to authorize a man to act as their agent,
+      <p>No body of men can be said to authorize a man to act as their agent,
 to the injury of a third person, unless they do it in so open and
 authentic a manner as to make themselves personally responsible for
 his acts. None of the voters in this country appoint their
@@ -745,7 +746,7 @@ and if they cannot show any open and authentic credentials from
 their principals, they cannot, in law or reason, be said to have any
 principals. The maxim applies here, that what does not appear, does
 not exist. If they can show no principals, they have none.</p>
-   <p>But even these pretended agents do not themselves know who their
+      <p>But even these pretended agents do not themselves know who their
 pretended principals are. These latter act in secret; for acting by
 secret ballot is acting in secret as much as if they were to meet in
 secret conclave in the darkness of the night. And they are
@@ -757,30 +758,30 @@ any. He can, at most, say only that he is the agent of a secret
 band of robbers and murderers, who are bound by that faith which
 prevails among confederates in crime, to stand by him, if his acts,
 done in their name, shall be resisted.</p>
-   <p>Men honestly engaged in attempting to establish justice in the
+      <p>Men honestly engaged in attempting to establish justice in the
 world, have no occasion thus to act in secret; or to appoint agents
 to do acts for which they (the principals) are not willing to be
 responsible.</p>
-   <p>The secret ballot makes a secret government; and a secret government
+      <p>The secret ballot makes a secret government; and a secret government
 is a secret band of robbers and murderers. Open despotism is better
 than this. The single despot stands out in the face of all men, and
 says: I am the State: My will is law: I am your master: I take the
 responsibility of my acts: The only arbiter I acknowledge is the
 sword: If anyone denies my right, let him try conclusions with me.</p>
-   <p>But a secret government is little less than a government of
+      <p>But a secret government is little less than a government of
 assassins. Under it, a man knows not who his tyrants are, until
 they have struck, and perhaps not then. He may GUESS, beforehand,
 as to some of his immediate neighbors. But he really knows nothing.
 The man to whom he would most naturally fly for protection, may
 prove an enemy, when the time of trial comes.</p>
-   <p>This is the kind of government we have; and it is the only one we
+      <p>This is the kind of government we have; and it is the only one we
 are likely to have, until men are ready to say: We will consent to
 no Constitution, except such an one as we are neither ashamed nor
 afraid to sign; and we will authorize no government to do anything
 in our name which we are not willing to be personally responsible
 for.</p>
-   <p>IX.</p>
-   <p>What is the motive to the secret ballot? This, and only this: Like
+      <p>IX.</p>
+      <p>What is the motive to the secret ballot? This, and only this: Like
 other confederates in crime, those who use it are not friends, but
 enemies; and they are afraid to be known, and to have their
 individual doings known, even to each other. They can contrive to
@@ -804,7 +805,7 @@ same power to secretly (by secret ballot) procure the robbery,
 enslavement, and murder of another man, and that other man has to
 procure his robbery, enslavement, and murder. And this they call
 equal rights!</p>
-   <p>If any number of men, many or few, claim the right to govern the
+      <p>If any number of men, many or few, claim the right to govern the
 people of this country, let them make and sign an open compact with
 each other to do so. Let them thus make themselves individually
 known to those whom they propose to govern. And let them thus
@@ -812,8 +813,8 @@ openly take the legitimate responsibility of their acts. How many
 of those who now support the Constitution, will ever do this? How
 many will ever dare openly proclaim their right to govern? or take
 the legitimate responsibility of their acts? Not one!</p>
-   <p>X.</p>
-   <p>It is obvious that, on general principles of law and reason, there
+      <p>X.</p>
+      <p>It is obvious that, on general principles of law and reason, there
 exists no such thing as a government created by, or resting upon,
 any consent, compact, or agreement of "the people of the United
 States" with each other; that the only visible, tangible,
@@ -821,7 +822,7 @@ responsible government that exists, is that of a few individuals
 only, who act in concert, and call themselves by the several names
 of senators, representatives, presidents, judges, marshals,
 treasurers, collectors, generals, colonels, captains, etc., etc.</p>
-   <p>On general principles of law and reason, it is of no importance
+      <p>On general principles of law and reason, it is of no importance
 whatever that these few individuals profess to be the agents and
 representatives of "the people of the United States"; since they can
 show no credentials from the people themselves; they were never
@@ -830,7 +831,7 @@ manner; they do not themselves know, and have no means of knowing,
 and cannot prove, who their principals (as they call them) are
 individually; and consequently cannot, in law or reason, be said to
 have any principals at all.</p>
-   <p>It is obvious, too, that if these alleged principals ever did
+      <p>It is obvious, too, that if these alleged principals ever did
 appoint these pretended agents, or representatives, they appointed
 them secretly (by secret ballot), and in a way to avoid all personal
 responsibility for their acts; that, at most, these alleged
@@ -841,7 +842,7 @@ these alleged principals have for so doing, is simply a TACIT
 UNDERSTANDING among themselves that they will imprison, shoot, or
 hang every man who resists the exactions and restraints which their
 agents or representatives may impose upon them.</p>
-   <p>Thus it is obvious that the only visible, tangible government we
+      <p>Thus it is obvious that the only visible, tangible government we
 have is made up of these professed agents or representatives of a
 secret band of robbers and murderers, who, to cover up, or gloss
 over, their robberies and murders, have taken to themselves the
@@ -849,15 +850,15 @@ title of "the people of the United States"; and who, on the pretense
 of being "the people of the United States," assert their right to
 subject to their dominion, and to control and dispose of at their
 pleasure, all property and persons found in the United States.</p>
-   <p>XI.</p>
-   <p>On general principles of law and reason, the oaths which these
+      <p>XI.</p>
+      <p>On general principles of law and reason, the oaths which these
 pretended agents of the people take "to support the Constitution,"
 are of no validity or obligation. And why? For this, if for no
 other reason, viz., THAT THEY ARE GIVEN TO NOBODY. There is no
 privity (as the lawyers say) -- that is, no mutual recognition,
 consent, and agreement -- between those who take these oaths, and
 any other persons.</p>
-   <p>If I go upon Boston Common, and in the presence of a hundred
+      <p>If I go upon Boston Common, and in the presence of a hundred
 thousand people, men, women and children, with whom I have no
 contract upon the subject, take an oath that I will enforce upon
 them the laws of Moses, of Lycurgus, of Solon, of Justinian, or of
@@ -866,7 +867,7 @@ obligation. It is of no obligation, not merely because it is
 intrinsically a criminal one, BUT ALSO BECAUSE IT IS GIVEN TO
 NOBODY, and consequently pledges my faith to nobody. It is merely
 given to the winds.</p>
-   <p>It would not alter the case at all to say that, among these hundred
+      <p>It would not alter the case at all to say that, among these hundred
 thousand persons, in whose presence the oath was taken, there were
 two, three, or five thousand male adults, who had SECRETLY -- by
 secret ballot, and in a way to avoid making themselves INDIVIDUALLY
@@ -879,7 +880,7 @@ consequently makes it impossible that there can be any contract, or
 pledge of faith, on my part towards them; for it is impossible that
 I can pledge my faith, in any legal sense, to a man whom I neither
 know, nor have any means of knowing, individually.</p>
-   <p>So far as I am concerned, then, these two, three, or five thousand
+      <p>So far as I am concerned, then, these two, three, or five thousand
 persons are a secret band of robbers and murderers, who have
 secretly, and in a way to save themselves from all responsibility
 for my acts, designated me as their agent; and have, through some
@@ -930,7 +931,7 @@ or at least a larger number than any other one person. And it is
 only by virtue of such a designation that I am now here to act in
 concert with other persons similarly selected in other parts of the
 country.</p>
-   <p>It is understood among those who sent me here, that all persons so
+      <p>It is understood among those who sent me here, that all persons so
 selected, will, on coming together at the City of Washington, take
 an oath in each other's presence "to support the Constitution of the
 United States." By this is meant a certain paper that was drawn up
@@ -945,7 +946,7 @@ expect that I, and all with whom I act, will swear to carry this
 Constitution into effect. I am therefore ready to take this oath,
 and to co-operate with all others, similarly selected, who are ready
 to take the same oath.</p>
-   <p>This is the most that any member of Congress can say in proof that
+      <p>This is the most that any member of Congress can say in proof that
 he has any constituency; that he represents anybody; that his oath
 "to support the Constitution," IS GIVEN TO ANYBODY, or pledges his
 faith to ANYBODY. He has no open, written, or other authentic
@@ -955,22 +956,22 @@ power of attorney from any single individual. He has no such legal
 knowledge as is required in all other cases, by which he can
 identify a single one of those who pretend to have appointed him to
 represent them.</p>
-   <p>Of course his oath, professedly given to them, "to support the
+      <p>Of course his oath, professedly given to them, "to support the
 Constitution," is, on general principles of law and reason, an oath
 given to nobody. It pledges his faith to nobody. If he fails to
 fulfil his oath, not a single person can come forward, and say to
 him, you have betrayed me, or broken faith with me.</p>
-   <p>No one can come forward and say to him: I appointed you my attorney
+      <p>No one can come forward and say to him: I appointed you my attorney
 to act for me. I required you to swear that, as my attorney, you
 would support the Constitution. You promised me that you would do
 so; and now you have forfeited the oath you gave to me. No single
 individual can say this.</p>
-   <p>No open, avowed, or responsible association, or body of men, can
+      <p>No open, avowed, or responsible association, or body of men, can
 come forward and say to him: We appointed you our attorney, to act
 forus. We required you to swear that, as our attorney, you would
 support the Constitution. You promised us that you would do so; and
 now you have forfeited the oath you gave to us.</p>
-   <p>No open, avowed, or responsible association, or body of men, can say
+      <p>No open, avowed, or responsible association, or body of men, can say
 this to him; because there is no such association or body of men in
 existence. If any one should assert that there is such an
 association, let him prove, if he can, who compose it. Let him
@@ -983,11 +984,11 @@ authority. Until all this can be shown, no one can say that, in any
 legitimate sense, there is any such association; or that he is their
 agent; or that he ever gave his oath to them; or ever pledged his
 faith to them.</p>
-   <p>On general principles of law and reason, it would be a sufficient
+      <p>On general principles of law and reason, it would be a sufficient
 answer for him to say, to all individuals, and to all pretended
 associations of individuals, who should accuse him of a breach of
 faith to them:</p>
-   <p>I never knew you. Where is your evidence ior robbing other
+      <p>I never knew you. Where is your evidence ior robbing other
 persons; or that I would take all the personal risk of the
 robberies, and pay over the proceeds to you, you were particularly
 simple. As I took all the risk of my robberies, I propose to take
@@ -1000,7 +1001,7 @@ reliance. I trust you may become wise enough to never rely upon it
 again. If I have any duty in the matter, it is to give back the
 money to those from whom I took it; not to pay it over to villains
 such as you.</p>
-   <p>XIII.
+      <p>XIII.
 They are necessarily given to nobody; because there
 is no open, authentic association, to which they can join
 themselves; or to whom, as individuals, they can pledge their faith.
@@ -1017,7 +1018,7 @@ insufficient, on general principles of law and reason, to prove the
 existence of any such association, or organization, as "the people
 of the United States"; or consequently to prove that the oaths of
 foreigners were given to any such association.</p>
-   <p>Xbey the
+      <p>Xbey the
 laws of Congress, support the Union, and the like, are of no
 validity. Such oaths are invalid, not only because they were
 extorted by military power, and threats of confiscation, and because
@@ -1037,7 +1038,7 @@ and Mr. C members of it? If so, where are their signatures? Where
 the evidence of their membership? Where the record? Where the
 open, authentic proof? There is none. Therefore, in law and
 reason, there was no such corporation.</p>
-   <p>On general principles of law and reason, every corporation,
+      <p>On general principles of law and reason, every corporation,
 association, or organized body of men, having a legitimate corporate
 existence, and legitimate corporate rights, must consist of certain
 known individuals, who can prove, by legitimate and reasonable
@@ -1056,8 +1057,8 @@ were given to a secret band of robbers and murderers, who called
 themselves "the United States," and extorted those oaths. But that
 is certainly not enough to prove that the oaths are of any
 obligation.</p>
-   <p>XV.</p>
-   <p>On general principles of law and reason, the oaths of soldiers, that
+      <p>XV.</p>
+      <p>On general principles of law and reason, the oaths of soldiers, that
 they will serve a given number of years, that they will obey the the
 orders of their superior officers, that they will bear true
 allegiance to the government, and so forth, are of no obligation.
@@ -1074,8 +1075,8 @@ soldier's oath given to, or contract made with, such a nation or
 government, is necessarily an oath given to, or contract made with,
 nobody. Consequently such an oath or contract can be of no
 obligation.</p>
-   <p>XVI.</p>
-   <p>On general principles of law and reason, the treaties, so called,
+      <p>XVI.</p>
+      <p>On general principles of law and reason, the treaties, so called,
 which purport to be entered into with other nations, by persons
 calling themselves ambassadors, secretaries, presidents, and
 senators of the United States, in the name, and in behalf, of "the
@@ -1094,7 +1095,7 @@ behalf, to recognize certain other persons, calling themselves
 emperors, kings, queens, and the like, as the rightful rulers,
 sovereigns, masters, or representatives of the different peoples
 whom they assume to govern, to represent, and to bind.</p>
-   <p>The "nations," as they are called, with whom our pretended
+      <p>The "nations," as they are called, with whom our pretended
 ambassadors, secretaries, presidents, and senators profess to make
 treaties, are as much myths as our own. On general principles of
 law and reason, there are no such "nations." That is to say,
@@ -1105,13 +1106,13 @@ other, formed themselves into any bona fide, legitimate association
 or organization, or authorized any king, queen, or other
 representative to make treaties in their name, or to bind them,
 either individually, or as an association, by such treaties.</p>
-   <p>Our pretended treaties, then, being made with no legitimate or bona
+      <p>Our pretended treaties, then, being made with no legitimate or bona
 fide nations, or representatives of nations, and being made, on our
 part, by persons who have no legitimate authority to act for us,
 have instrinsically no more validity than a pretended treaty made by
 the Man in the <ent type='LOC'>Moon</ent> with the king of the Pleiades.</p>
-   <p>XVII.</p>
-   <p>On general principles of law and reason, debts contracted in the
+      <p>XVII.</p>
+      <p>On general principles of law and reason, debts contracted in the
 name of "the United States," or of "the people of the United
 States," are of no validity. It is utterly absurd to pretend that
 debts to the amount of twenty-five hundred millions of dollars are
@@ -1121,28 +1122,28 @@ a particle of legitimate evidence -- such as would be required to
 prove a private debt -- that can be produced against any one of
 them, that either he, or his properly authorized attorney, ever
 contracted to pay one cent.</p>
-   <p>Certainly, neither the whole people of the United States, nor any
+      <p>Certainly, neither the whole people of the United States, nor any
 number of them, ever separately or individually contracted to pay a
 cent of these debts.</p>
-   <p>Certainly, also, neither the whole people of the United States, nor
+      <p>Certainly, also, neither the whole people of the United States, nor
 any number of them, every, by any open, written, or other authentic
 and voluntary contract, united themselves as a firm, corporation, or
 association, by the name of "the United States," or "the people of
 the United States," and authorized their agents to contract debts in
 their name.</p>
-   <p>Certainly, too, there is in existence no such firm, corporation, or
+      <p>Certainly, too, there is in existence no such firm, corporation, or
 association as "the United States," or "the people of the United
 States," formed by any open, written, or other authentic and
 voluntary contract, and having corporate property with which to pay
 these debts.</p>
-   <p>How, then, is it possible, on any general principle of law or
+      <p>How, then, is it possible, on any general principle of law or
 reason, that debts that are binding upon nobody individually, can be
 binding upon forty millions of people collectively, when, on general
 and legitimate principles of law and reason, these forty millions of
 people neither have, nor ever had, any corporate property? never
 made any corporate or individual contract? and neither have, nor
 ever had, any corporate existence?</p>
-   <p>Who, then, created these debts, in the name of "the United States"?
+      <p>Who, then, created these debts, in the name of "the United States"?
 Why, at most, only a few persons, calling themselves "members of
 Congress," etc., who pretended to represent "the people of the
 United States," but who really represented only a secret band of
@@ -1151,7 +1152,7 @@ and murders in which they were then engaged; and who intended to
 extort from the future people of the United States, by robbery and
 threats of murder (and real murder, if that should prove necessary),
 the means to pay these debts.</p>
-   <p>This band of robbers and murderers, who were the real principals in
+      <p>This band of robbers and murderers, who were the real principals in
 contracting these debts, is a secret one, because its members have
 never entered into any open, written, avowed, or authentic contract,
 by which they may be individually known to the world, or even to
@@ -1166,22 +1167,22 @@ and lent in the dark; that is, by men who did not see each other's
 faces, or know each other's names; who could not then, and cannot
 now, identify each other as principals in the transactions; and who
 consequently can prove no contract with each other.</p>
-   <p>Furthermore, the money was all lent and borrowed for criminal
+      <p>Furthermore, the money was all lent and borrowed for criminal
 purposes; that is, for purposes of robbery and murder; and for this
 reason the contracts were all intrinsically void; and would have
 been so, even though the real parties, borrowers and lenders, had
 come face to face, and made their contracts openly, in their own
 proper names.</p>
-   <p>Furthermore, this secret band of robbers and murderers, who were the
+      <p>Furthermore, this secret band of robbers and murderers, who were the
 real borrowers of this money, having no legitimate corporate
 existence, have no corporate property with which to pay these debts.
 They do indeed pretend to own large tracts of wild lands, lying
 between the Atlantic and Pacific Oceans, and between the Gulf of
-Mexico and the <ent type='PERSON'>North</ent> Pole. But, on general principles of law and
+Mexico and the <ent type='LOC'>North Pole</ent>. But, on general principles of law and
 reason, they might as well pretend to own the Atlantic and Pacific
 Oceans themselves; or the atmosphere and the sunlight; and to hold
 them, and dispose of them, for the payment of these debts.</p>
-   <p>Having no corporate property with which to pay what purports to be
+      <p>Having no corporate property with which to pay what purports to be
 their corporate debts, this secret band of robbers and murderers are
 really bankrupt. They have nothing to pay with. In fact, they do
 not propose to pay their debts otherwise than from the proceeds of
@@ -1192,7 +1193,7 @@ virtually a part of the contract, that the money should be repaid
 only from the proceeds of these future robberies and murders. For
 this reason, if for no other, the contracts were void from the
 beginning.</p>
-   <p>In fact, these apparently two classes, borrowers and lenders, were
+      <p>In fact, these apparently two classes, borrowers and lenders, were
 really one and the same class. They borrowed and lent money from
 and to themselves. They themselves were not only part and parcel,
 but the very life and soul, of this secret band of robbers and
@@ -1205,14 +1206,14 @@ some apparent excuse for the future robberies of the band (that is,
 to pay the debts of the corporation), and that they might also know
 what shares they were to be respectively entitled to out of the
 proceeds of their future robberies.</p>
-   <p>Finally, if these debts had been created for the most innocent and
+      <p>Finally, if these debts had been created for the most innocent and
 honest purposes, and in the most open and honest manner, by the real
 parties to the contracts, these parties could thereby have bound
 nobody but themselves, and no property but their own. They could
 have bound nobody that should have come after them, and no property
 subsequently created by, or belonging to, other persons.</p>
-   <p>XVIII.</p>
-   <p>The Constitution having never been signed by anybody; and there
+      <p>XVIII.</p>
+      <p>The Constitution having never been signed by anybody; and there
 being no other open, written, or authentic contract between any
 parties whatever, by virtue of which the United States government,
 so called, is maintained; and it being well known that none but male
@@ -1236,14 +1237,14 @@ THEIR houses, that we may burn or demolish them? Which THEIR
 property, that we may destroy it? Which their persons, that we may
 kill them, and rid the world and ourselves of such tyrants and
 monsters?</p>
-   <p>These are questions that must be answered, before men can be free;
+      <p>These are questions that must be answered, before men can be free;
 before they can protect themselves against this secret band of
 robbers and murderers, who now plunder, enslave, and destroy them.</p>
-   <p>The answer to these questions is, that only those who have the will
+      <p>The answer to these questions is, that only those who have the will
 and power to shoot down their fellow men, are the real rulers in
 this, as in all other (so-called) civilized countries; for by no
 others will civilized men be robbed, or enslaved.</p>
-   <p>Among savages, mere physical strength, on the part of one man, may
+      <p>Among savages, mere physical strength, on the part of one man, may
 enable him to rob, enslave, or kill another man. Among barbarians,
 mere physical strength, on the part of a body of men, disciplined,
 and acting in concert, though with very little money or other
@@ -1261,12 +1262,12 @@ for money, the question of war, and consequently the question of
 power, is little else than a mere question of money. As a necessary
 consequence, those who stand ready to furnish this money, are the
 real rulers. It is so in Europe, and it is so in this country.</p>
-   <p>In Europe, the nominal rulers, the emperors and kings and
+      <p>In Europe, the nominal rulers, the emperors and kings and
 parliaments, are anything but the real rulers of their respective
 countries. They are little or nothing else than mere tools,
 employed by the wealthy to rob, enslave, and (if need be) murder
 those who have less wealth, or none at all.</p>
-   <p>The Rosthchilds, and that class of money-lenders of whom they are
+      <p>The Rosthchilds, and that class of money-lenders of whom they are
 the representatives and agents -- men who never think of lending a
 shilling to their next-door neighbors, for purposes of honest
 industry, unless upon the most ample security, and at the highest
@@ -1274,13 +1275,13 @@ rate of interest -- stand ready, at all times, to lend money in
 unlimited amounts to those robbers and murderers, who call
 themselves governments, to be expended in shooting down those who do
 not submit quietly to being robbed and enslaved.</p>
-   <p>They lend their money in this manner, knowing that it is to be
+      <p>They lend their money in this manner, knowing that it is to be
 expended in murdering their fellow men, for simply seeking their
 liberty and their rights; knowing also that neither the interest nor
 the principal will ever be paid, except as it will be extorted under
 terror of the repetition of such murders as those for which the
 money lent is to be expended.</p>
-   <p>These money-lenders, the Rosthchilds, for example, say to
+      <p>These money-lenders, the Rosthchilds, for example, say to
 themselves: If we lend a hundred millions sterling to the queen and
 parliament of England, it will enable them to murder twenty, fifty,
 or a hundred thousand people in England, Ireland, or India; and the
@@ -1301,12 +1302,12 @@ be able, by murdering a reasonable portion of his people, to keep
 the rest in subjection, and extort money from them, for a long time
 to come, to pay the interest and the principal of the money lent
 him.</p>
-   <p>And why are these men so ready to lend money for murdering their
+      <p>And why are these men so ready to lend money for murdering their
 fellow men? Soley for this reason, viz., that such loans are
 considered better investments than loans for purposes of honest
 industry. They pay higher rates of interest; and it is less trouble
 to look after them. This is the whole matter.</p>
-   <p>The question of making these loans is, with these lenders, a mere
+      <p>The question of making these loans is, with these lenders, a mere
 question of pecuniary profit. They lend money to be expended in
 robbing, enslaving, and murdering their fellow men, solely because,
 on the whole, such loans pay better than any others. They are no
@@ -1318,7 +1319,7 @@ his murders successful for maintaining his power, and thus extorting
 money from his people in future, they dismiss him unceremoniously as
 they would dismiss any other hopeless bankrupt, who should want to
 borrow money to save himself from open insolvency.</p>
-   <p>When these great lenders of blood-money, like the Rothschilds, have
+      <p>When these great lenders of blood-money, like the Rothschilds, have
 loaned vast sums in this way, for purposes of murder, to an emperor
 or a king, they sell out the bonds taken by them, in small amounts,
 to anybody, and everybody, who are disposed to buy them at
@@ -1328,7 +1329,7 @@ ready to lend money in the same way again to any other robber and
 murderer, called an emperor or king, who, they think, is likely to
 be successful in his robberies and murders, and able to pay a good
 price for the money necessary to carry them on.</p>
-   <p>This business of lending blood-money is one of the most thoroughly
+      <p>This business of lending blood-money is one of the most thoroughly
 sordid, cold-blooded, and criminal that was ever carried on, to any
 considerable extent, amongst human beings. It is like lending money
 to slave traders, or to common robbers and pirates, to be repaid out
@@ -1338,7 +1339,7 @@ murder their people, are among the greatest villains that the world
 has ever seen. And they as much deserve to be hunted and killed (if
 they cannot otherwise be got rid of) as any slave traders, robbers,
 or pirates that ever lived.</p>
-   <p>When these emperors and kings, so-called, have obtained their loans,
+      <p>When these emperors and kings, so-called, have obtained their loans,
 they proceed to hire and train immense numbers of professional
 murderers, called soldiers, and employ them in shooting down all who
 resist their demands for money. In fact, most of them keep large
@@ -1349,7 +1350,7 @@ employed by the so-called sovereigns of Europe. The enslaved people
 are, of course, forced to support and pay all these murderers, as
 well as to submit to all the other extortions which these murderers
 are employed to enforce.</p>
-   <p>It is only in this way that most of the so-called governments of
+      <p>It is only in this way that most of the so-called governments of
 Europe are maintained. These so-called governments are in reality
 only great bands of robbers and murderers, organized, disciplined,
 and constantly on the alert. And the so-called sovereigns, in these
@@ -1362,7 +1363,7 @@ loan-mongers. And their first care is to maintain their credit with
 them; for they know their end is come, the instant their credit with
 them fails. Consequently the first proceeds of their extortions are
 scrupulously applied to the payment of the interest on their loans.</p>
-   <p>In addition to paying the interest on their bonds, they perhaps
+      <p>In addition to paying the interest on their bonds, they perhaps
 grant to the holders of them great monopolies in banking, like the
 Banks of England, of France, and of Vienna; with the agreement that
 these banks shall furnish money whenever, in sudden emergencies, it
@@ -1373,9 +1374,9 @@ blood-money are engaged. They also, by unequal taxation, exempt
 wholly or partially the property of these loan-mongers, and throw
 corresponding burdens upon those who are too poor and weak to
 resist.</p>
-   <p>Thus it is evident that all these men, who call themselves by the
+      <p>Thus it is evident that all these men, who call themselves by the
 high-sounding names of Emperors, Kings, Sovereigns, Monarchs, Most
-Christian Majesties, Most Catholic Majesties, High Mightinesses,
+Christian Majesties, Most <ent type='NORP'>Catholic</ent> Majesties, High Mightinesses,
 Most Serene and Potent Princes, and the like, and who claim to rule
 "by the grace of God," by "Divine Right" -- that is, by special
 authority from Heaven -- are intrinsically not only the merest
@@ -1403,8 +1404,8 @@ beggars, or give them over to the vengeance of the people they have
 enslaved, the moment they refuse to commit any crime we require of
 them, or to pay over to us such share of the proceeds of their
 robberies as we see fit to demand.</p>
-   <p>XIX.</p>
-   <p>Now, what is true in Europe, is substantially true in this country.
+      <p>XIX.</p>
+      <p>Now, what is true in Europe, is substantially true in this country.
 The difference is the immaterial one, that, in this country, there
 is no visible, permanent head, or chief, of these robbers and
 murderers who call themselves "the government." That is to say,
@@ -1421,7 +1422,7 @@ really only the agents of a secret band of robbers and murderers,
 whom they themselves do not know, and have no means of knowing,
 individually; but who, they trust, will openly or secretly, when the
 crisis comes, sustain them in all their usurpations and crimes.</p>
-   <p>What is important to be noticed is, that these so-called presidents,
+      <p>What is important to be noticed is, that these so-called presidents,
 senators, and representatives, these pretended agents of all "the
 people of the United States," the moment their exactions meet with
 any formidable resistance from any portion of "the people"
@@ -1438,7 +1439,7 @@ they anticipate it will be easy for them and their successors to
 perpetrate through a long series of years, upon their pretended
 principals, if they can but shoot down now some hundreds of
 thousands of them, and thus strike terror into the rest.</p>
-   <p>Perhaps the facts were never made more evident, in any country on
+      <p>Perhaps the facts were never made more evident, in any country on
 the globe, than in our own, that these soulless blood-money
 loan-mongers are the real rulers; that they rule from the most
 sordid and mercenary motives; that the ostensible government, the
@@ -1447,7 +1448,7 @@ their tools; and that no ideas of, or regard for, justice or liberty
 had anything to do in inducing them to lend their money for the war
 [i.e, the Civil War]. In proof of all this, look at the following
 facts.</p>
-   <p>Nearly a hundred years ago we professed to have got rid of all that
+      <p>Nearly a hundred years ago we professed to have got rid of all that
 religious superstition, inculcated by a servile and corrupt
 priesthood in Europe, that rulers, so called, derived their
 authority directly from Heaven; and that it was consequently a
@@ -1461,7 +1462,7 @@ professed for nearly a hundred years. And we professed to look with
 pity and contempt upon those ignorant, superstitious, and enslaved
 peoples of Europe, who were so easily kept in subjection by the
 frauds and force of priests and kings.</p>
-   <p>Notwithstanding all this, that we had learned, and known, and
+      <p>Notwithstanding all this, that we had learned, and known, and
 professed, for nearly a century, these lenders of blood money had,
 for a long series of years previous to the war, been the willing
 accomplices of the slave-holders in perverting the government from
@@ -1470,7 +1471,7 @@ They had been such accomplices FOR A PURELY PECUNIARY CONSIDERATION,
 to wit, a control of the markets in the South; in other words, the
 privilege of holding the slave-holders themselves in industrial and
 commercial subjection to the manufacturers and merchants of the
-<ent type='PERSON'>North</ent> (who afterwards furnished the money for the war). And these
+<ent type='LOC'>North</ent> (who afterwards furnished the money for the war). And these
 <ent type='PERSON'>Northern</ent> merchants and manufacturers, these lenders of blood-money,
 were willing to continue to be the accomplices of the slave-holders
 in the future, for the same pecuniary considerations. But the
@@ -1484,22 +1485,22 @@ to maintain their industrial and commercial control over the South
 profits of their former monopolies for the war, in order to secure
 to themselves the same, or greater, monopolies in the future. These
 -- and not any love of liberty or justice -- were the motives on
-which the money for the war was lent by the <ent type='PERSON'>North</ent>. In short, the
-<ent type='PERSON'>North</ent> said to the slave-holders: If you will not pay us our price
+which the money for the war was lent by the <ent type='LOC'>North</ent>. In short, the
+<ent type='LOC'>North</ent> said to the slave-holders: If you will not pay us our price
 (give us control of your markets) for our assistance against your
 slaves, we will secure the same price (keep control of your markets)
 by helping your slaves against you, and using them as our tools for
 maintaining dominion over you; for the control of your markets we
 will have, whether the tools we use for that purpose be black or
 white, and be the cost, in blood and money, what it may.</p>
-   <p>On this principle, and from this motive, and not from any love of
+      <p>On this principle, and from this motive, and not from any love of
 liberty, or justice, the money was lent in enormous amounts, and at
 enormous rates of interest. And it was only by means of these loans
 that the objects of the war were accomplished.</p>
-   <p>And now these lenders of blood-money demand their pay; and the
+      <p>And now these lenders of blood-money demand their pay; and the
 government, so called, becomes their tool, their servile, slavish,
 villanous tool, to extort it from the labor of the enslaved people
-both of the <ent type='PERSON'>North</ent> and South. It is to be extorted by every form of
+both of the <ent type='LOC'>North</ent> and South. It is to be extorted by every form of
 direct, and indirect, and unequal taxation. Not only the nominal
 debt and interest -- enormous as the latter was -- are to be paid in
 full; but these holders of the debt are to be paid still further --
@@ -1509,27 +1510,27 @@ prices for their commodities; also by such monopolies in banking as
 will enable them to keep control of, and thus enslave and plunder,
 the industry and trade of the great body of the <ent type='PERSON'>Northern</ent> people
 themselves. In short, the industrial and commercial slavery of the
-great body of the people, <ent type='PERSON'>North</ent> and South, black and white, is the
+great body of the people, <ent type='LOC'>North</ent> and South, black and white, is the
 price which these lenders of blood money demand, and insist upon,
 and are determined to secure, in return for the money lent for the
 war.</p>
-   <p>This programme having been fully arranged and systematized, they put
+      <p>This programme having been fully arranged and systematized, they put
 their sword into the hands of the chief murderer of the war,
 [undoubtedly a reference to General Grant, who had just become
 president] and charge him to carry their scheme into effect. And
 now he, speaking as their organ, says, "LET US HAVE PEACE."</p>
-   <p>The meaning of this is: Submit quietly to all the robbery and
+      <p>The meaning of this is: Submit quietly to all the robbery and
 slavery we have arranged for you, and you can have "peace." But in
 case you resist, the same lenders of blood-money, who furnished the
 means to subdue the South, will furnish the means again to subdue
 you.</p>
-   <p>These are the terms on which alone this government, or, with few
+      <p>These are the terms on which alone this government, or, with few
 exceptions, any other, ever gives "peace" to its people.</p>
-   <p>The whole affair, on the part of those who furnished the money, has
+      <p>The whole affair, on the part of those who furnished the money, has
 been, and now is, a deliberate scheme of robbery and murder; not
 merely to monopolize the markets of the South, but also to
 monopolize the currency, and thus control the industry and trade,
-and thus plunder and enslave the laborers, of both <ent type='PERSON'>North</ent> and South.
+and thus plunder and enslave the laborers, of both <ent type='LOC'>North</ent> and South.
 And Congress and the president are today the merest tools for these
 purposes. They are obliged to be, for they know that their own
 power, as rulers, so-called, is at an end, the moment their credit
@@ -1543,14 +1544,14 @@ that, in now paying the "National Debt," as they call it (as if the
 people themselves, ALL OF THEM WHO ARE TO BE TAXED FOR ITS PAYMENT,
 had really and voluntarily joined in contracting it), they are
 simply "Maintaining the National Honor!"</p>
-   <p>By "maintaining the national honor," they mean simply that they
+      <p>By "maintaining the national honor," they mean simply that they
 themselves, open robbers and murderers, assume to be the nation, and
 will keep faith with those who lend them the money necessary to
 enable them to crush the great body of the people under their feet;
 and will faithfully appropriate, from the proceeds of their future
 robberies and murders, enough to pay all their loans, principal and
 interest.</p>
-   <p>The pretense that the "abolition of slavery" was either a motive or
+      <p>The pretense that the "abolition of slavery" was either a motive or
 justification for the war, is a fraud of the same character with
 that of "maintaining the national honor." Who, but such usurpers,
 robbers, and murderers as they, ever established slavery? Or what
@@ -1573,7 +1574,7 @@ abolished, and the slavery they were fighting to preserve; for all
 restraints upon men's natural liberty, not necessary for the simple
 maintenance of justice, are of the nature of slavery, and differ
 from each other only in degree.</p>
-   <p>If their object had really been to abolish slavery, or maintain
+      <p>If their object had really been to abolish slavery, or maintain
 liberty or justice generally, they had only to say: All, whether
 white or black, who want the protection of this government, shall
 have it; and all who do not want it, will be left in peace, so long
@@ -1585,14 +1586,14 @@ men; such a union as will one day exist among all men, the world
 over, if the several nations, so called, shall ever get rid of the
 usurpers, robbers, and murderers, called governments, that now
 plunder, enslave, and destroy them.</p>
-   <p>Still another of the frauds of these men is, that they are now
+      <p>Still another of the frauds of these men is, that they are now
 establishing, and that the war was designed to establish, "a
 government of consent." The only idea they have ever manifested as
 to what is a government of consent, is this -- that it is one to
 which everybody must consent, or be shot. This idea was the
 dominant one on which the war was carried on; and it is the dominant
 one, now that we have got what is called "peace."</p>
-   <p>Their pretenses that they have "Saved the Country," and "Preserved
+      <p>Their pretenses that they have "Saved the Country," and "Preserved
 our Glorious Union," are frauds like all the rest of their
 pretenses. By them they mean simply that they have subjugated, and
 maintained their power over, an unwilling people. This they call
@@ -1604,7 +1605,7 @@ if there could be said to be any Union, glorious or inglorious, that
 was not voluntary. Or as if there could be said to be any union
 between masters and slaves; between those who conquer, and those who
 are subjugated.</p>
-   <p>All these cries of having "abolished slavery," of having "saved the
+      <p>All these cries of having "abolished slavery," of having "saved the
 country," of having "preserved the union," of establishing "a
 government of consent," and of "maintaining the national honor," are
 all gross, shameless, transparent cheats -- so transparent that they
@@ -1612,7 +1613,7 @@ ought to deceive no one -- when uttered as justifications for the
 war, or for the government that has suceeded the war, or for now
 compelling the people to pay the cost of the war, or for compelling
 anybody to support a government that he does not want.</p>
-   <p>The lesson taught by all these facts is this: As long as mankind
+      <p>The lesson taught by all these facts is this: As long as mankind
 continue to pay "national debts," so-called -- that is, so long as
 they are such dupes and cowards as to pay for being cheated,
 plundered, enslaved, and murdered -- so long there will be enough to
@@ -1622,8 +1623,8 @@ But when they refuse any longer to pay for being thus cheated,
 plundered, enslaved, and murdered, they will cease to have cheats,
 and usurpers, and robbers, and murderers and blood-money
 loan-mongers for masters.</p>
-   <p>APPENDIX.</p>
-   <p>Inasmuch as the Constitution was never signed, nor agreed to, by
+      <p>APPENDIX.</p>
+      <p>Inasmuch as the Constitution was never signed, nor agreed to, by
 anybody, as a contract, and therefore never bound anybody, and is
 now binding upon nobody; and is, moreover, such an one as no people
 can ever hereafter be expected to consent to, except as they may be
@@ -1640,20 +1641,21 @@ Constitution really be one thing, or another, this much is certain
 -- that it has either authorized such a government as we have had,
 or has been powerless to prevent it. In either case, it is unfit to
 exist.</p>
-   <p>X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X</p>
-   <p> Another file downloaded from: NIRVANAnet(tm)</p>
-   <p> &amp; the Temple of the Screaming Electron Jeff Hunter 510-935-5845
+      <p>X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X</p>
+      <p> Another file downloaded from: NIRVANAnet(tm)</p>
+      <p> &amp; the Temple of the Screaming Electron Jeff Hunter 510-935-5845
 Rat Head Ratsnatcher 510-524-3649
 Burn This Flag Zardoz 408-363-9766
 realitycheck Poindexter Fortran 415-567-7043
 Lies Unlimited Mick Freen 415-583-4102</p>
-   <p> Specializing in conversations, obscure information, high explosives,
+      <p> Specializing in conversations, obscure information, high explosives,
 arcane knowledge, political extremism, diversive sexuality,
 insane speculation, and wild rumours. ALL-TEXT BBS SYSTEMS.</p>
-   <p> Full access for first-time callers. We don't want to know who you are,
+      <p> Full access for first-time callers. We don't want to know who you are,
 where you live, or what your phone number is. We are not Big Brother.</p>
-   <p> "Raw Data for Raw Nerves"
+      <p> "Raw Data for Raw Nerves"
 
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 </p>
-</div>
+   </div>
+</xml>

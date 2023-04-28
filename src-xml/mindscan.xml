@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>THEY'RE FUCKING WITH YOUR MIND.</p>
-   <p> Car salesman Jeff Johnson is enjoying a lazy night at
+<xml>
+   <div class="article">
+      <p>THEY'RE FUCKING WITH YOUR MIND.</p>
+      <p> Car salesman Jeff Johnson is enjoying a lazy night at
 home, drinking a few beers and half-watching music videos on
 television. The sounds are loud, the colors, intense. The
 four millionth viewing of Madonna's video numbs him into
@@ -15,7 +16,7 @@ happened so undetectably that there is absolutely nothing he
 could have done to prevent it.
 Sure, that's fiction--but the facts are real. Using the
 powerful sensory inputs available to TV, radio, films and the
-rest of the mass media, mind manipulators in New York's
+rest of the mass media, mind manipulators in <ent type='GPE'>New York</ent>'s
 advertising agencies, Hollywood's movie and TV industries and
 Washington's political power structure are at this very
 moment shaping what you think about the key issues of the
@@ -26,7 +27,7 @@ at their disposal the latest and most comprehensive body of
 knowledge concerning the manner in which human behavior can
 be manipulated."
 "You cannot pick up a newspaper, magazine or pamphlet,
-hear radio or view televison anywhere in <ent type='PERSON'>North</ent> America
+hear radio or view televison anywhere in <ent type='LOC'>North America</ent>
 without being assaulted." adds researcher Dr. Wilson Bryan
 Key.
 "I shudder to think about the propaganda and commercial
@@ -226,7 +227,7 @@ Called imbedding, this technique--using an airbrush to
 hide emotionally charged words or images in seemingly
 harmless ads and photographs--is extraordinarily widespread.
 "Imbedded words and picture illusions are part of most
-advertising throughout <ent type='PERSON'>North</ent> America today," says Key.
+advertising throughout <ent type='LOC'>North America</ent> today," says Key.
 "These subliminal stimuli, though invisible to conscious
 perception, are perceived instantly at the unconscious level
 by virtually everyone who perceives them even for an instant.
@@ -447,8 +448,9 @@ easy remedies. That is the one sure step we can take to win
 back control over our subconscious minds. Beyond that, the
 experts urge only that we be very, very careful about what we
 listen to or watch.</p>
-   <p>Taken from HUSTLER magazine, Nov. 1989 by Robert McGarvey.
+      <p>Taken from HUSTLER magazine, Nov. 1989 by Robert McGarvey.
 
 GOOD LUCK. PLEASE SPREAD THIS INFORMATION AS WIDELY AS
 POSSIBLE. </p>
-</div>
+   </div>
+</xml>

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p> AN <ent type='ORG'>ILLUMINATI</ent> OUTLINE OF HISTORY</p>
-   <p>Alpha and Omega -- Immanentizing of the Eschaton.
+<xml>
+   <div class="article">
+      <p> AN <ent type='ORG'>ILLUMINATI</ent> OUTLINE OF HISTORY</p>
+      <p>Alpha and Omega -- Immanentizing of the Eschaton.
 20000000 BC -- Recent Epoch of geeology begins; Ice Age ends;
 human beings spread to all parts of the world.
 30000 -- First Illuminatus, Gruad, rules in Atlantis.
@@ -49,14 +50,14 @@ wings to he who opens this tomb," written on tomb doorway.
 1000 to 2000 -- Legendary Thule civilization in the Gobi region
 destroyed by a catastrophe, "possibly of an atomic nature,"
 survivors migrating to Agarthi and Schamballah.
-1000 -- Huge Sacrificial Table built at Mystery Hill near <ent type='PERSON'>North</ent>
+1000 -- Huge Sacrificial Table built at Mystery Hill near <ent type='LOC'>North</ent>
 Salem, New Hampshire.
 950 -- Approximate date of building of Solomon's Temple in
 Jerusalem, traditional origin of the <ent type='NORP'>Masonic</ent> fraternity; alleged
 assassination of Temple master-mason Hiram for refusing to reveal
 masonic secrets.
 900 -- Approximate time settlers from Europe and the Middle East
-established colonies in <ent type='PERSON'>North</ent> America.
+established colonies in <ent type='LOC'>North America</ent>.
 800 -- Twenty-two "moon stations" in monthly lunar cycle
 recognized in <ent type='GPE'>Babylonia</ent>, India and China.
 753 -- Legendary founding of Rome by Romulus.
@@ -147,7 +148,7 @@ Nine Unknown in India.
 950 -- "Al Azif" translated into Greek as "Necronomicon."
 1000 -- Approximate founding of Yezidi cult by Sufi Sheikh Adi in
 Iraq. Abode of Learning active in Cairo. Spread of Cathari
-Manicheism throughout Europe. Leif Ericson explores <ent type='PERSON'>North</ent>
+Manicheism throughout Europe. Leif Ericson explores <ent type='LOC'>North</ent>
 America.
 1034 to 1124 -- Life of Hasan-e Sabbah, founder of the Assassins
 of Persia. Member of the Ismaili sect, Hasan seized fortress of
@@ -173,7 +174,7 @@ Hood active in England.
 1162 to 1227 -- Life of Genghis Khan, conquerer of China and
 Russia, invader of Europe and Islamic Empire, destroyer of
 Assassin power. Approximate beginnings of the wandering of the
-Gypsies of <ent type='PERSON'>North</ent> India.
+Gypsies of <ent type='LOC'>North India</ent>.
 1167 -- Cathari council near Toulouse.
 1170 -- Assassination of Thomas a Becket.
 1171 -- Last Fatimid caliph dies.
@@ -258,7 +259,7 @@ Knights of Malta.
 1537 -- Assassination of Alessandro de Medici, Duke of Florence.
 1568 -- First Inquisition edict against the Alumbrados.
 1574 -- Second edict against Alumbrados.
-1575 -- Approximate date of founding of British Intelligence
+1575 -- Approximate date of founding of <ent type='NORP'>British</ent> Intelligence
 services.
 1575 to 1624 -- Life of Jakob Bohme, visionary mystic, illuminated
 one.
@@ -317,7 +318,7 @@ Lodge in Alnwick, England.
 1702 -- First daily newspaper in England.
 1717 -- Founding of modern <ent type='NORP'>Freemasonry</ent> with the Grand Lodge of
 London by Desaguliers. Voltaire imprisoned in the Bastille.
-1721 -- British King George I cracks down on the flourishing Hell
+1721 -- <ent type='NORP'>British</ent> King George I cracks down on the flourishing Hell
 Fire Clubs, popular Satanistic cults.
 1723 -- Anderson's "Constitutions of the <ent type='NORP'>Freemasons</ent>" published.
 "Ebrietatis Enconium" and other early anti-<ent type='NORP'>Masonic</ent> works
@@ -346,9 +347,9 @@ issues edict against secret societies.
 published.
 1764 -- Voltaire's "Philosophical Dictionary" published; he begins
 a prodigious attack on dogmas of church and state.
-1765 -- British Stamp Act imposed to help pay for the French and
+1765 -- <ent type='NORP'>British</ent> Stamp Act imposed to help pay for the French and
 <ent type='NORP'>Indian</ent> War debt. Sons of Liberty clubs formed to resist the tax.
-1767 -- Townshend Revenue Act, another British tax on the
+1767 -- Townshend Revenue Act, another <ent type='NORP'>British</ent> tax on the
 colonies. Kunta Kinte kidnapped into American slavery.
 1768 -- Virginia's legislature dissolved for its opposition to the
 Townshend Act. Weishaupt graduates from the University of
@@ -356,11 +357,11 @@ Ingolstadt, becomes tutor and catechist. Macfarguhar, Ball and
 Smelie begin compiling the "Encyclopaedia Britannica." Mesmer
 commissions 12 year old Mozart's first opera, "Bastien and
 Bastienne."
-1770 -- Boston Massacre: British troops fire into a crowd.
+1770 -- Boston Massacre: <ent type='NORP'>British</ent> troops fire into a crowd.
 Townshend Act repealed.
 1771 -- "Encyclopaedia Britannica" published.
 1772 -- Weishaupt becomes professor at University of Ingolstadt.
-1773 -- British Tea Tax on colonies. Boston Tea Party in protest.
+1773 -- <ent type='NORP'>British</ent> Tea Tax on colonies. Boston Tea Party in protest.
 Weishaupt marries. Alleged meeting of Meyer Rothschild and others
 to plan a world revolution. Suppression of the Jesuits.
 Franklin's "Rule by Which a Great Empire May Be Reduced to a Small
@@ -370,7 +371,7 @@ colonies. First Continental Congress. Washington begins training
 troops. Louis XVI becomes king of France. Casanova becomes
 secret agent for the Inquisitors of Venice. Catherine II shuts
 down satiric journals in Russia. Jefferson's "Summary View of the
-Rights of British Americans" published.
+Rights of <ent type='NORP'>British</ent> Americans" published.
 1775 -- Second Continental Congress authorizes naval warships,
 sets up secret committee to procure weapons, names Washington
 commander-in-chief of the new American Army. George III proclaims
@@ -382,7 +383,7 @@ American lodges.
 1776 -- Illuminati founded by Weishaupt. American Declaration of
 Independence, written by Jefferson, adopted by Continental
 Congress. Battles of Long Island, White Plains and Trenton.
-Nathan Hale executed as spy by British. Franklin becomes
+Nathan Hale executed as spy by <ent type='NORP'>British</ent>. Franklin becomes
 ambassador to France, is affiliated with French <ent type='NORP'>Masonic</ent> lodges.
 Opening of <ent type='NORP'>Freemasons</ent>' Hall, permanent headquarters of English
 Masonry. Cagliostro initiated into Masonry. Saigon captured by
@@ -400,10 +401,10 @@ provides aid. Franklin assists in initiation of Voltaire into
 <ent type='NORP'>Masonic</ent> Lodge of Paris. <ent type='NORP'>Masonic</ent> Convention in Lyons organizes
 Knights of Benficience.
 1779 -- John Paul Jones says "Damn the torpedos!" Benedict Arnold
-becomes a traitor and spy for the British. War of Bavarian
+becomes a traitor and spy for the <ent type='NORP'>British</ent>. War of Bavarian
 Secession ends.
-1780 -- John Andre, British agent, captured with secret documents
-from Arnold; Arnold escapes to join British; Andre hanged as spy.
+1780 -- John Andre, <ent type='NORP'>British</ent> agent, captured with secret documents
+from Arnold; Arnold escapes to join <ent type='NORP'>British</ent>; Andre hanged as spy.
 Weishaupt's wife dies. Illuminati begins rapid growth. First use
 of the title Odd Fellows. Order of the Brotherhood of Asia,
 Rosicrucian off-shoot, founded.
@@ -413,7 +414,7 @@ States in Congress Assembled. Weishaupt seeks abortion for his
 sister-in-law while awaiting dispensation to marry her. United
 <ent type='NORP'>Masonic</ent> Lodges of Hamburg headed by Fraximus, a secret
 Rosicrucian. Kant's "Critique of Pure Reason" published.
-1782 -- British cabinet agrees to recognize American independence,
+1782 -- <ent type='NORP'>British</ent> cabinet agrees to recognize American independence,
 preliminary agreement signed in Paris. Hanson commissions the
 "Eye in the Pyramid" Great Seal, finishes term; Elias Boudinot
 elected second President of Congress Assembled. Illuminati
@@ -528,7 +529,7 @@ uprising. Bolivar liberates Bolivia. Founding of Vienna bank by
 Solmon Rothschild and Naples bank by Carl Rothschild.
 1828 -- Tammany Society backs Andrew Jackson for President. Anti-<ent type='NORP'>Masonic</ent> Party founded, first third-party in America. Attempted
 assassination of Bolivar.
-1829 -- Alleged Illuminati meeting in New York decides to unite
+1829 -- Alleged Illuminati meeting in <ent type='GPE'>New York</ent> decides to unite
 Atheists and Nihilists into Communist movement.
 1830 -- Anti-<ent type='NORP'>Masonic</ent> conventions in Massachusetts and Vermont find
 evidence linking Masonry with Illuminism. Book of Mormon
@@ -551,8 +552,8 @@ united in a parliament at Frankfort; unity destroyed by the King
 of Prussia. Marx and Engles publish the "Communist Manifesto"
 (allegedly commissioned by the Illuminati) and travel in France
 and Germany encouraging discontent with the Establishment.
-Woman's Suffrage Movement gets underway in Seneca Falls, New York.
-Spiritualism born in Wayne County, New York, when the teenaged Fox
+Woman's Suffrage Movement gets underway in Seneca Falls, <ent type='GPE'>New York</ent>.
+Spiritualism born in Wayne County, <ent type='GPE'>New York</ent>, when the teenaged Fox
 sisters communicate with poltergeists. Fortean tidbits: moon
 turns "blood-red" during total eclipse; a great comet fails to
 return at the time predicted; visions and "phantom soldiers" seen
@@ -601,7 +602,7 @@ Dawn leader and occult figure.
 Battle of the Little Big Horn. Bell patents telephone. Otto
 builds four-cycle gasoline engine.
 1877 -- First of seven wills in which Cecil Rhodes leaves his
-money to establish a secret society to expand British rule
+money to establish a secret society to expand <ent type='NORP'>British</ent> rule
 throughout the world.
 1878 to 1945 -- Life of Edgar Cayce, visionary, trance-channeler
 who spoke of reincarnation, <ent type='NORP'>Egyptian</ent> mysteries, and Atlantis.
@@ -648,7 +649,7 @@ Approximate date Adolf Lanz founded the Order of New Templars, a
 fore-runner of the Nazi mentality.
 1901 -- Assassination of McKinley and <ent type='NORP'>Russian</ent> Education Minister
 Bogolepov. <ent type='PERSON'>Rockefeller</ent> Institute for Medical Research
-(<ent type='PERSON'>Rockefeller</ent> University) founded in New York. First trans-Atlantic radio broadcast: <ent type='PERSON'>Marconi</ent> sends the letter S.
+(<ent type='PERSON'>Rockefeller</ent> University) founded in <ent type='GPE'>New York</ent>. First trans-Atlantic radio broadcast: <ent type='PERSON'>Marconi</ent> sends the letter S.
 1902 -- Assassination of <ent type='NORP'>Russian</ent> Minister of Interior Sipyagain.
 Paul and Felix Warburg immigrate from Germany to the U.S.
 <ent type='PERSON'>Rockefeller</ent> General Education Board founded.
@@ -684,10 +685,11 @@ assassination; in Russia, Rasputin stabbed the same day. World War
 I begins.
 1915 -- Sinking of the Lusitania by German submarine; allegedly
 carrying secret munitions for the Allies, the ship supposedly
-sacrificed by British and American authorities to drum up war
+sacrificed by <ent type='NORP'>British</ent> and American authorities to drum up war
 hysteria in U.S. Alfred Wegener proposed theory of continental
 drift, receives ridicule and contempt from his fellow scientists.
 Ku Klux Klan revived.
 1916 -- Assassination of Rasputin.</p>
-   <p>From "The Illuminoids" c. Neil Wilgus &amp; various sources</p>
-</div>
+      <p>From "The Illuminoids" c. Neil Wilgus &amp; various sources</p>
+   </div>
+</xml>

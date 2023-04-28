@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p> THE GREATEST HACKER OF ALL TIME</p>
-   <p> by Dave Small
+<xml>
+   <div class="article">
+      <p> THE GREATEST HACKER OF ALL TIME</p>
+      <p> by Dave Small
 (c) 1987 Reprinted from Current Notes magazine.</p>
-   <p> The question comes up from time to time. "Who's the
+      <p> The question comes up from time to time. "Who's the
 greatest hacker ever?"Well, there's a lot of different opinions
 on this. Some say Steve Wozniak of Apple II fame. Maybe Andy
 Hertzfeld of the Mac operating system. Richard Stallman, say
@@ -15,8 +16,8 @@ mind numbing. By the way, everything I'm going to tell you is
 true and verifiable down at your local library. Don't worry --
 we're not heading off into a Shirley MacLaine <ent type='EVENT'>UFO</ent>-land story.
 Just some classy electrical engineering...</p>
-   <p> THE SCENE: COLORADO SPRINGS, CO.</p>
-   <p> Colorado Springs is in southern Colorado, about 70 mile
+      <p> THE SCENE: COLORADO SPRINGS, CO.</p>
+      <p> Colorado Springs is in southern Colorado, about 70 mile
 south of Denver. These days it is known as the home of several
 optical disk research corporations and of NORAD, the missile
 defense command under Cheyenne Mountain. (I have a personal
@@ -38,8 +39,8 @@ run it wide open in an experiment that ranks as among the
 greatest, and most spectacular, of all time. One side effect of
 his experiment was the setting of the record for man-made
 lightning: some 42 meters in length (130 feet).</p>
-   <p> THE MAN: NIKOLA TESLA.</p>
-   <p>His name was Nikola <ent type='PERSON'>Tesla</ent>. He was an immigrant from what is now
+      <p> THE MAN: NIKOLA TESLA.</p>
+      <p>His name was Nikola <ent type='PERSON'>Tesla</ent>. He was an immigrant from what is now
 Yugoslavia; there's a museum of his works in Belgrade. He's a
 virtual unknown in the United States, despite his
 accomplishments. I'm not sure why. Some people feel it's a dark
@@ -58,7 +59,7 @@ over the world. He invented the <ent type='PERSON'>Tesla</ent> Coil, which makes
 voltage that drives the picture tube in your computer's CRT. He
 is now credited with inventing modern radio as well; the Supreme
 Court overturned <ent type='PERSON'>Marconi</ent>'s patent in 1943 in favor of <ent type='PERSON'>Tesla</ent>.</p>
-   <p> <ent type='PERSON'>Tesla</ent>, in short, invented much of the equipment that gets
+      <p> <ent type='PERSON'>Tesla</ent>, in short, invented much of the equipment that gets
 power to your home every day from miles away, and many that use
 that power inside your home. His inventions made George
 Westinghouse (Westinghouse Corp.) a wealthy man. Finally, the
@@ -123,10 +124,10 @@ a series of small pushes each time the swing goes out. And you
 build up a lot of power with a series of small pushes; ever tried
 to stop a swing when it's going full tilt? He wanted to find out
 the upper limit of resonance. And he was in for a surprise.</p>
-   <p> THE HACK: THE TESLA COIL</p>
-   <p>So <ent type='PERSON'>Tesla</ent> moved into Colorado Springs, where one of his generators
+      <p> THE HACK: THE TESLA COIL</p>
+      <p>So <ent type='PERSON'>Tesla</ent> moved into Colorado Springs, where one of his generators
 and electrical systems had been installed, and set up his lab.
-Why Colorado Springs? Well, his lab in New York had burned down,
+Why Colorado Springs? Well, his lab in <ent type='GPE'>New York</ent> had burned down,
 and he was depressed about that. And as fate would have it, a
 friend in Colorado Springs who directed the power company,
 Leonard Curtis, offered him free electricity. Who could resist
@@ -171,7 +172,7 @@ just overloaded the generator and set it on fire, his lads were
 busy putting out the fire in the windings, and it would be a cold
 day in hell before <ent type='PERSON'>Tesla</ent> got any more free power from the
 Colorado Springs power company!</p>
-   <p> All the lights in Colorado Springs had gone out. And that,
+      <p> All the lights in Colorado Springs had gone out. And that,
 readers, is to me the greatest hack in history. I've seen some
 amazing hacks. The 8-bit Atari OS. The Mac OS. The phone
 company computers -- well, lots of computers. But I've never
@@ -185,8 +186,8 @@ near a hundred years ago. Well, you may say to yourself, that's
 a nice story, and I'm sure George Lucas could make a hell of a
 move about it, special effects and all. But it's not relevant
 today. Or isn't it? Hang on to your hat.</p>
-   <p> THE SDI AND THE TESLA COIL</p>
-   <p> Last month we talked about an amazing hack that Nikola <ent type='PERSON'>Tesla</ent>
+      <p> THE SDI AND THE TESLA COIL</p>
+      <p> Last month we talked about an amazing hack that Nikola <ent type='PERSON'>Tesla</ent>
 did -- bouncing an electrical wave through the planet, in 1899,
 and setting the world's record for manmade lightning. This
 month,let me lay a little political groundwork. Last October I
@@ -209,8 +210,8 @@ hacker of them all, Nikola <ent type='PERSON'>Tesla</ent>, solved and SDI techni
 problem back in 1899. The event was so long ago, and so amazing,
 that it's pretty much been forgotten; I described it last issue.
 Let me present my case for the <ent type='PERSON'>Tesla</ent> Coil and SDI.</p>
-   <p> SOVIET USE OF THE TESLA COIL</p>
-   <p> You will recall I said that <ent type='PERSON'>Tesla</ent> was born in Yugoslavia
+      <p> SOVIET USE OF THE TESLA COIL</p>
+      <p> You will recall I said that <ent type='PERSON'>Tesla</ent> was born in Yugoslavia
 (although back then, it was "Serbo-Croatia"). He is not unknown
 there; he is regarded as a national hero. Witness the Nikola
 <ent type='PERSON'>Tesla</ent> museum in Belgrade, for instance. There's been
@@ -228,8 +229,8 @@ what they're doing.) When I read about this testing, it worried
 me. I don't think they're playing with attitude control or
 radar. I think they're doing exactly what <ent type='PERSON'>Tesla</ent> did in Colorado
 Springs.</p>
-   <p> COMPUTERS AND GROUNDING</p>
-   <p> Time for another discussion of grounding. Consider your
+      <p> COMPUTERS AND GROUNDING</p>
+      <p> Time for another discussion of grounding. Consider your
 computer equipment. You've doubtlessly been warned about static
 electricity, always been told to ground yourself (thus
 discharging the static into the ground, an electrical sinkhole)
@@ -294,7 +295,7 @@ when I lived in Austin. Imagine the effect on relatively delicate
 electronics if someone fires up a <ent type='PERSON'>Tesla</ent> Coil on the far side of
 the planet, and subjects the grounds to steep electrical swings.
 The military applications are pretty obvious -- those ICBM's in
-<ent type='PERSON'>North</ent> Dakota, for instance. It's possible they could be damaged
+<ent type='LOC'>North Dakota</ent>, for instance. It's possible they could be damaged
 in their silos, and from thousands of miles away. Running two or
 more Coils, you don't have to bee exactly on the far side of the
 planet, either. Interference effects can give you high points
@@ -302,8 +303,8 @@ where you need with varied tunings. Maybe, just maybe, the
 Soviets aren't doing "over the horizon" radar. Maybe they just
 bothered to read <ent type='PERSON'>Tesla</ent>'s notes. And maybe they are tuning up a
 real big surprise with their twin Coils.</p>
-   <p> "STAR WARS" AND THE TESLA COIL</p>
-   <p> You've heard of the Strategic Defense Initiative, or "Star
+      <p> "STAR WARS" AND THE TESLA COIL</p>
+      <p> You've heard of the Strategic Defense Initiative, or "Star
 Wars". We're searching for a way to stop a nuclear attack.
 Right now, we've got all sorts of high powered research projects,
 with the emphasis on "new technology". Excimer laser, kinetic
@@ -318,7 +319,7 @@ achieved in 1899, and promptly forgotten. Remember, we're not
 talking vague, unproven theories here. We're talking the world's
 record for lightning, and the inventor whose power system lights
 up your house at night.</p>
-   <p> THE TESLA COIL WORKS.
+      <p> THE TESLA COIL WORKS.
 
 All we'd have to do is build it. You might not believe the
 story about <ent type='PERSON'>Tesla</ent> in Colorado Springs, and what he did. It's
@@ -331,4 +332,5 @@ generator, is sent through a <ent type='PERSON'>Tesla</ent> transformer, and get
 house through 3-phase <ent type='PERSON'>Tesla</ent> power. <ent type='PERSON'>Tesla</ent>'s inventions... they
 have a way of working..
 </p>
-</div>
+   </div>
+</xml>

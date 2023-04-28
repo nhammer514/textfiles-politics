@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>Bewitching Science
+<xml>
+   <div class="article">
+      <p>Bewitching Science
 by Val Dusek</p>
-   <p> [Note by Brian Siano: This article originally appeared in
+      <p> [Note by Brian Siano: This article originally appeared in
 the November/December 1987 issue of _Science for the People_,
 published by the Science Resource Center, 897 Main Street,
 Cambridge, MA 02139. I don't even know if the magazine is still
@@ -10,7 +11,7 @@ being published; it's a shame, because it regularly dealt with
 such topics as toxic wastes, nuclear power, eugenics,
 biotechnology, and the like. I have a few back issues, one of
 which has a dandy article in the psychological experiments of Dr.
-Ewen Cameron conducted in Canada. I wish a local newsstand still
+Ewen Cameron conducted in <ent type='GPE'>Canada</ent>. I wish a local newsstand still
 carried it. (BTW, its editorial advisory board includes Stephen
 Jay Gould and Richard Lewontin.)
 [Since this article appeared, Bouchard _has_ published his
@@ -20,7 +21,7 @@ publishing, and raises important questions as to Bouchard's
 impartiality over his thesis.
 [Val Dusek, at the time of publication, taught philosophy at
 the University of New Hampshire.]</p>
-   <p> For seven years, popular magazines have regaled us with
+      <p> For seven years, popular magazines have regaled us with
 tales of Oskar and Jack, a pair of twins, one raised in Nazi
 Germany, the other raised as a Jew in Trinidad, who both think it
 funny to sneeze in elevators and always flush a toilet before
@@ -35,7 +36,7 @@ inherited.
 During the past year, lengthy articles have appeared in U.S.
 News and World Report (a cover story), Discover, and Science.
 Shorter pieces have appeared in Time, U.S. News and World Report,
-the New York Times, and other magazines and newspapers. (1)
+the <ent type='ORG'>New York Times</ent>, and other magazines and newspapers. (1)
 The Minnesota Twins Study's "latest bombshell" (as U.S. News
 calls it) purports to show that traits such as shyness,
 political conservatism, dedication to hard work, orderliness,
@@ -45,7 +46,7 @@ are more determined by heredity than by environment.
 Despite all the media coverage, the scientific data and
 methods of analysis upon which these conclusions are based have
 not yet been published in a refereed scientific journal. A
-December 1986 article in the New York Times and one in the
+December 1986 article in the <ent type='ORG'>New York Times</ent> and one in the
 January 12, 1987 issue of Time referred to results "submitted"
 and "being reviewed" by professional journals. However, in the
 August 7, 1987 issue of Science, no reference is made to any
@@ -56,8 +57,8 @@ the last seven years, Bouchard has been releasing announcements
 to the media regarding the Minnesota Twins Study and its results.
 The news section of Science has several times enthusiastically
 quoted Bouchard. Also since 1980, articles have appeared in
-Science 80, Newsweek, The New York Times, the New York Times
-Sunday Magazine, People, the New Orleans States-Item, the
+Science 80, Newsweek, The <ent type='ORG'>New York Times</ent>, the <ent type='ORG'>New York Times</ent>
+<ent type='LOC'>Sunday</ent> Magazine, People, the New Orleans States-Item, the
 Washington Post, and elsewhere. (2)
 In these articles, traits from political conservatism to
 toilet flushing have been claimed to be heritable. Bouchard has
@@ -79,7 +80,7 @@ uncritically convey the study's claims and the members of the
 relevant subdisciplines within the scientific community who have
 not raised critical notice concerning the twins study and its
 media coverage. </p>
-   <p>Persecuted Galileos?
+      <p>Persecuted Galileos?
 Doctrines of hereditary I.Q., race differences in I.Q., sex
 differences in math ability, the sociobiology of aggression and
 sex roles, and other aspects of biological determinism have
@@ -276,36 +277,36 @@ coincidences that "struck" Bouchard must remain on a par with
 tales about astrology and ESP. And Bouchard's data and methods
 must remain in that limbo in which Cyril Burt's imaginary
 assistants and unverifiable data existed.</p>
-   <p>Notes</p>
-   <p>1. "The Eerie World of Reunited Twins," Discover, September
+      <p>Notes</p>
+      <p>1. "The Eerie World of Reunited Twins," Discover, September
 1987; "How Genes Shape Personality," U.S. News and World Report,
 April 13, 1987; "The Genetics of Personality," Science, vol. 237,
 1987; "Exploring the Traits of Twins," Time, Jan 12, 1987;
 "Genes: Little Things that Mean a Lot," U.S. News and World
 Report, Dec. 15, 1986; "Major Personality Study Finds that Traits
-Are Mostly Inherited," The New York Times, Dec. 1, 1986.</p>
-   <p>2. "Twins Reunited," Science 80, Nov. 1980; "Identical Twins
+Are Mostly Inherited," The <ent type='ORG'>New York Times</ent>, Dec. 1, 1986.</p>
+      <p>2. "Twins Reunited," Science 80, Nov. 1980; "Identical Twins
 Reared Apart," Science, vol. 207, 1980; "Twins, Nazi and Jew,"
 Newsweek, Dec. 3, 1979; "Twins Reared Apart, a Living Lab," New
-York Times Sunday Magazine, Dec. 9, 1979; "Two Ohio Strangers
+York Times <ent type='LOC'>Sunday</ent> Magazine, Dec. 9, 1979; "Two Ohio Strangers
 Find They're Twins at 39 -- and a boon to Psychologists," People,
 May 7, 1979; "The Twins," States-Item, Feb. 25-29, 1980; "Me,
 Myself, and Us: Twins," Science Digest, Nov./Dec. 1980.</p>
-   <p>3. op. cit. Science, vol, 207, 1980.</p>
-   <p>4. Bouchard's coworker David Lykken quoted describing Leon
+      <p>3. op. cit. Science, vol, 207, 1980.</p>
+      <p>4. Bouchard's coworker David Lykken quoted describing Leon
 Kamin as one of the "psychologists who object to genetic research
 on ideological grounds" and "do not understand its true
 implications." U.S. News, Dec. 15, 1986.</p>
-   <p>5. op. cit. U.S. News, April 13, 1987.</p>
-   <p>6. For a sample of the history and criticism of biological
+      <p>5. op. cit. U.S. News, April 13, 1987.</p>
+      <p>6. For a sample of the history and criticism of biological
 determinist doctrines, see: Biology as a Social Weapon, the Ann
 Arbor Science for the People Editorial Collective; The Mismeasure
 of Man by Stephen Jay Gould; Not In Our Genes, by R. C. Lewontin,
 Steven C. Rose, and Leon Kamin; Biology As Destiny, Science for
 the People Sociobiology Study Group.</p>
-   <p>7. op. cit Science 80, November 1980.</p>
-   <p>8. op. cit Discover, Sept. 1987.</p>
-   <p>9. L.S. Hearnshaw, Cyril Burt, Psychologist, 1979. Hearnshaw,
+      <p>7. op. cit Science 80, November 1980.</p>
+      <p>8. op. cit Discover, Sept. 1987.</p>
+      <p>9. L.S. Hearnshaw, Cyril Burt, Psychologist, 1979. Hearnshaw,
 eulogist at Burt's funeral and "official" biographer of Burt, was
 only reluctantly led to his conclusions that Burt invented both
 data and research assistants. Leon Kamin (The Science and
@@ -316,7 +317,7 @@ have doubts that Burt's data were fraudulent was Science
 journalist Constance Holden, author of three articles in praise
 of Bouchard (Science 80, Nov 1980, and Science, vol. 207, 1980,
 to cite two).</p>
-   <p>10. A look at Bouchard's previous publications in psychology
+      <p>10. A look at Bouchard's previous publications in psychology
 does not increase one's trust in the so-far-unpublished twin
 data. Bouchard and McGue's "Familial Studies of Intelligence: A
 Review," (Science, vol 212, 1981) reviews previous studies of
@@ -350,21 +351,21 @@ performed with radically different biases and methodologies. They
 could not have been randomly sampling two subpopulations of the
 same homogeneous population of data -- a basic requirement for
 drawing valid statistical inference.</p>
-   <p>11. Cassil, Kay. Twins: Nature's Amazing Mystery. 1982.</p>
-   <p>12. Ibid. p. 180. Also, op. cit Discover, Sept. 1987.</p>
-   <p>13. Op. cit. Cassil, p. 134-5, 158-164, 189.</p>
-   <p>14. Bouchard, Review of Howard Gardner's "The Intelligence
+      <p>11. Cassil, Kay. Twins: Nature's Amazing Mystery. 1982.</p>
+      <p>12. Ibid. p. 180. Also, op. cit Discover, Sept. 1987.</p>
+      <p>13. Op. cit. Cassil, p. 134-5, 158-164, 189.</p>
+      <p>14. Bouchard, Review of Howard Gardner's "The Intelligence
 Controversy."American Journal of Psychology, Vol. 95, 1987.</p>
-   <p>15. Kamin, Leon. The Science and Politics of I.Q. 1974.</p>
-   <p>16. Eckert, Bouchard, Bohlen, and Heston, "Homosexuality in
-Monozygotic Twins Reared Apart," British Journal of Psychiatry,
+      <p>15. Kamin, Leon. The Science and Politics of I.Q. 1974.</p>
+      <p>16. Eckert, Bouchard, Bohlen, and Heston, "Homosexuality in
+Monozygotic Twins Reared Apart," <ent type='NORP'>British</ent> Journal of Psychiatry,
 vol. 148, 1986.</p>
-   <p>17. "Gene Cloning by Press Conference," New England Journal of
-Medicine, March 27, 1980: New York Times article, Nov. 18, 1974. </p>
-   <p>18. U.S. News, Dec. 15, 1986, and Time, Jan. 12, 1987. David
+      <p>17. "Gene Cloning by Press Conference," New England Journal of
+Medicine, March 27, 1980: <ent type='ORG'>New York Times</ent> article, Nov. 18, 1974. </p>
+      <p>18. U.S. News, Dec. 15, 1986, and Time, Jan. 12, 1987. David
 Lykken is the source of the claim about Chuck Yeager.</p>
-   <p>Sidebar: "Financing Racist Research"</p>
-   <p> The first New York Times report about the Minnesota Twin
+      <p>Sidebar: "Financing Racist Research"</p>
+      <p> The first <ent type='ORG'>New York Times</ent> report about the Minnesota Twin
 study quoted Bouchard as saying, "I'm going to beg, borrow, and
 steal" to pursue the twin study. In fact, Bouchard has solicited
 money from the Pioneer Fund, a foundation with racist and radical
@@ -391,16 +392,16 @@ funding for his study and has made numerous criticisms of his
 method. Bouchard has claimed that the NSF and the National
 Institutes of Health are packed with left liberals who deny him
 funds on ideological grounds.</p>
-   <p> [Additional Commentary by Brian Siano: In fairness to the
+      <p> [Additional Commentary by Brian Siano: In fairness to the
 Pioneer Fund, they also provided some funding for _The Atomic
 Cafe_, a savagely funny documentary about the ridiculous claims
 on the harmlessness of nuclear war circulated in the 1950s. It's
 hard to call this film 'right wing.'
 [As for the comments on the World Anti-Communist League,
-they're certainly true; the WACL was even condemned by the John
+they're certainly true; the <ent type='ORG'>WACL</ent> was even condemned by the John
 Birch society as being too fanatical. A good resource on this
-organization (which has numbered Roberto D'Aubuisson, Rev. Sun
-Myung Moon, Ferdinand Marcos and John Singlaub as its members) is
+organization (which has numbered Roberto D'Aubuisson, Rev. <ent type='LOC'>Sun</ent>
+Myung <ent type='LOC'>Moon</ent>, Ferdinand Marcos and John Singlaub as its members) is
 _Inside The League_, by Scott Anderson and Jon Lee Anderson.
 [Roger Pearson deserves a study by himself. Many of his
 books (some still sold my the American Nazi Party) argue classic
@@ -410,4 +411,5 @@ the League_ provides a quick thumbnail study of Pearson's views
 and activities.]
 
 </p>
-</div>
+   </div>
+</xml>

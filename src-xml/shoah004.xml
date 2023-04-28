@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>conditions "naively in terms of 'goodness' and 'badness' is to
+<xml>
+   <div class="article">
+      <p>conditions "naively in terms of 'goodness' and 'badness' is to
 ignore the constituent factors...."</p>
-   <p> FAKE PHOTOGRAPHS</p>
-   <p> Not only were situations such as those at Belsen
+      <p> FAKE PHOTOGRAPHS</p>
+      <p> Not only were situations such as those at Belsen
 unscrupulously exploited for propaganda purposes, but this
 propaganda has also made use of entirely fake atrocity
 photographs and films. The extreme conditions at Belsen applied
@@ -11,7 +12,7 @@ to very few camps indeed; the great majority escaped the worst
 difficulties and all their inmates survived in good health. As a
 result, outright forgeries were used to exaggerate conditions of
 horror. A startling case of such forgery was revealed in the
-British Catholic Herald of October 29th, 1948. It reported that
+British <ent type='NORP'>Catholic</ent> Herald of October 29th, 1948. It reported that
 in Cassel, where every adult German was compelled to see a film
 representing the "horrors" of Buchenwald, a doctor from
 Goettingen saw himself on the screen looking after the victims.
@@ -34,10 +35,10 @@ Ponsonby cites such fabrications as "The Corpse Factory" and
 reminiscent of the propaganda relating to Nazi "atrocities".
 F.J.P. Veale explains in his book that the bogus "jar of human
 soap" solemnly introduced by the Soviet prosecution at Nuremberg
-was a deliberate jibe at the famous British "Corpse factory"
+was a deliberate jibe at the famous <ent type='NORP'>British</ent> "Corpse factory"
 myth, in which the ghoulish Germans were supposed to have
 obtained various commodities from processing corpses (Veale,
-ibid, p. 192). This accusation was one for which the British
+ibid, p. 192). This accusation was one for which the <ent type='NORP'>British</ent>
 Government apologized after 1918. It received new life after
 1945 in the tale of lamp shades of human skin, which was
 certainly as fraudulent as the Soviet "human soap". In fact,
@@ -70,9 +71,9 @@ for the International Court at Nuremberg; Heinz Kuhnrich's Der
 KZ-Staat (Berlin, 1960, p. 81); Vaclav Berdych's Mauthausen
 (Prague, 1959); and Robert Neumann's Hitler--Aufsteig and
 Untergang des Dritten Reiches (Munich, 1961).</p>
-   <p> 9. THE JEWS AND THE CONCENTRATION CAMPS: A FACTUAL APPRAISAL BY
+      <p> 9. THE JEWS AND THE CONCENTRATION CAMPS: A FACTUAL APPRAISAL BY
 THE RED CROSS</p>
-   <p> There is one survey of the Jewish question in Europe during
+      <p> There is one survey of the Jewish question in Europe during
 World War Two and the conditions of Germany's concentration
 camps which is almost unique in its honesty and objectivity, the
 three-volume Report of the International Committee of the Red
@@ -117,8 +118,8 @@ prisons" (Vol. III, p. 78). The ICRC soon established contact
 with camp commandants and launched a food relief program which
 continued to function until the last months of 1945, letters of
 thanks for which came pouring in form Jewish internees.</p>
-   <p> RED CROSS RECIPIENTS WERE JEWS</p>
-   <p> The Report states that "As many as 9000 parcels were packed
+      <p> RED CROSS RECIPIENTS WERE JEWS</p>
+      <p> The Report states that "As many as 9000 parcels were packed
 daily. From the autumn of 1943 until May 1945, about 1112000
 parcels with a total weight of 4500 tons were sent off to the
 concentration camps" (Vol III, p. 80). In addition to food,
@@ -133,7 +134,7 @@ III, p. 83). In the course of the war, "The Committee was in a
 position to transfer and distribute in the from of relief
 supplies over twenty million Swiss francs collected by Jewish
 welfare organization throughout the world, in particular by the
-American Joint Distribution Committee of New York" (Vol. I, p.
+American Joint Distribution Committee of <ent type='GPE'>New York</ent>" (Vol. I, p.
 644). This latter organization was permitted by the German
 Government to maintain offices in Berlin until the American
 entry into the war. The ICRC complained that obstruction of
@@ -170,8 +171,8 @@ internees remaining at Auschwitz under Soviet control were
 futile. However, food parcels continued to be sent to former
 Auschwitz inmates transferred west to such camps as Buchenwald
 and Oranienburg.</p>
-   <p> NO EVIDENCE OF GENOCIDE</p>
-   <p> One of the most important aspects of the Red Cross Report is
+      <p> NO EVIDENCE OF GENOCIDE</p>
+      <p> One of the most important aspects of the Red Cross Report is
 that it clarifies the true cause of those deaths that
 undoubtedly occurred in the camps toward the end of the war.
 Says the Report: "In the chaotic condition of Germany after the
@@ -217,8 +218,8 @@ installations for baths, showers and laundry were inspected by
 the delegates. They had often to take action to have fixtures
 made less primitive, and to get them repaired and enlarged"
 (Vol. III, p. 594).</p>
-   <p> NOT ALL WERE INTERNED</p>
-   <p> Volume III of the Red Cross Report, Chapter 3 (I. Jewish
+      <p> NOT ALL WERE INTERNED</p>
+      <p> Volume III of the Red Cross Report, Chapter 3 (I. Jewish
 Civilian Population) deals with the "aid given to the Jewish
 section of the free population," and this chapter makes it quite
 plain that by no means all of the European Jews were placed in
@@ -269,8 +270,8 @@ message stating that "The Government of the United States...now
 specifically repeats its assurance that arrangements will be
 made by it for the care of all Jews who in the present
 circumstances are allowed to leave" (Vol. I, p. 649).</p>
-   <p> 10. THE TRUTH AT LAST: THE WORK OF PAUL RASSINIER</p>
-   <p> Without doubt the most important contribution to a truthful
+      <p> 10. THE TRUTH AT LAST: THE WORK OF PAUL RASSINIER</p>
+      <p> Without doubt the most important contribution to a truthful
 study of the extermination question has been the work of the
 French historian, Professor Paul Rassinier. The pre-eminent
 value of his work lies firstly in the fact that Rassinier
@@ -323,8 +324,8 @@ was high time for a rebirth of the truth regarding the
 extermination legend, and theat the Germans themselves should
 begin it since the allegation remained a wholly unjustifiable
 blot on Germany in the eyes of the world.</p>
-   <p> THE IMPOSTURE OF 'GAS CHAMBERS'</p>
-   <p> Rassinier entitled his first book The Lies of Odysseus in
+      <p> THE IMPOSTURE OF 'GAS CHAMBERS'</p>
+      <p> Rassinier entitled his first book The Lies of Odysseus in
 commemoration of the fact that travellers always return bearing
 tall stories, and until his death he investigated all the
 stories of extermination literature and attempted to trace their
@@ -421,8 +422,8 @@ Contemporary Jewish Documentation at Tel-Aviv, made in La Terre
 Retrouvee, December 15th, 1960. Dr. Kubovy recognised that not a
 single order for extermination exists from Hitler, Himmler,
 Heydrich or Goering (Le Drame des Juifs europeen, p. 31, 39).</p>
-   <p> 'SIX MILLION' FALSEHOOD REJECTED</p>
-   <p> As for the fearful propaganda figure of the Six Million,
+      <p> 'SIX MILLION' FALSEHOOD REJECTED</p>
+      <p> As for the fearful propaganda figure of the Six Million,
 Professor Rassinier rejects it on the basis of an extremely
 detailed statistical analysis. He shows that the number has been
 falsely established, on the one had through inflation of the
@@ -469,12 +470,12 @@ the Jewish statisticial Raul Hilberg. Rassinier points out that
 the State of Israel nevertheless continues to claim compensation
 for six million dead, each one representing an indemnity of
 5000 marks.</p>
-   <p> EMIGRATION: THE FINAL SOLUTION</p>
-   <p> Prof. Rassinier is emphatic in stating that the German
+      <p> EMIGRATION: THE FINAL SOLUTION</p>
+      <p> Prof. Rassinier is emphatic in stating that the German
 Government never had any plicy other thatn the emigration of
 Jews overseas. He shows that after the promulgation of the
 Nuremberg Race Laws in September 1935, the Germans negotiated
-with the British for the transfer of German Jews to Palestine on
+with the <ent type='NORP'>British</ent> for the transfer of German Jews to Palestine on
 the basis of the Balfour Declaration. When this failed, they
 asked other countries to take charge of them, but these refused
 (ibid, p. 20). The Palestine project was revived in 1938, but
@@ -510,8 +511,8 @@ concentration in the eastern ghetto was given by Goering to
 Heydrich, as noted earlier, and it was regarded as a prelude to
 "the desired final solution," their emigration overseas after
 the war had ended.</p>
-   <p> ENORMOUS FRAUD</p>
-   <p> Of great concern to Professor Rassinier is the way in which
+      <p> ENORMOUS FRAUD</p>
+      <p> Of great concern to Professor Rassinier is the way in which
 the extermination legend is deliberately exploited for political
 and financial advantage, and in this he finds Israel and the
 Soviet Union to be in concert. He notes how, after 1950, an
@@ -551,8 +552,8 @@ Israel and to the rightful claimants of those who have since
 deceased, which means that for the former (i.e. the six
 million), or in other words, for the vast majority, she is
 paying twice."</p>
-   <p> CONCLUSION</p>
-   <p> Here we may briefly summarise the data on Jewish wartime
+      <p> CONCLUSION</p>
+      <p> Here we may briefly summarise the data on Jewish wartime
 casualties.
 Contrary to the figure of over 9 million Jews in German-occupied territory put forward at the Nuremberg and Eichmann
 trials, it has already been established that after extensive
@@ -600,8 +601,8 @@ the "Loss of victims of persecution because of politics, race or
 religion who died in prisons and concentration camps between
 1939 and 1945" at 300000, not all of whom were Jews, and this
 figure seems the most accurate assessment.</p>
-   <p> IMAGINARY SLAUGHTER</p>
-   <p> The question most pertinent to the extermination legend is,
+      <p> IMAGINARY SLAUGHTER</p>
+      <p> The question most pertinent to the extermination legend is,
 of course: how many of the 3 million European Jews under German
 control survived after 1945? The Jewish Joint Distribution
 Committee estimated the number of survivors in Europe to be only
@@ -630,4 +631,5 @@ subject of war crimes under the influence of Professor Paul
 Rassinier, to whose monumental work this little volume is
 greatly indebted. The author is now working on a sequel in this
 series on the Main Nuremberg Trial, 1945-1946. </p>
-</div>
+   </div>
+</xml>
