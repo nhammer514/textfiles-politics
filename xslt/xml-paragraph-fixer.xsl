@@ -21,7 +21,7 @@
 
            <xsl:for-each select="$conspiracy">   
                <xsl:variable name="filename" as="xs:string" select="current() ! base-uri() ! tokenize(., '/')[last()]"/>
-               <xsl:result-document method="xml" indent="yes" href="../src-xml/{$filename}"> 
+               <xsl:result-document method="xml" indent="yes" href="../pre-src-xml/{$filename}"> 
                 <!-- ebb: NEED TO LOOK UP HOW TO SET UP INDIVIDUAL RESULT DOCUMENTS output to folder  -->
                <xsl:choose>
                   <xsl:when test="count(descendant::p) gt 1">
@@ -57,19 +57,4 @@
         </xsl:analyze-string>
         </div>
     </xsl:template>
-    
-    <xsl:template match="info">
-        <info type="{@type}">
-            <xsl:apply-templates/>
-        </info>
-    </xsl:template>
-    <xsl:template match="special">
-        <info type="{@type}">
-            <xsl:apply-templates/>
-        </info>
-    </xsl:template>
-    
-    
-    
-    
 </xsl:stylesheet>

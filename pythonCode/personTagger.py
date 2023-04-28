@@ -1266,11 +1266,11 @@ patterns = [
     {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "W\.\s+?Citrine"}}]},
     {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "E\.\s+?Moore"}}]},
     {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "Lyndon\s+?Johnson"}}]},
-    {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "John\s+?Kennedy"}}]},
+    {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "John(\s*F\.?)\s*Kennedy"}}]},
     {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "Zia\s+?ul-Haque"}}]},
-    {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "Ronald\s+?Payne"}}]},
-    {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "R\.\s+?Muldoon"}}]},
-    {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "F\.\s+?Orr"}}]},
+    {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "Ronald\s*Payne"}}]},
+    {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "R\.\s*Muldoon"}}]},
+    {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "F\.\s*Orr"}}]},
     {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "Frank\s+?H\.\s+?Schwable"}}]},
     {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "R\.\s+?F\.\s+?Doyle"}}]},
     {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "David\s+?Munson"}}]},
@@ -1382,7 +1382,6 @@ patterns = [
     {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "Frank\s+?H\.\s+?Schwable"}}]},
     {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "Billy\s+?Goodman"}}]},
     {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "Leonard\s+?Pullin"}}]},
-    {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "John\s+?F\.\s+?Kennedy"}}]},
     {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "R\.\s+?J\.\s+?Biggar"}}]},
     {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "David\s+?R\.\s+?Hunter"}}]},
     {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "Hugh\s+?Everett,\s+?III"}}]},
@@ -1523,7 +1522,7 @@ patterns = [
 ruler.add_patterns(patterns)
 
 workingDir = os.getcwd()
-CollPath = os.path.join(workingDir, '../regexConspTest')
+CollPath = os.path.join(workingDir, '../pre-src-xml')
 outputPath = os.path.join(workingDir, 'personTestingOutput/')
 # Everything in original conspiracy directory.
 insideDir = os.listdir(CollPath)
@@ -1636,7 +1635,8 @@ def checkTags(file):
             newLine = regex.sub(r"(<ent type=')<ent type='ORG'>(ORG)</ent>('>)", r"\1\2\3", newLine)
             newLine = regex.sub(r"(<ent type='[A-Z]+'>)<ent type='[A-Z]+'>(\w+)</ent><ent type='[A-Z]+'>(\w+)</ent>(</ent>)", "\1\2 \3\4", newLine)
             newLine = regex.sub(r"(<ent type='[A-Z]+?'>)(\w+)\s+?(<ent type='[A-Z+?]'>)(\w+)(</ent>)(\w+)(<ent type='[A-Z]+?'>)(\w+)(</ent>)(</ent>)", r"\1\2 \4 \6 \8\9", newLine)
-            newLine = regex.sub(r"<ent type='\w+'>(\w+)</ent>('\w)", r"\1\2", newLine)
+            # ebb: Problem line below: eliminates <ent type="PERSON">John Kennedy</ent>'s
+            # newLine = regex.sub(r"<ent type='\w+'>(\w+)</ent>('\w)", r"\1\2", newLine)
 #
 # <spe<ent type='ORG'>cia</ent>l>
 # <<ent type='ORG'>di</ent>v>
