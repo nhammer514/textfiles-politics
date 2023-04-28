@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>I notice the now-ancient Gauquelin "Mars Effect" affair continues to
+<xml>
+   <div class="article">
+      <p>I notice the now-ancient Gauquelin "Mars Effect" affair continues to
 crop up, perennially, with considerable time-honoured but still-fuzzy
 rhetoric about an alleged CSICOP "cover up", including copious
 laudatory mentions of Dennis Rawlins's ALSO-ancient jeremiad
@@ -9,7 +10,7 @@ treatments of the affair since then have been loose (and even MORE
 careless) descendants of the Rawlins article, often committing gross
 distortions, such as confusing the test of European athletes with the
 later one based on U.S. data. </p>
-   <p>The ONLY proper rejoinder I've ever seen to Rawlins was a reply piece
+      <p>The ONLY proper rejoinder I've ever seen to Rawlins was a reply piece
 by CSICOP Fellow P. J. Klass, which "Fate" refused to publish, and
 which far too few have seen, over the years since. Robert Sheaffer
 and I have now scanned in the text, and are attempting to distribute
@@ -17,16 +18,16 @@ it more widely. The full text may be downloaded or File REQuested,
 but not FTP'd from my BBS as CRYBABY.ZIP (as Robert mentions in his
 comments, which follow), and I'll be mailing it to other skeptics'
 groups on diskette, as well as uploading it to CompuServe. </p>
-   <p>-- Rick Moen
+      <p>-- Rick Moen
 Vice-Chair, Bay Area Skeptics
 Sysop, The Skeptic's Board BBS, San Francisco
 (also reachable at 76711.243@CompuServe.com) </p>
-   <p> "CRYBABY" </p>
-   <p> by Philip J. Klass </p>
-   <p>Philip J. Klass is a member of the Executive Council, Committee
+      <p> "CRYBABY" </p>
+      <p> by Philip J. Klass </p>
+      <p>Philip J. Klass is a member of the Executive Council, Committee
 for the Scientific Investigation of Claims of the Paranormal
 (CSICOP). </p>
-   <p> [Note: This article, written in 1981, was submitted for
+      <p> [Note: This article, written in 1981, was submitted for
 publication to FATE Magazine, in reply to Dennis Rawlins'
 accusations against CSICOP in his Oct., 1981 FATE article
 "sTARBABY". FATE adamantly refused to publish this article.
@@ -42,7 +43,7 @@ relatively few people ever saw Klass's "CRYBABY", the long
 and detailed answer to Rawlins' "sTARBABY" charges. Now that
 you have the opportunity to read Klass's rebuttal, you can
 make up your own mind. </p>
-   <p> Klass's original text has been reproduced below, exactly as
+      <p> Klass's original text has been reproduced below, exactly as
 typed, with the author's permission. Spelling and
 punctuation have not been changed. Text that was underlined
 in the original appears in capital letters.
@@ -50,7 +51,7 @@ in the original appears in capital letters.
 This article is brought to you courtesy of the Bay
 Area Skeptics' BBS, 415-648-8944, from which it is
 available for downloading, although not via FTP.] </p>
-   <p> "They call themselves the Committee for the Scientific
+      <p> "They call themselves the Committee for the Scientific
 Investigation of Claims of the Paranormal. In fact, they are a
 group of would-be-debunkers who bungled their major
 investigation, falsified the results , covered up their errors
@@ -58,9 +59,9 @@ and gave the boot to a colleague who threatened to tell the
 truth." Thus began a 32-Page article in the October 1981 issue of
 FATE magazine, which a a press release headlined: "SCIENTIST
 BLOWS THE WHISTLE ON PARANORMAL COVERUP." </p>
-   <p> Since CSICOP was formed in the spring of 1976, it has been a
+      <p> Since CSICOP was formed in the spring of 1976, it has been a
 thorn in the side of those who promote belief in "psychic
-phenomena," in astrology, UFOs, and similar subjects and it has
+phenomena," in astrology, <ent type='EVENT'>UFOs</ent>, and similar subjects and it has
 been criticized sharply by FATE whose articles generally cater to
 those who are eager to believe. However, this FATE article was
 written by skeptic Dennis Rawlins, who was one of the original
@@ -69,12 +70,12 @@ its Executive Council. This would seem to give credence to
 Rawlins' charges -- except to those of us with first-hand
 experience in trying to work with him and who are familiar with
 his modus-operandi. </p>
-   <p> Because Rawlins proposed my election to CSICOP's Executive
+      <p> Because Rawlins proposed my election to CSICOP's Executive
 Council I cannot be charged with animosity toward him, except
 what he later engendered by his actions. And in a recent letter
 to me, Rawlins volunteered that I "was less involved than any
 other active Councillor" in the alleged misdeeds. </p>
-   <p> The FATE article, entitled "sTARBABY" prompted my own
+      <p> The FATE article, entitled "sTARBABY" prompted my own
 investigation into Rawlins' charges. But unlike Rawlins, who
 relies heavily on his recollection of conversations several years
 earlier, I chose to use hard evidence - published articles,
@@ -85,25 +86,25 @@ promptly and fully except for one -- Dennis Rawlins, who had
 accused the others of "cover-up" and "censorship." RAWLINS
 REFUSED MY REPEATED REQUESTS TO SUPPLY HARD DATA THAT MIGHT
 CONFIRM HIS CHARGES, AND WHICH ALSO COULD DENY THEM! </p>
-   <p> The results of my investigation, based on hard data,
+      <p> The results of my investigation, based on hard data,
 prompted me to conclude that the Rawlins article should have been
 entitled "CRYBABY," and that an appropriate subtitle would have
 been: "A wounded ego is the root of much evil." </p>
-   <p> If the editors of FATE had spent only a few hours reading
+      <p> If the editors of FATE had spent only a few hours reading
 published articles cited in the Rawlins article they could not in
 good conscience have accused CSICOP of "cover-up" or of having
 "falsified the results." Instead, FATE chose to ignore the
 traditional journalistic practice of investigating both sides of
 a controversial issue and publishing both sides, as those accused
 by Rawlins had done. </p>
-   <p> Rawlins' charges result from two tests intended to assess
+      <p> Rawlins' charges result from two tests intended to assess
 whether the position of the planet Mars at the time of a person's
 birth has a significant influence on whether he/she becomes a
 "sports champion." This "Mars effect" hypothesis was first
 proposed by France's Michel Gauquelin, who directs the laboratory
 for the Study of Relations between Cosmic and Psychophysiological
 Rhythms, based on a study of European champions. </p>
-   <p> The first of the two tests was performed by Gauquelin
+      <p> The first of the two tests was performed by Gauquelin
 himself, with results that generally were supportive of the Mars
 effect hypothesis by eliminating a possible objection that first
 had been raised by others, i,e, not CSICOP. The only way in which
@@ -115,12 +116,12 @@ members of trying to "cover-up" his results or altering the data
 of this first test whose calculations he himself performed,
 although there were some differences of interpretation of the
 implication of these results. </p>
-   <p> HOWEVER, GAUQUELIN DID PUBLICLY ACCUSE RAWLINS OF DISTORTION
+      <p> HOWEVER, GAUQUELIN DID PUBLICLY ACCUSE RAWLINS OF DISTORTION
 AND MISREPRESENTATION, with implied criticism of CSICOP because
 Rawlins then was a member of its Executive Council. There would
 be other occasions when CSICOP would be criticized because of
 Rawlins' intemperate statements and actions. </p>
-   <p> This criticism was published by CSICOP in the Winter l978
+      <p> This criticism was published by CSICOP in the Winter l978
 issue of its publication, THE SKEPTICAL INQUIRER (p. 80). In it
 Gauquelin wrote: "How, in spite of all this data could one
 distort and misrepresent the effect in question and sow doubts on
@@ -128,7 +129,7 @@ the subject? Dennis Rawlins, a member of CSICP ... has done just
 this in a polemic which appeared in the Fall-Winter 1977 issue of
 that (CSICOP's) journal." In "sTARBABY," Rawlins tries to shift
 the blame for his transgressions to CSICOP. </p>
-   <p> According to "sTARBABY," CSICOP Chairman Prof. Paul Kurtz
+      <p> According to "sTARBABY," CSICOP Chairman Prof. Paul Kurtz
 was the principal architect of the alleged cover-up. Yet in
 reality it was Kurtz, then editor of THE HUMANIST magazine
 (published by the American Humanist Assn.) who printed the
@@ -137,7 +138,7 @@ lengthy paper by Gauquelin describing the seemingly favorable-for-him results of
 that Kurtz's decision to publish test results favorable to an
 "adversary" represents a "cover-up"? Rawlins might better have
 waited until "l984" to resort to such "double-speak" accusations. </p>
-   <p> Because the issues are complex and because two different
+      <p> Because the issues are complex and because two different
 publications and organizations were involved, it is useful to
 recount briefly the events that led to the first Mars effect
 test, which is at the root of the Rawlins/FATE charges, and the
@@ -147,7 +148,7 @@ champions test showed a very UNFAVORABLE result for the claimed
 Mars effect, which Rawlins confirms in "sTARBABY." And these
 Rawlins-computed results were published, without change, by
 CSICOP. </p>
-   <p> The Sept/Oct. l975 issue of THE HUMANIST carried an article
+      <p> The Sept/Oct. l975 issue of THE HUMANIST carried an article
 by L.E. Jerome that was critical of astrology in general and of
 the Mars effect in particular. When Gauquelin sought an
 opportunity for rebuttal, Kurtz provided it in the Jan./Feb. 1976
@@ -162,7 +163,7 @@ statistical assumption "that the frequency distribution of the
 hours of birth during the day (the nych-themeral curve) is a
 constant distribution...", i.e. that there is an equal
 probability of a person being born during any hour of the day. </p>
-   <p> This seemed important because the Mars effect hypothesis
+      <p> This seemed important because the Mars effect hypothesis
 holds that persons born during an approximately two-hour period
 just after Mars has "risen" or during a comparable period after
 Mars is at upper culmination (zenith), are more likely to become
@@ -175,7 +176,7 @@ the percentage of the day in which Mars is in two key sectors is
 approximately l7%. But Gauquelin reported that 22% European
 champions in his data base had been born when Mars was in the two
 key sectors, significantly higher than the l7% "benchmark." </p>
-   <p> Because of the issue raised by Comite' Para, Kurtz
+      <p> Because of the issue raised by Comite' Para, Kurtz
 consulted statistics professor Marvin Zelen who in turn proposed a
 control test that could resolve the statistical issue raised by
 Comite' Para. This Zelen proposed test, also published in the
@@ -184,7 +185,7 @@ Gauquelin should gather birth data for "non-champions" who had
 been born in the same local areas and within three days of a
 RANDOMLY SELECTED sub-sample of Gauquelin's "champions" who
 seemed to show the Mars effect. </p>
-   <p> If only 17% of these NON-champions were born when Mars was
+      <p> If only 17% of these NON-champions were born when Mars was
 in the two key sectors, this would void the issue raised by
 Comite Para. But if roughly 22% of the NON-champions also were
 born when Mars was in the two key sectors, this would undercut
@@ -195,13 +196,13 @@ been more precise had he added: "...of the issue raised by
 Belgian Comite Para." If Gauquelin's sample of "champions" data
 was "biased," as Rawlins first suspected, this could not possibly
 be detected by the Zelen-proposed test. </p>
-   <p> The same issue of The Humanist carried another article, by
+      <p> The same issue of The Humanist carried another article, by
 astronomy professor George O. Abell, which was very skeptical of
 astrology in general. But unlike Rawlins who dismissed the Mars
 effect out-of-hand and "didn't believe that it merited serious
 investigation yet" (FATE: p. 74), Abell wrote that if Gauquelin's
 findings were correct, they were "extremely interesting." </p>
-   <p> However, Abell included the following note of caution: "If
+      <p> However, Abell included the following note of caution: "If
 all of Gauquelin's work is re-checked, and his results hold up,
 then it is necessary to repeat the experiment with a new sample,
 say in the United States. If that sample should give the same
@@ -220,7 +221,7 @@ Assn.), Kurtz became its co-chairman and later its chairman.
 Zelen and Abell were named Fellows, but not to CSICOP's Executive
 Council. In l980, Abell was elected to replace Rawlins on the
 Council. </p>
-   <p> The results of this first (Zelen) test were published in the
+      <p> The results of this first (Zelen) test were published in the
 Nov./Dec., l977 issue of THE HUMANIST, where the issue first was
 raised, although by this time CSICOP had its own publication.
 Gauquelin and his wife Francoise were given nearly six large-size
@@ -231,7 +232,7 @@ from the large cities in France and Belgium, The Gauquelins
 reported that these data showed that only l7% of the non-champions had been born when Mars was in the two sectors which
 seemed to resolve the issue earlier raised by Belgium's Comite
 Para in favor of the Mars effect. </p>
-   <p> The same issue of THE HUMANIST carried an article jointly
+      <p> The same issue of THE HUMANIST carried an article jointly
 authored by Zelen, Kurtz, and Abell, that began: "Is there a
 'Mars Effect'? The preceding article by Michel and Francoise
 Gauquelin discusses the experiment proposed by Marvin Zelen and
@@ -240,7 +241,7 @@ the existence of a 'Mars effect' related to sports champions. It
 is the purpose of this article to discuss the analysis of the
 data and to point out the strengths and weaknesses of the
 evidence in favor of the 'Mars effect.'" </p>
-   <p> The Zelen/Kurtz/Abell article raised some questions about
+      <p> The Zelen/Kurtz/Abell article raised some questions about
 the results. For example, that "the 'Mars effect' only appears in
 Paris, not in Belgium or in the rest of France." The article
 concluded: "lf one had a high prior 'belief' that there is a Mars
@@ -249,13 +250,13 @@ belief. In the other hand, if the prior belief in the existence
 of a Mars effect was low, then this data may raise the posterior
 belief, but not enough to accept the existence of the Mars
 effect." </p>
-   <p> Rawlins charges that publication of this article, following
+      <p> Rawlins charges that publication of this article, following
 the uncensored Gauquelin paper,"commited CSICOP to a cover-up."
 (FATE: p.76) Yet is characteristic of scientific controversy for
 one party to question or challenge another's interpretation of
 the data. And Gauquelin would do so following the second test
 without being accused of a "cover-up" in "sTARBABY." </p>
-   <p> In the same issue of THE HUMANIST, in a brief introduction
+      <p> In the same issue of THE HUMANIST, in a brief introduction
 written by Kurtz, the first "linkage" with CSICOP occurred. Kurtz
 wrote: "Thus, members of CSICOP involved in this inquiry believe
 that the claim that there is a statistical relationship between
@@ -265,13 +266,13 @@ incidence of sports champions among them has not been established
 agreed (with Gauquelin) to make an independent test of the
 alleged Mars effect by a study of sports champions in the United
 States." </p>
-   <p> In "sTARBABY," Rawlins charges that the U. S, champions test
+      <p> In "sTARBABY," Rawlins charges that the U. S, champions test
 was a "diversion." Clearly the Gauquelins themselves did not view
 it in this light, judging from the concluding statement in their
 article which said: "Let us hope that these positive results may
 induce other scientists to study whether this effect, discovered
 with the European data, appears also with the U.S. data." </p>
-   <p> On March 28, 1978, SEVERAL MONTHS AFTER THE RESULTS OF THE
+      <p> On March 28, 1978, SEVERAL MONTHS AFTER THE RESULTS OF THE
 FIRST TEST WERE PUBLISHED, Rawlins sent Kurtz a copy of a three-page memorandum he had prepared a year earlier (March 29, 1977).
 It contained a very technical analysis of the issue raised by
 Comite Para, which prompted Rawlins to conclude that the 22%
@@ -280,7 +281,7 @@ disproportionate share of births of the general population during
 the early morning hours when Mars often was in one of the two key
 sectors. In this analysis, Rawlins concluded that Gauquelin had
 "made fair allowance for the effect." </p>
-   <p> But Rawlins had not written this three-page memo until
+      <p> But Rawlins had not written this three-page memo until
 several month AFTER the Zelen test had been proposed in THE
 HUMANIST. Shortly after preparing the analysis, Rawlins had sent
 a copy to Prof. Marcello Truzzi, then editor of CSICOP's
@@ -289,7 +290,7 @@ to Gauquelin. IF the Rawlins analysis of 1977 took account of all
 possible demographic factors -- and there is some disagreement on
 this question -- it was much too technical to be understood by
 persons without expertise in statistics and celestial mechanics. </p>
-   <p> When Rawlins finally got around to sending this analysis to
+      <p> When Rawlins finally got around to sending this analysis to
 Kurtz on March 28, 1978, his letter of that date did NOT
 criticize Truzzi or CSICOP for not having published it earlier.
 Rather, Rawlins admitted, "I should not have kept my (Mar. 19,
@@ -297,7 +298,7 @@ Rather, Rawlins admitted, "I should not have kept my (Mar. 19,
 might now be published in THE HUMANIST. But by this time Kurtz no
 longer was its editor. More important, the results of the first
 (Zelen) test already had been published several months earlier. </p>
-   <p>If, as Rawlins would later charge in "sTARBABY," the
+      <p>If, as Rawlins would later charge in "sTARBABY," the
 Zelen/Kurtz/Abell article published several months earlier in THE
 HUMANIST amounted to a "cover-up," Rawlins did not make such an
 accusation to Kurtz when he wrote him April 6, 1978. Instead,
@@ -306,7 +307,7 @@ European investigation might seek to discover how the Eur. samp
 (of Gauquelin) was (hypothetically) fudged -- check orig. records
 microscopically for some sort of Soal trick. 2. Proceed with the
 U.S, test, where we know we have a clean (unbiased) sample." </p>
-   <p> This April 6, 1978, letter clearly shows that while Rawlins
+      <p> This April 6, 1978, letter clearly shows that while Rawlins
 suspected that Gauquelin had manipulated his European champions
 data ("Soal trick") he found no evidence of wrong-doing by
 Zelen/Kurtz/Abell. On April 26, 1978, in another letter to Kurtz,
@@ -316,7 +317,7 @@ not sure how." Rawlins concluded this letter on a cordial note:
 "Now, wasn't it great visiting sunny, funny, California -- and
 getting to see a real live nut religion launch itself in San
 Diego? ... hope you'll get back this way soon again." </p>
-   <p> It was at about this time that CSICOP came under fire for
+      <p> It was at about this time that CSICOP came under fire for
 Rawlins' actions in another matter. In the summer of 1977,
 Rawlins and Abell had been invited to be panelists in a symposium
 on astrology to be held March 18, 1978 at the University of
@@ -329,7 +330,7 @@ potential speakers...has yielded an incredible acceptance rate of
 100%. This places us in the embarassing position of not being
 able to sponsor all of you," i.e. pay travel expenses and allow
 formal presentations. </p>
-   <p> On Feb. 6, 1978, Rawlins wrote to the president of the
+      <p> On Feb. 6, 1978, Rawlins wrote to the president of the
 University of Toronto, protesting what he said were "a number of
 oddities" associated with the symposium, including an imbalance
 between the number of astrology supporters and skeptics. The
@@ -338,7 +339,7 @@ phoney confrontation, which will therefore give the irrational
 pseudo-science of astrology an evidentially-unmerited 'academic'
 boost in public credibility..." Rawlins sent a copy of his letter
 to another university official. </p>
-   <p> Rawlins' suspicion of a loaded panel may have been
+      <p> Rawlins' suspicion of a loaded panel may have been
 justified. But the letter of protest was written on CSICOP
 stationery and signed "Dennis Rawlins, Executive Council,
 CSICOP." Another regretable action was a Rawlins telephone call
@@ -355,7 +356,7 @@ Kurtz a copy of this Rawlins letter with a note that said: "Since
 Dennis' letter is on Committee stationery, would appear he is
 writing on behalf of the Committee, I trust that will not happen
 again." </p>
-   <p> Rawlins' actions were reported in the Canadian magazine
+      <p> Rawlins' actions were reported in the Canadian magazine
 SCIENCE FORUM July/August 1978, in an article written by Lydia
 Dotto. The article, entitled "Science Confronts 'Pseudo-Science'", began; "It was after midnight on a Saturday night when
 University of Toronto astronomer Bob Garrison was awakened by a
@@ -373,7 +374,7 @@ event was cancelled shortly before it was to have taken place in
 mid-March. Predictably, ACCUSATIONS BEGAN TO FLY THAT SCIENTIFIC
 OPPONENTS OF ASTROLOGY WERE ENGAGED IN A CAMPAIGN TO SUPPRESS
 FREEDOM OF SPEECH." (Emphasis added.) </p>
-   <p> Indeed they did, much to CSICOP's embarassment. Britain's
+      <p> Indeed they did, much to CSICOP's embarassment. Britain's
 New Scientist magazine, in its June 29, 1978, issue, quoted the
 Canadian magazine in an article that began: "Earlier this year an
 astronomer at the University of Toronto, Dr. Bob Garrison, was
@@ -381,7 +382,7 @@ awakened by a phone call from a member of Committee for the
 Scientific Investigation of Claims of the Paranormal. The caller
 allegedly spent most of the next hour trying to dissuade Garrison
 from taking part in a conference on astrology." </p>
-   <p> This New Scientist account was picked up by FATE magazine,
+      <p> This New Scientist account was picked up by FATE magazine,
 which in turn attributed the action to CSICOP rather than to one
 Council member. FATE commented: "If you have difficulty
 understanding their (CSICOP) motives, remember that here is a
@@ -393,16 +394,16 @@ Rawlins' actions surfaced again in a feature article in THE
 WASHINGTON POST (Aug. 26, 1979). The article, syndicated and
 published elsewhere, was written by Ted Rockwell who was
 identified as a member of the Parapsychological Association. </p>
-   <p> When I learned of the Rawlins incident, I was shocked as
+      <p> When I learned of the Rawlins incident, I was shocked as
 were others on the Council. But all of us hoped that Council
 members had learned an important lesson from the incident and
 that it would have a maturing effect on Rawlins. Yet before
 another year had passed Rawlins would once again demonstrate his
 inability to distinguish between official CSICOP actions and
 those of its individual members. </p>
-   <p> Originally it was expected that the required calculations of
+      <p> Originally it was expected that the required calculations of
 Mars' position at the time of birth of U.S. champions (for the
-second test) would be performed by Prof. Owen Gingerich of
+second test) would be performed by Prof. <ent type='PERSON'>Owen</ent> Gingerich of
 Harvard University. But during the summer of 1978 the Harvard
 astronomer was on an extended leave so Kurtz asked Rawlins to
 perform the celestial mechanics computations. Rawlins did so and
@@ -413,14 +414,14 @@ only 13.5% of the U.S. champions were born when Mars was in the
 two key sectors. Thus, Rawlins' calculations showed that if Mars
 had any effect on champions, it was a pronounced NEGATIVE effect
 for U.S. athletes. </p>
-   <p> On Sept, 18, 1978, Rawlins prepared a four-page report
+      <p> On Sept, 18, 1978, Rawlins prepared a four-page report
 describing the procedures he had used in his calculations and a
 summary of the results. But Rawlins could not resist including
 some denigrating charges against Gauquelin. For example:
 "Gauquelin was well known in his teens for his casting of
 horoscopes (a practice he has since disowned)..." The comments
 were both gratuitous and inappropriate. </p>
-   <p> Relations between Rawlins and Gauquelin had been strained
+      <p> Relations between Rawlins and Gauquelin had been strained
 since CSICOP published a long, rambling Rawlins attack
 (Fall/Winter 1977) in which he accused Gauquelin of "misgraphing
 the results of the Belgian Comite Para check on his Mars-athletes
@@ -429,7 +430,7 @@ distorted and misrepresented the facts in a letter which then was
 scheduled to be published shortly in the Winter 1978 issue of THE
 SKEPTICAL INQUIRER. The same issue also would carry a sharp
 rejoinder from Rawlins. </p>
-   <p> Thus it is hardly surprising that Kurtz decided that it
+      <p> Thus it is hardly surprising that Kurtz decided that it
 would be best if the upcoming summary report on the results of
 the U.S. champions test should be written by Zelen, Abell and
 himself -- especially since the three of them had jointly
@@ -443,7 +444,7 @@ report (with the ad hominem attack on Gauquelin) "Kurtz wrote
 Abell to suggest KZA (Kurtz, Zelen and Abell) confer and prepare
 the test report for publication (EXCLUDING ME)." (Emphasis
 added.) (P.79.) </p>
-   <p> Rawlins also complains that Kurtz asked Zelen and Abell "to
+      <p> Rawlins also complains that Kurtz asked Zelen and Abell "to
 verify the work," i.e. Rawlins' calculations. (P.80.) Because of
 the importance of test, it was good scientific protocol to ask
 other specialists to at least spot-check Rawlins' computations.
@@ -451,7 +452,7 @@ Then Rawlins reveals he was angered because "Abell asked
 countless questions about my academic training." (P. 8O.)
 Inasmuch as Rawlins lists his academic training as being in
 physics rather than astronomy, Abell's questions seem justified. </p>
-   <p> Further evidence of Rawlins' wounded ego is his complaint
+      <p> Further evidence of Rawlins' wounded ego is his complaint
 that "not only was Abell being invited to the press conference
 (at the upcoming Council in Washington, D.C.), he was to be the
 CSICOP spokesman on astrology in Washington." (P.81) Rawlins said
@@ -463,7 +464,7 @@ Abell who lived all the way across the country, in the Los
 Angeles area." (In fact, Krupp also lived in Southern California,
 Bok lived Arizona, and Sagan then was working in California on
 his "Cosmos" television series.) </p>
-   <p> In "sTARBABY," Rawlins claims that Abell had been invited to
+      <p> In "sTARBABY," Rawlins claims that Abell had been invited to
 speak because "Kurtz was trying to suppress my dissenting report
 (of Sept. 18, 1978) and (by not paying my travel fare) to keep me
 from the December Council meeting while inviting to Washington as
@@ -473,7 +474,7 @@ was no question that Rawlins' Sept, 18, 1978, report, describing
 his analytical procedures, needed to be published. The only
 question was whether it should include the ad hominem attack on
 Gauquelin. </p>
-   <p> It was not until approximately one year AFTER the results of
+      <p> It was not until approximately one year AFTER the results of
 the Zelen test were published in THE HUMANIST that Rawlins first
 charged the use of "bait-and-switch" tactics--what he calls
 "BS"--had been employed. This allegation was contained in his
@@ -485,7 +486,7 @@ published, there was a Rawlins response which said: "It SHOULD BE
 CLEARLY UNDERSTOOD THAT CSICOP AS A BODY NEVER HAD ANYTHING TO DO
 WITH THE HUMANIST ZELEN TEST 'CHALLENGE'...PUBLISHED BEFORE THE
 COMMITTEE WAS FOUNDED"(Emphasis added.) </p>
-   <p> Like most members of CSICOP's Executive Council who had not
+      <p> Like most members of CSICOP's Executive Council who had not
 been involved either in the first (Zelen) test or the subsequent
 U.S. champions test, and who were not sufficiently expert in
 celestial mechanics, statistics or astrology to take a prior
@@ -497,7 +498,7 @@ Zelen test-results cover-up that had occurred more than a year
 before which contradicted his just-published statement in THE
 SKEPTICAL INQUIRER stating that the original Zelen test was NOT a
 CSICOP-sponsored effort. </p>
-   <p> Despite my efforts to understand Rawlins' allegations, it
+      <p> Despite my efforts to understand Rawlins' allegations, it
 was not clear to me (and to many other Council members) just what
 it was that he now was claiming had been"covered-up." After three
 years of working with Rawlins I was well aware of his proclivity
@@ -506,7 +507,7 @@ directed against supporters of the para-normal, but sometimes
 also against Council members who disagreed with his proposals for
 intemperate actions against "the believers." For example, Rawlins
 had charged that Truzzi was involved with the "Church of Satan." </p>
-   <p>Beyond having difficulty in understanding the specifics of
+      <p>Beyond having difficulty in understanding the specifics of
 Rawlins' charges, I failed to grasp what he thought should be
 done to correct the alleged problem. Because the hour was getting
 late and Council members had to leave to catch flights back home,
@@ -520,7 +521,7 @@ DID NOT SEND COPIES OF SUCH MEMORANDA TO COUNCIL MEMBERS. ONE
 LOGICAL EXPLANATION FOR THIS IS THAT PREVIOUSLY HE DID NOT
 BELIEVE THE MATTER INVOLVED CSICOP OR REQUIRED COUNCIL MEMBERS'
 ATTENTION. </p>
-   <p> Rawlins was the last one to leave my apartment (where we had
+      <p> Rawlins was the last one to leave my apartment (where we had
 been meeting that night) and he continued his earlier harrangue
 but without clarifying the issues. Later, he called me from the
 airport to continue the discussion. Again I asked that he clarify
@@ -529,7 +530,7 @@ memorandum. I assured Rawlins that since I had not been involved
 in either of the two tests and since he had recommended my
 election to Council, he could expect me to be at least neutral if
 not sympathetic. </p>
-   <p> Rawlins never responded to my request. About six weeks later
+      <p> Rawlins never responded to my request. About six weeks later
 (Jan. 17, 1979), he did circulate a five-page memo to CSICOP
 Fellows and Council members. It was a "baby sTARBABY" which cited
 a number of ALLEGED mistakes that had been made by OTHERS
@@ -542,7 +543,7 @@ not assume, as you have done, that all of us follow the G-affair
 as closely as you have done." My letter concluded: "Skip the
 invective...outline the problem clearly, concisely, and offer
 your recommendations." </p>
-   <p> Rawlins never responded to this request. Today, following my
+      <p> Rawlins never responded to this request. Today, following my
 recent investigation, I know why. There was no cover-up, except
 in Rawlins' troubled mind, fed by the fires of a wounded ego and,
 perhaps, by embarassment over his unauthorized intervention in
@@ -552,7 +553,7 @@ saved his wounded ego unless it were possible to turn back the
 clock and to have invited Rawlins to be the CSICOP speaker on
 astrology in Washington and to replace Abell in writing the
 report on the results of the U.S. champions test. </p>
-   <p> Readers of "sTARBABY" might easily conclude that Rawlins
+      <p> Readers of "sTARBABY" might easily conclude that Rawlins
 believes that Zelen/Kurtz/Abell, in the Nov/Dec. 1977 issue of
 THE HUMANIST, should have conceded "Gauquelin has won" and
 cancelled plans for the U.S. champions test. Yet had they done
@@ -561,7 +562,7 @@ would imply that the Zelen test had proved the Mars effect beyond
 all doubt and this was not true. Had Zelen/Kurtz/Abell even
 contemplated such a concession, I am certain that Rawlins would
 have urged that they be ousted from CSICOP. </p>
-   <p> "sTARBABY" reveals that Rawlins imagines many things that
+      <p> "sTARBABY" reveals that Rawlins imagines many things that
 simply are not true, such as his charge that I was involved in a
 plot to suppress his discussions of the Gauquelin test at the
 1978 Council meeting. His article implies that Council meetings
@@ -570,7 +571,7 @@ reality one usually hears almost as many different viewpoints as
 there are Council members present. And Kurtz is the most
 unconstraining group chairman I have ever known in the many
 organizations of which I have been a member. </p>
-   <p> Even on easily ascertainable matters, Rawlins chooses to
+      <p> Even on easily ascertainable matters, Rawlins chooses to
 rely on his vivid imagination or recollections rather than take
 time to check the facts. For example, in "sTARBABY," Rawlins
 claims that he was an "associate editor" of THE SKEPTICAL
@@ -581,7 +582,7 @@ imagines himself to be an associate editor of a publication over
 a period of several years would at least once look at that
 publication's masthead, where its editorial staff is listed. Had
 Rawlins done so he would not have made this spurious claim. </p>
-   <p> This is not an error of great consequence. But when I
+      <p> This is not an error of great consequence. But when I
 pointed it out to him, his response was revealing, especially
 because he accuses others of being unwilling to admit to error
 and of resorting to "cover-up." Rawlins' letter of Sept. 21,
@@ -590,7 +591,7 @@ he remembers that "Kurtz called all Ed. Board members 'Associate
 Editors'...I adopted to save syllables." Rawlins tries to justify
 his misstatement of fact on the grounds that he was able to save
 approximately 42 characters in his 75000-character-long article! </p>
-   <p> In "sTARBABY," Rawlins claims that the full-day meeting of
+      <p> In "sTARBABY," Rawlins claims that the full-day meeting of
 the Council in Washington was held at the National Press Club
 because this was "the temple of CSICOP's faith." (P. 86.) Had
 Rawlins asked me, I would have informed him that I had selected
@@ -598,7 +599,7 @@ the National Press Club because it was the lowest-cost facility
 in downtown Washington that I could find. But Rawlins decided he
 knew the answer without bothering to investigate. This is neither
 good science nor good journalism. </p>
-   <p> In the previously cited Rawlins memorandum of Jan. 17, 1979,
+      <p> In the previously cited Rawlins memorandum of Jan. 17, 1979,
 following the Washington meeting, he wrote that he planned to
 reduce his involvement with CSICOP. He added that there was no
 reason to "hide" CSICOP's problems "from the public. So I may
@@ -611,7 +612,7 @@ this journalist left the meeting together and returned together
 several hours later. But this journalist never published anything
 on the matter, possibly because he has as much difficulty in
 understanding Rawlins' charges as did Council members. </p>
-   <p> According to "sTARBABY," in mid-1979, Rawlins received a
+      <p> According to "sTARBABY," in mid-1979, Rawlins received a
 letter from Jerome Clark of FATE magazine, expressing an interest
 in learning more about Rawlins' complaints against CSICOP.
 Rawlins claims that shortly afterward "I told the Council I'd be
@@ -619,7 +620,7 @@ open with FATE." I question the truthfulness of his statement
 because Rawlins did not bother to attend the next Council meeting
 in December, 1979, nor have I been able to locate any Rawlins
 letter or memorandum to substantiate this claim. </p>
-   <p> "sTARBABY" claims that "as the FATE-story realization set
+      <p> "sTARBABY" claims that "as the FATE-story realization set
 in, Council reacted like the White House when it learned that
 John Dean had sat down with the prosecution (during the Watergate
 scandal). (P.91) This claim I know to be false. The prospect of a
@@ -630,7 +631,7 @@ could have released immediately following publication of
 "sTARBABY," preventing Rawlins from boasting that failure of
 CSICOP to respond quickly to his many charges indicated an
 inability to do so. </p>
-   <p> Returning, chronologically, to the fall of 1979, CSICOP was
+      <p> Returning, chronologically, to the fall of 1979, CSICOP was
 preparing to publish the results of the U.S. champions test in
 the Winter 1979-80 issue of THE SKEPTICAL INQUIRER. Rawlins
 demanded the right to revise and expand his original Sept, 18,
@@ -641,7 +642,7 @@ cleared with me, I wanted a note printed with the paper stating
 that deletions had occurred over the author's protest and that
 the missing portions could be obtained directly from me." (P.
 92.) </p>
-   <p> Frazier (who had been recommended for the position by
+      <p> Frazier (who had been recommended for the position by
 Rawlins himself), acting on the recommendation of Prof. Ray
 Hyman, a Council member who reviewed the Rawlins paper and the
 others, and on Frazier's own long editorial experience, decided
@@ -655,7 +656,7 @@ position, expectation curve), I find it amusing that ZKA (Zelen,
 Kurtz, Abell) are the main commentators on this test in THE
 SKEPTICAL INQUIRER." Once again Rawlins' wounded-ego had
 manifested itself. </p>
-   <p> On Nov, 6, 1979, Rawlins sent a memo to other members of the
+      <p> On Nov, 6, 1979, Rawlins sent a memo to other members of the
 Editorial Board complaining that his article "has been neatly
 censored here and there, so I have asked to add a statement
 saying so and suggesting that readers who wish to consult the
@@ -666,7 +667,7 @@ was published at the end of the Rawlins paper, that read:
 "Further commentary on the issues raised in this paper and in
 these notes is available from the author." Rawlins' address also
 was published. </p>
-   <p> This is the basis for Rawlins' harsh charges of "censorship"
+      <p> This is the basis for Rawlins' harsh charges of "censorship"
 against Frazier, the man whom he had so highly recommended for the
 position. If Rawlins' complaint were justified, every working
 journalist could make the same accusations regularly against
@@ -679,7 +680,7 @@ from normal editorial judgment. None of the rest of you has ever
 suggested this," i.e. demanded privileged treatment. So because
 Rawlins was not given privileged treatment, he charges
 "censorship." </p>
-   <p> In the same Nov. 6, 1979, letter charging censorship,
+      <p> In the same Nov. 6, 1979, letter charging censorship,
 Rawlins complained that he alone among Council members had not
 been reimbursed for his travel expenses of $230 to the previous
 Council meeting in Washington. Rawlins said that he would need
@@ -691,22 +692,22 @@ previous travel expense as soon as he submitted an expense
 account--which Rawlins had never done (In "sTARBABY," Rawlins
 characterizes this as a "ridiculous excuse" for failure to
 reimburse him earlier.) Rawlins cashed the $350 check but did not
-attend the New York Council meeting, nor did he inform the
+attend the <ent type='GPE'>New York</ent> Council meeting, nor did he inform the
 Council that he would not attend. Rawlins never refunded the $120
 difference between $230 he claimed was due him and the $350 he
 received. Yet Rawlins professes to have been shocked and
 surprised when the Council voted unanimously not to reelect
-Rawlins at its New York meeting. (Since Rawlins seems so easily
+Rawlins at its <ent type='GPE'>New York</ent> meeting. (Since Rawlins seems so easily
 shocked and surprised, I suspect he was equally surprised at the
 resignation of Richard M. Nixon.) </p>
-   <p> Two months later, Rawlins wrote to Frazier saying he wished
+      <p> Two months later, Rawlins wrote to Frazier saying he wished
 to resign from the Editorial Board. But he insisted that the
 resignation should not take effect until his statement
 complaining about not being reelected "in absentia" was
 published. This Rawlins statement claimed that he had not been
 reelected solely because he had criticized "CSICOP's conduct
 during ITS FOUR YEAR INVOLVEMENT in testing Gauquelin's neo-astrology..." (Emphasis added.) </p>
-   <p> Had Frazier opted to publish this grossly inaccurate
+      <p> Had Frazier opted to publish this grossly inaccurate
 statement, which he did not, readers might well have wondered if
 there were really two different Dennis Rawlins, recalling barely
 a year earlier when a Rawlins letter had been published which
@@ -718,7 +719,7 @@ Editorial Board without "cause or written notice." Later,
 following a mail ballot of Council members, CSICOP dropped
 Rawlins from its list of Fellows. (The vote against Rawlins was
 6:1.) </p>
-   <p> The foregoing highlights the key issues and actions that
+      <p> The foregoing highlights the key issues and actions that
 prompted FATE and Rawlins to charge that CSICOP "bungled their
 major investigation, falsified the results, covered up their
 errors and gave the boot to a colleague who threatened to tell
@@ -727,14 +728,14 @@ gives me the feeling that I am reading a Pravda account
 explaining that the Soviets moved into Afghanistan to help the
 Afghans prevent an invasion by the U.S. Central Intelligence
 Agency.) </p>
-   <p> Were it possible to turn back the clock, undoubtedly Kurtz,
+      <p> Were it possible to turn back the clock, undoubtedly Kurtz,
 Zelen and Abell would try to be more precise in defining test
 objectives and protocol and would do so in writing. And more time
 would be spent in more carefully phrasing articles dealing with
 such tests. But all CSICOP Council members and Fellows have other
 full-time professions that seriously constrain time available for
 CSICOP efforts. </p>
-   <p>Were it possible to turn back the clock, the Council should have
+      <p>Were it possible to turn back the clock, the Council should have
 insisted in the spring of 1978 that Rawlins issue a public
 statement that he had erred in using CSICOP's name in support of
 his personal actions connected with the University of Toronto's
@@ -744,11 +745,11 @@ the Council should have developed a policy statement, as it
 recently did, that more clearly delineates activities that
 members perform officially in behalf of CSICOP and those carried
 out as private individuals. </p>
-   <p> When a small group of persons met in Buffalo in May, 1976,
+      <p> When a small group of persons met in <ent type='GPE'>Buffalo</ent> in May, 1976,
 to create CSICOP, their motivation was a concern over the growing
 public acceptance of claims of the paranormal. CSICOP was created
 to provide a counter-balance to those who espouse a variety of
-claims, ranging from UFOs to astrology, from the "Bermuda
+claims, ranging from <ent type='EVENT'>UFOs</ent> to astrology, from the "Bermuda
 Triangle" to psychic phenomena. With the benefit of experience,
 it was apparent that there was an extreme spectrum of viewpoints
 on the Council. Rawlins was at the "hit-'em-hard" extreme, while
@@ -756,11 +757,11 @@ Truzzi was at the opposite pole and resigned after a couple
 years, partially as a result of behind-the scenes plotting by
 Rawlins which he admits in "sTARBABY." Now Rawlins has departed
 and, in my view, CSICOP is much the better for it. </p>
-   <p> CSICOP never has tried to destroy those organizations that
+      <p> CSICOP never has tried to destroy those organizations that
 promote belief in paranormal causes. But individuals in these
 organization have tried to discredit CSICOP, even going so far in
 one instance as to circulate a forged letter. </p>
-   <p> FATE magazine made wide distribution of the Rawlins
+      <p> FATE magazine made wide distribution of the Rawlins
 "sTARBABY" article in reprint form, together with its press
 release. Prof. R.A. McConnell, University of Pittsburgh, founding
 President of the Parapsychological Association, also distributed
@@ -772,39 +773,39 @@ history and philosophy of science." McConnell quoted an "unnamed
 scientist" as claiming that "Rawlins has uncovered the biggest
 scandal in the history of rationalism." McConnell characterized
 CSICOP as "an intellectually dishonest enterprise." </p>
-   <p> FATE and McConnell have demonstrated the intrinsic flaw in
+      <p> FATE and McConnell have demonstrated the intrinsic flaw in
 the basic approach of those who promote claims of the paranormal
--- THEIR EAGERNESS TO ACCEPT CLAIMS OF EXTRAORDINARY EVENTS
+-- THEIR EAGERNESS TO ACCEPT CLAIMS OF EXTRAORDINARY <ent type='EVENT'>EVENTS</ent>
 WITHOUT RIGOROUS INVESTIGATION. Neither FATE nor McConnell
 contacted CSICOP officials to check out Rawlins' charges. This
 demonstrates why CSICOP is so sorely needed. </p>
-   <p> The late President Harry Truman phrased it well: "If you
+      <p> The late President Harry Truman phrased it well: "If you
 can't stand the heat, stay out of the kitchen." CSICOP is "in the
 kitchen" by choice and intends to remain there despite the heat.
 The response of CSICOP's Council and its Fellows to recent events
 shows that the Committee is not an easy victim of heat-prostration. </p>
-   <p> If the Mars effect, or any other paranormal hypothesis,
+      <p> If the Mars effect, or any other paranormal hypothesis,
 should ever be demonstrated using rigorous scientific procedures,
 there simply is no way in which the small group of individuals
 involved in CSICOP could ever hope to suppress such evidence. Nor
 have I found any CSICOP Council member or Fellow who is so
 foolish as to try. </p>
-   <p> (end) </p>
-   <p> [In the years following "sTARBABY", Rawlins has continued to
+      <p> (end) </p>
+      <p> [In the years following "sTARBABY", Rawlins has continued to
 receive publicity by making sensational charges of
 scientific coverup and fraud. In 1988 he made national
 headlines by renewing an earlier charge he had made before
 CSICOP's founding, this time supposedly supported by a new-found document: that Admiral Peary never actually reached
-the North Pole during his famous expedition in 1909, but
+the <ent type='LOC'>North Pole</ent> during his famous expedition in 1909, but
 instead fabricated his navigational records to make it
-appear as if he had. A New York Times article of October 13,
+appear as if he had. A <ent type='ORG'>New York Times</ent> article of October 13,
 1988 carries the headline: "Peary's Notes Said to Imply He
 Fell Short of Pole." It begins: "New evidence based on
 navigational notes by Robert E. Peary indicates that the
 Arctic explorer fell short of his goal and deliberately
 faked his claim in 1909 that he was the first person to
-reach the North Pole, according to an analysis by a
-Baltimore astronomer and historian ... Dennis Rawlins, an
+reach the <ent type='LOC'>North Pole</ent>, according to an analysis by a
+<ent type='GPE'>Baltimore</ent> astronomer and historian ... Dennis Rawlins, an
 independent scholar who trained as an astronomer and who has
 a long-standing interest in Peary's expedition, said
 yesterday that his analysis of the navigational notes,
@@ -814,40 +815,40 @@ closer than 121 miles from the Pole." Officials of the
 National Geographic Society promised to examine Rawlins'
 data, but added "We believe Mr. Rawlins has been too quick
 to cry fake." </p>
-   <p> After a three-month investigation of Rawlins' charges, a
+      <p> After a three-month investigation of Rawlins' charges, a
 press conference was sponsored by The Navigation Foundation
 at which they dismissed his "sensational claims". As
-reported in a Baltimore Sun story syndicated Feb. 2, 1989,
+reported in a <ent type='GPE'>Baltimore</ent> <ent type='LOC'>Sun</ent> story syndicated Feb. 2, 1989,
 "Since October [Natl. Geographic] Society President Gilbert
 M. Grosvenor and others had quietly endured Rawlins' public
 calls for debate and unconditional surrender on the Peary
 issue." The Society was willing to take seriously an
-analysis by the British explorer Wally Herbert, based on
+analysis by the <ent type='NORP'>British</ent> explorer Wally Herbert, based on
 other evidence, that a navigation error may have caused
 Peary to miss the pole by about 45 miles. "Suggesting that
 Peary might not have reached the Pole is one thing," said
 Grosvenor. "Declaring Peary a fraud is quite another."
 Rawlins held his own "informal press conference" afterwards,
-reports The Sun, in which Rawlins "admitted he had confused
+reports The <ent type='LOC'>Sun</ent>, in which Rawlins "admitted he had confused
 time readings for chronometer checks with altitudes of the
 sun and had mistaken serial numbers on the chronometers for
 navigational observations." Rawlins conceded, "My
 interpretation has some problems, and I acknowledge that.
 It's fair to say that, if I'm saying Peary was a fraud, I
 think I have not yet met the burden of proof." </p>
-   <p> Finally, in December, 1989, a 230-page report commissioned
+      <p> Finally, in December, 1989, a 230-page report commissioned
 by the National Geographic Society was released, concluding
 that Peary actually did reach the Pole. As reported in a
-story on p.1 of the New York Times, Dec. 12, 1989, a new
+story on p.1 of the <ent type='ORG'>New York Times</ent>, Dec. 12, 1989, a new
 analysis of Peary's records by professional navigators
 concluded that Peary's final camp was not more than five
 miles from the Pole. "The report said, there was no evidence
 of fraud and deception in the explorer's records. But one
-critic, Dennis Rawlins, a Baltimore astronomer and
+critic, Dennis Rawlins, a <ent type='GPE'>Baltimore</ent> astronomer and
 historian, said he remained convinced, despite the new
 study, that Admiral Peary did not reach his goal and had
 faked his claim." </p>
-   <p> Robert Sheaffer, Nov., 1991]
+      <p> Robert Sheaffer, Nov., 1991]
 --
 Rick Moen - via RBBS-NET node 8:914/201
 INTERNET: moen@f207.n914.z8.RBBS-NET.ORG
@@ -856,4 +857,5 @@ INTERNET: moen@f207.n914.z8.RBBS-NET.ORG
 Robert Sheaffer, Nov., 1991]
 --
 Rick Moen - via RBBS-</p>
-</div>
+   </div>
+</xml>

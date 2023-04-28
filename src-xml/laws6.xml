@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>Paying For Your Innocence
+<xml>
+   <div class="article">
+      <p>Paying For Your Innocence
 
 The Justice Department's Terwilliger says that in some cases "dumb
 judgement" may occasionally cause problems, but he believes there is an
@@ -18,7 +19,7 @@ Clients who challenge the government, says attorney Edward Hinson of
 Charlotte, N.C., "have the choice of fighting the full resources of the
 U.S. treasury or caving in."
 
-Barry Kolin caved in. Kolin watched Portland, Ore., police padlock
+Barry Kolin caved in. Kolin watched <ent type='GPE'>Portland</ent>, Ore., police padlock
 the doors of Harvey's, his bar and restaurant for bookmaking on March 2.
 Earlier that day, eight police officers and Amy Holmes Hehn, the
 Multnomah County deputy district attorney, had swept into the bar,
@@ -95,7 +96,8 @@ Asset Forfeiture, says they tried to "squeeze the pipeline" in 1990
 when the amount forfeited lagged behind Justice's budget projections.
 He said this was done by speeding up the process, not by doing "whole
 lot of seizures."</p>
-   <p>--- Renegade v6-27 Beta
+      <p>--- Renegade v6-27 Beta
 </p>
-   <p>* Origin: Shark's Mouth 313-658-1110 750 MEGS Dual Amiga/IBM (23:313/108)</p>
-</div>
+      <p>* Origin: Shark's Mouth 313-658-1110 750 MEGS Dual Amiga/<ent type='ORG'>IBM</ent> (23:313/108)</p>
+   </div>
+</xml>

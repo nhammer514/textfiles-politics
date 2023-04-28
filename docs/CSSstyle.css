@@ -307,7 +307,8 @@ section.textAnalysis figure img {flex:5;
 }
 section.textAnalysis figure figcaption {flex:1;
 ;}
-
+span{color:orange;}
+/*  ebb: trying the above line quickly to highlight everything that isn't a person.*/
 span.PERSON{
     color: red;
 }

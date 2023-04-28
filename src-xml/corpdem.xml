@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>Subject: Corporate buyout of the Democratic Party</p>
-   <p>******************************
+<xml>
+   <div class="article">
+      <p>Subject: Corporate buyout of the Democratic Party</p>
+      <p>******************************
 &gt;From the SF Examiner, Monday July 20, 1992.
 Jeff Cohen and Norman Solomon (Jeff Cohen is founder
 of FAIR, a media watchdog group; Norman Solomon is
 a media critic.)</p>
-   <p>The Takeover of the Democratic Party</p>
-   <p> Thousands of journalists covered the Democratic National
+      <p>The Takeover of the Democratic Party</p>
+      <p> Thousands of journalists covered the Democratic National
 Convention here. Almost all of them missed the biggest
 story.
 The story wasn't missed because it happened in the shadows
@@ -31,41 +32,41 @@ regulation. (These businesses are, after all, the folks who
 underwrite the news with their advertising.)
 In political reporting, corporations are treated as benign, neutral,
 invisible. Their political maneuvers are generally not news.</p>
-   <p> It's not that journalists are oblivious to political wheeling and
+      <p> It's not that journalists are oblivious to political wheeling and
 dealing by various groups. In the days before the convention,
 political reporters scrutinized teachers unions, black activists,
 senior-citizen groups, feminists, gay-rights advocates - denigrating
-them as "special interests'' who could ruin "Clinton's convention''
+them as "special interests'' who could ruin "<ent type='PERSON'>Clinton</ent>'s convention''
 by "alienating middle-class voters.''
 With so much media focus on these relatively powerless grass-roots
 groups, powerful corporations - the country's REAL special
 interests - ran off with the party.</p>
-   <p> ITEM: Two days before the convention, a "Victory Train'' carried
-congressional Democrats from Washington to New York. Accompanying
+      <p> ITEM: Two days before the convention, a "Victory Train'' carried
+congressional Democrats from Washington to <ent type='GPE'>New York</ent>. Accompanying
 the party elite on the train ride were corporate lobbyists who
 paid $10000 to $25000 for the right to mingle and shmooze.
 The Democratic National Committee has been raking in money from
 virtually every corporate interest needing a government
 favor. The message to anti-poverty or consumer-rights activists:
 No need for you to come on board. You can wait at the station.</p>
-   <p>ITEM: The Clinton-Gore ticket represents the seizure of the
+      <p>ITEM: The <ent type='PERSON'>Clinton</ent>-Gore ticket represents the seizure of the
 party hierarchy by the Democratic Leadership Council, which
 is typically euphemized in the media as a group of
 "moderate'' Democratic politicians who want the party to
-"speak for the middle class.'' (Clinton and Gore were
-founders of the DLC; Clinton was its chair in 1990-91.)
+"speak for the middle class.'' (<ent type='PERSON'>Clinton</ent> and Gore were
+founders of the DLC; <ent type='PERSON'>Clinton</ent> was its chair in 1990-91.)
 The problem is that the DLC has no middle-class constituents.
 It is bankrolled by - and speaks for - corporate America:
 ARCO, Dow Chemical, Georgia Pacific, Martin Marietta, the
 Tobacco Institute, the Petroleum Institute, etc.</p>
-   <p>ITEM: Clinton became the media-designated "front-runner'' in
+      <p>ITEM: <ent type='PERSON'>Clinton</ent> became the media-designated "front-runner'' in
 large part because he raised so much money early in the
 campaign. The cash didn't come from middle-class folks.
 As reported by the weekly In These Times, most of it
 came from conservative business interests; investment
 bankers, corporate lobbyists and Wall Street firms which
 fund both major political parties.</p>
-   <p>ITEM: Two of Clinton's key fund-raisers were Robert Barry,
+      <p>ITEM: Two of <ent type='PERSON'>Clinton</ent>'s key fund-raisers were Robert Barry,
 a longtime General Electric lobbyist, and Thomas H. Boggs
 Jr., who ears $1.5 million a year as a lawyer-lobbyist
 for the Washington firm of Patton, Boggs, and Blow.
@@ -74,16 +75,16 @@ media pundit Cokie Roberts. His law firm boasts a computer
 program that matches corporate donors with Congress members
 who seek his help in raising money; a match depends on what
 legislation is pending before Congress.</p>
-   <p>ITEM: The Boggs law firm also boasts partner Ron Brown,
+      <p>ITEM: The Boggs law firm also boasts partner Ron Brown,
 chair of the Democratic Party. Some pundits have suggested
-that since Brown in an African-American, the Clinton-Gore
+that since Brown in an <ent type='NORP'>African</ent>-American, the <ent type='PERSON'>Clinton</ent>-Gore
 ticket has less need of Jesse Jackson to mobilize the
 black vote in November. But Ron Brown is far more familiar
 with corporate boardrooms and government corridors than
 grass-roots organizing. His clients have included an
 array of U.S. and foreign business interests, as well as
-the regime of Haitian dictator Jean Claude Duvalier.</p>
-   <p> When Jerry Brown spent his campaign denouncing
+the regime of <ent type='NORP'>Haitian</ent> dictator Jean Claude Duvalier.</p>
+      <p> When Jerry Brown spent his campaign denouncing
 "Washington sleaze,'' he was referring to these kinds of
 cozy corporate-government relations.
 But mainstream media have demonstrated far less animus
@@ -93,8 +94,9 @@ convention as "disruptive,'' "egotistical'' and a
 "party pooper.''
 Aided by this media slant, corporate insiders are
 laughing all the way to the bank.</p>
-   <p>This is the real problem with our "democracy" - the voters have
+      <p>This is the real problem with our "democracy" - the voters have
 very little influence over the choices. Those decisions have
 already been made for us. We should feel glad about it, now
 we don't have to make the difficult decisions...</p>
-</div>
+   </div>
+</xml>

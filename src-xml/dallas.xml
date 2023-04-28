@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>Path: uuwest!spies!mips!spool.mu.edu!olivea!sgigate!odin!ratmandu.esd.sgi.com!dave
+<xml>
+   <div class="article">
+      <p>Path: uuwest!spies!mips!spool.mu.edu!olivea!sgigate!odin!ratmandu.esd.sgi.com!dave
 From: dave@ratmandu.esd.sgi.com (dave "who can do? ratmandu!" ratcliffe)
 Newsgroups: alt.conspiracy.jfk,alt.conspiracy,alt.activism
 Subject: "The Guns of Dallas" by L. Fletcher Prouty
@@ -12,8 +13,8 @@ Organization: Silicon Graphics, Inc.
 Lines: 1028
 Article-I.D.: odin.1992Mar27.161114.26346
 Nntp-Posting-Host: ratmandu.esd.sgi.com</p>
-   <p> the reason for the assassination was to control the power of the presidency.</p>
-   <p> The following appeared in the October, 1975 issue of "Gallery," a porno
+      <p> the reason for the assassination was to control the power of the presidency.</p>
+      <p> The following appeared in the October, 1975 issue of "Gallery," a porno
 magazine which billed Fletcher Prouty as the "National Affairs Editor."
 Some people feel there is no credible way to justify associating oneself
 with such exploitative and demeaning media. Fletcher Prouty has told me
@@ -29,29 +30,29 @@ indictment of the reality of the lack of public access to the mainstream
 corporate press, that a man like Fletcher Prouty--who served in the Air
 Force for 23 years, rose to the rank of Colonel, was a briefing officer in
 the Pentagon from 1955 thru 12/31/63, serving also as Focal Point Officer
-(liason) between the DOD and the CIA, first in the Headquarters of the Air
+(liason) between the DOD and the <ent type='ORG'>CIA</ent>, first in the Headquarters of the Air
 Force (1955 to 1960), where he set up and then ran the structures that
-supplied Air Force logistical (military hardware) support for CIA
+supplied Air Force logistical (military hardware) support for <ent type='ORG'>CIA</ent>
 clandestine operations world-wide, then in the Office of the Secretary of
 Defense (1960 into 1961), and then in the Office of the Joint Chiefs of
 Staff (1961 thru 12/31/63) where he ran the same support for all branches
 of the military--that a man possessing such critical first-hand experience
-and knowledge of the mechanisms, methodogy and factual history of CIA
+and knowledge of the mechanisms, methodogy and factual history of <ent type='ORG'>CIA</ent>
 covert operations in this seminal period, would find his writings and
 analysis of these important issues essentially barred from the most
 generally accessible publications. As long as the conglomerate press in
 this country continues to increasingly restrict the range and variety of
 points of view being published, writers will resort to certain types of
 publishers they would not choose to go to if they had a better alternative.</p>
-   <p> _______________________________________________________________________</p>
-   <p> THE GUNS OF DALLAS
+      <p> _______________________________________________________________________</p>
+      <p> THE GUNS OF DALLAS
 (c) 1975 by L. Fletcher Prouty
 Reprinted here this one time only with permission by of the author</p>
-   <p> The shocking nature of what you are about to read in this article
+      <p> The shocking nature of what you are about to read in this article
 makes it imperative that you be aware of some of the credentials
 and experience of the author.
 From 1955 to December 31, 1963, Col. L. Fletcher Prouty was the
-Focal Point (liason) officer between the Pentagon and the CIA.
+Focal Point (liason) officer between the Pentagon and the <ent type='ORG'>CIA</ent>.
 During 1962 and 1963 he was Director of Special Plans (clandestine
 operations) in the office of the Joint Chiefs of Staff.
 In 1971 he was the president of the Financial Marketing Council,
@@ -59,19 +60,19 @@ Washington, D.C.
 He is the author of numerous articles and of "The Secret Team,"
 published by Prentice Hall (1973) and Ballantine Books (1974).
 </p>
-   <p> This article included a great deal of photograhic evidence of the events
+      <p> This article included a great deal of photograhic evidence of the events
 in Dealey Plaza. The photographic research was by Richard E. Sprague.
 Unfortunately, I will only be able to include the text in this post.
 However, the captions are included in square braces, and an asterisk
 character, '*', delimits pictures not seen by Warren Commission.
 --ratitor</p>
-   <p> ________________________________________________</p>
-   <p> How was the Warren Commission kept
+      <p> ________________________________________________</p>
+      <p> How was the Warren Commission kept
 from investigating and seeing evidence?
 This is the real issue.
 This is a crime to top the crime.
 ________________________________________________</p>
-   <p> As we prepare now to celebrate the beginning of the third century
+      <p> As we prepare now to celebrate the beginning of the third century
 of the founding of this country, we wonder if we live in the land
 of the free. We wonder if at least we still have a government of
 the people and by the people. Certainly, it is no longer a
@@ -89,7 +90,7 @@ Yes, history has been made by a series of murders, but not
 enough has been done to solve them. The trial of Watergate was the
 trial of the cover-up. There has been no trial about the real
 crime of Watergate. There has been no trial of the big power
-behind Watergate. The Hunts, Liddys, McCords, and the Cubans were
+behind Watergate. The Hunts, Liddys, McCords, and the <ent type='NORP'>Cubans</ent> were
 not drawn into that drama solely for their own interests. They
 were working for someone much higher up. They were all pawns, just
 like Nixon was. This is a game for the biggest stake of all--
@@ -99,7 +100,7 @@ yet the real crime underlying all of this has not even been
 identified, stated, and charged. The real criminals still walk the
 streets, run their corporations, control their banks, and pull
 strings throughout their political and financial machines.</p>
-   <p> This control mechanism did not start in 1972 with Watergate. It
+      <p> This control mechanism did not start in 1972 with Watergate. It
 began, in a tentative way, in the Korean War era, when the military
 and the executive branch found out how easy it was to fool the
 Congress and the American public. And with that recognition,
@@ -133,14 +134,14 @@ and that his lair was at a window, number one from the right
 1. [NUMBER 1. The Texas School Book Depository Building. Arrow
 points to window from which Oswald supposedly shot Kennedy. (photo
 by Willis.)])</p>
-   <p> If one breaks this contrived Warren Commission story, then the
+      <p> If one breaks this contrived Warren Commission story, then the
 fundament of the "lone assassin" theory is undermined. Break this
 weak theory and you are confronted immediately with an awareness of
 the existence of a massive conspiracy. And we are equally
 convinced that this group hired at least four expert "mechanics"
 (assassins). This group wielded control over elements of the
-Dallas police, the Sheriff's office, the FBI, the Secret Service,
-and the CIA. This great cabal had control high enough in
+Dallas police, the Sheriff's office, the <ent type='ORG'>FBI</ent>, the Secret Service,
+and the <ent type='ORG'>CIA</ent>. This great cabal had control high enough in
 government, or at least in the councils of government, to be able
 to influence the travel plans of the President, the Vice-President
 and a Presidential candidate (Nixon), and all members of the
@@ -168,7 +169,7 @@ from the lies about the Kennedy murder and the cover-up; but the
 American public has not had the guts to face the fact of the
 massive conspiracy that arranged for that murder and which to this
 day perpetuates its cover-up.</p>
-   <p> Many of us have been convinced, as a result of careful and
+      <p> Many of us have been convinced, as a result of careful and
 detailed study that the first of these glass barricades, the Warren
 Commission report, is a lie. And, we are equally convinced that
 the cover-up of the murder can be smashed and the conspiracy
@@ -177,7 +178,7 @@ These will begin with either the cancellation of elections in 1976
 or with elections that will be a total sham. For who will dare run
 against the candidate of the conspiracy? Will it be Wallace with
 his wounds and from his wheelchair, or another Kennedy, or Ed
-Muskie, who was badly roughed up in 1972, or George McGovern, who
+Muskie, who was badly roughed up in 1972, or George <ent type='PERSON'>McGovern</ent>, who
 was twice scheduled for assassination in 1972?
 Who, unless he sells his soul to the cabal, can face those hired
 guns?
@@ -191,14 +192,14 @@ said that the first hit the President, the second hit Governor John
 Connally of Texas, and the third struck the President. There were
 no other shots according to the Secret Service. *The Secret
 Service was wrong*!
-On December 9, 1963, the FBI reported that three shots had been
+On December 9, 1963, the <ent type='ORG'>FBI</ent> reported that three shots had been
 fired and that two hit the President and that one hit John
-Connally. The FBI says there were no other shots. The FBI was
-less specific than the Secret Service. *The FBI was wrong*.
+Connally. The <ent type='ORG'>FBI</ent> says there were no other shots. The <ent type='ORG'>FBI</ent> was
+less specific than the Secret Service. *The <ent type='ORG'>FBI</ent> was wrong*.
 Then, much later, on September 27, 1964 (ten months after the
 crime), the Warren Commission issued its report along with twenty-six huge volumes of random data. This report states that there
 were three shots. *The Warren Commission was wrong*.</p>
-   <p> According to the Warren Commission, the first shot, the "miracle
+      <p> According to the Warren Commission, the first shot, the "miracle
 bullet" designed and dreamed up by one of its lawyers (Arlen
 Specter), is one of the most fascinating contrivances of our
 generation. Forced to account for a series of unrelated events,
@@ -223,15 +224,15 @@ character of the Commission report. Can you imagine some lawyer,
 even the persuasive and imaginative Specter, selling that bullet
 and its bumble-bee flight to any jury of intelligent Americans?
 The Commission was stuck with a "three bullet" crime because the
-Secret Service and the FBI had both reported three bullets, because
+Secret Service and the <ent type='ORG'>FBI</ent> had both reported three bullets, because
 there were only 6.8 seconds of shooting[1], as proven precisely by
-a film of the event made by Abraham Zapruder, and because the
+a film of the event made by Abraham <ent type='PERSON'>Zapruder</ent>, and because the
 character who planted the shells at the "Oswald lair" had only put
 three there. Furthermore, if they were going to stick with the
 "lone assassin" solution, they were faced with the hard task of
 making it appear feasible that Oswald alone could have gotten off
 just three bullets in 6.8 seconds, let alone four, five, or six.
-The Zapruder movie film, which shows the entire scene from
+The <ent type='PERSON'>Zapruder</ent> movie film, which shows the entire scene from
 beginning to end, became invaluable as a master clock of the whole
 affair. It established a foolproof chronology of the crime. It is
 not too difficult to determine precisely when (what frame of the
@@ -256,14 +257,14 @@ his injury to a hospital. So there was another man on record as
 having been hit during these same 6.8 seconds. This forced the
 Commission to accept that one bullet, the second by their count,
 missed both JFK and Connally. This complicated their task.
-Remember, neither the Secret Service nor the FBI has accounted for
+Remember, neither the Secret Service nor the <ent type='ORG'>FBI</ent> has accounted for
 that "missed" bullet and there were only three shell cases and no
 clips at Oswald's window. They both had said that three shots were
-fired and that two hit JFK and one hit Connally. The FBI later
+fired and that two hit JFK and one hit Connally. The <ent type='ORG'>FBI</ent> later
 found the nick in the curbstone, took a section of it back to their
 labs in Washington, analyzed it, and decided that a bullet had
 indeed hit the curb.
-The Zapruder film makes it abundantly clear that the top of the
+The <ent type='PERSON'>Zapruder</ent> film makes it abundantly clear that the top of the
 President's head was blown off and the skull and brain spattered as
 far as thirty-seven yards away by a third shot. Thus the
 Commission gives the "official" version: three shots. The third
@@ -271,7 +272,7 @@ shot, the missed second shot, and none other than the contrived
 "Specter Miracle Bullet"--the first shot. (See photos 345.
 [NUMBER 3. Z-313, showing impact and explosion of third shot, which
 killed Kennedy. NUMBER 4. "The Miracle bullet." Commission
-exhibit 399: a portion was sliced from for FBI spectrographic
+exhibit 399: a portion was sliced from for <ent type='ORG'>FBI</ent> spectrographic
 comparison with other bullet fragments. The results were never
 released. NUMBER 5.* X-ray of fragment of the "miracle bullet"
 still in John Connally's thigh. This fragment is larger than any
@@ -288,27 +289,27 @@ task of developing the theory of that bullet. Pictures of that
 undamaged bullet show it as clean as a brand-new slug. It looks as
 though it had hardly been fired at all, let alone having traveled
 through two men, broken three bones, and lodged in a fourth. [3]</p>
-   <p> ____________________________________________________________________
-How the Zapruder Film Created a Time Clock
+      <p> ____________________________________________________________________
+How the <ent type='PERSON'>Zapruder</ent> Film Created a Time Clock
 for the Assassination in Dealey Plaza
-| Abraham Zapruder's camera was running at a determinable
+| Abraham <ent type='PERSON'>Zapruder</ent>'s camera was running at a determinable
 speed: 18.3 frames per second. The camera had a
 governor control, so its speed was constant. Each frame
 of the film was 1/18th of a second apart. Since John
 Kennedy appeared in every frame of the relevant sequence
-of the film, the FBI was able to plot on a surveyor's map
+of the film, the <ent type='ORG'>FBI</ent> was able to plot on a surveyor's map
 of Dealey Plaza, Kennedy's exact position at each frame
 number. This "map" perfectly coordinated two functions:
 time and place--where Kennedy was at each moment, within
 1/18th of a second accuracy, and a distance error of no
-more than 7.3 inches. The Zapruder film was used to
+more than 7.3 inches. The <ent type='PERSON'>Zapruder</ent> film was used to
 determine the speed of the President's car, the elapsed
 time between events, especially between the first and last
 shots (6.8 seconds), and the timing of events in the
 background. --Richard E. Sprague
-| Z denotes Zapruder film and frame number.
+| Z denotes <ent type='PERSON'>Zapruder</ent> film and frame number.
 |___________________________________________________________________|</p>
-   <p> I have worked with the CIA and military officials in testing
+      <p> I have worked with the <ent type='ORG'>CIA</ent> and military officials in testing
 special rifles. I have seen countless bullets fired into gelatin
 and paraffin to simulate body hits on humans. I have seen goats
 shot under controlled conditions to show what impact will do. In
@@ -327,7 +328,7 @@ conspiracy.
 This incredulous miracle bullet, then, is the key to opening the
 whole can of worms. Let's look at bullet Number Two, the one which
 hit a curb and injured bystander James Tague. The Secret Service
-and the FBI ignored it and the Commission passed over it lightly.
+and the <ent type='ORG'>FBI</ent> ignored it and the Commission passed over it lightly.
 Now, if you were told that the assassin missed the President and
 that the bullet hit a curb; and if you were told that the assassin
 fired from high above from the sixth floor, you would not have been
@@ -351,7 +352,7 @@ miss. This would have placed the gunman's lair somewhere in the
 adjacent Dal Tex Building, perhaps under the second-floor fire
 escape. This establishes a second lair, a second gun, and a second
 "mechanic." (See photo 6. [NUMBER 6. (Commission's Shaneyfelt
-Exhibit.) Lyndal Shaneyfelt, the FBI's ballistics and photographic
+Exhibit.) Lyndal Shaneyfelt, the <ent type='ORG'>FBI</ent>'s ballistics and photographic
 expert, took this picture from the spot where the shot that missed
 hit the curb. By sighting back to the sixth floor window, the
 degree of miss can be seen. By sighting directly over JFK's
@@ -359,8 +360,8 @@ position, the top of the white car in the center lane, anyone can
 see where the shot came from: the second floor window of the Dal
 Tex building. See Altgen's photo, number 8.])
 It is not hard to find another shot that Oswald could not have
-made. The Zapruder film clearly fixes the time of the first shot
-at frame Z-189. Also, the Zapruder film clearly fixes the location
+made. The <ent type='PERSON'>Zapruder</ent> film clearly fixes the time of the first shot
+at frame Z-189. Also, the <ent type='PERSON'>Zapruder</ent> film clearly fixes the location
 of the car--and thus the President--at Z-189. (See photo 7.
 [NUMBER 7. This is Z-189. JFK was slowly waving his right hand to
 the crowd.]) There were broken white lines on the road and it can
@@ -392,7 +393,7 @@ Z-189.])
 Who then fired at Z-189? Was it the mechanic who missed later,
 and hit Tague? This is impossible. (See photo 12. [NUMBER 12.*
 This is Phil Willis' fifth photo, showing JFK approaching sign;
-Zapruder in background on grassy knoll pedestal, camera at eye.
+<ent type='PERSON'>Zapruder</ent> in background on grassy knoll pedestal, camera at eye.
 Willis said he snapped photo in reaction to hearing first shot.
 Photo was sanpped at Z-202, confirming Z-189 was time of first
 shot. A similar photo taken by Hugh Betzner confirms the timing of
@@ -405,7 +406,7 @@ At this point it is important to make certain that we have laid
 all of this out with reasonable credibility. I have been working
 on this problem since 1963. Many others have been working that
 long doing very specialized and very detailed work. (See photos
-13-16. [NUMBERs 13-16. This series of frames from the Zapruder
+13-16. [NUMBERs 13-16. This series of frames from the <ent type='PERSON'>Zapruder</ent>
 film show that JFK's right hand is still falling and clenched as he
 emerges from behind the sign (up to frame Z-225). Note the drastic
 change in his position: hands, head, elbows, shoulders, and arms
@@ -425,7 +426,7 @@ this work in his magazine "Computers and Automation," notably in
 the May 1970 and October 1973 issues.
 It is astounding to learn that in their entire work the
 Commission was permitted to see only twenty-six of these pictures,
-and that the FBI limited its examination to some fifty of the 510.
+and that the <ent type='ORG'>FBI</ent> limited its examination to some fifty of the 510.
 The Commission principals interviewed only four of the thirty
 professional photographers and saw only about a dozen of their
 several hundred photographs. Here was evidence enough to arouse
@@ -439,7 +440,7 @@ photographs? In all there were more than 25000 frames of pictures
 exposed within that crucial hour at Dealey Plaza. (This includes
 the frames of movie camera film, some of which have been so vitally
 important when studied frame by frame.) (See photos 17-20.
-[NUMBERs 17-20. This sequence of Zapruder frames shows that the
+[NUMBERs 17-20. This sequence of <ent type='PERSON'>Zapruder</ent> frames shows that the
 final and fatal shot striking JFK at Z-313, which caused an
 enormous explosion, drove his head and upper body back and to his
 left until he bounced off the rear seat cushion at Z-321. The
@@ -491,20 +492,20 @@ Commission, too.
 The single-bullet theory is overly contrived, especially when
 one is attempting to solve a major crime such as the murder of a
 President. Consider the following:</p>
-   <p> * The fact that the Secret Service and the FBI both
+      <p> * The fact that the Secret Service and the <ent type='ORG'>FBI</ent> both
 state three bullets were fired, but account for no
 miss.</p>
-   <p> * The fact that the Commission states that three
+      <p> * The fact that the Commission states that three
 bullets were fired, including the near miss.</p>
-   <p> * The fact that the Warren Commission missed the
+      <p> * The fact that the Warren Commission missed the
 back-to-left motion of JFK's head (see photos).</p>
-   <p> * The fact that only three members of the Commission
-ever saw the Zapruder film in motion.</p>
-   <p> * The fact that the Warren Commission missed seeing
+      <p> * The fact that only three members of the Commission
+ever saw the <ent type='PERSON'>Zapruder</ent> film in motion.</p>
+      <p> * The fact that the Warren Commission missed seeing
 the evidence of three separate bullets hitting JFK
 and a fourth hitting Connally; and then
 disregarding the "umbrella man."</p>
-   <p> All of the discrepancies, one after the other, stagger the mind.
+      <p> All of the discrepancies, one after the other, stagger the mind.
 Of course, the umbrella man could have been a perfectly innocent
 guy, why not find out?
 Then there was the "communications man." Photo Number 24
@@ -533,7 +534,7 @@ most obvious is the way the shadow under Oswald's nose in the two
 photos tilts with his head. This shows that the same head photo
 was glued on at two different angles. These fake photos taken
 with a camera that didn't belong to Oswald were accepted as totally
-valid by the Warren Commission and the FBI. Marina Oswald was
+valid by the Warren Commission and the <ent type='ORG'>FBI</ent>. Marina Oswald was
 forced by the assassination team to testify that she took these two
 photos.])
 Why an assassination conspiracy in the first place? Once you
@@ -558,11 +559,11 @@ Kennedy had been in Miami in September 1963. Prior to that, a
 Miami police informer had uncovered the existence of a plot to kill
 JFK either in Miami or in some other city. The Miami police, in
 accordance with good practice, turned this information over to the
-FBI and the FBI informed the Miami Police that they had turned that
+<ent type='ORG'>FBI</ent> and the <ent type='ORG'>FBI</ent> informed the Miami Police that they had turned that
 information over to the Secret Service. When JFK went to Miami, he
 was well protected to and from the airport because he traveled by
 helicopter. This was the beginning of the plot and from that time
-on the FBI and the Secret Service should have been on maximum
+on the <ent type='ORG'>FBI</ent> and the Secret Service should have been on maximum
 alert. Why weren't they? Who pulled them off the job? Certainly
 not Oswald. Certainly not Castro. Certainly not Khrushchev.
 Before that time, plans were being made to have Kennedy visit
@@ -626,7 +627,7 @@ the thousands of pictures available about this incident. One of
 the most remarkable and important pictures taken of the entire
 25000 was one taken by James Altgens, a professional photographer
 from the Associated Press. (See photo 8.) By cross-referencing
-this remarkable photograph with the Zapruder film chronology, it is
+this remarkable photograph with the <ent type='PERSON'>Zapruder</ent> film chronology, it is
 possible to determine that this picture was taken 3.6 seconds after
 the first shot was fired and 3.2 seconds before the last shot.
 This is very important. This picture clearly shows JFK
@@ -654,7 +655,7 @@ opened the door of that car and that he is preparing to jump out--
 all by 3.6 seconds.
 This one indelible record of a fragment in history tells a truer
 story than all twenty-six volumes of the Warren report. It is
-possible to place the first shot at Zapruder film frame 189 and the
+possible to place the first shot at <ent type='PERSON'>Zapruder</ent> film frame 189 and the
 Altgens photograph at Z-255. It is interesting to note that nearly
 one half of the background of the Altgens photo is filled with that
 huge oak tree we mentioned earlier. It has keen carefully
@@ -724,7 +725,7 @@ fast enough to guarantee all but 100 percent assurance that the
 President would be safe. It was Secret Service men working under
 the provisions of the same manual who let the President's car creep
 around that corner at Dealey Plaza at 8-9 mph. Why?</p>
-   <p> ____________________________________________________________________
+      <p> ____________________________________________________________________
 Army Aid to Help Protect President Kennedy Was Refused
 | Trained U.S. Army Intelligence Units were told their
 assisstance was not needed in Dallas during the JFK visit.
@@ -751,7 +752,7 @@ included training designed to prepare this army unit to
 assist the Secret Service. If our support had not been
 refused, we would have been in Dallas." --L.F.P.
 |___________________________________________________________________|</p>
-   <p> Also, as we looked up at the high buildings on Mexico City's
+      <p> Also, as we looked up at the high buildings on Mexico City's
 main street, he told me that agents would check and secure each
 floor and each window of each building. This is not as big a job
 as it may seem. The Secret Service knows the exact timing of the
@@ -875,7 +876,7 @@ from Ohio. As soon as possible, we purchased the first newspaper
 available--the "Christchurch Star." It is amazing to re-read the
 front page of that paper today and find all of the detail, the
 remarkable detail, about Lee Harvey Oswald, about his service in
-the Marine Corps, about his living in Russia, about his Russian
+the Marine Corps, about his living in Russia, about his <ent type='NORP'>Russian</ent>
 wife, and then the full scenario of the crime.[7]
 Then one begins to wonder--understanding full well the
 capability of modern-day communications and reporting--who it was
@@ -883,7 +884,7 @@ that was able in so short a time to come up with such a life
 history of so obscure a twenty-four-year-old "loner." Even the
 Dallas police had not charged him with any crime by the time that
 paper had hit the streets. In the crime scenario it states that
-two Dallas cops, J.D. Tippit and M.N. McDonald, had chased Oswald
+two Dallas cops, J.D. Tippit and M.N. <ent type='PERSON'>McDonald</ent>, had chased Oswald
 into a theater and that Tippit was shot dead "as he ran into the
 cinema." Who fabricated all of that news? Who was at the right
 place at that moment to flood the whole world with all of this news
@@ -892,7 +893,7 @@ sure of their man, they said, because he carried two identities
 (Oswald and Alek Hidell) in his pocket. (See photo 36. [NUMBER
 36.* Oswald is arrested.]) Actually fifteen policemen, one of them
 the Chief of Police for Personnel (a man who had never made an
-arrest before), and an FBI man stormed the theater in that strange
+arrest before), and an <ent type='ORG'>FBI</ent> man stormed the theater in that strange
 episode, and Tippit did not. He was dead outside.
 All of this proves that the American people, in their desire to
 be "loyal," can be had. For eleven years we have been fed this
@@ -928,7 +929,7 @@ was ready when called. He became President because his real
 opposition had recently been buried in Arlington.
 After a defeat in the mid-term elections during that winter of
 our discontent in 1970-71, Nixon faced a panel of reporters on an
-ABC broadcast in January 1971. When asked why he had been unable
+<ent type='ORG'>ABC</ent> broadcast in January 1971. When asked why he had been unable
 to bring the country "the lift of a driving dream" he had promised
 during the New Hampshire primaries, Nixon--in one of his rare human
 moments--looked at the reporters and then mumbled, "When you have
@@ -953,36 +954,37 @@ facts, we have the desire, and we have the power. It is now up to
 the American people to throw off this dreaded bondage. We have
 work to do. We want free elections in 1976 and we want to begin a
 glorious new century of the free.</p>
-   <p> [1] Even the tests which "prove" it could have been done in 5.7 seconds are
+      <p> [1] Even the tests which "prove" it could have been done in 5.7 seconds are
 faulty. The shots in Dallas were not fired evenly; this is proved by
-the Zapruder film and by the Commission's own figures--Zapruder film
+the <ent type='PERSON'>Zapruder</ent> film and by the Commission's own figures--<ent type='PERSON'>Zapruder</ent> film
 frames 186-215-313. Tests were made with a "clip" of three bullets.
 No clip was found in the Book Depository Building.</p>
-   <p> [2] The Warren Commission allowed even less time; according to their
+      <p> [2] The Warren Commission allowed even less time; according to their
 report, the elapsed time was 5.7 seconds.</p>
-   <p> [3] X-rays show a piece of the bullet is still in Connally's thigh bone,
+      <p> [3] X-rays show a piece of the bullet is still in Connally's thigh bone,
 yet there is no fragment that size missing from that bullet.</p>
-   <p> [4] It is entirely possible that some technician did fire that bullet in
+      <p> [4] It is entirely possible that some technician did fire that bullet in
 this manner from that gun in order to obtain a "laboratory perfect"
 ballistics specimen. Then, when some eager conspirators' accomplice
 got it, he "planted" it as the "Miracle" bullet.</p>
-   <p> [5] This is a highly technical point. Strangely, in its manipulations,
+      <p> [5] This is a highly technical point. Strangely, in its manipulations,
 the Commission "notes" that a "gap occurred in the leaves of the tree
 at Z-186," then says nothing. If there was this split-second gap,
 then the gun would have had to have been aimed and fired in that
-split second (about 1/20th of a second), and the Zapruder film tree
+split second (about 1/20th of a second), and the <ent type='PERSON'>Zapruder</ent> film tree
 would have to confirm that possibility. It does not!</p>
-   <p> [6] Edmund C. Berkeley is the publisher of the magazine "People and the
+      <p> [6] Edmund C. Berkeley is the publisher of the magazine "People and the
 Pursuit of Truth," Newtonville, Mass.</p>
-   <p> [7] First news reports that day said, "There were three bursts of gunfire
+      <p> [7] First news reports that day said, "There were three bursts of gunfire
 from automatic weapons." These reports were nearly correct.</p>
-   <p>--
+      <p>--
 daveus rattus </p>
-   <p> yer friendly neighborhood ratman</p>
-   <p> KOYAANISQATSI
+      <p> yer friendly neighborhood ratman</p>
+      <p> KOYAANISQATSI
 
 ko.yan.nis.qatsi (from the Hopi Language) n. 1. crazy life. 2. life
 in turmoil. 3. life out of balance. 4. life disintegrating.
 5. a state of life that calls for another way of living.
 </p>
-</div>
+   </div>
+</xml>

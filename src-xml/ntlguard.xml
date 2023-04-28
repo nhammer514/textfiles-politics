@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>
+<xml>
+   <div class="article">
+      <p>
 
 Subject: the national guards (military consolidating control of info and comm)
 Keywords: we don't appreciate how quickly our society is being locked up.</p>
-   <p>
+      <p>
 the U.S. military is the lens focusing the agendas of the corporate states
 of 'murka. the following article is already four and a half YEARS old.
 this piece is staggering in its implications. the high-tech gulf war show
@@ -17,23 +18,23 @@ take for people to stand up and put themselves on the line to stop this
 brand of spreading totalitarian democracy? their own complete enslavement?
 by that time it'll be just too damn late. (and people balk at the idea
 that Kennedy was killed by a military coup d'etat...) --ratitor</p>
-   <p>
+      <p>
 excerpts from "THE NATIONAL GUARDS"
 (C) 1987 OMNI MAGAZINE, MAY 1987</p>
-   <p>
+      <p>
 These attempts to keep unclassified data out of the hands of
 scientists, researchers, the news media, and the public at large are a
 part of an alarming trend that has seen the military take an ever-increasing role in controlling the flow of information and
 communications through American society, a role traditionally -- and
 almost exclusively -- left to civilians. Under the approving gaze of
-the Reagan administration, Department of Defense (DoD) officials have
+the <ent type='PERSON'>Reagan</ent> administration, Department of Defense (DoD) officials have
 quietly implemented a number of policies, decisions, and orders that
 give the military unprecedented control over both the content and
 public use of data and communications. . . .
 Mead Data Central -- which runs some of the nation's largest
 computer databases, such as Lexis and Nexis, and has nearly 200000
 users -- says it has already been approached by a team of agents from
-the Air Force and officials from the CIA and the FBI who asked for the
+the Air Force and officials from the <ent type='ORG'>CIA</ent> and the <ent type='ORG'>FBI</ent> who asked for the
 names of subscribers and inquired what Mead officials might do if
 information restrictions were imposed. In response to government
 pressure, Mead Data Central in effect censured itself. It purged all
@@ -51,18 +52,18 @@ system's vulnerability to outside manipulation, the NSA obtained a
 detailed knowledge of that computer program. "In my view," Brooks
 says, "this is an unprecedented and ill-advised expansion of the
 military's influence in our society."</p>
-   <p>
+      <p>
 ========================================================
 ORIGIN: ParaNet Information Service BBS
 CONTRIBUTED TO PARANET BY: Donald Goldberg
 ========================================================</p>
-   <p>
+      <p>
 THE NATIONAL GUARDS
 (C) 1987 OMNI MAGAZINE, MAY 1987
 (Reprinted with permission and license to
 ParaNet Information Service and its affiliates.)</p>
-   <p>By Donald Goldberg</p>
-   <p>
+      <p>By Donald Goldberg</p>
+      <p>
 The mountains bend as the fjord and the sea beyond stretch out
 before the viewer's eyes. First over the water, then a sharp left
 turn, then a bank to the right between the peaks, and the secret naval
@@ -71,7 +72,7 @@ The scene is of a Soviet military installation on the Kola
 Peninsula in the icy Barents Sea, a place usually off-limits to the
 gaze of the Western world. It was captured by a small French satellite
 called SPOT Image, orbiting at an altitude of 517 miles above the
-hidden Russian outpost. On each of several passes -- made over a two-week period last fall -- the satellite's high-resolution lens took
+hidden <ent type='NORP'>Russian</ent> outpost. On each of several passes -- made over a two-week period last fall -- the satellite's high-resolution lens took
 its pictures at a different angle; the images were then blended into a
 three-dimensional, computer-generated video. Buildings, docks,
 vessels, and details of the Arctic landscape are all clearly visible.
@@ -109,20 +110,20 @@ scientists, researchers, the news media, and the public at large are a
 part of an alarming trend that has seen the military take an ever-increasing role in controlling the flow of information and
 communications through American society, a role traditionally -- and
 almost exclusively -- left to civilians. Under the approving gaze of
-the Reagan administration, Department of Defense (DoD) officials have
+the <ent type='PERSON'>Reagan</ent> administration, Department of Defense (DoD) officials have
 quietly implemented a number of policies, decisions, and orders that
 give the military unprecedented control over both the content and
 public use of data and communications. For example:</p>
-   <p>
+      <p>
 * The Pentagon has created a new category of
 "sensitive" but unclassified information that allows
 it to keep from public access huge quantities of data
 that were once widely accessible.</p>
-   <p>* Defense Department officials have attempted to
+      <p>* Defense Department officials have attempted to
 rewrite key laws that spell out when the president can
 and cannot appropriate private communications
 facilities.</p>
-   <p>* The Pentagon has installed a system that enables it
+      <p>* The Pentagon has installed a system that enables it
 to seize control of the nation's entire communications
 network -- the phone system, data transmissions, and
 satellite transmissions of all kinds -- in the event
@@ -133,7 +134,7 @@ emergency is restricted to times of natural disaster,
 war, or when national security is specifically
 threatened. Now the military has attempted to redefine
 emergency.</p>
-   <p>The point man in the Pentagon's onslaught on communications is
+      <p>The point man in the Pentagon's onslaught on communications is
 Assistant Defense Secretary Donald C. Latham, a former NSA deputy
 chief. Latham now heads up an interagency committee in charge of
 writing and implementing many of the policies that have put the
@@ -175,7 +176,7 @@ adversary like the Soviet Union.
 Mead Data Central -- which runs some of the nation's largest
 computer databases, such as Lexis and Nexis, and has nearly 200000
 users -- says it has already been approached by a team of agents from
-the Air Force and officials from the CIA and the FBI who asked for the
+the Air Force and officials from the <ent type='ORG'>CIA</ent> and the <ent type='ORG'>FBI</ent> who asked for the
 names of subscribers and inquired what Mead officials might do if
 information restrictions were imposed. In response to government
 pressure, Mead Data Central in effect censured itself. It purged all
@@ -269,7 +270,7 @@ unrelated reasons.)
 "I think it is quite clear that they have snuck in there some
 powers that are dangerous for us as a company and for the public at
 large," said MCI vice president Kenneth Cox before the Senate vote.
-Since President Reagan took office, the Pentagon has stepped up its
+Since President <ent type='PERSON'>Reagan</ent> took office, the Pentagon has stepped up its
 efforts to rewrite the definition of national emergency and give the
 military expanded powers in the United States. "The declaration of
 'emergency' has always been vague," says one former administration
@@ -277,7 +278,7 @@ official who left the government in 1982 after ten years in top policy
 posts. "Different presidents have invoked it differently. This
 administration would declare a convenient 'emergency.'" In other
 words, what is a nuisance to one administration might qualify as a
-burgeoning crisis to another. For example, the Reagan administration
+burgeoning crisis to another. For example, the <ent type='PERSON'>Reagan</ent> administration
 might decide that a series of protests on or near military bases
 constituted a national emergency.
 Should the Pentagon ever be given the green light, its base for
@@ -299,7 +300,7 @@ and government officials. The NCC is staffed around the clock by
 representatives of a dozen of the nation's largest commercial
 communications companies -- the so-called "common carriers" --
 including AT&amp;T, MCI, GTE, Comsat, and ITT. Also on hand are officials
-from the State Department, the CIA, the Federal Aviation
+from the State Department, the <ent type='ORG'>CIA</ent>, the Federal Aviation
 Administration, and a number of other federal agencies. During a 606
 emergency the Pentagon can order the companies that make up the
 National Coordinating Center to turn over their satellite, fiberoptic,
@@ -350,10 +351,10 @@ communications companies whose employees would later staff the
 National Coordinating Center. The meetings, which continued over the
 next three years, were held at the White House, the State Department,
 the Strategic Air Command (SAC) headquarters at Offutt Air Force Base
-in Nebraska, and at the North American Aerospace Defense Command
+in Nebraska, and at the <ent type='LOC'>North Command</ent>
 (NORAD) in Colorado Springs.
 The industry officials attending constituted the National Security
-Telecommunications Advisory Committee -- called NSTAC (pronounced N-stack) -- set up by President Reagan to address those same problems
+Telecommunications Advisory Committee -- called <ent type='ORG'>NSTAC</ent> (pronounced N-stack) -- set up by President <ent type='PERSON'>Reagan</ent> to address those same problems
 that worried the Pentagon. It was at these secret meetings, according
 to the minutes, that the idea of a communications watch center for
 national emergencies -- the NCC -- was born. Along with it came a
@@ -395,7 +396,7 @@ communications center.
 The center is a powerful and unprecedented tool to assume control
 over the nation's vast communications and information network. For
 years the Pentagon has been studying how to take over the common
-carriers' facilities. That research was prepared by NSTAC at the DoD's
+carriers' facilities. That research was prepared by <ent type='ORG'>NSTAC</ent> at the DoD's
 request and is contained in a series of internal Pentagon documents
 obtained by "Omni." Collectively this series is known as the Satellite
 Survivability Report. Completed in 1984, it is the only detailed
@@ -451,9 +452,10 @@ that it can happen all too easily. The official mechanisms are already
 in place; and few barriers remain to guarantee that what we hear, see,
 and read will come to us courtesy of our being members of a free and
 open society and not courtesy of the Pentagon.</p>
-   <p>
+      <p>
 =============================================================================
 =============================================================================</p>
-   <p>Black Crawling Systems @ V0iD Information Archives</p>
-   <p>( 6 1 7 ) 4 8 2 - 6 3 5 6</p>
-</div>
+      <p>Black Crawling Systems @ V0iD Information Archives</p>
+      <p>( 6 1 7 ) 4 8 2 - 6 3 5 6</p>
+   </div>
+</xml>

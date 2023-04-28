@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>Desktop genetic engineering.</p>
-   <p>By Kevin Kelly</p>
-   <p>I spent a day recently a biotechnology trade show, snooping around the
+<xml>
+   <div class="article">
+      <p>Desktop genetic engineering.</p>
+      <p>By Kevin Kelly</p>
+      <p>I spent a day recently a biotechnology trade show, snooping around the
 aisles of plumbing and lob gear to see how close we ore to having gene
 equipment that would work in a suburban garage. was looking for
 off-the-shelf components that could be assembled by a dedicated individual
@@ -35,7 +36,7 @@ limited in the amount of DNA it con handle at one time. But the task of
 deciphering chromosomes that are 5 million genes long would be o bummer
 without it. The two machines work as a pair. Both together would fit onto a
 kitchen countertop. These units by themselves are not enough to do
-biotechnology research. Sundry other hi-tech items, as well as low-tech ones
+biotechnology research. <ent type='LOC'>Sundry</ent> other hi-tech items, as well as low-tech ones
 like incubators, cold rooms and basic labware, are essential. But these two
 systems ore the heart of the hard work; they automate what was tedious and
 unpredictable toil just a few years ago. I'd guess that true basement
@@ -43,20 +44,21 @@ biotechnology is still at least a decade away, if only because of the price
 $50000 for each of these machines alone)aond the expertise Ph.0) needed to
 get them going. -Kevin Kelly Information from: Applied Biosystems, inc.,
 850 Lincoln Center Drive, Foster City, CA 94404.</p>
-   <p>X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X</p>
-   <p> Another file downloaded from: NIRVANAnet(tm)</p>
-   <p> &amp; the Temple of the Screaming Electron Jeff Hunter 510-935-5845
+      <p>X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X</p>
+      <p> Another file downloaded from: NIRVANAnet(tm)</p>
+      <p> &amp; the Temple of the Screaming Electron Jeff Hunter 510-935-5845
 Rat Head Ratsnatcher 510-524-3649
 Burn This Flag Zardoz 408-363-9766
 realitycheck Poindexter Fortran 415-567-7043
 Lies Unlimited Mick Freen 415-583-4102</p>
-   <p> Specializing in conversations, obscure information, high explosives,
+      <p> Specializing in conversations, obscure information, high explosives,
 arcane knowledge, political extremism, diversive sexuality,
 insane speculation, and wild rumours. ALL-TEXT BBS SYSTEMS.</p>
-   <p> Full access for first-time callers. We don't want to know who you are,
+      <p> Full access for first-time callers. We don't want to know who you are,
 where you live, or what your phone number is. We are not Big Brother.</p>
-   <p> "Raw Data for Raw Nerves"
+      <p> "Raw Data for Raw Nerves"
 
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 </p>
-</div>
+   </div>
+</xml>

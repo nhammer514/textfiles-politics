@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p> 102nd Congress
+<xml>
+   <div class="article">
+      <p> 102nd Congress
 2nd Session</p>
-   <p> Amendment No.
+      <p> Amendment No.
 Offered by M.</p>
-   <p>1. SEC. 1. FINDINGS AND PURPOSES
+      <p>1. SEC. 1. FINDINGS AND PURPOSES
 2. (a) The Congress finds:
 3. (1) that telecommunications systems and networks are often
 4 used in the furtherance of criminal activities including
@@ -26,7 +27,7 @@ Offered by M.</p>
 20 intercept communications, would impede the ability of such
 21 agencies effectively to carry out their responsibilities.
 22</p>
-   <p>1 The purpose of this Act are:
+      <p>1 The purpose of this Act are:
 2 (1) to clarify the duty of providers of electronic
 3 communication services and private branch exchange operators to
 4 provide such assistance as necessary to ensure the ability of
@@ -37,7 +38,7 @@ Offered by M.</p>
 9 communication services or private branch exchange operators, will
 10 accomodate the need of government agencies lawfully to intercept
 11 communications.</p>
-   <p>12 SEC. 2. Title II of the Communictions Act of 1934 is amended
+      <p>12 SEC. 2. Title II of the Communictions Act of 1934 is amended
 13 by adding at the end thereof the following new sections:
 14 "Sec__. GOVERNMENT REQUIREMENTS
 15 "(a) The Federal Communications Commission shall,
@@ -52,7 +53,7 @@ Offered by M.</p>
 24 private branch exchange operators as may be necessary
 25 to maintain the ability of the government to lawfully
 26 intercept communication</p>
-   <p>1 "(2) require that any telecommunications
+      <p>1 "(2) require that any telecommunications
 2 equipment or technology which impedes the ability of
 3 the government to lawfully intercept communications and
 4 and which has been introduced into a telecommunications
@@ -78,7 +79,7 @@ Offered by M.</p>
 24 such regulations.
 25 "(c) For the purposes of administering and enforcing
 26 the provisions of this section and the regulations</p>
-   <p>1 prescribed hereunder, the Commission shall have the same
+      <p>1 prescribed hereunder, the Commission shall have the same
 2 authority, power, and functions with respect to providers of
 3 electronic communication services or private branch exchange
 4 operators as the Commission has in administering and
@@ -105,7 +106,7 @@ Offered by M.</p>
 25 "(f) To the extent consistent with the setting or
 26 implementation of just and reasonable rates, charges and
 </p>
-   <p>1 classifications, the Commission shall authorize the
+      <p>1 classifications, the Commission shall authorize the
 2 compensation of any electronic communication service
 3 providers or other entities whose rates or charges are
 4 subject to its jurisdiction for the reasonable costs
@@ -130,7 +131,7 @@ l9 "(h) Notwithstanding section 552b of Title 5, United
 23 registrations issued or to be issued under the authority of
 24 this section shall be closed to the public.
 25 "(i) Definitions -- As used in this section --</p>
-   <p>1 "(l) 'provider of electronic communication
+      <p>1 "(l) 'provider of electronic communication
 2 service' or 'private branch exchange operator' means
 3 any service which profices to users thereof the ability
 4 to send or receive wire, oral or electronic
@@ -149,20 +150,20 @@ l5 set forth in section 2510 (4) of Title 18, United States
 17 "(5) 'government' means the Government of the
 18 United States and any agency or instrumentality
 19 thereof, any state or political subdivision thereof,
-20 and the District of Columbia, and Commonwealth of Puerto
+20 and the District of <ent type='GPE'>Columbia</ent>, and Commonwealth of Puerto
 21 Rico; and
 22 "(6) 'telecommunications equipment or technology'
 23 means any equipment or technology, used or to be used
 24 by any providers of electronic communication services
 25 or private branch exchange operators, which is for the</p>
-   <p>1 transmission or recept of wire, oral or electronic
+      <p>1 transmission or recept of wire, oral or electronic
 2 communications."</p>
-   <p>3 SEC 3. Section 510, Title V, P.L. 97-259 is amended deleting the
+      <p>3 SEC 3. Section 510, Title V, P.L. 97-259 is amended deleting the
 4 phrase "section 301 or 302a" and substituting the phrase "section
 5 301, 302a, or ____.</p>
-   <p> DIGITAL TELEPHONY AMENDMENT
+      <p> DIGITAL TELEPHONY AMENDMENT
 (report language)</p>
-   <p>Significant changes are being made in the systems by which
+      <p>Significant changes are being made in the systems by which
 communications services are provided. Digital technologies,
 fiber optics, and other telecommunications transmission
 technologies are coming into widespread use. These changes
@@ -170,7 +171,7 @@ in communications systems and technologies make it increasingly
 difficult for government agencies to implement lawful orders or
 authorizations to intercept communications in order to enfore
 the laws and protect the national security.</p>
-   <p>With the assistance of providers of electronic communication
+      <p>With the assistance of providers of electronic communication
 services, these technological advances need not impede
 the ability of government agencies to carry out their
 responsibilities. This bill would direct the Federal
@@ -189,8 +190,8 @@ it is transmitted. It is thus the intent and purpose of the
 bill only to maintain the government's current communications
 interception capability where properly ordered or authorized.
 No expansion of that authority is sought.</p>
-   <p> ANALYSIS</p>
-   <p>
+      <p> ANALYSIS</p>
+      <p>
 Subsection 2(a) and (b) would require the Federal Communications
 Commission (FCC) to issue any regulations deemed necessary to
 ensure that telecommunications equipment and technology used
@@ -202,29 +203,30 @@ currently used by such providers or operators that impede this
 ability until brought into compliance with the regulations.
 Compliance with FCC regulations issued under this section would
 be required within 180 days of their issuance.</p>
-   <p>Subsection 2(c) provides that the Commission's authority to
+      <p>Subsection 2(c) provides that the Commission's authority to
 implement and enforce the provisions of this section are the same
 as those it has with respect to common carriers subject to its
 jurisdiction.</p>
-   <p>Subsection 2(d) would give the Attorney General the authority to
+      <p>Subsection 2(d) would give the Attorney General the authority to
 request injunctive relief against non-complying service providers
 or private branch exchange operators.</p>
-   <p>Subsection 2(e) provides civil penalty authority for willful
+      <p>Subsection 2(e) provides civil penalty authority for willful
 violations of the regulations of up to $10000 per day for each
 violation.</p>
-   <p>Subsection 2(f) would permit the FCC to provide rate relief to
+      <p>Subsection 2(f) would permit the FCC to provide rate relief to
 service providers subject to its rate-setting jurisdiciton for
 the costs associated with modifying equipment or technologies to
 carry out the purposes of the bill.</p>
-   <p>Subsections 2(g), (h), and (i) require the Attorney General
+      <p>Subsections 2(g), (h), and (i) require the Attorney General
 to advise the Commission regarding the specific needs and
 performance criteria required to maintain government intercept
 capabilities, require the FCC to ensure that the standards and
 specifications it promulgates may be implemented on a royalty-free basis, and authorize the Attorney General to require that
 particular Commission rulemaking proceedings to implement the Act
 be closed to the public.</p>
-   <p>Subsection 2(j) provides definitions for key terms used in this
+      <p>Subsection 2(j) provides definitions for key terms used in this
 section.
 
 </p>
-</div>
+   </div>
+</xml>

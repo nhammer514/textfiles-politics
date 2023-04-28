@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>Ending the Abuse
+<xml>
+   <div class="article">
+      <p>Ending the Abuse
 
 While defense lawyers talk of reforming the law, agencies that initiate
 forfeiture scarcely talk at all. // DEA headquarters makes a spectacle
@@ -8,7 +9,7 @@ of busts like the seizure of fraternity houses at the University of
 Virginia in March. But it refuses to supply detailed information on the
 small cases that account for most of its activity. // Local prosecutors
 are just as tight-lipped. Thomas Corbett, U.S. Attorney for Western
-Pennsylvania, seals court documents on forfeitures because "there are
+<ent type='GPE'>Pennsylvania</ent>, seals court documents on forfeitures because "there are
 just some things I don't want to publicize. the person whose assets we
 seize will eventually know, and who else has to?''
 
@@ -40,7 +41,7 @@ Chester, near Philadelphia. // Thomas was visiting in his godson's home
 on Memorial Day, 1990, when local police entered looking for drugs
 allegedly sold by the godson. They found none and didn't file a criminal
 charge in the incident. But they seized $13000 from Thomas, who works
-as a $70000-a-year engineer, says his attorney, Clinton Johnson. // The
+as a $70000-a-year engineer, says his attorney, <ent type='PERSON'>Clinton</ent> Johnson. // The
 cash was left over from a Sheriff's sale he'd attended a few days
 before, court records show. the sale required cash -- much like the
 government's own auctions. // During a hearing over the seized money,
@@ -53,14 +54,14 @@ issued, the police turned over the cash to the DEA for processing as a
 federal case, forcing Thomas to fight another level of government.
 Thomas is now suing the Chester police, the arresting officer, and the
 DEA. // "When DEA took over that money, what they in effect told a
-local police department is that it's OK to break the law,'' says Clinton
+local police department is that it's OK to break the law,'' says <ent type='PERSON'>Clinton</ent>
 Johnson, attorney for Thomas.
 
 Police manipulate the courts not only to make it harder on owners to
 recover property, but to make it easier for police to get a hefty share
 of any forfeited goods. In federal court, local police are guaranteed up
 to 80 percent of the take -- a percentage that may be more than they'd
-receive under state law. // Pennsylvania's leading police agency -- the
+receive under state law. // <ent type='GPE'>Pennsylvania</ent>'s leading police agency -- the
 state police -- and the state's lead prosecutor -- the Attorney General
 bickered for two years over state police taking cases to federal
 court, an arrangement that cut the Attorney General out of the sharing.
@@ -70,7 +71,8 @@ outside Cleveland courtrooms ring with arguments over who will get what,
 says Jay Milano, a Cleveland criminal defense attorney.
 
 "It's causing a feeding frenzy."</p>
-   <p>--- Renegade v6-27 Beta
+      <p>--- Renegade v6-27 Beta
 </p>
-   <p>* Origin: Shark's Mouth 313-658-1110 750 MEGS Dual Amiga/IBM (23:313/108)</p>
-</div>
+      <p>* Origin: Shark's Mouth 313-658-1110 750 MEGS Dual Amiga/<ent type='ORG'>IBM</ent> (23:313/108)</p>
+   </div>
+</xml>

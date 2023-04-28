@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#
+<xml>
+   <div class="article">
+      <p>&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#
 %#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;
 #&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%
 &amp;%# &amp;%#
@@ -15,8 +16,8 @@
 &amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#
 %#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;
 </p>
-   <p>Tom Bearden</p>
-   <p>John Bedini has a prototype free energy motor.
+      <p>Tom Bearden</p>
+      <p>John Bedini has a prototype free energy motor.
 
 Imagine having a small D.C. electrical motor sitting on your laboratory bench
 powered by a common 12 volt battery. Imagine starting with a fully charged
@@ -34,10 +35,10 @@ the basic idea.
 Impossible, you say. Not at all. That's precisely what John Bedini has done,
 and the motor is running now in his workshop.
 
-It's running off the principles of electromagnetics that Nikola Tesla
+It's running off the principles of electromagnetics that Nikola <ent type='PERSON'>Tesla</ent>
 discovered shortly before 1900 in his Colorado Springs experiments. It's
 running off the fact that pure empty vacuum - pure "emptiness", so to speak, is
-filled with rivers and oceans of seething energy, just as Nikola Tesla pointed
+filled with rivers and oceans of seething energy, just as Nikola <ent type='PERSON'>Tesla</ent> pointed
 out.
 
 It's running off the fact that vacuum space-time itself is nothing but pure
@@ -81,7 +82,7 @@ other words, the "potential" we add is converted directly into "ordinary energy
 " by the imbedded ions in the system. And if we are clever we don't have to
 furnish any pushing energy to move pure potential around. (For proof that this
 is possible, see Bearden's Toward a New Electromagnetics; Part IV; Vectors and
-Mechanisms Clarified, Tesla Book Co., 1983, Slide 19, Page 43, and the accom-panying write-up, pages 10, and 11. Also see Y. Aharonov and V. Bohm, "Signifi-cance of Electromagnetic Potentials in the Quantum Theory", Physical Review,
+Mechanisms Clarified, <ent type='PERSON'>Tesla</ent> Book Co., 1983, Slide 19, Page 43, and the accom-panying write-up, pages 10, and 11. Also see Y. Aharonov and V. Bohm, "Signifi-cance of Electromagnetic Potentials in the Quantum Theory", Physical Review,
 Second Series, Vol. 115, No. 3, Aug. 1, 1959, pages 485-491. On page 490 you
 you will find that it's possible to have a field-free reigon of space, and
 still have the potential determine the physical properties of the system.)
@@ -136,7 +137,7 @@ John Bedini
 simple, is the one I will present here. The other is quite a bit more complex,
 and would be impossible for me to reproduce here... Anyway if you want to see
 the all electronic controller, get the book "Bedini's Free Energy Generator" by
-John C. Bedini, Published by the Tesla Book Co. 1580 Magnolia Ave., Millbrae,
+John C. Bedini, Published by the <ent type='PERSON'>Tesla</ent> Book Co. 1580 Magnolia Ave., Millbrae,
 CA 94030.]
 
 For some time man has been looking for different ways to generate electricity
@@ -374,7 +375,7 @@ to 12.45 volts within two hours.
 We wanted to find a correction factor for the Kromery Converter by comparing
 the same effect, i.e. the charging of the same battery from one specific
 voltage to another specific voltage. The calculation of this factor is avilable
-in the book "Experiments with a Kromery and a Brandt-Tesla converter built by
+in the book "Experiments with a Kromery and a Brandt-<ent type='PERSON'>Tesla</ent> converter built by
 John Bedini" By Eike Mueller, with Comments by Tom Bearden. Table K-1 shows the
 combined test results. Because we detected an increase in the speed of the
 Kromery Converter as well as a decrease in the input energy when we increased
@@ -465,6 +466,7 @@ cases when we used resistors in the output circuit.
 
 The above test results show that the efficiency of the Kromery Converter is
 well above 100%.</p>
-   <p>The end. Typed by (_&gt;Shadow Hawk 1&lt;_).
+      <p>The end. Typed by (_&gt;Shadow Hawk 1&lt;_).
 May be distributed anywhere as long as you keep the credits. I dont give a shit what you do with it either.</p>
-</div>
+   </div>
+</xml>

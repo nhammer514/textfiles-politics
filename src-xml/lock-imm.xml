@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>LOCKING OUT THE IMMIGRANT</p>
-   <p>By JACOB G. HORNBERGER</p>
-   <p>America of the 1800s was the most unique society in the
+<xml>
+   <div class="article">
+      <p>LOCKING OUT THE IMMIGRANT</p>
+      <p>By JACOB G. HORNBERGER</p>
+      <p>America of the 1800s was the most unique society in the
 history of man. People could engage in virtually any economic
 enterprise without permission of their public officials.
 People could become as wealthy as they wanted, and there was
@@ -11,20 +12,20 @@ of their money in any way they saw fit. And they could travel
 anywhere they desired without a passport or other evidence of
 governmental consent. This is what it once meant to be an
 American. This is what it once meant to be free.</p>
-   <p>But perhaps the most unique aspect of American society of the
+      <p>But perhaps the most unique aspect of American society of the
 1800s was that reflected by the Statue of Liberty: free
 immigration. For this was a society in which the citizenry
 prohibited their public officials from interfering with the
 right of people everywhere to come to the United States to
 live and work.</p>
-   <p>What was the result of this unusual society--a society without
+      <p>What was the result of this unusual society--a society without
 income taxation, welfare, social security, licensing,
 passports, subsidies, economic regulations, and immigration
 restrictions? The result was the most economically prosperous
 nation in the history of man! And this despite the fact that
 thousands of penniless immigrants, many of whom could not
 speak English, were flooding American shores every day.</p>
-   <p>But prosperity for the poor was not the real significance of
+      <p>But prosperity for the poor was not the real significance of
 our ancestors' policy of freedom of immigration. The true
 significance is a much more profound one. For the first time
 in history, oppressed and persecuted people everywhere had
@@ -35,62 +36,62 @@ through the darkness of oppression, persecution, and tyranny
 throughout the world--a beacon which lit the hearts of
 millions who knew that if they could just escape, there was a
 nation, albeit faraway, to which they could flee.</p>
-   <p>But no longer--and not for many decades. While the Statue of
+      <p>But no longer--and not for many decades. While the Statue of
 Liberty is a nice place for tourists to visit, it now stands
 as an sad reminder of the rejection and abandonment by 20th-century Americans of the principles of liberty on which our
 nation was founded. And while the welfare-state, planned-economy way of life most clearly evidences this rejection and
 abandonment, the consequences, while bad, have not been as
 evil and horrible as those resulting from the abandonment of
 the principles of free immigration.</p>
-   <p>We must never forget that citizens are responsible for
+      <p>We must never forget that citizens are responsible for
 wrongdoing by their own government--even when they consciously
 choose to ignore it. The best-known example in recent times of
 conscious disregard of wrongdoing by one's own government
 involved the German people in the 1930s--when Hitler embarked
-on his policy of extermination of the Jews. Most Americans
+on his policy of extermination of the <ent type='NORP'>Jews</ent>. Most Americans
 believe that under same or similar circumstances, the people
 of this nation would act differently. Unfortunately, they are
 wrong. Because what Americans have never been taught in their
 public schools is that the American government, as well as
-other Western governments (including Britain, Canada, and most
+other Western governments (including Britain, <ent type='GPE'>Canada</ent>, and most
 of Latin America), through their control of immigration,
-sealed all avenues of Jewish escape from the Holocaust.</p>
-   <p>The sordid facts and details are set forth in two books: While
+sealed all avenues of <ent type='NORP'>Jewish</ent> escape from the Holocaust.</p>
+      <p>The sordid facts and details are set forth in two books: While
 Six Million Died: A Chronicle of American Apathy by Arthur D.
 Morse, first published in 1967, and The Holocaust Conspiracy:
 An International Policy of Genocide by William R. Perl,
-published in 1989. Morse was executive producer of "CBS
+published in 1989. Morse was executive producer of "<ent type='ORG'>CBS</ent>
 Reports" and the winner of numerous broadcasting awards. Perl
 served as a Lt. Colonel in the U.S. Army Intelligence Service,
 worked in the Prosecution Branch of the War Crimes trials, and
 later taught at George Washington University.</p>
-   <p>An American cannot read these two books without total
+      <p>An American cannot read these two books without total
 revulsion at the reaction of his own government to Hitler's
-policies against the Jews. Both authors detail the methods by
+policies against the <ent type='NORP'>Jews</ent>. Both authors detail the methods by
 which American politicians and bureaucrats, while maintaining
 an appearance of great humanitarianism, used immigration
-policies to prevent Germany's Jews from escaping to the United
+policies to prevent Germany's <ent type='NORP'>Jews</ent> from escaping to the United
 States. Morse writes:</p>
-   <p> In 1938 the Nazis burned every synagogue in the nation,
-shattered the windows of every Jewish establishment,
+      <p> In 1938 the Nazis burned every synagogue in the nation,
+shattered the windows of every <ent type='NORP'>Jewish</ent> establishment,
 hauled twenty-five thousand innocent people to
-concentration camps, and fined the Jews 1000000000
+concentration camps, and fined the <ent type='NORP'>Jews</ent> 1000000000
 marks for the damage.</p>
-   <p> Five days later, at a White House press conference, a
+      <p> Five days later, at a White House press conference, a
 reporter asked the President, "Would you recommend a
 relaxation of our immigration restrictions so that the
-Jewish refugees could be received in this country?"</p>
-   <p> "This is not in contemplation," replied the President.
+<ent type='NORP'>Jewish</ent> refugees could be received in this country?"</p>
+      <p> "This is not in contemplation," replied the President.
 "We have the quota system."</p>
-   <p> The United States not only insisted upon its immigration
+      <p> The United States not only insisted upon its immigration
 law throughout the Nazi era, but administered it with
 severity and callousness. In spite of unprecedented
 circumstances, the law was constricted so that even its
 narrow quotas were not met. The lamp remained lifted
 beside the golden door, but the flame had been
 extinguished and the door was padlocked.</p>
-   <p>And Perl writes:</p>
-   <p> Anti-Semitism . . . was certainly a part of the anti-immigration mood of the country, but it was not the sole
+      <p>And Perl writes:</p>
+      <p> Anti-Semitism . . . was certainly a part of the anti-immigration mood of the country, but it was not the sole
 cause. This was 1938, the U.S. was still on the fringes
 of the 1929 depression, and fear that newcomers would
 take away jobs needed from those already in the country
@@ -98,7 +99,7 @@ was genuine. The fact that newcomers mean also increased
 consumption, that many of them, as they actually did,
 created new jobs rather than occupy existing ones was not
 considered. . . .</p>
-   <p> President Roosevelt was first of all a politician, and a
+      <p> President Roosevelt was first of all a politician, and a
 shrewd and ruthless one at that. He was not going to
 imperil his fragile coalition for moral or humanitarian
 reasons. He was not ready to put it to a test over an
@@ -109,35 +110,35 @@ for an unprecedented third term of the presidency, and
 any rocking of the boat was out of the question. . . .
 Yet, it was necessary to keep up the image of a great
 liberal and humanitarian.</p>
-   <p>One of the most dramatic and tragic examples of the U.S.
-government's immigration policy against the Jews was evidenced
+      <p>One of the most dramatic and tragic examples of the U.S.
+government's immigration policy against the <ent type='NORP'>Jews</ent> was evidenced
 by what has become known as "the voyage of the damned." Just
 before war broke out in Europe, a German cruise ship loaded
-with almost 1000 Jewish refugees left Germany and headed to
+with almost 1000 <ent type='NORP'>Jewish</ent> refugees left Germany and headed to
 Cuba--where friends and relatives of the passengers waited for
-their loved ones. When the ship arrived, the Cuban government
-refused to permit the Jews to disembark. When the ship began
+their loved ones. When the ship arrived, the <ent type='NORP'>Cuban</ent> government
+refused to permit the <ent type='NORP'>Jews</ent> to disembark. When the ship began
 moving close to American waters, the United States Coast Guard
-closely followed to make certain that no Jew jumped ship and
+closely followed to make certain that no <ent type='NORP'>Jew</ent> jumped ship and
 infiltrated America.</p>
-   <p>Since no other nations were willing to accept the refugees,
+      <p>Since no other nations were willing to accept the refugees,
 the ship headed back to Germany where certain death awaited
 its passengers. At the last minute, England and some of the
 European nations reluctantly agreed to accept the refugees.
 Unfortunately, many of those who went to Europe were later
 killed under the Nazi occupation.</p>
-   <p>It is easy for present-day Americans to say, "We would never
+      <p>It is easy for present-day Americans to say, "We would never
 let that happen again." Yet, we continue to permit our public
 officials to control immigration. And the results of this
 control point only in the direction of future catastrophe.</p>
-   <p>The U.S. government rightly criticizes the Soviet Union for
-not letting Jews emigrate . . . but then is horrified at the
-prospect of having to let Soviet Jews enter the United States.</p>
-   <p>The U.S. government rightly criticizes Vietnam for its
+      <p>The U.S. government rightly criticizes the Soviet Union for
+not letting <ent type='NORP'>Jews</ent> emigrate . . . but then is horrified at the
+prospect of having to let Soviet <ent type='NORP'>Jews</ent> enter the United States.</p>
+      <p>The U.S. government rightly criticizes Vietnam for its
 oppressive society . . . but then is horrified at the prospect
-of having to let Vietnamese "boat people" enter the United
+of having to let <ent type='NORP'>Vietnamese</ent> "boat people" enter the United
 States.</p>
-   <p>And on the southern border of the United States, good and
+      <p>And on the southern border of the United States, good and
 honorable people of the Republic of Mexico have been
 incarcerated, year after year, in American concentration
 centers for committing the heinous "crime" of trying to
@@ -146,7 +147,7 @@ have been inside these concentration centers and visited with
 these victims of 20th-century political tyranny, and I shall
 never forget the looks on their faces--looks which asked, "Why
 are you doing this to us?"</p>
-   <p>Free immigration is nothing to fear. As free-market economists
+      <p>Free immigration is nothing to fear. As free-market economists
 have shown for years (i.e., Julian L. Simon's 1989 book, The
 Economic Consequences of Immigration), immigration is actually
 an economic boon to a society. Of course, fears of huge
@@ -157,20 +158,21 @@ free immigration; instead, we should use freedom as a reason
 for ending both the welfare state and immigration controls--
 and for ending the real and potential evils and horrors
 associated with them.</p>
-   <p>As walls separating people are crumbling all over the world,
+      <p>As walls separating people are crumbling all over the world,
 it is time for us to tear down our walls. It is time for us to
 recapture the spirit of liberty which guided our American
 ancestors and lead the world to the highest reaches of freedom
 ever known by man. It is time for us to let the world know
 that its beacon of liberty is once again lighted for its poor,
 its tired, its huddled masses yearning to breathe free!</p>
-   <p>Mr. Hornberger is founder and president of The Future of
+      <p>Mr. Hornberger is founder and president of The Future of
 Freedom Foundation.</p>
-   <p>------------------------------------------------------------
+      <p>------------------------------------------------------------
 From the June 1991 issue of FREEDOM DAILY,
 Copyright (c) 1991, The Future of Freedom Foundation,
 PO Box 9752, Denver, Colorado 80209, 303-777-3588.
 Permission granted to reprint; please give appropriate credit
 and send one copy of reprinted material to the Foundation.
 </p>
-</div>
+   </div>
+</xml>

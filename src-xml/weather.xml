@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p> In the best-selling 1962 spy thriller SEVEN DAYS IN MAY, the
+<xml>
+   <div class="article">
+      <p> In the best-selling 1962 spy thriller SEVEN DAYS IN MAY, the
 Joint Chiefs of Staff plot to overthrow the U.S. president. Their
 conspiracy centers on a place called Mount Thunder, a secret
 subterranean command post where government leaders would go in the
@@ -24,7 +25,7 @@ W. Bailey II, were Washington journalists who learned a lot about
 the then-quite-secret post. Few readers of Knebel and Bailey's
 fiction could have imagined how close to the truth it was. The
 novel gives detailed highway directions from Washington:</p>
-   <p> ...the Chrysler wheeled onto Route 50,
+      <p> ...the Chrysler wheeled onto Route 50,
 heading away from Washington....
 In the jungle of neon lights and access
 roads at Seven Corners, Corwin saw Scott bear
@@ -52,7 +53,7 @@ of the several bases from which the President
 could run the nation in the event of a nuclear
 attack on Washington.
 </p>
-   <p>
+      <p>
 Knebel and Bailey disguised the directions slightly. You
 continue on Route 7 west of Leesburg, turning left on Route 601
 just west of Bluemont. It's Virginia Route 601 that runs right up
@@ -119,8 +120,8 @@ into the mountain.
 There is a whole chain of shelters for leaders and critical
 personnel. The Federal Relocation Arc, a system of ninety-six
 shelters for specific U.S. Government agencies, sweeps through
-North Carolina, Virginia, West Virginia, Maryland, and
-Pennsylvania. A duplicate of the Pentagon is located at a site
+<ent type='LOC'>North Carolina</ent>, Virginia, West Virginia, Maryland, and
+<ent type='GPE'>Pennsylvania</ent>. A duplicate of the Pentagon is located at a site
 called Raven Rock in Maryland. The administrative center of the
 whole system, and the place where the top civilians would go, is
 Mount Weather.
@@ -197,7 +198,7 @@ almost certainly knew long before the Western press did. The
 Soviets tried to buy an estate near Mount Weather as a "vacation
 retreat" for embassy employees. The State Department stopped the
 sale.</p>
-   <p>
+      <p>
 The Survivor List
 
 In 1975 General Bray told the Senate that the Mount Weather
@@ -232,4 +233,5 @@ ASSISTANCE AND UNRESTRICTED MOVEMENT BE AFFORDED THE PERSON TO
 WHOM THIS CARD IS ISSUED.
 
 </p>
-</div>
+   </div>
+</xml>

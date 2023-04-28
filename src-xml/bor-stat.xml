@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p> Feel free to copy this article far and wide, but please
+<xml>
+   <div class="article">
+      <p> Feel free to copy this article far and wide, but please
 keep my name and this sentence on it.</p>
-   <p> The Bill of Rights, a Status Report
+      <p> The Bill of Rights, a Status Report
 by Eric Postpischil</p>
-   <p> 4 September 1990</p>
-   <p> 6 Hamlett Drive, Apt. 17
+      <p> 4 September 1990</p>
+      <p> 6 Hamlett Drive, Apt. 17
 Nashua, NH 03062</p>
-   <p> edp@jareth.enet.dec.com</p>
-   <p> How many rights do you have? You should check, because it
+      <p> edp@jareth.enet.dec.com</p>
+      <p> How many rights do you have? You should check, because it
 might not be as many today as it was a few years ago, or
 even a few months ago. Some people I talk to are not
 concerned that police will execute a search warrant without
@@ -19,19 +20,19 @@ current events together, there is information that may be
 surprising to people who have not yet been concerned: The
 amount of the Bill of Rights that is under attack is
 alarming.</p>
-   <p> Let's take a look at the Bill of Rights and see which
+      <p> Let's take a look at the Bill of Rights and see which
 aspects are being pushed on or threatened. The point here
 is not the degree of each attack or its rightness or
 wrongness, but the sheer number of rights that are under
 attack.</p>
-   <p> Amendment I</p>
-   <p> Congress shall make no law respecting an
+      <p> Amendment I</p>
+      <p> Congress shall make no law respecting an
 establishment of religion, or prohibiting the
 free exercise thereof; or abridging the freedom
 of speech, or of the press; or the right of the
 people peaceably to assemble, and to petition the
 Government for a redress of grievances.</p>
-   <p> ESTABLISHING RELIGION: While campaigning for his first
+      <p> ESTABLISHING RELIGION: While campaigning for his first
 term, George Bush said "I don't know that atheists should
 be considered as citizens, nor should they be considered
 patriots." Bush has not retracted, commented on, or
@@ -42,7 +43,7 @@ you are not a citizen. Federal, state, and local
 governments also promote a particular religion (or,
 occasionally, religions) by spending public money on
 religious displays.</p>
-   <p> FREE EXERCISE OF RELIGION: Robert Newmeyer and Glenn
+      <p> FREE EXERCISE OF RELIGION: Robert Newmeyer and Glenn
 Braunstein were jailed in 1988 for refusing to stand in
 respect for a judge. Braunstein says the tradition of
 rising in court started decades ago when judges entered
@@ -51,7 +52,7 @@ Braunstein says there is no reason to stand -- and his
 Bible tells him to honor no other God. For this religious
 practice, Newmeyer and Braunstein were jailed and are now
 suing.</p>
-   <p> FREE SPEECH: We find that technology has given the
+      <p> FREE SPEECH: We find that technology has given the
 government an excuse to interfere with free speech.
 Claiming that radio frequencies are a limited resource, the
 government tells broadcasters what to say (such as news and
@@ -60,7 +61,7 @@ public and local service programming) and what not to say
 Commission [FCC]). The FCC is investigating Boston PBS
 station WGBH-TV for broadcasting photographs from the
 Mapplethorpe exhibit.</p>
-   <p> FREE SPEECH: There are also laws to limit political
+      <p> FREE SPEECH: There are also laws to limit political
 statements and contributions to political activities. In
 1985, the Michigan Chamber of Commerce wanted to take out
 an advertisement supporting a candidate in the state house
@@ -73,7 +74,7 @@ for the Sierra Club, the American Civil Liberties Union, or
 the Chamber of Commerce to advise the public how a
 candidate voted on issues of urgent concern to their
 members.</p>
-   <p> FREE PRESS: As in speech, technology has provided another
+      <p> FREE PRESS: As in speech, technology has provided another
 excuse for government intrusion in the press. If you
 distribute a magazine electronically and do not print
 copies, the government doesn't consider you a press and
@@ -96,9 +97,9 @@ cooperated with authorities fully. In return, the Secret
 Service (SS) confiscated Andrews' computer along with all
 the mail and data that were on it. Andrews was not charged
 with any crime.</p>
-   <p> FREE PRESS: In another incident that would be comical if
+      <p> FREE PRESS: In another incident that would be comical if
 it were not true, on March 1 the SS ransacked the offices
-of Steve Jackson Games (SJG); irreparably damaged property;
+of Steve Jackson Games (<ent type='ORG'>SJG</ent>); irreparably damaged property;
 and confiscated three computers, two laser printers,
 several hard disks, and many boxes of paper and floppy
 disks. The target of the SS operation was to seize all
@@ -106,13 +107,13 @@ copies of a game of fiction called GURPS Cyberpunk. The
 Cyberpunk game contains fictitious break-ins in a
 futuristic world, with no technical information of actual
 use with real computers, nor is it played on computers.
-The SS never filed any charges against SJG but still
+The SS never filed any charges against <ent type='ORG'>SJG</ent> but still
 refused to return confiscated property.</p>
-   <p> PEACEABLE ASSEMBLY: The right to assemble peaceably is no
+      <p> PEACEABLE ASSEMBLY: The right to assemble peaceably is no
 longer free -- you have to get a permit. Even that is not
 enough; some officials have to be sued before they realize
 their reasons for denying a permit are not Constitutional.</p>
-   <p> PEACEABLE ASSEMBLY: In Alexandria, Virginia, there is a
+      <p> PEACEABLE ASSEMBLY: In Alexandria, Virginia, there is a
 law that prohibits people from loitering for more than
 seven minutes and exchanging small objects. Punishment is
 two years in jail. Consider the scene in jail: "What'd
@@ -123,7 +124,7 @@ bus stops by police officers. Sherman Jones, also 15, was
 accosted with a police officer's hands around his neck
 after putting the last bit of pizza crust into his mouth.
 The police suspected him of hiding drugs.</p>
-   <p> PETITION FOR REDRESS OF GRIEVANCES: Rounding out the
+      <p> PETITION FOR REDRESS OF GRIEVANCES: Rounding out the
 attacks on the first amendment, there is a sword hanging
 over the right to petition for redress of grievances.
 House Resolution 4079, the National Drug and Crime
@@ -131,11 +132,11 @@ Emergency Act, tries to "modify" the right to habeas
 corpus. It sets time limits on the right of people in
 custody to petition for redress and also limits the courts
 in which such an appeal may be heard.</p>
-   <p> Amendment II</p>
-   <p> A well regulated Militia, being necessary to the
+      <p> Amendment II</p>
+      <p> A well regulated Militia, being necessary to the
 security of a free State, the right of the people
 to keep and bear Arms, shall not be infringed.</p>
-   <p> RIGHT TO BEAR ARMS: This amendment is so commonly
+      <p> RIGHT TO BEAR ARMS: This amendment is so commonly
 challenged that the movement has its own name: gun
 control. Legislation banning various types of weapons is
 supported with the claim that the weapons are not for
@@ -153,17 +154,17 @@ internal oppressors. It is an unfortunate fact of life
 that the guns that would be needed to defend the security
 of a state are guns to attack people, not guns for sporting
 purposes.</p>
-   <p> Firearms regulations also empower local officials, such as
+      <p> Firearms regulations also empower local officials, such as
 police chiefs, to grant or deny permits. This results in
 towns where only friends of people in the right places are
 granted permits, or towns where women are generally denied
 the right to carry a weapon for self-defense.</p>
-   <p> Amendment III</p>
-   <p> No Soldier shall, in time of peace be quartered
+      <p> Amendment III</p>
+      <p> No Soldier shall, in time of peace be quartered
 in any house, without the consent of the Owner,
 nor in time of war, but in a manner to be
 prescribed by law.</p>
-   <p> QUARTERING SOLDIERS: This amendment is fairly clean so
+      <p> QUARTERING SOLDIERS: This amendment is fairly clean so
 far, but it is not entirely safe. Recently, 200 troops in
 camouflage dress with M-16s and helicopters swept through
 Kings Ridge National Forest in Humboldt County, California.
@@ -172,15 +173,15 @@ days, soldiers assaulted people on private land with M-16s
 and barred them from their own property. This might not be
 a direct hit on the third amendment, but the disregard for
 private property is uncomfortably close.</p>
-   <p> Amendment IV</p>
-   <p> The right of the people to be secure in their
+      <p> Amendment IV</p>
+      <p> The right of the people to be secure in their
 persons, houses, papers and effects, against
 unreasonable searches and seizures, shall not be
 violated, and no Warrants shall issue, but upon
 probable cause, supported by Oath or affirmation,
 and particularly describing the place to be
 searched, and the persons or things to be seized.</p>
-   <p> RIGHT TO BE SECURE IN PERSONS, HOUSES, PAPERS AND EFFECTS
+      <p> RIGHT TO BE SECURE IN PERSONS, HOUSES, PAPERS AND EFFECTS
 AGAINST UNREASONABLE SEARCHES AND SEIZURES: The RICO law
 is making a mockery of the right to be secure from seizure.
 Entire stores of books or videotapes have been confiscated
@@ -216,7 +217,7 @@ NO WARRANTS SHALL ISSUE, BUT UPON PROBABLE CAUSE, SUPPORTED
 BY OATH OR AFFIRMATION: As a supporting oath or
 affirmation, reports of anonymous informants are accepted.
 This practice has been condoned by the Supreme Court.</p>
-   <p> PARTICULARLY DESCRIBING THE PLACE TO BE SEARCHED AND
+      <p> PARTICULARLY DESCRIBING THE PLACE TO BE SEARCHED AND
 PERSONS OR THINGS TO BE SEIZED: Today's warrants do not
 particularly describe the things to be seized -- they list
 things that might be present. For example, if police are
@@ -225,7 +226,7 @@ searched for and seized. This is done not because the
 police know of any weapons and can particularly describe
 them, but because they allege people with drugs often have
 weapons.</p>
-   <p> Both of the above apply to the warrant the Hudson, New
+      <p> Both of the above apply to the warrant the Hudson, New
 Hampshire, police used when they broke down Bruce Lavoie's
 door at 5 a.m. with guns drawn and shot and killed him.
 The warrant claimed information from an anonymous
@@ -234,7 +235,7 @@ to be seized. The mention of guns in the warrant was used
 as reason to enter with guns drawn. Bruce Lavoie had no
 guns. Bruce Lavoie was not secure from unreasonable search
 and seizure -- nor is anybody else.</p>
-   <p> Other infringements on the fourth amendment include
+      <p> Other infringements on the fourth amendment include
 roadblocks and the Boston Police detention of people based
 on colors they are wearing (supposedly indicating gang
 membership). And in Pittsburgh again, Eugene Tyler was
@@ -242,8 +243,8 @@ once searched because he was wearing sweat pants and a
 plaid shirt -- police told him they heard many drug dealers
 at that time were wearing sweat pants and plaid shirts.
 </p>
-   <p> Amendment V</p>
-   <p> No person shall be held to answer for a capital,
+      <p> Amendment V</p>
+      <p> No person shall be held to answer for a capital,
 or otherwise infamous crime, unless on a
 presentment or indictment of a Grand Jury, except
 in cases arising in the land or naval forces, or
@@ -256,7 +257,7 @@ himself, nor be deprived of life, liberty, or
 property, without due process of law; nor shall
 private property be taken for public use without
 just compensation.</p>
-   <p> INDICTMENT OF A GRAND JURY: Kevin Bjornson has been
+      <p> INDICTMENT OF A GRAND JURY: Kevin Bjornson has been
 proprietor of Hydro-Tech for nearly a decade and is a
 leading authority on hydroponic technology and cultivation.
 On October 26, 1989, both locations of Hydro-Tech were
@@ -277,12 +278,12 @@ bank accounts were still frozen and none of the inventories
 or records had been returned. Grand juries refused to
 indict Bjornson, but the government is still penalizing
 him.</p>
-   <p> TWICE PUT IN JEOPARDY OF LIFE OR LIMB: Members of the
+      <p> TWICE PUT IN JEOPARDY OF LIFE OR LIMB: Members of the
 McMartin family in California have been tried two or three
 times for child abuse. Anthony Barnaby was tried for
 murder (without evidence linking him to the crime) three
 times before New Hampshire let him go.</p>
-   <p> COMPELLED TO BE A WITNESS AGAINST HIMSELF: Oliver North
+      <p> COMPELLED TO BE A WITNESS AGAINST HIMSELF: Oliver <ent type='LOC'>North</ent>
 was forced to testify against himself. Congress granted
 him immunity from having anything he said to them being
 used as evidence against him, and then they required him to
@@ -290,14 +291,14 @@ talk. After he did so, what he said was used to find other
 evidence which was used against him. The courts also play
 games where you can be required to testify against yourself
 if you testify at all.</p>
-   <p> COMPELLED TO BE A WITNESS AGAINST HIMSELF: In the New York
+      <p> COMPELLED TO BE A WITNESS AGAINST HIMSELF: In the <ent type='GPE'>New York</ent>
 Central Park assault case, three people were found guilty
 of assault. But there was no physical evidence linking
 them to the crime; semen did not match any of the
 defendants. The only evidence the state had was
 confessions. To obtain these confessions, the police
 questioned a 15-year old without a parent present -- which
-is illegal under New York state law. Police also refused
+is illegal under <ent type='GPE'>New York</ent> state law. Police also refused
 to let the subject's Big Brother, an attorney for the
 Federal government, see him during questioning. Police
 screamed "You better tell us what we want to hear and
@@ -307,7 +308,7 @@ McCray "confessed" after his father told him to, so that
 police would release him. These people were coerced into
 bearing witness against themselves, and those confessions
 were used to convict them.</p>
-   <p> COMPELLED TO BE A WITNESS AGAINST HIMSELF: Your answers to
+      <p> COMPELLED TO BE A WITNESS AGAINST HIMSELF: Your answers to
 Census questions are required by law, with a $100 penalty
 for each question not answered. But people have been
 evicted for giving honest Census answers. According to the
@@ -315,7 +316,7 @@ General Accounting Office, one of the most frequent ways
 city governments use census information is to detect
 illegal two-family dwellings. This has happened in
 Montgomery County, Maryland; Pullman, Washington; and Long
-Island, New York. The August 8, 1989, Wall Street Journal
+Island, <ent type='GPE'>New York</ent>. The August 8, 1989, Wall Street Journal
 reports this and other ways Census answers have been used
 against the answerers.
 
@@ -348,8 +349,8 @@ The victims are required to prove not only that they are
 not guilty of a crime, but that they are entitled to their
 property. Otherwise, the government auctions off the
 property and keeps the proceeds.</p>
-   <p> Amendment VI</p>
-   <p> In all criminal prosecutions, the accused shall
+      <p> Amendment VI</p>
+      <p> In all criminal prosecutions, the accused shall
 enjoy the right to a speedy and public trial, by
 an impartial jury of the State and district
 wherein the crime shall have been committed,
@@ -390,7 +391,7 @@ against Mexican gynecologist Dr. Humberto Alvarez Machain
 on the grounds that the doctor was illegally abducted from
 his Guadalajara office in April and turned over to US
 authorities.</p>
-   <p> TO BE INFORMED OF THE NATURE AND CAUSE OF THE ACCUSATION:
+      <p> TO BE INFORMED OF THE NATURE AND CAUSE OF THE ACCUSATION:
 Steve Jackson Games, nearly put out of business by the raid
 described previously, has been stonewalled by the SS. "For
 the past month or so these guys have been insisting the
@@ -398,19 +399,19 @@ book wasn't the target of the raid, but they don't say what
 the target was, or why they were critical of the book, or
 why they won't give it back," Steve Jackson says. "They
 have repeatedly denied we're targets but don't explain why
-we've been made victims." Attorneys for SJG tried to find
+we've been made victims." Attorneys for <ent type='ORG'>SJG</ent> tried to find
 out the basis for the search warrant that led to the raid
-on SJG. But the application for that warrant was sealed by
+on <ent type='ORG'>SJG</ent>. But the application for that warrant was sealed by
 order of the court and remained sealed at last report, in
 July. Not only has the SS taken property and nearly
 destroyed a publisher, it will not even explain the nature
 and cause of the accusations that led to the raid.</p>
-   <p> TO BE CONFRONTED WITH THE WITNESSES AGAINST HIM: The courts
+      <p> TO BE CONFRONTED WITH THE WITNESSES AGAINST HIM: The courts
 are beginning to play fast and loose with the right to
 confront witnesses. Watch out for anonymous witnesses and
 videotaped testimony.</p>
-   <p> TO HAVE COMPULSORY PROCESS FOR OBTAINING WITNESSES: Ronald
-Reagan resisted submitting to subpoena and answering
+      <p> TO HAVE COMPULSORY PROCESS FOR OBTAINING WITNESSES: Ronald
+<ent type='PERSON'>Reagan</ent> resisted submitting to subpoena and answering
 questions about Irangate, claiming matters of national
 security and executive privilege. A judge had to dismiss
 some charges against Irangate participants because the
@@ -418,33 +419,33 @@ government refused to provide information subpoenaed by the
 defendants. And one wonders if the government would go
 to the same lengths to obtain witnesses for Manuel Noriega
 as it did to capture him.</p>
-   <p> TO HAVE THE ASSISTANCE OF COUNSEL: The right to assistance
+      <p> TO HAVE THE ASSISTANCE OF COUNSEL: The right to assistance
 of counsel took a hit recently. Connecticut Judge Joseph
 Sylvester is refusing to assign public defenders to people
 ACCUSED of drug-related crimes, including drunk driving.</p>
-   <p> TO HAVE THE ASSISTANCE OF COUNSEL: RICO is also affecting
+      <p> TO HAVE THE ASSISTANCE OF COUNSEL: RICO is also affecting
 the right to have the assistance of counsel. The
 government confiscates the money of an accused person,
 which leaves them unable to hire attorneys. The IRS has
 served summonses nationwide to defense attorneys, demanding
 the names of clients who paid cash for fees exceeding
 $10000.</p>
-   <p> Amendment VII</p>
-   <p> In Suits at common law, where the value in
+      <p> Amendment VII</p>
+      <p> In Suits at common law, where the value in
 controversy shall exceed twenty dollars, the
 right of trial by jury shall be preserved, and no
 fact tried by a jury, shall be otherwise
 reexamined in any Court of the United States,
 than according to the rules of common law.</p>
-   <p> RIGHT OF TRIAL BY JURY IN SUITS AT COMMON LAW: This is a
+      <p> RIGHT OF TRIAL BY JURY IN SUITS AT COMMON LAW: This is a
 simple right; so far the government has not felt threatened
 by it and has not made attacks on it that I am aware of.
 This is our only remaining safe haven in the Bill of Rights.</p>
-   <p> Amendment VIII</p>
-   <p> Excessive bail shall not be required, nor
+      <p> Amendment VIII</p>
+      <p> Excessive bail shall not be required, nor
 excessive fines imposed, nor cruel and unusual
 punishments inflicted.</p>
-   <p> EXCESSIVE BAIL AND FINES: Tallahatchie County in
+      <p> EXCESSIVE BAIL AND FINES: Tallahatchie County in
 Mississippi charges ten dollars a day to each person who
 spends time in the jail, regardless of the length of stay
 or the outcome of their trial. This means innocent people
@@ -453,14 +454,14 @@ days trying to raise $2500 bail on an assault charge. But
 after he made that bail, he was kept imprisoned because he
 could not pay the $900 rent Tallahatchie demanded. Nine
 former inmates are suing the county for this practice.</p>
-   <p> CRUEL AND UNUSUAL PUNISHMENTS: House Resolution 4079
+      <p> CRUEL AND UNUSUAL PUNISHMENTS: House Resolution 4079
 sticks its nose in here too: "... a Federal court shall
 not hold prison or jail crowding unconstitutional under the
 eighth amendment except to the extent that an individual
 plaintiff inmate proves that the crowding causes the
 infliction of cruel and unusual punishment of that
 inmate."</p>
-   <p> CRUEL AND UNUSUAL PUNISHMENTS: A life sentence for selling
+      <p> CRUEL AND UNUSUAL PUNISHMENTS: A life sentence for selling
 a quarter of a gram of cocaine for $20 -- that is what
 Ricky Isom was sentenced to in February in Cobb County,
 Georgia. It was Isom's second conviction in two years, and
@@ -470,21 +471,21 @@ Cauthorn expressed grave reservations before sentencing
 Isom and Douglas Rucks (convicted of selling 3.5 grams of
 cocaine in a separate but similar case). Judge Cauthorn
 called the sentences "Draconian."</p>
-   <p> Amendment IX</p>
-   <p> The enumeration in the Constitution, of certain
+      <p> Amendment IX</p>
+      <p> The enumeration in the Constitution, of certain
 rights, shall not be construed to deny or
 disparage others retained by the people.</p>
-   <p> OTHER RIGHTS RETAINED BY THE PEOPLE: This amendment is so
+      <p> OTHER RIGHTS RETAINED BY THE PEOPLE: This amendment is so
 weak today that I will ask not what infringements there are
 on it but rather what exercise of it exists at all? What
 law can you appeal to a court to find you not guilty of
 violating because the law denies a right retained by you?</p>
-   <p> Amendment X</p>
-   <p> The powers not delegated to the United States by
+      <p> Amendment X</p>
+      <p> The powers not delegated to the United States by
 the Constitution, nor prohibited by it to the
 States, are reserved to the States respectively,
 or to the people.</p>
-   <p> POWERS RESERVED TO THE STATES OR THE PEOPLE: This
+      <p> POWERS RESERVED TO THE STATES OR THE PEOPLE: This
 amendment is also weak, although it is not so nonexistent
 as the ninth amendment. But few states set their own speed
 limits or drinking age limits. Today, we mostly think of
@@ -496,7 +497,7 @@ uses financial incentives to get states to set specific
 penalties for certain crimes. Making their own laws
 certainly must be considered a right of the states, and
 this right is being infringed upon.</p>
-   <p> Out of ten amendments, nine are under attack, most of them
+      <p> Out of ten amendments, nine are under attack, most of them
 under multiple attacks of different natures, and some of
 them under a barrage. If this much of the Bill of Rights
 is threatened, how can you be sure your rights are safe? A
@@ -504,7 +505,7 @@ right has to be there when you need it. Like insurance,
 you cannot afford to wait until you need it and then set
 about procuring it or ensuring it is available. Assurance
 must be made in advance.</p>
-   <p> The bottom line here is that your rights are not safe. You
+      <p> The bottom line here is that your rights are not safe. You
 do not know when one of your rights will be violated. A
 number of rights protect accused persons, and you may think
 it is not important to protect the rights of criminals.
@@ -516,4 +517,5 @@ they are justly entitled. To preserve our rights for
 ourselves in the future, we must defend them for everybody
 today.
 </p>
-</div>
+   </div>
+</xml>
