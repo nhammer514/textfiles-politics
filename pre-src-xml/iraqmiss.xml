@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>
+<xml>
+   <div class="article">
+      <p>
 FILE FROM FYEO 241
 COPYRIGHT (c) 1990 TIGER PUBLICATIONS
 POST OFFICE BOX 8759 AMARILLO TX 79114
 SUBSCRIPTIONS $55 (US, Canada, APO, FPO)
 PER YEAR UNTIL 1 Oct 90 $60 Thereafter
 OVERSEAS ASK MILITARY-RT FOR RATES</p>
-   <p>IRAQ'S MISSILES
+      <p>IRAQ'S MISSILES
 Iraq has bought or developed an impressive array of tactical
 and medium-range ballistic missiles. These include:
 * Al-Abid: Tested in Dec 1989 as a satellite launcher. Would
@@ -71,4 +72,5 @@ More : Yes/No ?
 * Ababil: A family of artillery rockets based on the Yugoslav
 M87 design. There are 50km and 100km versions.
 END OF FILE</p>
-</div>
+   </div>
+</xml>

@@ -17,12 +17,13 @@
     <xsl:mode on-no-match="shallow-copy"/>
     
     <xsl:template match="/">
-          <xml>
+        
 
            <xsl:for-each select="$conspiracy">   
                <xsl:variable name="filename" as="xs:string" select="current() ! base-uri() ! tokenize(., '/')[last()]"/>
                <xsl:result-document method="xml" indent="yes" href="../pre-src-xml/{$filename}"> 
-                <!-- ebb: NEED TO LOOK UP HOW TO SET UP INDIVIDUAL RESULT DOCUMENTS output to folder  -->
+                   <xml>
+                <!-- 2023-04-28 ebb: Corrected xml root element to sit inside the individual documents. -->
                <xsl:choose>
                   <xsl:when test="count(descendant::p) gt 1">
                       <div class="article"><xsl:apply-templates select=".//p" mode="multiparagraph"/></div>
@@ -31,11 +32,9 @@
                       <xsl:apply-templates select=".//p"/>
                   </xsl:otherwise>
               </xsl:choose>
+                   </xml>
                </xsl:result-document>
            </xsl:for-each>
-        </xml>      
-  
- 
     </xsl:template>
     
     <xsl:template match="p" mode="multiparagraph">

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>
+<xml>
+   <div class="article">
+      <p>
 Article: 571 of sgi.talk.ratical
 From: dave@ratmandu.esd.sgi.com (dave "who can do? ratmandu!" ratcliffe)
 Subject: How the CIA turned 'being directed by the NSC' into 'getting approval'
@@ -8,7 +9,7 @@ Keywords: the compartmentalized "need to know" security lid locks up the govn't
 Organization: Silicon Graphics, Inc.
 Date: Fri, 10 Apr 1992 18:01:36 GMT
 Lines: 573</p>
-   <p> . . . Control of a good share of what the Pentagon is doing is
+      <p> . . . Control of a good share of what the Pentagon is doing is
 more important to the CIA than control over the government of
 Jordan or Syria. . . .
 When the CIA wants to do something for which it does not have
@@ -26,12 +27,12 @@ approval from a lesser echelon of the NSC intrastructure, and then,
 by clamping on a security id, it makes others believe that the CIA
 had orders from the NSC or perhaps even from the President, when in
 fact it did not.</p>
-   <p> the following appeared in the 7/75 issue of "Genesis:"
+      <p> the following appeared in the 7/75 issue of "Genesis:"
 _____________________________________________________________________
 How the CIA Controls President Ford
 by L. Fletcher Prouty
 reprinted here with permission of the author</p>
-   <p> In this monstrous U.S. government today, it's not so much what
+      <p> In this monstrous U.S. government today, it's not so much what
 comes down from the top that matters as what you can get away with
 from the bottom or from the middle--the least scrutinized level.
 (Contrary to the current CIA propaganda as preached by William
@@ -83,11 +84,11 @@ mentioned that the most important agent in the CIA was an almost
 unknown individual who spent most of his time in the Pentagon. At
 that time I did not reveal his name; but a small item in a recent
 obituary column stated that:</p>
-   <p> "Frank Hand, 61, a former senior official of the CIA, died in
+      <p> "Frank Hand, 61, a former senior official of the CIA, died in
 Marshall, Minn. . . . (he was) a graduate of Harvard Law
 School. He had served with the CIA from 1950 until
 retirement in 1971."</p>
-   <p> After a life devoted to quiet, effective, skillful performance
+      <p> After a life devoted to quiet, effective, skillful performance
 of one of the most important jobs in the worldwide structure of
 that unparalleled agency, all that the CIA would publicly say of
 Frank Hand was that he was a "senior official."
@@ -396,7 +397,7 @@ In the story of Frank Hand we come much closer to seeing exactly
 how the CIA operates to control this government and other foreign
 governments. It is still operating that way. Today it is
 President Ford who is the unwitting accessory.</p>
-   <p> the following is taken from an article Fletcher Prouty wrote
+      <p> the following is taken from an article Fletcher Prouty wrote
 for the February 1986 issue of "Freedom" magazine, entitled,
 "Why Vietnam? The Selection and Preparation of the
 Battlefield For America's Entry into the Indochina War," Part
@@ -404,7 +405,7 @@ Battlefield For America's Entry into the Indochina War," Part
 it to amplify on the curious visit Colonel Prouty received in
 1959 from the vice president of the First National Bank of
 Boston and how it demonstrates that</p>
-   <p> There was only one way that vice president of the First
+      <p> There was only one way that vice president of the First
 National Bank of Boston could have come directly to my
 office in the Pentagon. The CIA had sent him there.
 This is one of the most important "truly confidential"
@@ -416,8 +417,8 @@ Translated into everyday terms, Casey's CIA, as was Allen
 Dulles' CIA, is one of the true bastions of power as a
 servant of the American and transnational business and
 financial community.</p>
-   <p> --ratitor</p>
-   <p> ______________________________________________________________________
+      <p> --ratitor</p>
+      <p> ______________________________________________________________________
 | Helicopters in Vietnam
 | Toward the end of World War II, a small number of
 helicopters made their appearance in military operations.
@@ -531,11 +532,12 @@ Dulles' CIA, is one of the true bastions of power as a
 servant of the American and transnational business and
 financial community.
 |____________________________________________________________________|</p>
-   <p>--
+      <p>--
 daveus rattus </p>
-   <p> yer friendly neighborhood ratman</p>
-   <p> KOYAANISQATSI</p>
-   <p> ko.yan.nis.qatsi (from the Hopi Language) n. 1. crazy life. 2. life
+      <p> yer friendly neighborhood ratman</p>
+      <p> KOYAANISQATSI</p>
+      <p> ko.yan.nis.qatsi (from the Hopi Language) n. 1. crazy life. 2. life
 in turmoil. 3. life out of balance. 4. life disintegrating. 5. a state of life that calls for another way of living.
 </p>
-</div>
+   </div>
+</xml>

@@ -13,7 +13,7 @@ and there's no further argument. So, let me introduce you to him,
 and his greatest hack. I'll warn you right up front that it's
 mind numbing. By the way, everything I'm going to tell you is
 true and verifiable down at your local library. Don't worry --
-we're not heading off into a Shirley MacLaine UFO-land story.
+we're not heading off into a Shirley MacLaine <ent type='EVENT'>UFO</ent>-land story.
 Just some classy electrical engineering...</p>
    <p> THE SCENE: COLORADO SPRINGS, CO.</p>
    <p> Colorado Springs is in southern Colorado, about 70 mile
@@ -39,49 +39,49 @@ greatest, and most spectacular, of all time. One side effect of
 his experiment was the setting of the record for man-made
 lightning: some 42 meters in length (130 feet).</p>
    <p> THE MAN: NIKOLA TESLA.</p>
-   <p>His name was Nikola Tesla. He was an immigrant from what is now
+   <p>His name was Nikola <ent type='PERSON'>Tesla</ent>. He was an immigrant from what is now
 Yugoslavia; there's a museum of his works in Belgrade. He's a
 virtual unknown in the United States, despite his
 accomplishments. I'm not sure why. Some people feel it's a dark
 plot, the same people who are into conspiracy theories. I feel
-it's more that Tesla, while a brilliant inventor, was also an
+it's more that <ent type='PERSON'>Tesla</ent>, while a brilliant inventor, was also an
 awful businessman; he ended up going broke. Businessmen who go
 broke fade out of the public eye; we see this in the computer
 industry all the time. Edison, who wasn't near the inventor
-Tesla was, but who was a better businessman, is well remembered
-as is his General Electric. Still, let me list a few of Tesla's
+<ent type='PERSON'>Tesla</ent> was, but who was a better businessman, is well remembered
+as is his General Electric. Still, let me list a few of <ent type='PERSON'>Tesla</ent>'s
 works just so you'll understand how bright he was. He invented
 the AC motor and transformer. (Think of every motor in your
 house.) He invented 3-phase electricity and popularized
 alternating current, the electrical distribution system used all
-over the world. He invented the Tesla Coil, which makes the high
+over the world. He invented the <ent type='PERSON'>Tesla</ent> Coil, which makes the high
 voltage that drives the picture tube in your computer's CRT. He
 is now credited with inventing modern radio as well; the Supreme
-Court overturned Marconi's patent in 1943 in favor of Tesla.</p>
-   <p> Tesla, in short, invented much of the equipment that gets
+Court overturned <ent type='PERSON'>Marconi</ent>'s patent in 1943 in favor of <ent type='PERSON'>Tesla</ent>.</p>
+   <p> <ent type='PERSON'>Tesla</ent>, in short, invented much of the equipment that gets
 power to your home every day from miles away, and many that use
 that power inside your home. His inventions made George
 Westinghouse (Westinghouse Corp.) a wealthy man. Finally, the
 unit of magnetic flux in the metric system is the "tesla". Other
 units include the "faraday" and the "henry", so you'll understand
 this is an honor given to few. So we're not talking about an
-unknown here, but rather a solid electrical engineer. Tesla
+unknown here, but rather a solid electrical engineer. <ent type='PERSON'>Tesla</ent>
 whipped through a number of inventions early in his life. He
 found himself increasingly interested in resonance, and in
-particular, electrical resonance. Tesla found out something
+particular, electrical resonance. <ent type='PERSON'>Tesla</ent> found out something
 fascinating. If you set an electrical circuit to resonating, it
-does strange things indeed. Take for instance his Tesla Coil.
+does strange things indeed. Take for instance his <ent type='PERSON'>Tesla</ent> Coil.
 This high frequency step-up transformer would kick out a few
 hundred thousand volts at radio frequencies. The voltage would
 come off the top of his coil as a "corona", or brush discharge.
 The little ones put out a six-inch spark; the big ones throw
-sparks many feet long. Yet Tesla could draw the sparks to his
+sparks many feet long. Yet <ent type='PERSON'>Tesla</ent> could draw the sparks to his
 fingers without being hurt -- the high frequency of the
 electricity keeps it on the surface of the skin, and prevents the
-current from doing any harm. Tesla got to thinking about
+current from doing any harm. <ent type='PERSON'>Tesla</ent> got to thinking about
 resonance on a large scale. He'd already pioneered the
 electrical distribution system we use today, and that's not small
-thinking; when you think of Tesla, think big. He thought, let's
+thinking; when you think of <ent type='PERSON'>Tesla</ent>, think big. He thought, let's
 say I send an electrical charge into the ground. What happens to
 it? Well, the ground is an excellent conductor of electricity.
 Let me spend a moment on this so you understand, because topsoil
@@ -92,7 +92,7 @@ house is wired straight to, literally, the ground. Typically,
 the handle of your power tool is hooked to ground; this way, if
 something shorts out in the tool and the handle gets electrified,
 the current ruches to the ground instead of into you. The ground
-has long been used in this manner, as a conductor. Tesla
+has long been used in this manner, as a conductor. <ent type='PERSON'>Tesla</ent>
 generates a powerful pulse of electricity, and drains it into the
 ground. Because the ground is conductive, it doesn't stop.
 Rather, it spreads out like a radio wave, traveling at the speed
@@ -112,7 +112,7 @@ of cake. We can sense earthquakes all the way across the planet
 by the vibrations they set up that travel all that distance. So,
 while at first thought it seems amazing, it's really pretty
 straight forward. But, as I said, it's a typical example of how
-Tesla thought. And then he had one of his typically Tesla ideas.
+<ent type='PERSON'>Tesla</ent> thought. And then he had one of his typically <ent type='PERSON'>Tesla</ent> ideas.
 He thought, when the wave returns to me (about 1/30th of a second
 after he sends it in), it's going to be considerably weakened by
 the trip. Why doesn't he send in another charge at this point,
@@ -124,16 +124,16 @@ build up a lot of power with a series of small pushes; ever tried
 to stop a swing when it's going full tilt? He wanted to find out
 the upper limit of resonance. And he was in for a surprise.</p>
    <p> THE HACK: THE TESLA COIL</p>
-   <p>So Tesla moved into Colorado Springs, where one of his generators
+   <p>So <ent type='PERSON'>Tesla</ent> moved into Colorado Springs, where one of his generators
 and electrical systems had been installed, and set up his lab.
 Why Colorado Springs? Well, his lab in New York had burned down,
 and he was depressed about that. And as fate would have it, a
 friend in Colorado Springs who directed the power company,
 Leonard Curtis, offered him free electricity. Who could resist
-that? After setting up his lab, he tuned his gigantic Tesla coil
+that? After setting up his lab, he tuned his gigantic <ent type='PERSON'>Tesla</ent> coil
 through that year, trying to get it to resonate perfectly with
 the earth below. And the townspeople noticed those weird
-effects; Tesla was electrifying the ground beneath their feet on
+effects; <ent type='PERSON'>Tesla</ent> was electrifying the ground beneath their feet on
 the return bounce of the wave. Eventually, he got it tuned,
 keeping things at low power. But in the spirit of a true hacker,
 just once he decided to run it wide open, just to see what would
@@ -141,23 +141,23 @@ happen. Just what was the upper limit of the wave he would build
 up, bouncing back and forth in the planet below? He had his Coil
 hooked to the ground below it, the 200 foot antenna above it, and
 getting as much electricity as he wanted right off the city power
-supply mains. Tesla went outside to watch (wearing three inch
+supply mains. <ent type='PERSON'>Tesla</ent> went outside to watch (wearing three inch
 rubber soles for insulation) and had his assistant, Kolman Czito,
 turn the Coil on. There was a buzz from rows of oil capacitors,
 and a roar from the spark gap as wrist-thick arcs jumped across
-it. Inside the lab the noise was deafening. But Tesla was
+it. Inside the lab the noise was deafening. But <ent type='PERSON'>Tesla</ent> was
 outside, watching the antenna. Any surge that returned to the
 area would run up the antenna and jump off as lightning. Off the
 top of the antenna shot a six foot lightning bolt. The bolt kept
 going in a steady arc, though, unlike a single lightning flash.
-And here Tesla watched carefully, for he wanted to see if the
+And here <ent type='PERSON'>Tesla</ent> watched carefully, for he wanted to see if the
 power would build up, if his wave theory would work. Soon the
 lightning was twenty feet long, then fifty. The surges were
 growing more powerful. Eighty feet -- now thunder was following
 each lightning bolt. A hundred feet, a hundred twenty feet; the
 lightning shot upwards off the antenna. Thunder was heard
-booming around Tesla now (it was heard 22 miles away, in the town
-of Cripple Creek). The meadow Tesla was standing in was lit up
+booming around <ent type='PERSON'>Tesla</ent> now (it was heard 22 miles away, in the town
+of Cripple Creek). The meadow <ent type='PERSON'>Tesla</ent> was standing in was lit up
 with an electrical discharge very much like St. Elmo's Fire,
 casting a blue glow. His theory had worked! There didn't seem
 to be an upper limit to the surges; he was creating the most
@@ -166,10 +166,10 @@ set the record, which he still holds, for manmade lightning. Then
 everything halted. The lightning discharges stopped, the thunder
 quit. He ran in, found the power company had turned off his
 power feed. He called them, shouted at them -- they were
-interrupting his experiment! The foreman replied that Tesla had
+interrupting his experiment! The foreman replied that <ent type='PERSON'>Tesla</ent> had
 just overloaded the generator and set it on fire, his lads were
 busy putting out the fire in the windings, and it would be a cold
-day in hell before Tesla got any more free power from the
+day in hell before <ent type='PERSON'>Tesla</ent> got any more free power from the
 Colorado Springs power company!</p>
    <p> All the lights in Colorado Springs had gone out. And that,
 readers, is to me the greatest hack in history. I've seen some
@@ -186,7 +186,7 @@ a nice story, and I'm sure George Lucas could make a hell of a
 move about it, special effects and all. But it's not relevant
 today. Or isn't it? Hang on to your hat.</p>
    <p> THE SDI AND THE TESLA COIL</p>
-   <p> Last month we talked about an amazing hack that Nikola Tesla
+   <p> Last month we talked about an amazing hack that Nikola <ent type='PERSON'>Tesla</ent>
 did -- bouncing an electrical wave through the planet, in 1899,
 and setting the world's record for manmade lightning. This
 month,let me lay a little political groundwork. Last October I
@@ -205,28 +205,28 @@ how many gifted hackers adopting the attitude of "let's not even
 try". That's not how micros got started. I mentioned to one
 Time magazine journalist that if anyone could make SDI go, it was
 the hackers gathered there. I also believe that the greatest
-hacker of them all, Nikola Tesla, solved and SDI technical
+hacker of them all, Nikola <ent type='PERSON'>Tesla</ent>, solved and SDI technical
 problem back in 1899. The event was so long ago, and so amazing,
 that it's pretty much been forgotten; I described it last issue.
-Let me present my case for the Tesla Coil and SDI.</p>
+Let me present my case for the <ent type='PERSON'>Tesla</ent> Coil and SDI.</p>
    <p> SOVIET USE OF THE TESLA COIL</p>
-   <p> You will recall I said that Tesla was born in Yugoslavia
+   <p> You will recall I said that <ent type='PERSON'>Tesla</ent> was born in Yugoslavia
 (although back then, it was "Serbo-Croatia"). He is not unknown
 there; he is regarded as a national hero. Witness the Nikola
-Tesla museum in Belgrade, for instance. There's been
+<ent type='PERSON'>Tesla</ent> museum in Belgrade, for instance. There's been
 interferences picked up, on this side of the planet, which is
 causing problems in the ham radio bands. Direction finding
 equipment has traced the interference in the SW band to two
 sources in the Soviet Union, which are apparently two high
-powered Tesla Coils. Why on earth are the Soviets playing with
-Tesla Coils? There's one odd theory that they're subjecting
-Canada to low level electrical interference to cause attitude
+powered <ent type='PERSON'>Tesla</ent> Coils. Why on earth are the Soviets playing with
+<ent type='PERSON'>Tesla</ent> Coils? There's one odd theory that they're subjecting
+<ent type='GPE'>Canada</ent> to low level electrical interference to cause attitude
 change. Sigh. Moving right along, there's another theory, more
 credible, that they are conducting research in "over the horizon"
-radar using Tesla's ideas. (The Soviets are certainly not saying
+radar using <ent type='PERSON'>Tesla</ent>'s ideas. (The Soviets are certainly not saying
 what they're doing.) When I read about this testing, it worried
 me. I don't think they're playing with attitude control or
-radar. I think they're doing exactly what Tesla did in Colorado
+radar. I think they're doing exactly what <ent type='PERSON'>Tesla</ent> did in Colorado
 Springs.</p>
    <p> COMPUTERS AND GROUNDING</p>
    <p> Time for another discussion of grounding. Consider your
@@ -241,7 +241,7 @@ of static in the multiple thousand volt range, the insulation is
 punctured, and the chip ruined. Countless computers have been
 damaged this way. Read any manual on inserting memory chips to a
 PC, and you'll see warnings about static; it's a big problem.
-Now Tesla was working in the millions of volts range. And his
+Now <ent type='PERSON'>Tesla</ent> was working in the millions of volts range. And his
 special idea -- that the ground itself could be the conductor --
 now comes into relevance, nearly a hundred years after his
 dramatic demonstration in Colorado Springs. For, you see, in our
@@ -251,28 +251,28 @@ sinkhole. So, with our three-pin plugs we ground everything --
 the two flat pins in your wall go to electricity (hot and
 neutral); the third, round pin, goes straight to ground. That
 third pin is usually hooked with a thick wire to a cold water
-pipe, which grounds it effectively. Tesla proved that you can
+pipe, which grounds it effectively. <ent type='PERSON'>Tesla</ent> proved that you can
 give that ground a terrific charge, millions of volts of high
-frequency electricity. (Tesla ran his large coil at 33 Khz).
+frequency electricity. (<ent type='PERSON'>Tesla</ent> ran his large coil at 33 Khz).
 Remember, the lightning surging off his Coil was coming from the
 wave bouncing back and forth in the planet below. In short, he
 was modifying the ground's electrical potential, changing it from
-an electrical sinkhole to an electrical source. Tesla did his
+an electrical sinkhole to an electrical source. <ent type='PERSON'>Tesla</ent> did his
 experiment in 1899. There weren't any home computers with
 delicate chips hooked up to grounds then. If there had been,
 he'd have fried everything in Colorado Springs. There was,
 however, one piece of electrical equipment grounded at the time
 of the experiment, the city power generator. It caught fire and
-ended Tesla's experiment. The cause of its failure is
+ended <ent type='PERSON'>Tesla</ent>'s experiment. The cause of its failure is
 interesting as well. It died from "high frequency kickback",
-something most electrical engineers know about. Tesla forgot
+something most electrical engineers know about. <ent type='PERSON'>Tesla</ent> forgot
 that as the generator fed him power, he was feeding it high
 frequency from his Coil. High frequency quickly heats
 insulation; a microwave oven works on the same principle. In a
 few minutes, the insulation inside that generator grew so hot
 that the generator caught fire. When the lights went out all over
-Colorado Springs, there was the first proof that Tesla's idea has
-strategic possibilities. It gets scarier. Imagine Tesla's Coil,
+Colorado Springs, there was the first proof that <ent type='PERSON'>Tesla</ent>'s idea has
+strategic possibilities. It gets scarier. Imagine <ent type='PERSON'>Tesla</ent>'s Coil,
 busily pumping an electrical wave in the Earth. On his side of
 the planet, he was getting 130 foot sparks, which is a hell of a
 lot of voltage and current. And simple wave theory will show you
@@ -291,16 +291,16 @@ connected across it. Lightning strikes cause a temporary flare
 in ground voltage; I remember replacing driver chips on a network
 on all computers that had been caught by one lightning strike,
 when I lived in Austin. Imagine the effect on relatively delicate
-electronics if someone fires up a Tesla Coil on the far side of
+electronics if someone fires up a <ent type='PERSON'>Tesla</ent> Coil on the far side of
 the planet, and subjects the grounds to steep electrical swings.
 The military applications are pretty obvious -- those ICBM's in
-North Dakota, for instance. It's possible they could be damaged
+<ent type='PERSON'>North</ent> Dakota, for instance. It's possible they could be damaged
 in their silos, and from thousands of miles away. Running two or
 more Coils, you don't have to bee exactly on the far side of the
 planet, either. Interference effects can give you high points
 where you need with varied tunings. Maybe, just maybe, the
 Soviets aren't doing "over the horizon" radar. Maybe they just
-bothered to read Tesla's notes. And maybe they are tuning up a
+bothered to read <ent type='PERSON'>Tesla</ent>'s notes. And maybe they are tuning up a
 real big surprise with their twin Coils.</p>
    <p> "STAR WARS" AND THE TESLA COIL</p>
    <p> You've heard of the Strategic Defense Initiative, or "Star
@@ -312,7 +312,7 @@ that have written computer programs, it's darned hard to get
 something "new" to work. Maybe it's an error to focus on "new"
 exclusively. Wouldn't it be something if the solution to SDI
 lies a hundred years ago, in the forgotten brilliance of Nikola
-Tesla? For right now we can immobilize the electronics of
+<ent type='PERSON'>Tesla</ent>? For right now we can immobilize the electronics of
 installations half a planet away. The technology to do it was
 achieved in 1899, and promptly forgotten. Remember, we're not
 talking vague, unproven theories here. We're talking the world's
@@ -321,14 +321,14 @@ up your house at night.</p>
    <p> THE TESLA COIL WORKS.
 
 All we'd have to do is build it. You might not believe the
-story about Tesla in Colorado Springs, and what he did. It's
+story about <ent type='PERSON'>Tesla</ent> in Colorado Springs, and what he did. It's
 pretty amazing. It has a way of being forgotten because of that.
 And I'm not sure you want to hear about the SDI connection.
-Still, as you work on a computer, remember Tesla. His Tesla Coil
+Still, as you work on a computer, remember <ent type='PERSON'>Tesla</ent>. His <ent type='PERSON'>Tesla</ent> Coil
 supplies the high voltage for the picture tube you use. The
-electricity for your computer comes from a Tesla design AC
-generator, is sent through a Tesla transformer, and gets to your
-house through 3-phase Tesla power. Tesla's inventions... they
+electricity for your computer comes from a <ent type='PERSON'>Tesla</ent> design AC
+generator, is sent through a <ent type='PERSON'>Tesla</ent> transformer, and gets to your
+house through 3-phase <ent type='PERSON'>Tesla</ent> power. <ent type='PERSON'>Tesla</ent>'s inventions... they
 have a way of working..
 </p>
 </div>

@@ -38,16 +38,16 @@ American city</p>
    <p>Ark of the Covenant</p>
    <p>100 MPG Carburetor</p>
    <p>3 Martian War Machines</p>
-   <p>Parts of a cut up UFO from "My Science Project"</p>
+   <p>Parts of a cut up <ent type='EVENT'>UFO</ent> from "My Science Project"</p>
    <p>Smashed pieces of the time gizmo from "The Philedelphia Experiment"</p>
    <p>Engine that runs on tap water</p>
    <p>A whole bunch of perpetual motion devices.</p>
-   <p>The dead aliens from a crippled UFO the gov't captured.</p>
+   <p>The dead aliens from a crippled <ent type='EVENT'>UFO</ent> the gov't captured.</p>
    <p>Several Elvis clones awaiting activation (might be ElvisDroids).</p>
    <p>Hundred of huge crates marked with the name Craig Shergold (containing
 Business cards and getwell cards by the million).</p>
    <p>H.G. Wells' working time machine from "Time After Time"</p>
-   <p>The UFO that purportedly crashed in the early '50s in New Mexico</p>
+   <p>The <ent type='EVENT'>UFO</ent> that purportedly crashed in the early '50s in New Mexico</p>
    <p>Evidence providing the TRUE story of the Kennedy assassination</p>
    <p>Judge Crater</p>
    <p>What's left of Flight 19
@@ -113,7 +113,7 @@ is Hebrew and has Commandments 11 through 17</p>
 world. It is sealed in a safe with an eye superimposed on a pyramid</p>
    <p>Papers showing that professional wrestling is real</p>
    <p>Documentation revealing that in exchange for scientific advances, the
-government provides UFO's with human beings for unknown reasons</p>
+government provides <ent type='EVENT'>UFO</ent>'s with human beings for unknown reasons</p>
    <p>Evidence suggesting that officials took bribes from concerned Arab oil
 men to sabotage cold fusion experiments</p>
    <p>One cyanide laden apple with a bite taken out of it</p>
@@ -160,7 +160,7 @@ simply "BEER" and "FOOD" in the back seat</p>
    <p>The Transience Disk</p>
    <p>The Aeolanthe &amp; Naeolanthe</p>
    <p>One ENIAC</p>
-   <p>One Tesla Radio Power distribution system</p>
+   <p>One <ent type='PERSON'>Tesla</ent> Radio Power distribution system</p>
    <p>John Galt</p>
    <p>The top 10 vaporware products of all time</p>
    <p>Laputa</p>
@@ -191,7 +191,7 @@ the Kate Bush video "Cloudbusting")</p>
    <p>A freezer holding the body of Walt Disney</p>
    <p>The Necronomicon</p>
    <p>The Terminator's arm</p>
-   <p>Beethoven's Eleventh Symphony</p>
+   <p><ent type='PERSON'>Beethoven</ent>'s Eleventh Symphony</p>
    <p>A phone booth with an odd antenna on top, and a San Dimas, CA number</p>
    <p>A blue British police call box</p>
    <p>A tight-fitting blue costume with a big red "S" on the chest</p>
@@ -230,7 +230,7 @@ in 1971</p>
    <p>The gold from the lost Dutchman mine</p>
    <p>The Marylin Monroe Diaries</p>
    <p>The Holy Grail</p>
-   <p>The "sets and costumes" that were used to film the Apollo Moon Landing</p>
+   <p>The "sets and costumes" that were used to film the Apollo <ent type='LOC'>Moon</ent> Landing</p>
    <p>The Rhinegold</p>
    <p>The FBI and CIA files detailing the Career of "Special Agent Elvis"</p>
    <p>A mountain of letters addressed to Santa Claus</p>
@@ -243,7 +243,7 @@ one coon skin cap</p>
    <p>A strange looking submarmine named Natulis</p>
    <p>A row of robots, one marked Gort and another marked Robbie</p>
    <p>200 year old crate (damaged) of tea marked "Boston"</p>
-   <p>Joseph Raymond McCarthy in cryogenic suspension.
+   <p>Joseph Raymond <ent type='PERSON'>McCarthy</ent> in cryogenic suspension.
 (Due to be woken 2000 AD)</p>
    <p>Contents of a television studio once based in a desert.
 Props include Mars landscape sections and lifesized fibreglass spaceships</p>
@@ -262,7 +262,7 @@ Props include Mars landscape sections and lifesized fibreglass spaceships</p>
    <p>The original magnifying glass used by Sherlock Holmes</p>
    <p>A bottle of smoke from the Chicago Fire</p>
    <p>A crate containing a machine, labeled "Owner - Danny Dunn"</p>
-   <p>Oliver North's diary</p>
+   <p>Oliver <ent type='PERSON'>North</ent>'s diary</p>
    <p>A brain laleled "Ronald Reagan"</p>
    <p>Ten crates of clothes labeled "Liberace"</p>
    <p>25 crates of confederate money</p>
@@ -297,7 +297,7 @@ of the Third Kind"</p>
    <p>Hollow krypton meteorite, found in Smallville, USA. Cradle inside</p>
    <p>Three "telepods", non-working, along with a grotesque fly/human/metal body</p>
    <p>Spy satellite photos, detailing the location of Noah's Ark</p>
-   <p>A working orgone energy machine (see theories of Nicola Tesla
+   <p>A working orgone energy machine (see theories of Nicola <ent type='PERSON'>Tesla</ent>
 for more details)</p>
    <p>A real, live unicorn</p>
    <p>A working anti-gravity device (perhaps a sample of Cavorite?)</p>
@@ -332,7 +332,7 @@ with two identically-marked reels of tape and a strange machine</p>
 out no exhaust mass, only heat and light</p>
    <p>A circular shield, about 3' in diameter, with concentric red and white
 rings and a star in the center on a blue field</p>
-   <p>A black sword, with red runes on it, unearthed in western Canada with a
+   <p>A black sword, with red runes on it, unearthed in western <ent type='GPE'>Canada</ent> with a
 petrified human skeleton. The sword is dated as being older than the
 earth where it was found. Researchers tested the sword to find out what
 it was made of, but it defied their efforts. Everyone who touched the
@@ -344,7 +344,7 @@ out</p>
    <p>A gold medallion with raised markings on each side, and an off-center
 hole holding a red crystal</p>
    <p>A glowing green crystal, about 10 inches long and 2.5 inches wide with
-angled ends, discovered near the North Pole</p>
+angled ends, discovered near the <ent type='PERSON'>North</ent> Pole</p>
    <p>An illuminated manuscript much like a Bible, along with a rabbit's
 corpse and many pieces of shrapnel</p>
    <p>A large emerald in the shape of a heart, confiscated from a fence in new
@@ -373,7 +373,7 @@ dropped it to prove a point to the soviets</p>
    <p>A complete transcription and dates and times for all of Nosatradamus's
 prophecies!</p>
    <p>A box containing proof that Salem really did have witches</p>
-   <p>The REAL McCarthy list, before the politicain's saw it</p>
+   <p>The REAL <ent type='PERSON'>McCarthy</ent> list, before the politicain's saw it</p>
    <p>The recording of Nixon saying "I'm not a crook"</p>
    <p>Proof that Daylight savings, and flouridation really ARE communist plotS</p>
    <p>The missing part of Kennedy's head</p>
@@ -392,14 +392,14 @@ is a version of 'Gin 'n Tonic'.</p>
    <p>A broadsword from roughly 1000 AD with a woman's hand still gripping the handle</p>
    <p>A grafitti-free subway car</p>
    <p>A hen's tooth</p>
-   <p>A calendar containing a month made up entirely of Sundays</p>
+   <p>A calendar containing a month made up entirely of <ent type='LOC'>Sun</ent>days</p>
    <p>The Ultimate Nullifier</p>
    <p>The six lost episodes of Dr. Who (and you thought only one was lost...)</p>
    <p>A pair of red ruby slippers</p>
    <p>A pillar of salt in the shape of a woman</p>
    <p>An extremely well-aged apple with two bites out of it</p>
    <p>Universal Solvent (we think) (bring your own container) (hurry) (never mind...)</p>
-   <p>A letter from an Egyptian princess, saying she'd like to be reincarnated
+   <p>A letter from an <ent type='NORP'>Egyptian</ent> princess, saying she'd like to be reincarnated
 as Shirley McLean</p>
    <p>The suppressed Penthouse edition featuring Kylie Minogue</p>
    <p>The REAL reason why the Challenger blew up</p>
@@ -434,7 +434,7 @@ Oswald"</p>
    <p>The autopsy records for JFK (sealed for 50 years!)</p>
    <p>The totally innocuous file on Martin Luther King Jr. that
 was sealed -- because it was totally innocuous!</p>
-   <p>The report given to FDR on the Japanese fleet steaming toward Hawaii</p>
+   <p>The report given to FDR on the <ent type='NORP'>Japanese</ent> fleet steaming toward Hawaii</p>
    <p>George Washington's membership card for the Masons</p>
    <p>Birth certificates for several mulatto children, with the "Father"
 space marked "Thomas Jefferson"</p>
@@ -444,7 +444,7 @@ at Ford's Theater -- a definite Do-Not-Miss"</p>
    <p>a prototype (or working model!) of Alpha Complex's
 Computer</p>
    <p>_Another_ government warehouse...</p>
-   <p>90% of the works of Nikola Tesla</p>
+   <p>90% of the works of Nikola <ent type='PERSON'>Tesla</ent></p>
    <p>Ship with bodies embedded in several inch-thick steel from
 the "Philadelphia Experiment"</p>
    <p>A Mac SE hard disk containing plans for "Transparent Aluminum"</p>
@@ -479,7 +479,7 @@ Shangri-La, and Xanadu</p>
    <p>A complete set of the Golden Age Suicide Squid comics</p>
    <p>Two 16-inch Battleship Cannon shells (you know - like the ones on the Ne
 Jersey) Filled with Quick-Death organism bomblets</p>
-   <p>the British copy of the North American Treaty</p>
+   <p>the British copy of the <ent type='PERSON'>North</ent> American Treaty</p>
    <p>Several kilograms of Byzanium, along with a 1889 Colorado newspaper and the
 body of a Red Army corporal</p>
    <p>A wooden staff, with a claw holding a crystal on the end</p>
@@ -499,7 +499,7 @@ are kept</p>
    <p>The coordinates of a rain-swept planet far out in the galaxy, inhabited by a
 little old man who likes cats (even though he doesn't believe in them)</p>
    <p>Aristotle's treatise on humor</p>
-   <p>The Freemasons' Ultimate Secret</p>
+   <p>The <ent type='NORP'>Freemasons</ent>' Ultimate Secret</p>
    <p>King Arthur's perfectly preserved body</p>
    <p>God's pair of dice</p>
    <p>The sixth replicant</p>
@@ -510,9 +510,9 @@ tennis shoes with the name "M. Martian" on both</p>
    <p>Map &amp; instructions for recovering the treasure on Oak Island</p>
    <p>The Method used to place the statues on Easter Island</p>
    <p>The reason the statues were put there</p>
-   <p>The Beethoven manuscripts that disapeared at his death.</p>
+   <p>The <ent type='PERSON'>Beethoven</ent> manuscripts that disapeared at his death.</p>
    <p>The first draft of Adam Weishaupt's inagural address</p>
-   <p>The allied plans for the bombing of Russian oil fields, early '41</p>
+   <p>The allied plans for the bombing of <ent type='NORP'>Russian</ent> oil fields, early '41</p>
    <p>The German nuke</p>
    <p>The real recipie for the Pan-galactic gargle blaster</p>
    <p>Cratefuls and cratefuls of containers remarkably similar to yogurt
@@ -555,7 +555,7 @@ Gorbachev, who happened to be head of the KGB when the research was being
 done</p>
    <p>One human skeleton, found in casket, with a wooden stake inserted into the
 ribcage</p>
-   <p>Remains of a sophisticated WWII Japanese fighter, codenamed Kamikaze,
+   <p>Remains of a sophisticated WWII <ent type='NORP'>Japanese</ent> fighter, codenamed Kamikaze,
 with humanoid figures crushed in the machinery, that must have disabled it</p>
    <p>A strange machine, incorporating a glass cylinder with a weird gel flowing
 within it, and sealed with a lock that can only be opened from within.
@@ -575,7 +575,7 @@ when his tomb was opened, later---for that matter, how about his body?)</p>
    <p>Documentation and photos from all the cases of Spontaneous Human Combustion</p>
    <p>The mummy from the sarcophagus in the Great Pyramid</p>
    <p>A couple of those computer chips they've supposedly found embedded in the
-arms of Egyptian mummies</p>
+arms of <ent type='NORP'>Egyptian</ent> mummies</p>
    <p>All that runic graffiti saying things like "Sven Redbeard was here" from the
 upper Mississippi</p>
    <p>A parrot-headed umbrella</p>
@@ -602,7 +602,7 @@ to Antartica. Contains the bodies of what look like 5-symmetric
 animals with fan-shaped wings and lots of tentacles. Also contains
 what looks like a frozen block of blackish protoplasm marked "Do not
 defrost under ANY circumstances"</p>
-   <p>Photo showing the "Illuminated Five" (Nikola Tesla, Howard Hughes,
+   <p>Photo showing the "Illuminated Five" (Nikola <ent type='PERSON'>Tesla</ent>, Howard Hughes,
 Adam Weishaupt, H.P. Lovecraft, and Nostradamus) having a beer bash
 at the Eye In The Pyramid pub in Ingolstadt</p>
    <p>The Overthruster and Buckaroo Banzai's jet car. Also a strange
@@ -626,7 +626,7 @@ of Civilization as We Know It (suppressed because the world is not
 prepared)</p>
    <p>The sequel to Gone With the Wind that Margaret Mitchell supposedly burned,
 after finding she didn't like "all the trouble *this* book has brought me."</p>
-   <p>The lightbulbs they used for illumination, in painting Egyptian tombs</p>
+   <p>The lightbulbs they used for illumination, in painting <ent type='NORP'>Egyptian</ent> tombs</p>
    <p>The map to King Soloman's mines</p>
    <p>The Viking longship that was discovered in California's Imperial Valley,
 sometime around 1910</p>
@@ -683,7 +683,7 @@ positronic brain, using a revolutionary crystal-growing process amazingly
 similar to biological cell reproduction</p>
    <p>A complete log of everything ever posted to the Internet. Cross-referenced
 by subversive nature. All Email, too, of course</p>
-   <p>The crashed UFO from White Sands, 1947</p>
+   <p>The crashed <ent type='EVENT'>UFO</ent> from White Sands, 1947</p>
    <p>A statement stating that Iran-Contra was "all my idea", signed Ronald Reagan</p>
    <p>George Bush's travelogue from October, 1980</p>
    <p>Professor Azland's time bubble</p>
@@ -696,7 +696,7 @@ by subversive nature. All Email, too, of course</p>
 containing some water and a sad-looking yellow fish</p>
    <p>A battered and aged working copy of the Hitchhiker's Guide to the Galaxy</p>
    <p>CIA pay stubs, made out in the name of Mikhail Gorbachev</p>
-   <p>A complete set of Majestic Twelve (aka MJ-12 aka MAJIC) documents, marked
+   <p>A complete set of Majestic Twelve (aka MJ-12 aka <ent type='ORG'>MAJIC</ent>) documents, marked
 "Exempt: not to be declassified Top Secret Burn before reading"</p>
    <p>A stack of memos to Joe Malik (regarding the Illuminati)</p>
    <p>A cat. No one can tell whether it is alive or dead</p>
@@ -820,7 +820,7 @@ fallen towers</p>
    <p>A biochemical report proving that one should put the milk in first</p>
    <p>Neil Kinnock's ideals</p>
    <p>Satelite photographs showing that the General Galtiari was, in fact,
-somewhere in the Indian Ocean when sunk</p>
+somewhere in the <ent type='NORP'>Indian</ent> Ocean when sunk</p>
    <p>A report on the spontanious self-disassembly of an early experimental
 British nuclear weapon as it was being transported through inner
 London, and why no one noticed</p>
@@ -935,12 +935,12 @@ en route to USA."</p>
    <p>Adolph Hitler's baptismal certificate</p>
    <p>(SOVIET WING)</p>
    <p>The Firefox (or at least plans for it)</p>
-   <p>All the material on the Russian ESP "remote viewing" project (which, of
+   <p>All the material on the <ent type='NORP'>Russian</ent> ESP "remote viewing" project (which, of
 course, was stolen by our own remote viewers)</p>
    <p>The bodies of the executed Romanoff royal family, including Anastasia</p>
    <p>All the missing Old Masters paintings that the Nazis commandeered</p>
    <p>Lenin's last orders</p>
-   <p>The UFO that crashed in Siberia in 1908</p>
+   <p>The <ent type='EVENT'>UFO</ent> that crashed in Siberia in 1908</p>
    <p>(JAPANESE WING)</p>
    <p>The sword given to the first Emperor by the goddess Amaterasu</p>
    <p>A copy of the telegram from Tojo to Roosevelt giving warning of the
@@ -957,7 +957,7 @@ That Can Say No"</p>
    <p>Godzilla</p>
    <p>To Europe and the so-called Gas Chambers with eager
 scientists from 'round the world, Fred Leuchter, and all
-Revisionists beg. Questions answered NOW. The Sun could
+Revisionists beg. Questions answered NOW. The <ent type='LOC'>Sun</ent> could
 steal the mist of mystery. IT COULD BE SO SIMPLE. Truth
 denied; investigation denied. Every day the Zionist Giant
 is taller, and each day has farther to fall (a certainty).

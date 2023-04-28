@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div class="article">
-   <p> RFK1.TXT</p>
+   <p> <ent type='PERSON'>RFK</ent>1.TXT</p>
    <p>The following extract is submitted to resurrect long
 forgotten material concerning the assassination of Robert F,
 Kennedy. The evidence for conspiracy that it presents,
@@ -20,7 +20,7 @@ That there was something to Deny is clearly stated.</p>
    <p> Robert Sabaroff
 712512445</p>
    <p> EXTRACT FROM "COMPUTERS &amp; AUTOMATION
-CONCERNING EVIDENCE IN THE RFK ASSASSINATION</p>
+CONCERNING EVIDENCE IN THE <ent type='PERSON'>RFK</ent> ASSASSINATION</p>
    <p> The following partial text is extracted verbatim from
 the periodical, "COMPUTERS AND AUTOMATION; The magazine of
 the design, applications, and implications of information
@@ -117,7 +117,7 @@ Wallace and hater of the Kennedys'.</p>
    <p> "Cesar's name is mentioned in a book and in an article,
 both by Robert Blair Kaiser. The book is to be published in
 the fall of 1970. The article was published in "LADIES HOME
-JOURNAL" magazine in May 1970 and is entitled "RFK Must
+JOURNAL" magazine in May 1970 and is entitled "<ent type='PERSON'>RFK</ent> Must
 Die." Cesar is quoted in the article as saying he did draw
 his service revolver at the time Kennedy was hit, but
 replaced it in his holster because Sirhan was by then under
@@ -131,7 +131,7 @@ California, without the legal right to do so, the following
 alleged facts:</p>
    <p> "1. Senator Robert F. Kennedy was NOT killed by a
 bullet from the gun of Sirhan B. Sirhan.</p>
-   <p> "2. Another gun was fired at RFK at the same time.</p>
+   <p> "2. Another gun was fired at <ent type='PERSON'>RFK</ent> at the same time.</p>
    <p> "3. The fatal shot did not come from the direction
 of Sirhan's position.</p>
    <p> "4. A witness, Donald Schulman, an employee of KNX-TV, SAW Cesar fire his gun while standing directly
@@ -200,7 +200,7 @@ revolver).</p>
    <p> "SOUND TEST BY THE LOS ANGELES POLICE</p>
    <p> "Confirmation of the evidence that Sirhan's gun could not
 have been heard above the crowd noise from the position of
-the ABC microphone is presented on pages 118-119 of "Special
+the <ent type='ORG'>ABC</ent> microphone is presented on pages 118-119 of "Special
 Unit Senator," Houghton's book. Unwittingly, thus,
 Houghton presents evidence of a second presents evidence of
 a second gun, whereas he had intended the evidence to help
@@ -244,7 +244,7 @@ recorded the three shots?
 Serrano's report, unwittingly produced just the right test
 to prove that a gun, not Sirhan's but a second gun, was
 firing."</p>
-   <p> "SECRECY OVER THE RFK AUTOPSY REPORT</p>
+   <p> "SECRECY OVER THE <ent type='PERSON'>RFK</ent> AUTOPSY REPORT</p>
    <p> "The reports on the autopsy of Senator Robert F. Kennedy
 have been suppressed in three separate ways: first, by the
 judge's ruling before the trial of Sirhan; second, by
@@ -261,8 +261,8 @@ rehired Noguchi.</p>
    <p> "SUMMARY</p>
    <p> "To summarize, the officials of the Los Angeles Police
 Department have been and still are suppressing important
-evidence about the RFK assassination. This evidence points
+evidence about the <ent type='PERSON'>RFK</ent> assassination. This evidence points
 toward a conspiracy, with Sirhan being a patsy, toward a
 hotel security guard firing the three shots which hit
-RFK..."</p>
+<ent type='PERSON'>RFK</ent>..."</p>
 </div>

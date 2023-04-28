@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p> Short History of Nikola Tesla
+<xml>
+   <div class="article">
+      <p> Short History of Nikola Tesla
 </p>
-   <p>
+      <p>
 This is a file to straighten out misconception and
 disinformation that has occurred over the years, about how
 supposedly "great" Edison was, and how Nikola Tesla was
@@ -96,4 +97,5 @@ after Tesla died in 1943, his huge laboratory on Long
 Island mysteriously burned down, no records saved, and the
 remnants were bulldozed the day after that to further
 eradicate any equipment still left. So much for "free energy".</p>
-</div>
+   </div>
+</xml>

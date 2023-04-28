@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>INSIDE THE SHADOW CIA</p>
-   <p>by</p>
-   <p>John Connolly</p>
-   <p>SPY Magazine - Sept 1992 - Volume 6</p>
-   <p>What? A big private company - one with a board of former CIA, FBI and
+<xml>
+   <div class="article">
+      <p>INSIDE THE SHADOW CIA</p>
+      <p>by</p>
+      <p>John Connolly</p>
+      <p>SPY Magazine - Sept 1992 - Volume 6</p>
+      <p>What? A big private company - one with a board of former CIA, FBI and
 Pentagon officials; one in charge of protecting Nuclear-Weapons facilities,
 nuclear reactors, the Alaskan oil pipeline and more than a dozen American
 embassies abroad; one with long-standing ties to a radical ring-wing
@@ -12,8 +13,8 @@ organization; one with 30000 men and women under arms - secretly helped
 IRAQ in its effort to obtain sophisticated weapons? And fueled unrest
 in Venezuela? This is all the plot of a new best-selling thriller,
 right? Or the ravings of some overheated conspiracy buff,right? Right?</p>
-   <p>WRONG.</p>
-   <p>In the WINTER OF 1990, David Ramirez, a 24 year-old member of the Special
+      <p>WRONG.</p>
+      <p>In the WINTER OF 1990, David Ramirez, a 24 year-old member of the Special
 Investigations Division of the Wackenhut Corporation, was sent by his
 superiors on an unusual mission. Ramirez a former Marine Corps sergeant
 based in Miami, was told to fly immediately to San Antonio along with three
@@ -30,12 +31,12 @@ trailer, secure it, and make sure it safely gets to Chicago." It went
 without saying that no one else was supposed to look in the trailer, either,
 which is why the Wackenhut men were armed with fully loaded Remington 870
 pump-action shotguns.</p>
-   <p>The convoy drove for 30 hours straight, stopping only for gas and food. Even
+      <p>The convoy drove for 30 hours straight, stopping only for gas and food. Even
 then, one of the Wackenhut agents had to stay with the truck, standing by
 one of the cars, its trunk open, shotgun within easy reach. "Whenever we
 stopped, I bought a shot glass with the name of the town on it," Ramirez
 recalls. "I have glasses from Oklahoma City, Kansas City, St. Louis."</p>
-   <p>A little before 5:00 on the morning of the third day, they delivered the
+      <p>A little before 5:00 on the morning of the third day, they delivered the
 trailer to a practically empty warehouse outside Chicago. A burly man who
 had been waiting for them on the loading dock told them to take off the
 locks and go home, and that was that. They were on a plane back to Miami
@@ -44,7 +45,7 @@ agents about similar midnight runs-that the trucks contained $40 million
 worth of food stamps. After considering the secrecy, the way the team was
 assembled and the orders not to stop or open the truck, Ramirez decided he
 didn't believe that explanation.</p>
-   <p>Neither do we. One reason is simple: A Department of Agriculture official
+      <p>Neither do we. One reason is simple: A Department of Agriculture official
 simply denies that food stamps are shipped that way. "Someone is blowing
 smoke," he says. Another reason is that after a six-month investigation, in
 the course of which we spoke to more than 300 people, we believe we know
@@ -59,7 +60,7 @@ Investigators Inc. The partnership was neither successful nor
 harmonious-George once knocked partner Ed Dubois unconscious to end a
 disagreement over the direction the company would take-and in 1958, George
 bought out his partners.</p>
-   <p>However capable Wackenhut's detectives may have been at their work, George
+      <p>However capable Wackenhut's detectives may have been at their work, George
 Wackenhut had two personal attributes that were instrumental in the
 company's growth. First, he got along exceptionally well with important
 politicians. He was a close ally of Florida governor Claude Kirk, who hired
@@ -74,7 +75,7 @@ Wackenhut received multimillion-dollar contracts from the government to
 guard Cape Canaveral and the Nevada nuclear-bomb test site, the first of
 many extremely lucrative federal contracts that have sustained the company
 to this day.</p>
-   <p>The second thing that helped make George Wackenhut successful was that he
+      <p>The second thing that helped make George Wackenhut successful was that he
 was, and is, a hard-line right-winger. He was able to profit from his
 beliefs by building up dossiers on Americans suspected of being Communists
 or merely left-leaning-"subversives and sympathizers," as he put it-and
@@ -97,26 +98,26 @@ sympathizers; George Wackenhut was personal friends with the League's
 leaders, and was a major contributor to the group. To be sure, after giving
 the League its files, Wackenhut reserved the right to use them for its
 clients and friends.</p>
-   <p>Wackenhut had gone public in 1965 ; George Wackenhut retained 54 percent of
+      <p>Wackenhut had gone public in 1965 ; George Wackenhut retained 54 percent of
 the company. Between his salary and dividends, his annual compensation
 approaches $2 million a year, sufficient for him to live in a $20 million
 castle in Coral Gables, Florida, complete with a moat and 18 full-time
 servants. Today the company is the third-largest investigative security firm
 in the country, with offices throughout the United States and in 39 foreign
 countries.</p>
-   <p>It is not possible to overstate the special relationship Wackenhut enjoys
+      <p>It is not possible to overstate the special relationship Wackenhut enjoys
 with the federal government. It is close. When it comes to security
 matters, Wackenhut in many respects *is* the government. In 1991, a third of
 the company's $600-million in revenues came from the federal government,
 and another large chunk from companies that themselves work for the
 government, such as Westinghouse.</p>
-   <p>Wackenhut is the largest single company supplying security to U.S. embassies
+      <p>Wackenhut is the largest single company supplying security to U.S. embassies
 overseas; several of the 13 embassies it guards have been in important
 hotbeds of espionage, such as Chile, Greece and El Salvador. It also guards
 nearly all the most strategic government facilities in the U.S., including
 the Alaskan oil pipeline, the Hanford nuclear-waste facility, the Savannah
 River plutonium plant and the Strategic Petroleum Reserve.</p>
-   <p>Wackenhut maintains an especially close relationship with the federal
+      <p>Wackenhut maintains an especially close relationship with the federal
 government in other ways as well. While early boards of directors included
 such prominent personalities of the political right as Captain Eddie
 Rickenbacker; General Mark Clark and Ralph E. Davis, a John Birch Society
@@ -129,11 +130,11 @@ commandant P. X. Kelley; and acting chairman of President Bush's foreign-intelli
 Inman. Before his appointment as Reagan's CIA director, the late William
 Casey was Wackenhut's outside legal counsel. The company has 30000 armed
 employees on its payroll.</p>
-   <p>We wanted to know more about this special relationship; but the government
+      <p>We wanted to know more about this special relationship; but the government
 was not forthcoming. Repeated requests to the Department of Energy for an
 explanation of how one company got the security contracts for neariy all of
 America's most strategic installations have gone unanswered.</p>
-   <p>Similarly, efforts to get the State Department to explain whether embassy
+      <p>Similarly, efforts to get the State Department to explain whether embassy
 contracts were awarded arbitrarily or through competitive bidding were
 fruitless; essentially, the State Department said, "Some of both. "
 Wackenhut's competitors-who, understandably, asked not to be quoted by
@@ -158,7 +159,7 @@ iot of jewelry-a huge gold watch on a thick gold band, two massive goid
 rings. But Wackenhut was, at 72, quick and tough in his responses. Near the
 end of our two-and-a-half hour interview, when asked if his company was an
 arm of the CIA, he snapped, "No!"</p>
-   <p>Of course, this may just be a matter of semantics. We have spoken to
+      <p>Of course, this may just be a matter of semantics. We have spoken to
 numerous experts, including current and former CIA agents and analysts,
 current and former agents of the Drug Enforcement Administration and current
 and former Wackenhut executives and employees, all of whom have said that in
@@ -169,7 +170,7 @@ a housecleaning, and it became CIA policy that certain kinds of activities
 would no longer officially be performed. But that didn't always mean that
 the need or the desire to undertake such operations disappeared. And that's
 where Wackenhut came in.</p>
-   <p>Our sources confirm that Wackenhut has had a long-standing relationship
+      <p>Our sources confirm that Wackenhut has had a long-standing relationship
 with the CIA, and that it has deepened over the last decade or so. Bruce
 Berckmans, who was assigned to the CIA station in Mexico City, left the
 agency in January 1975 (putatively) to become a Wackenhut
@@ -188,7 +189,7 @@ with the remark "We just got rid of the CIA-we don't want them back."
 Phillip Agee, the left-wing former CIA agent who wrote an expose' of the
 agency in 1975, told us, "I don't have the slightest doubt that the CIA and
 Wackenhut overlap."</p>
-   <p>There is also testimony from people who are not convicts, renegades or
+      <p>There is also testimony from people who are not convicts, renegades or
 Canadians. William Corbett, a terrorism expert who spent 18 years as a CIA
 analyst and is now an ABC News consultant based in Europe, confirmed the
 relationship between Wackenhut and the agency. "For years Wackenhut has been
@@ -198,7 +199,7 @@ the company [in order to carry out] clandestine operations." He also said
 that Wackenhut would supply intelligence agencies with information, and that
 it was compensated for this- "in a quid pro quo arrangement," Corbett
 says-with government contracts worth billions of dollars over the years.</p>
-   <p>We have uncovered considerable evidence that Wackenhut carried the CIA's
+      <p>We have uncovered considerable evidence that Wackenhut carried the CIA's
 water in fighting Communist encroachment in Central America in the 1980s
 (that is to say, during the Reagan administration when the CIA director was
 former Wackenhut lawyer William Casey, the late superpatriot who had a
@@ -219,7 +220,7 @@ in the company of Nichols and a Wackenhut executive, offhandedly identified
 that executive, A. Robert Frye, as "the man from the CIA. " (In a subsequent
 conversation he denied knowing Frye at all; of course, in that same talk he
 quite unbelievably denied having ever been a contra.)</p>
-   <p>In addition to attempted weapons supply, Wackenhut seems to have been
+      <p>In addition to attempted weapons supply, Wackenhut seems to have been
 involved in Central America in other ways. Ernesto Bermudez who was
 Wackenhut's director of international operations from 1987 to '89, admitted
 to SPY that during 1985 and '86 he ran Wackenhut's operations in El
@@ -232,7 +233,7 @@ clandestine activities-increased by 150 million, a 45 percent jump, while
 Ronald Reagan was in office. "You've done an awful lot of research, George
 Wackenhut said to me as I was leaving. "How would you like to run all our
 New York operations ? "</p>
-   <p>If that was the extent of Wackenhut's possible involvement in a government
+      <p>If that was the extent of Wackenhut's possible involvement in a government
 agency's attempt to circumvent the law, then we might dismiss it as an
 interesting footnote to the overheated, cowboy anti-Communist 1980s.
 However, the U.S. Attorney for the Southern District of Florida has been
@@ -241,7 +242,7 @@ technology-that is, seemingly innocuous technology that can also be used to
 make nuclear weapons to Iraq and Libya. And SPY has learned that
 Wackenhut's name has come up in the federal investigation, but not at
 present as a target.</p>
-   <p>Between 1987 and '89, three companies in the United States received
+      <p>Between 1987 and '89, three companies in the United States received
 investments from an Iraqi architect named Ihsan Barbouti. The colorful
 Barbouti owned an engineering company in Frankfort that had a $552 million
 contract to build airfields in Iraq. He also admitted having designed
@@ -257,7 +258,7 @@ resurfacing several years later in Lebanon and Libya. There are no reports
 that he is living in Jordan -or, according to other reports, in a CIA safe
 house in Florida. Those reports can be considered no better than rumor; what
 follows, though, is fact.</p>
-   <p>As reported on ABC's "Nightline" last year, the three companies in which
+      <p>As reported on ABC's "Nightline" last year, the three companies in which
 Barbouti invested were TK-7 of Oklahoma City, which makes a fuel additive;
 Pipeline Recovery Systems of Dallas, which makes an anti-corrosive chemical
 that preserves pipes; and Product Ingredient Technoiogy of Boca Raton, which
@@ -270,7 +271,7 @@ because one of the by-products in making cherry flavoring is ferric
 ferrocyanide, a chemical that's used to manufacture hydrogen cyanide, which
 can penetrate gas masks and protective clothing. Hydrogen cyanide was used
 by Saddam Hussein against the Kurds in the Iran-Iraq war.</p>
-   <p>Barbouti was more than a passive investor, and soon he began pressuring the
+      <p>Barbouti was more than a passive investor, and soon he began pressuring the
 companies to ship not only their products but also their manufacturing
 technology to corporations he owned in Europe, on which, he told the
 businessmen, it would be sent to Libya and Iraq. In doing so, Barbouti was
@@ -287,7 +288,7 @@ of TK-7 swears that Barbouti told him he was developing an atom device for
 Qaddafi that would be used against the U.S. in retaliation for the 1986 U.S.
 air strike against Libya. Barbouri also wanted the ferrocyanide from Product
 Ingredient.</p>
-   <p>Assisting Barbouti with these investments was New Orleans exporter Don
+      <p>Assisting Barbouti with these investments was New Orleans exporter Don
 Seaton, business associate of Richard Secord, the right-wing U.S. Army
 general turned war profiteer who was so deeply enmeshed in the Iran-contra
 affair. It was Secord who connected Barbouti with Wackenhut. Barbouti met
@@ -311,7 +312,7 @@ currently serving a six-year sentence in federal prison in Miami for the
 illegal sale of 103 military helicopters to Iraq. According to former
 Wackenhut agent David Ramirez, the company considered Soghanalian "a very
 valuable client."</p>
-   <p>Unfortunately for Barbouti, none of the companies in which he made
+      <p>Unfortunately for Barbouti, none of the companies in which he made
 investments was willing to ship its products or technology to his European
 divisions. That, however, doesn't necessarily mean that he didn't get some
 of what he wanted. In 1990, 2000 gallons of ferrocyanide were found to be
@@ -319,7 +320,7 @@ missing from the cherry-flavor factory in Boca Raton. Where it went is a
 mystery; Peter Kawaja, who was the head of security for all of Barbouti's
 U.S. investments, told SPY, "We were never burglarized, but that stuff didn't
 walk out by itself."</p>
-   <p>What does all this have to do with Wackenhut? Lots: According to Louis
+      <p>What does all this have to do with Wackenhut? Lots: According to Louis
 Champon, the owner of Product Ingredient Technology, it was Wackenhut that
 guarded his Boca Raton plant, a fact confirmed by Murray Levine, a Wackenhut
 vice president. Champon also says, and Wackenhut also confirms, that the
@@ -327,7 +328,7 @@ security for the plant consisted of one unarmed guard. While a Wackenhut
 spokesperson maintains that this was the only job they were doing for
 Barbouti, he also says that they were never paid, that Barbouti stiffed
 them.</p>
-   <p>This does not seem true. SPY has obtained four checks from Barbouti to
+      <p>This does not seem true. SPY has obtained four checks from Barbouti to
 Wackenhut. All were written within ten days in 1990: one on March 27 for
 $168.89; one on March 28 for $24828.07; another on April 5 for $756; the
 last on April 6 for $40116.25. We asked Richard Kneip, Wackenhut's senior
@@ -336,7 +337,7 @@ worth $66000 a year; Kneip was at a loss to do so. He was similarly at a
 loss to explain a fifth check, from another Barbouti company to Wackenhut's
 travel-service division in 1987, almost two years before Wackenhut has
 acknowledged providing security for the Boca Raton plant .</p>
-   <p>Two former CIA operatives, separately interviewed, have the explanation.
+      <p>Two former CIA operatives, separately interviewed, have the explanation.
 Charles Hayes, who describes himself as "a CIA asset " says Wackenhut was
 helping Barbouti ship chemicals to Iraq, "Supplying Iraq was originally a
 good idea," he maintains, "but then it got out of hand. Wackenhut was just
@@ -351,7 +352,7 @@ Chicago, and then to Baltimore to be shipped overseas. All of which makes
 the story of the midnight convoy ride of David Ramirez, recounted at the
 beginning of this article rather less mysterious. SPY has learned that this
 shipment is now the subject of a joint USDA-Customs investigation.</p>
-   <p>When we asked George Wackenhut what was being shipped from Eagle Pass to
+      <p>When we asked George Wackenhut what was being shipped from Eagle Pass to
 Chicago, the sharp, straightforward chairman at first claimed they were
 protecting an unnamed executive. He then directed an aide to get back to me.
 Two days later, Richard Kneip did, repeating the tale that had been passed
@@ -361,9 +362,9 @@ food stamps are shipped from Chicago to outlying areas, never the other way
 around, and that food stamps, unlike money, are used once and then
 destroyed. All Kneip would say then was, "We do not reveal the names of our
 clients."</p>
-   <p>Wackenhut's connection to the CIA and to other government agencies raises
+      <p>Wackenhut's connection to the CIA and to other government agencies raises
 several troubling questions:</p>
-   <p>First, is the CIA using Wackenhut to conduct operations that it has been
+      <p>First, is the CIA using Wackenhut to conduct operations that it has been
 forbidden to undertake? Second, is the White House or some other party in
 the executive branch working through Wackenhut to conduct operations that it
 doesn't want Congress to know about? Third, has Wackenhut's cozy
@@ -374,7 +375,8 @@ law? A congressional investigation into Wackenhut's activities in the
 Alyeska affair last November began to shed some light on Wackenhut's way of
 doing business; clearly it's time for Congress to investigate just how far
 Wackenhut's other tentacles extend.</p>
-   <p>Additional reporting by Erzc Reguly, Margie Sloan and Wendell Smith</p>
-   <p>** End of article **
+      <p>Additional reporting by Erzc Reguly, Margie Sloan and Wendell Smith</p>
+      <p>** End of article **
 </p>
-</div>
+   </div>
+</xml>

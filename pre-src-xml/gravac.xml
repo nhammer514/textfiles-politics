@@ -1,39 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>
+<xml>
+   <div class="article">
+      <p>
 CAN GRAVITY be INDUCED?</p>
-   <p>
+      <p>
 Observational Evidence and Verifiable Proof for</p>
-   <p>
+      <p>
 A Dynamic GRAVAC Sun</p>
-   <p>
+      <p>
 by</p>
-   <p>Stephen Paul Goodfellow</p>
-   <p>
+      <p>Stephen Paul Goodfellow</p>
+      <p>
 1987</p>
-   <p>
+      <p>
 
 CONTENT:</p>
-   <p>
+      <p>
 Introduction Page 3</p>
-   <p>A Solar Shell 4</p>
-   <p>Proof 4</p>
-   <p>Elusive Neutrinos 5</p>
-   <p>Sunspots 6</p>
-   <p>Thought Model 6</p>
-   <p>Plasma: The Super-Hot Gas 7</p>
-   <p>Rudiments of the dynamic GRAVAC Cycle 8</p>
-   <p>Helioseismology - The Ring of Truth 9</p>
-   <p>Related Natural Phenomena 9</p>
-   <p>Mr. Science &amp; the Breezy Room 10</p>
-   <p>Nature's Gravity Wells 10</p>
-   <p>Consequences of a GRAVAC Sun 11</p>
-   <p>Conclusion 12</p>
-   <p>Credits 14</p>
-   <p>References 15</p>
-   <p>
+      <p>A Solar Shell 4</p>
+      <p>Proof 4</p>
+      <p>Elusive Neutrinos 5</p>
+      <p>Sunspots 6</p>
+      <p>Thought Model 6</p>
+      <p>Plasma: The Super-Hot Gas 7</p>
+      <p>Rudiments of the dynamic GRAVAC Cycle 8</p>
+      <p>Helioseismology - The Ring of Truth 9</p>
+      <p>Related Natural Phenomena 9</p>
+      <p>Mr. Science &amp; the Breezy Room 10</p>
+      <p>Nature's Gravity Wells 10</p>
+      <p>Consequences of a GRAVAC Sun 11</p>
+      <p>Conclusion 12</p>
+      <p>Credits 14</p>
+      <p>References 15</p>
+      <p>
 INTRODUCTION</p>
-   <p>It has long been believed that gravity is the fundamental cause of
+      <p>It has long been believed that gravity is the fundamental cause of
 solar radiation.
 The presently popular Hydrogen/Fusion Core theory rests on the
 assumption that the mutual gravitational attraction of the Sun's
@@ -88,9 +89,9 @@ Such an attitude has for too many years confined potentially creative
 ideas within constrictions which in reality do not exist. I believe
 strongly that such unbending dogma does not belong in the quest for
 truth, because it has no relation to the objective universe.</p>
-   <p>
+      <p>
 A SOLAR SHELL</p>
-   <p>Our Sun is empty; its mass is distributed in a shell about an
+      <p>Our Sun is empty; its mass is distributed in a shell about an
 "Absolute vacuum."
 As I shall demonstrate, an Absolute vacuum induces gravity; it is a
 rift upon which mass/energy space gravitationally implodes. This
@@ -110,14 +111,14 @@ gravity. The induced gravity restrains the Sun's plasma from further
 outward expansion, and it is the struggle between the inhibiting
 induced gravity and the repulsive magnetic properties of the plasma
 which cause the solar shell to radiate.</p>
-   <p>
+      <p>
 PROOF</p>
-   <p>For this solar model to work, it requires that absolutely no mass, nor
+      <p>For this solar model to work, it requires that absolutely no mass, nor
 radiation can travel through an Absolute vacuum. Therefore, the
 experimental evidence of this solar model rests on the following
 proof:</p>
-   <p>*It can be demonstrated that neutrinos cannot pass through the Sun*</p>
-   <p>Small subatomic particles called neutrinos emanate from stars.(2) To
+      <p>*It can be demonstrated that neutrinos cannot pass through the Sun*</p>
+      <p>Small subatomic particles called neutrinos emanate from stars.(2) To
 an observer on Earth, each star has its own neutrino fingerprint,
 which can be determined by the angle of neutrino approach and the
 different neutrino energy levels that individual stars produce.
@@ -136,10 +137,10 @@ the moment of occultation ( when the star passes behind the sun.) The
 reason for this is because the Sun's interior is not a ball of mass in
 conventional space, as it is presently believed;(4) on the contrary,
 it is an Absolute vacuum through which nothing passes.</p>
-   <p>Of course, it is not so easy to look for neutrinos passing through the
+      <p>Of course, it is not so easy to look for neutrinos passing through the
 Sun. An actual experiment would be more complicated, but could
 probably be performed along these lines:</p>
-   <p>Due to the fact that neutrino collisions are scarce, one has to rely
+      <p>Due to the fact that neutrino collisions are scarce, one has to rely
 on a record compiled through time in order to get an accurate
 determination. You will need a computer and as extensive a compilation
 of recorded data of neutrino collisions as possible. The greater span
@@ -155,18 +156,18 @@ Eliminate all neutrinos from your data that show energy levels
 consistent with those of our Sun.
 Now compile the sectors that the Sun was in each day. Compare them to
 the 364 other sectors that the Sun was not in.</p>
-   <p>If present theories on stellar physics are correct, then neutrinos
+      <p>If present theories on stellar physics are correct, then neutrinos
 from stellar and galactic sources should flow unimpaired through the
 Sun, and there will be NO DISCERNIBLE QUANTITATIVE DIFFERENCE between
 the Sun sectors and the 364 other sectors that the Sun was not in.</p>
-   <p>This will not be so.</p>
-   <p>I predict that the data will exhibit a CONSISTENT DECREASE of
+      <p>This will not be so.</p>
+      <p>I predict that the data will exhibit a CONSISTENT DECREASE of
 interstellar and intergalactic neutrinos within the solar sectors.</p>
-   <p>
+      <p>
 ELUSIVE NEUTRINOS</p>
-   <p>This chapter offers observational evidence which led me to my
+      <p>This chapter offers observational evidence which led me to my
 conclusions.</p>
-   <p>Problem:
+      <p>Problem:
 Dr. Raymond Davis of the Brookhaven National Laboratory has been
 monitoring the emanation of neutrons from the Sun since 1967, and he
 has demonstrated that the flow of these neutrinos amounts to less than
@@ -182,7 +183,7 @@ penetrate the Sun's absolute vacuum interior and so escape the Earth
 based observer.
 This is the cause for the lesser neutrino flow observed to be coming
 from the Sun.</p>
-   <p>Problem:
+      <p>Problem:
 When sunspots occur on the Sun's photosphere, the neutrino count
 drops.
 Neutrinos have no charge and so cannot be affected by the magnetic
@@ -192,15 +193,15 @@ sunspots on the photospheric surface should have no effect on the
 neutrinos. These subatomic particles should pass to the observer
 unimpeded, yet the neutrino count is diminished during sunspot
 activity.(6) Why?</p>
-   <p>Solution:
+      <p>Solution:
 Neutrinos originate near the Sun's photospheric surface.
 Within sunspots there is decreased temperature and luminosity, so
 there is less likelihood of neutrino production; hence a decrease of
 neutrinos during sunspot activity.</p>
-   <p>
+      <p>
 
 SUNSPOTS</p>
-   <p>Problem:
+      <p>Problem:
 Sunspots are depressions in the Sun's photospheric surface.(7) If the
 interior of a sunspot is closer to the Sun's supposed core, why does
 it get cooler and darker and not hotter and brighter in these areas?
@@ -208,9 +209,9 @@ Solution:
 The Sun has no core.
 A sunspot depression is darker because it is closer to the Sun's
 Absolute vacuum interior.</p>
-   <p>
+      <p>
 THOUGHT MODEL</p>
-   <p>If the Sun's mass is only a thin shell of matter, how does one account
+      <p>If the Sun's mass is only a thin shell of matter, how does one account
 for its powerful gravitational attraction?
 It is time for a thought model.
 Imagine the air in front of you. Imagine now that you can apply a
@@ -242,7 +243,7 @@ model should hold true anywhere in the universe; wherever there is
 pressure, a vacuum will attract.
 If an Absolute vacuum were possible, what behavior would we expect of
 its nature? How would the universe respond to such a phenomenon?</p>
-   <p>Dictionaries describe a vacuum as: 'A space devoid of matter.' This
+      <p>Dictionaries describe a vacuum as: 'A space devoid of matter.' This
 definition is no longer a sufficient description of a vacuum, since it
 appears that all space in the Universe contains some measure of
 mass/energy. Perhaps a better description would be: 'A Vacuum is a
@@ -261,9 +262,9 @@ that a magnetic field may exist within an absolute vacuum.
 In our thought model we used an imaginary force to maintain a
 continuous vacuum. Is there any way of demonstrating the existence of
 this force?</p>
-   <p>
+      <p>
 PLASMA: THE SUPER-HOT GAS</p>
-   <p>As I mentioned in the introduction, it was not long ago, that physics
+      <p>As I mentioned in the introduction, it was not long ago, that physics
 classified matter into only three states: Solid, liquid, and gas.
 It was not realized until recently that a gas heated to a very high
 temperature does not obey the law of gasses; it displays a behavior
@@ -296,8 +297,8 @@ in their wake is an Absolute Vacuum.
 It strikes me that it would be a fruitful enterprise to monitor some
 future plasma experiments with a sensitive gravimeter to see if known
 plasma configurations exhibit inducing gravity characteristics.</p>
-   <p>RUDIMENTS OF THE DYNAMIC GRAVAC CYCLE</p>
-   <p>Although it is highly possible that the following scenario is a gross
+      <p>RUDIMENTS OF THE DYNAMIC GRAVAC CYCLE</p>
+      <p>Although it is highly possible that the following scenario is a gross
 oversimplification, I believe it to be an accurate thumbnail rendition
 of the Sun's mode of propagation. I call it the Solar Gravity/Vacuum
 Cycle, or the Solar GRAVAC cycle:
@@ -328,7 +329,7 @@ gravitational compression in core of proto-sun...Pressure...Nuclear
 Fusion.....Plasma.....Electrons form Camp/ Protons form
 Camp....Magnetic repulsion....Induced Gravitational Attraction...
 And then back to ' Pressure.'....</p>
-   <p>This concept is in harmony with the conservation of angular momentum,
+      <p>This concept is in harmony with the conservation of angular momentum,
 in that it accounts for the relatively slow rotation of our Sun.
 Jupiter, the fifth planet from the Sun, has by far the greatest
 portion of angular momentum of the Solar System. If the Sun contracted
@@ -339,9 +340,9 @@ proto-Sun's spin was considerable while it was a dense ball of mass,
 but as it inaugurated nuclear fusion and expanded into a thin shell of
 plasma, it lost its angular momentum - like the ice skater letting her
 arms out and slowing down.(15)</p>
-   <p>
+      <p>
 HELIOSEISMOLOGY - THE RING OF TRUTH</p>
-   <p>A whole new science has recently sprung up called Helioseismology. It
+      <p>A whole new science has recently sprung up called Helioseismology. It
 has been observed that the Sun vibrates, rather like a bell. It is
 presently believed that solar resonances are propagated acoustically
 from the Sun's core.(16)
@@ -359,7 +360,7 @@ sensitive outer shell to dance upon the interior magnetic field, like
 the oscillations produced by an acoustic speaker.
 A blind-folded person would be hard pressed to tell whether he is
 being addressed directly or via a speaker.</p>
-   <p>The same is true for Helioseismology; the observer is blind to the
+      <p>The same is true for Helioseismology; the observer is blind to the
 interior and so the information is interpreted in the light of present
 concepts of solar theory.
 Helioseismologists have discovered a condition in the Sun's shallower
@@ -369,7 +370,7 @@ that the rotation actually decreases with depth. It is hard for any
 core theory to come to terms with this lack of angular momentum.(18)
 This observation of the Sun suggests an inversion - a sun turned
 inside out.</p>
-   <p>
+      <p>
 RELATED NATURAL PHENOMENA
 Vocal cords produce compressional waves ( high and low pressures )
 that travel through the air. These waves are received by the ear,
@@ -381,18 +382,18 @@ relation to the gravitational attraction of the Earth.
 If pressure and gravity were two separate and unrelated forces, would
 one not expect to find two distinctly separate organs to monitor these
 phenomena?</p>
-   <p>A plane flies through the air; its forward motion produces a flow of
+      <p>A plane flies through the air; its forward motion produces a flow of
 air above the wing which creates a standing low pressure center.(20)
 The plane is sucked into the air, away from the Earth's gravitational
 field. Again we observe an interplay between the forces of pressure
 and gravity.</p>
-   <p>When a rocket in space fires its engines, the same interplay of forces
+      <p>When a rocket in space fires its engines, the same interplay of forces
 are at work. The rocket places a high pressure behind itself; in so
 doing it can be said that a low pressure center exists in front of the
 rocket, and the rocket moves in that direction.</p>
-   <p>
+      <p>
 MR. SCIENCE &amp; THE BREEZY ROOM</p>
-   <p>I have constructed a very special room. Its design allows for a flow
+      <p>I have constructed a very special room. Its design allows for a flow
 of air through the ceiling and floor of the room. It has no windows
 and whoever is inside is unable to make any exterior observations. As
 with Einstein's famous accelerating rocket,(21) the observer is free
@@ -407,16 +408,16 @@ Due to the Earths gravitational attraction which causes the atmosphere
 its composure.
 In doing so, the air will also flow through Mr. Science's room - he
 takes note.</p>
-   <p>When asked about the nature of the two experiments, he tells us that
+      <p>When asked about the nature of the two experiments, he tells us that
 he believes them to be identical - a flow of air from top to bottom.
 He is unaware that the first experiment was the result of pressure;
 nor does he know that the second experiment was caused by gravity. He
 therefore concludes that the nature of the force that propelled the
 air through the room was the same in both instances; to Mr. Science,
 pressure_and_gravity_are_identical!</p>
-   <p>
+      <p>
 NATURE'S GRAVITY WELLS</p>
-   <p>Earlier, I mentioned that a vortex in a stirred cup of coffee mimics
+      <p>Earlier, I mentioned that a vortex in a stirred cup of coffee mimics
 the force of gravity. This phenomena is not limited to our cup; it
 manifests itself throughout nature's domain.
 The low pressure eye of a hurricane is a strangely tranquil place in
@@ -429,7 +430,7 @@ This rise in sea level is caused by the low pressure of the
 hurricane's eye; the mass of the ocean in the eye is attracted to the
 relative vacuum. As with gravity, the attraction to the eye falls off
 with the square of the distance from its center.</p>
-   <p>Spiral galaxies mimic the vortex and their shape leaves us with some
+      <p>Spiral galaxies mimic the vortex and their shape leaves us with some
 perplexing questions: If galaxies are gravitationally-bound systems in
 dynamic equilibrium, they should consist of enough matter to hold
 themselves together.
@@ -442,15 +443,15 @@ possible that its high energy center is an Absolute Vacuum?
 If the GRAVAC scenario proves correct, then it is not an unreasonable
 speculation that galactic centers of a spiral galaxies are inducing
 gravity without a corresponding quantity of mass.</p>
-   <p>
+      <p>
 THE CONSEQUENCES OF A GRAVAC SUN</p>
-   <p>The concept of Absolute Vacuums may go some way to explain Olbers
+      <p>The concept of Absolute Vacuums may go some way to explain Olbers
 Paradox, which states that, if space is infinite, why is the sky not
 bright with radiative sources?
 If space is interrupted with Absolute Vacuums, - and there would be as
 many of these as there are stars - then any given area of space would
 in effect be 'shielded' from other quadrants.</p>
-   <p>If the Sun is merely a shell of mass and so has considerably less mass
+      <p>If the Sun is merely a shell of mass and so has considerably less mass
 than hitherto expected, then it cannot afford to merely drift around
 living off its limited mass, or it would soon expend its supply of
 fuel. This suggests that there must be some mechanism through which
@@ -492,7 +493,7 @@ their magnitude and temperature, and it is believed that this tells us
 something about the evolution of stars.
 Can we rely on such a diagram for evolutionary information? Consider
 this little story:</p>
-   <p>An umpire is standing in a crowded stadium. Upon his nose is an
+      <p>An umpire is standing in a crowded stadium. Upon his nose is an
 intelligent wart. This wart desires to know the process of evolution
 of its host, namely the umpire. In order to aid itself in this quest,
 the wart observes the other people in the stadium. Although the wart
@@ -508,9 +509,9 @@ In reality, the graph displays no such information; it merely
 describes the momentary state of excitement of the people in the
 stadium. The same is true for stars in nebulae. Stars of any age burn
 hotter and brighter while feeding.</p>
-   <p>
+      <p>
 CONCLUSION</p>
-   <p>In 1979 I stayed in Chicago with a friend who had been kind enough to
+      <p>In 1979 I stayed in Chicago with a friend who had been kind enough to
 give me lodging while I was organizing an exhibition of my artwork.
 One evening, after a particularly strenuous day I took a long lazy
 soak in the bath. By chance I grabbed up an astronomy periodical which
@@ -570,7 +571,7 @@ universe?
 In our shells of being, we are trapped in our own time notion and it
 is only through insight, patience and study that the actions of
 smaller and larger cosms come to life for us.</p>
-   <p>Humankind must resist falling prey to the vanity of uniqueness.
+      <p>Humankind must resist falling prey to the vanity of uniqueness.
 The sum of our species has shown no more self determination than any
 other species; we mindlessly extract trapped carbon in the form of
 coal and oil and eject it into the Earths atmosphere.
@@ -580,7 +581,7 @@ entity of which we are an interacting part? We hurtle along, blinded
 by our lack of humility; if we refuse look about us in the midst of a
 living universe, how will we know oblivion even if we were rushing
 directly towards it?</p>
-   <p>I suspect that the vast majority of copies of this paper will be
+      <p>I suspect that the vast majority of copies of this paper will be
 thrown away without even being read. Some will be casually browsed
 through before they are discarded. However, through the sheer force of
 their numbers it is quite possible that a few - such as you dear
@@ -593,7 +594,7 @@ have hurt or offended no one.
 However, if it holds the seeds of truth - that gravity is no slave to
 matter - where lie the limits of humankind's destiny, if we learn to
 understand and control the nature of its force?</p>
-   <p>It is quite possible that no one will remember my prediction when
+      <p>It is quite possible that no one will remember my prediction when
 verified, but that is of no consequence. The origin of an idea is of
 no importance; time bleaches the pages of history, names are
 eventually forgotten in the haze of time and no one is remembered for
@@ -603,14 +604,14 @@ collective memory is quite short and so it is only the concepts that
 become indispensable and fundamental to the survival of our species
 that ever remain through the rise and fall of cultures and in my
 conceit, it is here that I stake my claim.</p>
-   <p>Man has no time but that river of dreams upon which he casts himself
+      <p>Man has no time but that river of dreams upon which he casts himself
 adrift.</p>
-   <p>If you have any questions or comments, please direct them to me at:
+      <p>If you have any questions or comments, please direct them to me at:
 Stephen Goodfellow, 146 Farrand Park, Highland Park, MI 48023
 (313) 883-4827</p>
-   <p>
+      <p>
 CREDITS</p>
-   <p>I would like to thank the following people who have taken the time to
+      <p>I would like to thank the following people who have taken the time to
 correspond or talk with me. Walter Kauppila, Physics Professor at
 Wayne State University. Dr. Favro, W.S.U. Professor Chen, Professor of
 astronomy, W.S.U. Professor Teske, Physics, University of Michigan.
@@ -626,5 +627,6 @@ Janis Lewitt, Dennis Lamberis, Jackie Jablonski, for teaching me how
 to think. Special thanks to Lowell Boileau and Marvin Reili to whom I
 owe the existence of this paper, and who have taken the brunt of my
 'off the wall' ideas with immeasurable patience.</p>
-   <p>REFERENCES</p>
-</div>
+      <p>REFERENCES</p>
+   </div>
+</xml>

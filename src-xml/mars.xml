@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div class="article">
    <p>FILE: MARS.TXT
-AUTHOR: David Reynolds
+AUTHOR: David <ent type='PERSON'>Reynolds</ent>
 DATE: 03-01-88
 SUBJECT: Excerpt from the book The Truth About Mars
 -------------------------------------------------------------------------------
 ORIGIN OF UPLOAD: SAN DIEGO
-CONTRIBUTED BY: David Reynolds/ UNARIUS
+CONTRIBUTED BY: David <ent type='PERSON'>Reynolds</ent>/ UNARIUS
 ==================================================</p>
    <p> THE TRUTH ABOUT MARS</p>
    <p>copyright 1956</p>
@@ -1075,7 +1075,7 @@ be in a position to know better than anyone else. Does it not seem a
 bit preposterous to assume that in all the countless billions of
 suns, star clusters. galaxies. etc. and their associated planetary
 systems, that earth and Mars clone are inhabited?</p>
-   <p>Perhaps we should refer to Jesus of Nazareth when he stated
+   <p>Perhaps we should refer to Jesus of <ent type='GPE'>Nazareth</ent> when he stated
 that, "In my Father's house are many mansions.'</p>
    <p>In that distant day when space travel is a reality, let us hope
 that our men of science are universally schooled in the knowledge of

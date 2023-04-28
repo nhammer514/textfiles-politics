@@ -6,7 +6,7 @@ from saxonche import PySaxonProcessor
 
 
 #### Loads all of the necessary variables and functions.
-nlp = spacy.cli.download("en_core_web_lg")
+#nlp = spacy.cli.download("en_core_web_lg")
 nlp = spacy.load("en_core_web_lg")
 #########################################################################################
 # ebb: After reading the NLP output, we know spaCy is making some mistakes.
@@ -1024,6 +1024,7 @@ patterns = [
     {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "Earline\s+?Roberts"}}]},
     {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "Lee\s+?Bowers,\s+?Jr\."}}]},
     {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "Locust"}}]},
+    {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "Starmaster"}}]},
     {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "Nuri\s+?Al-Said"}}]},
     {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "Pamela\s+?Courson"}}]},
     {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "Jimmy\s+?Hendrix"}}]},

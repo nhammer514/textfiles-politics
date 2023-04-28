@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#
+<xml>
+   <div class="article">
+      <p>&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#
 %#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;
 #&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%
 &amp;%# &amp;%#
@@ -15,8 +16,8 @@
 &amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#
 %#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;%#&amp;
 </p>
-   <p>Tom Bearden</p>
-   <p>John Bedini has a prototype free energy motor.
+      <p>Tom Bearden</p>
+      <p>John Bedini has a prototype free energy motor.
 
 Imagine having a small D.C. electrical motor sitting on your laboratory bench
 powered by a common 12 volt battery. Imagine starting with a fully charged
@@ -465,6 +466,7 @@ cases when we used resistors in the output circuit.
 
 The above test results show that the efficiency of the Kromery Converter is
 well above 100%.</p>
-   <p>The end. Typed by (_&gt;Shadow Hawk 1&lt;_).
+      <p>The end. Typed by (_&gt;Shadow Hawk 1&lt;_).
 May be distributed anywhere as long as you keep the credits. I dont give a shit what you do with it either.</p>
-</div>
+   </div>
+</xml>

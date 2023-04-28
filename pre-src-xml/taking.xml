@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>Path: ns-mx!hobbes.physics.uiowa.edu!zaphod.mps.ohio-state.edu!mips!spool.mu.edu!olivea!sgigate!odin!ratmandu.esd.sgi.com!dave
+<xml>
+   <div class="article">
+      <p>Path: ns-mx!hobbes.physics.uiowa.edu!zaphod.mps.ohio-state.edu!mips!spool.mu.edu!olivea!sgigate!odin!ratmandu.esd.sgi.com!dave
 From: dave@ratmandu.esd.sgi.com (dave "who can do? ratmandu!" ratcliffe)
 Newsgroups: alt.activism,alt.conspiracy.jfk,alt.conspiracy
 Subject: Book Intro: "The Taking Of America, 1-2-3"
@@ -13,13 +14,13 @@ Organization: Silicon Graphics, Inc.
 Lines: 244
 Xref: ns-mx alt.activism:27137 alt.conspiracy.jfk:1493 alt.conspiracy:15372
 Nntp-Posting-Host: ratmandu.esd.sgi.com</p>
-   <p> This is an introduction to the book "The Taking of America, 1-2-3,"
+      <p> This is an introduction to the book "The Taking of America, 1-2-3,"
 by Richard E. Sprague, self-published by the author first in 1976,
 revised in 1979, and updated in 1985. There will be eleven posts
 following this one that will comprise the complete 1985 updated
 third edition which I will be sending out with the permission of
 the author. From the book's own introduction,</p>
-   <p> This book is not about assassinations, at least not
+      <p> This book is not about assassinations, at least not
 solely about assassinations. It is not just another book
 about who murdered President Kennedy or how or why. It is a
 book about power, about who really controls the United
@@ -40,7 +41,7 @@ understanding of what has happened to our country, and to
 us, since 1960. But the important thing to understand is
 the control and the power and all of the clandestine methods
 put together.</p>
-   <p> Two men named Richard Sprague have been involved in examining the
+      <p> Two men named Richard Sprague have been involved in examining the
 assassination of John F. Kennedy and its ensuing cover-up through the
 years. Richard A. Sprague, the former district attorney from
 Philadelphia, and the fearless prosecutor of the Yablonski murderers,
@@ -50,7 +51,7 @@ Assassinations. Richard E. Sprague was a pioneer in the field of
 computers starting in the 1940s. His involvement studying the
 photographic evidence in the assassination of President Kennedy goes
 back to 1966:</p>
-   <p> From the day it happened I was skeptical about what was
+      <p> From the day it happened I was skeptical about what was
 being said on the TV and radio with regard to how the
 president was killed. But when the "Warren Report" was
 issued I became non-skeptical and accepted it pretty much as
@@ -179,8 +180,8 @@ links between the intelligence agencies and the cover-ups
 that he was sure were involved in all of them. And if we
 had had a committee which had done that, well then, we'd
 have been a lot further along than we are 13 years later.</p>
-   <p> -- phone interview with the author, June 3, 1992</p>
-   <p> The assassination of President John F. Kennedy was the most
+      <p> -- phone interview with the author, June 3, 1992</p>
+      <p> The assassination of President John F. Kennedy was the most
 photographed murder in history. Approximately 75 photographers took
 a total of approximately 510 photographs, either before or during or
 within an hour after the events in Dealey Plaza, and either there or
@@ -217,20 +218,20 @@ or destroyed by the owners, who are fearful of the information they
 show. Or they have been locked up by the FBI, who have either placed
 them in files inaccessible to the public or possibly have destroyed
 them.</p>
-   <p> from, "The Assassination of President John F. Kennedy:
+      <p> from, "The Assassination of President John F. Kennedy:
 The Application of Computers to the Photographic
 Evidence" Richard E. Sprague, "Computers and
 Automation," May, 1970, p. 34.</p>
-   <p> for those interested, i have created a raw PostScript version of this
+      <p> for those interested, i have created a raw PostScript version of this
 complete book which can simply be lp'd to a PostScript laser printer
 for "prettified" hardcopy output. the combined size of the two
 PostScript files comprising the book is 1055954 bytes (1007753 and
 48201 bytes for the main portion and appendix respectively).</p>
-   <p>--
+      <p>--
 daveus rattus </p>
-   <p> yer friendly neighborhood ratman</p>
-   <p> KOYAANISQATSI</p>
-   <p> ko.yaa.nis.qatsi (from the Hopi Language) n. 1. crazy life. 2. life
+      <p> yer friendly neighborhood ratman</p>
+      <p> KOYAANISQATSI</p>
+      <p> ko.yaa.nis.qatsi (from the Hopi Language) n. 1. crazy life. 2. life
 in turmoil. 3. life out of balance. 4. life disintegrating.
 5. a state of life that calls for another way of living.
 Path: ns-mx!uunet!olivea!sgigate!odin!ratmandu.esd.sgi.com!dave
@@ -246,42 +247,42 @@ Organization: Silicon Graphics, Inc.
 Lines: 1113
 Xref: ns-mx alt.activism:27177 alt.conspiracy:15386 alt.conspiracy.jfk:1506
 Nntp-Posting-Host: ratmandu.esd.sgi.com</p>
-   <p> THE TAKING OF AMERICA, 1-2-3</p>
-   <p> by Richard E. Sprague
+      <p> THE TAKING OF AMERICA, 1-2-3</p>
+      <p> by Richard E. Sprague
 Reprinted here with permission of the author. Permission to distribute
 this book is freely given so long as no modification of the text is done.</p>
-   <p> Richard E. Sprague 1976
+      <p> Richard E. Sprague 1976
 Limited First Edition 1976
 Revised Second Edition 1979
 Updated Third Edition 1985</p>
-   <p> About the Author</p>
-   <p> Publisher's Word</p>
-   <p> Introduction</p>
-   <p> 1. The Overview and the 1976 Election</p>
-   <p> 2. The Power Control Group</p>
-   <p> 3. You Can Fool the People</p>
-   <p> 4. How It All Began--The U-2 and the Bay of Pigs</p>
-   <p> 5. The Assassination of John Kennedy</p>
-   <p> 6. The Assassinations of Robert Kennedy and
+      <p> About the Author</p>
+      <p> Publisher's Word</p>
+      <p> Introduction</p>
+      <p> 1. The Overview and the 1976 Election</p>
+      <p> 2. The Power Control Group</p>
+      <p> 3. You Can Fool the People</p>
+      <p> 4. How It All Began--The U-2 and the Bay of Pigs</p>
+      <p> 5. The Assassination of John Kennedy</p>
+      <p> 6. The Assassinations of Robert Kennedy and
 Dr. Martin Luther King and
 Lyndon B. Johnson's Withdrawal in 1968</p>
-   <p> 7. The Control of the Kennedys--Threats &amp; Chappaquiddick</p>
-   <p> 8. 1972--Muskie, Wallace and McGovern</p>
-   <p> 9. Control of the Media--1967 to 1976</p>
-   <p> 10. Techniques and Weapons and 100 Dead Conspirators
+      <p> 7. The Control of the Kennedys--Threats &amp; Chappaquiddick</p>
+      <p> 8. 1972--Muskie, Wallace and McGovern</p>
+      <p> 9. Control of the Media--1967 to 1976</p>
+      <p> 10. Techniques and Weapons and 100 Dead Conspirators
 and Witnesses</p>
-   <p> 11. Nixon and Ford - The Pardon and the Tapes</p>
-   <p> 12. The Second Line of Defense and Cover-Ups in 1975-1976</p>
-   <p> 13. The 1976 Election and Conspiracy Fever</p>
-   <p> 14. Congress and the People</p>
-   <p> 15. The Select Committee on Assassinations, The Intelligence
+      <p> 11. Nixon and Ford - The Pardon and the Tapes</p>
+      <p> 12. The Second Line of Defense and Cover-Ups in 1975-1976</p>
+      <p> 13. The 1976 Election and Conspiracy Fever</p>
+      <p> 14. Congress and the People</p>
+      <p> 15. The Select Committee on Assassinations, The Intelligence
 Community and The News Media</p>
-   <p> 16. 1984 Here We Come--</p>
-   <p> 17. The Final Cover-Up: How The CIA Controlled
+      <p> 16. 1984 Here We Come--</p>
+      <p> 17. The Final Cover-Up: How The CIA Controlled
 The House Select Committee on Assassinations</p>
-   <p> Appendix</p>
-   <p> About the Author</p>
-   <p> Richard E. Sprague is a pioneer in the field of electronic
+      <p> Appendix</p>
+      <p> About the Author</p>
+      <p> Richard E. Sprague is a pioneer in the field of electronic
 computers and a leading American authority on Electronic Funds
 Transfer Systems (EFTS). Receiving his BSEE degreee from Purdue
 University in 1942, his computing career began when he was
@@ -329,8 +330,8 @@ The materials presented in this book are drawn from an analysis
 of the photographic evidence, personal knowledge and records of the
 Garrison investigation, research files of the Committee to
 Investigate Assassinations and Congressional Committees.</p>
-   <p> Introduction</p>
-   <p> This book is not about assassinations, at least not solely about
+      <p> Introduction</p>
+      <p> This book is not about assassinations, at least not solely about
 assassinations. It is not just another book about who murdered
 President Kennedy or how or why. It is a book about power, about
 who really controls the United States policies, especially foreign
@@ -370,11 +371,11 @@ Barry, Gary Roberts and most of all to my wife Gloria whose hard
 work and infinite patience made it all possible.
 The book is dedicated to Representative Henry B. Gonzalez for
 his singular courage in standing against the forces of evil.</p>
-   <p> Richard E. Sprague</p>
-   <p> Hartsdale, New York
+      <p> Richard E. Sprague</p>
+      <p> Hartsdale, New York
 July 4, 1976</p>
-   <p> Publisher's Word</p>
-   <p> We published "The Taking Of America 1 2 3" during the winter of
+      <p> Publisher's Word</p>
+      <p> We published "The Taking Of America 1 2 3" during the winter of
 1976-77. It was typed under the guns in Dallas, Texas, and offset
 printed in Woodstock, N.Y. A few weeks later--five hundred copies
 in all, 24 of which were fired off to the two House Committees
@@ -400,12 +401,12 @@ admits conspiracy. Where do we go from here? We reach out now for
 a courageous commercial publisher to spread these truths that we
 hold self-evident out to our duped, betrayed, and steadily lied-to
 Americans.</p>
-   <p> Rush Harp
+      <p> Rush Harp
 Barbara Black</p>
-   <p> THE TAKING OF AMERICA, 1-2-3</p>
-   <p> Chapter 1
+      <p> THE TAKING OF AMERICA, 1-2-3</p>
+      <p> Chapter 1
 The Overview and the the 1976 Election</p>
-   <p> The taking of America has been both a simple and a very complex
+      <p> The taking of America has been both a simple and a very complex
 process. It has not been the result of a coup d'etat, although
 some aspects of the process resemble a coup. It has not been a
 process similar to the dictatorship takeovers in Germany, Italy and
@@ -445,43 +446,43 @@ To take over a real democracy without letting the people know it
 has been taken over is a fantastic achievement. A list of the
 accomplishments of the power control group illustrates the point.
 Since 1963, they have:</p>
-   <p> 1. Assassinated John F. Kennedy;</p>
-   <p> 2. Controlled Lyndon B. Johnson as president;</p>
-   <p> 3. Forced LBJ out of the presidency;</p>
-   <p> 4. Assassinated Robert F. Kennedy, assuring Nixon's
+      <p> 1. Assassinated John F. Kennedy;</p>
+      <p> 2. Controlled Lyndon B. Johnson as president;</p>
+      <p> 3. Forced LBJ out of the presidency;</p>
+      <p> 4. Assassinated Robert F. Kennedy, assuring Nixon's
 election in 1968;</p>
-   <p> 5. Assassinated Dr. Martin Luther King;</p>
-   <p> 6. Eliminated Ted Kennedy as a contender in the 1972
+      <p> 5. Assassinated Dr. Martin Luther King;</p>
+      <p> 6. Eliminated Ted Kennedy as a contender in the 1972
 elections by framing him at Chappaquiddick and
 threatening his children;</p>
-   <p> 7. Stopped George Wallace's campaign, assuring Nixon's
+      <p> 7. Stopped George Wallace's campaign, assuring Nixon's
 election in 1972;</p>
-   <p> 8. Knocked Edmund Muskie out of the 1972 election campaign
+      <p> 8. Knocked Edmund Muskie out of the 1972 election campaign
 by using dirty tricks;</p>
-   <p> 9. Covered up all of the above;</p>
-   <p> 10. Controlled the 15 major news media organizations;</p>
-   <p> 11. Made Gerald Ford vice president and then president;</p>
-   <p> 12. Insured continuity of the cover-ups by forcing Ford to
+      <p> 9. Covered up all of the above;</p>
+      <p> 10. Controlled the 15 major news media organizations;</p>
+      <p> 11. Made Gerald Ford vice president and then president;</p>
+      <p> 12. Insured continuity of the cover-ups by forcing Ford to
 pardon Nixon;</p>
-   <p> 13. Murdered about 100 witnesses and participants in the
+      <p> 13. Murdered about 100 witnesses and participants in the
 three assassinations and one attempted assassination;</p>
-   <p> 14. Blocked efforts by private citizens and organizations
+      <p> 14. Blocked efforts by private citizens and organizations
 to reveal the take-over; discredited, ruined or
 infiltrated these individuals or groups; murdered or
 were accomplices to the murders of the operating
 assassins;</p>
-   <p> 15. Blocked efforts by members of the Senate and House to
+      <p> 15. Blocked efforts by members of the Senate and House to
 initiate investigations of the assassinations and
 attempted to whitewash, ridicule or eliminate these
 efforts (their influence and infiltration has been
 particularly effective in the Church Committee and in
 the House Rules Committee);</p>
-   <p> 16. Controlled the presidential election procedure since
+      <p> 16. Controlled the presidential election procedure since
 1964 by eliminating the candidates who might expose the
 truth and insuring the election or appointment of
 candidates already committed to covering up the truth
 about the take-over.</p>
-   <p> The question for 1976 was: Could the power control group
+      <p> The question for 1976 was: Could the power control group
 continue the take-over during that year's elections? Would they be
 successful in blocking efforts to expose the take-over by congress?
 Would they be able to fool the American public again, control the
@@ -543,9 +544,9 @@ their hope that the investigation will get underway right away
 in store for the Democratic nominee for the President, whoever he
 turns out to be. I hope very much that these fears do not turn out
 to have a basis in fact."</p>
-   <p> Chapter 2
+      <p> Chapter 2
 The Power Control Group</p>
-   <p> Just who and what is the Power Control Group? Some have said
+      <p> Just who and what is the Power Control Group? Some have said
 it's the military industrial complex. Some prefer to put the blame
 on the Rockefellers and the Council on Foreign Relation. Others
 have talked about control shifting from the "Yankees" to the
@@ -649,12 +650,12 @@ cover-ups and discuss the actions that are still taking place that
 protect the Power Control Group. Only summary information is
 included on the original conspiracies, except where there is a lack
 of published data.</p>
-   <p>____________________</p>
-   <p> [1] "Nomenclature of an Assassination Cabal", Torbett, 1968 (Copeland
+      <p>____________________</p>
+      <p> [1] "Nomenclature of an Assassination Cabal", Torbett, 1968 (Copeland
 Document)</p>
-   <p> Chapter 3
+      <p> Chapter 3
 You Can Fool the People</p>
-   <p> One of the questions always asked by the beginning student of
+      <p> One of the questions always asked by the beginning student of
 America's political assassinations is, "How is it possible that all
 of this could be happening in our country without our knowing about
 it?" The "It couldn't happen here" belief has been extended to,
@@ -696,12 +697,12 @@ cover-up era (late 1972), after Nixon was re-elected and before
 Bernstein and Woodward were noticed by anyone. It should be noted
 that even in 1976, Mr. Nixon still had his vehement supporters who
 were blind to the ingredients required to fool the people.</p>
-   <p> You Can Fool the People</p>
-   <p> You can fool all of the people some of the time
+      <p> You Can Fool the People</p>
+      <p> You can fool all of the people some of the time
 You can fool some of the people all of the time
 But you can't fool all of the people all of the time.
 Abraham Lincoln, 1864</p>
-   <p> The decade of 1963 to 1973 in the United State of America
+      <p> The decade of 1963 to 1973 in the United State of America
 will go down in history for many things. In the long run
 it will be known through the world as the period which
 demonstrated that it is possible to fool most of the
@@ -767,7 +768,7 @@ effectively, on both Kennedys, on Martin Luther King, and
 in the attempt on George Wallace. In the case of Wallace,
 crippling was sufficient to change the political outcome
 in 1972.</p>
-   <p> More important than the use of assassinations has been the
+      <p> More important than the use of assassinations has been the
 ability to fool the American people into believing there were four
 lone madmen involved--and no conspiracies. The techniques involved
 in fooling people are more complex and subtle than those involved
@@ -787,7 +788,7 @@ How is it possible in the 20th century USA--with TV and high
 levels of communication, with freedom of the press, freedom of
 speech--to fool most of the people all of the time? Here is how it
 is done. Five ingredients are required.</p>
-   <p> INGREDIENT 1. A PATRIOTIC ISSUE. A fundamental issue
+      <p> INGREDIENT 1. A PATRIOTIC ISSUE. A fundamental issue
 permeating nearly all conditions of life in the U.S. is needed,
 around which the rest of the fooling can be constructed. The
 perfect issue since 1947 has been "The Red Menace," or "Communism"
@@ -823,14 +824,14 @@ his white niece's dancing with a black neighbor boy on "a Communist
 plot."
 Examples of sub-issues used by those controlling Nixon
 administration to fool the people include:</p>
-   <p> The black-white issue
+      <p> The black-white issue
 The busing issue
 The young radical issue
 The law and order issue
 The national security issue
 The old-fashioned American work ethic versus
 poverty and welfare issue</p>
-   <p> INGREDIENT 2. REACHING THE MINDS OF THE PEOPLE. To fool a
+      <p> INGREDIENT 2. REACHING THE MINDS OF THE PEOPLE. To fool a
 majority of the people all of the time it is necessary to reach
 into their minds over a relatively long period of time. Make an
 analysis of what you, the reader, believe today or disbelieve,
@@ -863,7 +864,7 @@ over that period of time between then and now. You will discover
 that your political beliefs about the U.S., the Presidency, foreign
 policy, wage and price controls, and your own economic conditions,
 etc., have been strongly influenced by the various news media.</p>
-   <p> INGREDIENT 3. CONTROLLING THE NEWS MEDIA. In Chapter 9, the
+      <p> INGREDIENT 3. CONTROLLING THE NEWS MEDIA. In Chapter 9, the
 author proves that it has been possible for a very small group of
 people in power to control or fool nearly all of the major news
 media in the U.S. about the assassination of John F. Kennedy and
@@ -893,8 +894,8 @@ years after the assassination. Several of the eleven conducted
 their own independent investigations and discovered conspiracy
 evidence sufficient to take that stand. Among these were CBS,
 Life Magazine, and "The New York Times."</p>
-   <p> The sixteen media organizations are:</p>
-   <p> 1. NBC-TV and Radio
+      <p> The sixteen media organizations are:</p>
+      <p> 1. NBC-TV and Radio
 2. CBS-TV and Radio
 3. ABC-TV and Radio
 4. Associated Press
@@ -910,7 +911,7 @@ Life Magazine, and "The New York Times."</p>
 14. Capital City Broadcasting Radio Network
 15. North American Newspaper Alliance
 16. Gannett News Service</p>
-   <p> Controlling the news media to that extent in order to fool the
+      <p> Controlling the news media to that extent in order to fool the
 people is an extreme act. It is a last resort in an extremely
 serious situation. Such a situation arose when it became obvious
 to those in power that Jim Garrison was going to expose the truth
@@ -923,7 +924,7 @@ the fooling of the people nevertheless remains. With Watergate,
 people fooling shifted from controlling the news media, which
 suddenly awakened a little too late, to the control of the the
 legal system.</p>
-   <p> INGREDIENT 4. CONTROLLING THE LEGAL SYSTEM. Perhaps the most
+      <p> INGREDIENT 4. CONTROLLING THE LEGAL SYSTEM. Perhaps the most
 important long-range ingredient in fooling the people of America is
 the control and influence over the legal system. The U.S. in the
 post-war era has reached the stage where, in case of doubt on a
@@ -1011,7 +1012,7 @@ Angeles police, the FBI, and some of the officials of the state of
 California. The control exercised has continued to prevent Sirhan
 from receiving a new trial based on new evidence of what happened
 in the assassination.</p>
-   <p> THE FIVE BIG EVENTS. The five events since World War II about
+      <p> THE FIVE BIG EVENTS. The five events since World War II about
 which the power control group must continue to fool the American
 people about are the assassinations of John Kennedy, Robert Kennedy
 and Martin Luther King; the attempted assassination of George
@@ -1041,7 +1042,7 @@ that the prosecuting attorney, the judge, the key witness, Pershing
 Gervais, and the news media were all controlled by Nixon and
 Mitchell. By late 1973 it was becoming a little more difficult to
 fool the people.</p>
-   <p> INGREDIENT 5. PAID COLUMNISTS OR LACKEYS. Control of the news
+      <p> INGREDIENT 5. PAID COLUMNISTS OR LACKEYS. Control of the news
 media includes controlling or hiring selected columnists, newsmen,
 commentators, and lackeys. Sometimes these people are called
 "spokesmen for the administration." Many of them are supposedly
@@ -1073,7 +1074,7 @@ Kennedy and plots to assassinate Castro, none of the evidence about
 the truth pertaining to the assassinations has ever appeared in any
 of these columns. Yet the American people read these columns more
 faithfully than they read the front page.</p>
-   <p> HOW THE PEOPLE HAVE BEEN FOOLED. Now that the ingredients for
+      <p> HOW THE PEOPLE HAVE BEEN FOOLED. Now that the ingredients for
 fooling the people have been discussed, let's examine the net
 results over the past twenty-five years. Between 1957 and 1972,
 there was a culmination in the use of these ingredients, many of
@@ -1094,22 +1095,22 @@ movie will be banned from the United States, just as "Z" was banned
 in Greece.
 The people of America were fooled into believing each of the
 following untruths:</p>
-   <p> Kent State:</p>
-   <p> The National Guard fired under intense pressure and attack
+      <p> Kent State:</p>
+      <p> The National Guard fired under intense pressure and attack
 by a bunch of hoodlums at Kent State University. The
 various grand juries have vindicated the Guard. There was
 no White House influence involved in the killings, or in
 the aftermath.</p>
-   <p> Mylai:</p>
-   <p> Calley was justified in shooting the civilians at Mylai
+      <p> Mylai:</p>
+      <p> Calley was justified in shooting the civilians at Mylai
 because those were his orders. You can't tell a "gook"
 from a Viet Cong and, after all, war is war.</p>
-   <p> Communism:</p>
-   <p> The greatest threat to American freedom is still a world-wide Communist take-over. The domino theory may or may not
+      <p> Communism:</p>
+      <p> The greatest threat to American freedom is still a world-wide Communist take-over. The domino theory may or may not
 be correct, but we must never give up a fight. "Peace
 with honor" was essential in Viet Nam.</p>
-   <p> Pentagon Papers:</p>
-   <p> Few people have taken the time to read the Pentagon Papers
+      <p> Pentagon Papers:</p>
+      <p> Few people have taken the time to read the Pentagon Papers
 and have understood their significance. The two-thirds
 majority who elected Nixon in 1972 may have been puzzled
 by the papers or they may not have cared. No doubt, most
@@ -1120,8 +1121,8 @@ particularly by the CIA and allies in matters pertaining
 to the cold war and Communism. The fundamental, gut issue
 of the Communist conspiracy overrides any other revelation
 in this field.</p>
-   <p> Assassinations:</p>
-   <p> In spite of polls and uneasy feelings, at least half and
+      <p> Assassinations:</p>
+      <p> In spite of polls and uneasy feelings, at least half and
 perhaps a majority of the American people still believe
 that John Kennedy, Robert Kennedy and Martin Luther King
 were assassinated by Lee Harvey Oswald, Sirhan Sirhan and
@@ -1130,8 +1131,8 @@ attempt on George Wallace was solely Arthur Bremer's
 doing. They believe these men acted alone and that they
 were madmen. (This statement pertains to the period of
 1972-73.)</p>
-   <p> Watergate:</p>
-   <p> Prior to the election in November 1972, a majority of the
+      <p> Watergate:</p>
+      <p> Prior to the election in November 1972, a majority of the
 American people believed that Richard Nixon, John
 Mitchell, Maurice Stans and everyone else of importance in
 the White House had nothing to do with the Watergate
@@ -1139,8 +1140,8 @@ affair or the activities of Donald Segretti and others
 prior to the election. Almost no one believed that the
 CIA was involved in setting up Nixon so as to capture and
 control the executive to an even greater degree.</p>
-   <p> Democracy and Freedom:</p>
-   <p> By the end of 1973 a relatively large percentage of the
+      <p> Democracy and Freedom:</p>
+      <p> By the end of 1973 a relatively large percentage of the
 American people still did not relate any of the foregoing
 incidents or situations to their own individual liberties.
 They believed patriotically in America; they believed we
@@ -1154,21 +1155,21 @@ people refuse to consider the possibility that unknown
 forces have seized control over the U.S. for the last
 fifteen years and that our liberties and democracy are
 fading away.</p>
-   <p>____________________</p>
-   <p> [1] "Nixon and the Mafia" -- Jeff Gerth, "Sundance Magazine," December
+      <p>____________________</p>
+      <p> [1] "Nixon and the Mafia" -- Jeff Gerth, "Sundance Magazine," December
 1972. Charles Colson interview, by Dick Russell - "Argosy Magazine,"
 March 1976</p>
-   <p> [2] "Why Was Martha Mitchell Kidnapped?" -- Mae Brussell, "The Realist,"
+      <p> [2] "Why Was Martha Mitchell Kidnapped?" -- Mae Brussell, "The Realist,"
 August 1972</p>
-   <p> "The June 1972 Raid on Democratic Party Headquarters -- Part 1" --
+      <p> "The June 1972 Raid on Democratic Party Headquarters -- Part 1" --
 R.E. Sprague, "Computers &amp; Automation," August 1972</p>
-   <p> "The Raid on Democratic Party Headquarters -- The Watergate
+      <p> "The Raid on Democratic Party Headquarters -- The Watergate
 Incident -- Part 2", Ibid.</p>
-   <p>--
+      <p>--
 daveus rattus </p>
-   <p> yer friendly neighborhood ratman</p>
-   <p> KOYAANISQATSI</p>
-   <p> ko.yaa.nis.qatsi (from the Hopi Language) n. 1. crazy life. 2. life
+      <p> yer friendly neighborhood ratman</p>
+      <p> KOYAANISQATSI</p>
+      <p> ko.yaa.nis.qatsi (from the Hopi Language) n. 1. crazy life. 2. life
 in turmoil. 3. life out of balance. 4. life disintegrating.
 5. a state of life that calls for another way of living.
 Path: ns-mx!hobbes.physics.uiowa.edu!zaphod.mps.ohio-state.edu!uwm.edu!spool.mu.edu!olivea!sgigate!odin!ratmandu.esd.sgi.com!dave
@@ -1184,9 +1185,9 @@ Organization: Silicon Graphics, Inc.
 Lines: 969
 Xref: ns-mx alt.activism:27281 alt.conspiracy:15429 alt.conspiracy.jfk:1550
 Nntp-Posting-Host: ratmandu.esd.sgi.com</p>
-   <p> Chapter 4
+      <p> Chapter 4
 How It All Began - The U-2 and the Bay of Pigs</p>
-   <p> To understand the origins of the Power Control Group, it is
+      <p> To understand the origins of the Power Control Group, it is
 necessary to return to the last years of the Eisenhower
 administration and examine what was going on in the Cold War.
 Eisenhower had suffered several strokes and a heart attack. He
@@ -1254,8 +1255,8 @@ some likelihood that he actually hired the same old crew he trusted
 from the Bay of Pigs days for the 1972 Watergate and other
 espionage activities.
 Here are the facts:</p>
-   <p> Nixon's Statements in "Six Crises"</p>
-   <p> Richard Nixon stated in "Six Crises": "The covert training of
+      <p> Nixon's Statements in "Six Crises"</p>
+      <p> Richard Nixon stated in "Six Crises": "The covert training of
 Cuban exiles by the CIA was due in substantial part, at least, to
 my efforts. This had been adopted as a policy as a result of my
 direct support."[1] "President Eisenhower had ordered the CIA to
@@ -1267,8 +1268,8 @@ direction of Allen Dulles, Richard M. Bissell, Jr. was the CIA man
 in charge, according to Ross &amp; Wise.[3] Charles Cabell,[4] the
 deputy director of the CIA, and a man with the code name Frank
 Bender, were also near the top of the operational planning.[5]</p>
-   <p> E. Howard Hunt</p>
-   <p> Everette Howard Hunt, Jr. was in charge of the actual invasion.
+      <p> E. Howard Hunt</p>
+      <p> Everette Howard Hunt, Jr. was in charge of the actual invasion.
 He used the code name, "Eduardo." Bernard L. Barker, using the code
 name "Macho," worked for Hunt in the CIA Bay of Pigs planning.
 James McCord was an organizer for the invasion and was one of the
@@ -1288,8 +1289,8 @@ anti-Castro CIA agents with covert (black) espionage training.
 They needed Nixon's protection in 1960 and 1972, and they received
 it both times.
 Here is how Nixon protected them in 1960.[8]</p>
-   <p> Kennedy-Nixon Debates, 1960</p>
-   <p> John Kennedy and Richard Nixon engaged in a series of national
+      <p> Kennedy-Nixon Debates, 1960</p>
+      <p> John Kennedy and Richard Nixon engaged in a series of national
 TV debates during the 1960 campaign. Kennedy was briefed by Allen
 Dulles, head of the CIA at Eisenhower's request, on secret CIA
 activities and international problems on July 23, 1960. Nixon was
@@ -1309,8 +1310,8 @@ House and find out whether Dulles had briefed Kennedy on the Cuban
 invasion plans. Seaton talked to General Andrew Goodpaster,
 Eisenhower's link to the CIA, who told Seaton that Kennedy did know
 about the Bay of Pigs plans.</p>
-   <p> Attack on Kennedy by Lying</p>
-   <p> Nixon became incensed. He said, "There was only one thing I
+      <p> Attack on Kennedy by Lying</p>
+      <p> Nixon became incensed. He said, "There was only one thing I
 could do. The covert operation had to be protected at all costs.
 I must not even suggest by implication that the U.S. was rendering
 aid to rebel forces in and out of Cuba. In fact, I must go to the
@@ -1336,8 +1337,8 @@ fiercely attacked John Kennedy for advocating a plan that he,
 Richard Nixon, secretly advocated and claimed as his own creation.
 He later had the sheer gall to brag about it in his own book as a
 very patriotic act.</p>
-   <p> Protection of Hunt and Co.</p>
-   <p> How was Nixon protecting Hunt and company in 1972? He was using
+      <p> Protection of Hunt and Co.</p>
+      <p> How was Nixon protecting Hunt and company in 1972? He was using
 the Justice Department and the Republican Congressmen, among
 others, to delay and dilute the prosecution of the Watergate seven.
 He had slowed down, suppressed, and all but stopped six separate
@@ -1368,22 +1369,22 @@ favored a direct invasion or bombing of Cuba.
 And finally, when JFK found out about the CIA's plans for
 another invasion of Cuba in the spring and summer of 1963 and
 stopped them, they began in earnest to plan his death.</p>
-   <p>____________________</p>
-   <p> [1] "Six Crises," Richard M. Nixon, Doubleday, 1962.</p>
-   <p> [2] "The Invisible Government," Wise &amp; Ross, Random House, 1964.</p>
-   <p> [3] Ibid.</p>
-   <p> [4] Brother of Earl Cabell, mayor of Dallas when Kennedy was assassinated.</p>
-   <p> [5] Ibid.</p>
-   <p> [6] "New York Times" articles on Watergate, June 18 to July 2, 1972.</p>
-   <p> [7] "Time" magazine, September 8, 1972.</p>
-   <p> [8] This episode is related in detail in "The Invisible Government."</p>
-   <p> [9] "Six Crises".</p>
-   <p>[10] "The Invisible Government."</p>
-   <p>[11] "400000 Dollars Pour Abattre Kennedy a Paris," Camille Giles, Julliard
+      <p>____________________</p>
+      <p> [1] "Six Crises," Richard M. Nixon, Doubleday, 1962.</p>
+      <p> [2] "The Invisible Government," Wise &amp; Ross, Random House, 1964.</p>
+      <p> [3] Ibid.</p>
+      <p> [4] Brother of Earl Cabell, mayor of Dallas when Kennedy was assassinated.</p>
+      <p> [5] Ibid.</p>
+      <p> [6] "New York Times" articles on Watergate, June 18 to July 2, 1972.</p>
+      <p> [7] "Time" magazine, September 8, 1972.</p>
+      <p> [8] This episode is related in detail in "The Invisible Government."</p>
+      <p> [9] "Six Crises".</p>
+      <p>[10] "The Invisible Government."</p>
+      <p>[11] "400000 Dollars Pour Abattre Kennedy a Paris," Camille Giles, Julliard
 Press, Paris 1973.</p>
-   <p> Chapter 5
+      <p> Chapter 5
 The Assassination of John Kennedy</p>
-   <p> The assassination of President Kennedy can be considered one of
+      <p> The assassination of President Kennedy can be considered one of
 a series of acts by the Power Control Group to regain the control
 they had lost when Nixon was defeated in 1960 and Kennedy
 threatened their existence. The evidence pointing toward
@@ -1414,8 +1415,8 @@ been summarized in various articles published in "Computers and
 People" (formerly "Computers and Automation") since May 1970.[1]
 This can be considered as a guideline scenario which adheres to and
 explains all of the known factual evidence.</p>
-   <p> How It Began</p>
-   <p> The conspiracy to assassinate John Kennedy began in a series of
+      <p> How It Began</p>
+      <p> The conspiracy to assassinate John Kennedy began in a series of
 discussions held in New Orleans in the summer of 1963. The men in
 the discussions were extremely angry that Kennedy had stopped plans
 and preparations for another invasion of Cuba (scheduled for the
@@ -1427,8 +1428,8 @@ Plans for assassinating President Kennedy developed out of those
 early meetings. Others whose support was sought by the group
 included Guy Banister, Major L. M. Bloomfield, Loran Hall,
 Lawrence Howard, Sergio Arcacha Smith and Carlos Prio Socarras.</p>
-   <p> Oswald's Role</p>
-   <p> During this period in the summer of 1963 Lee Harvey Oswald was
+      <p> Oswald's Role</p>
+      <p> During this period in the summer of 1963 Lee Harvey Oswald was
 working for Guy Banister on some anti-Castro projects and used the
 Communist cover of the Fair Play for Cuba Committee. Oswald
 attended some of the meetings where JFK's assassination was
@@ -1437,8 +1438,8 @@ Oswald either approached the FBI or they approached him in the
 later summer of 1963, and he began to tell the FBI about the plans
 of the group to assassinate JFK. Oswald had been a secret
 informant for the FBI since mid-1962.</p>
-   <p> Mexico City</p>
-   <p> In September, the group moved the scene of their planning to
+      <p> Mexico City</p>
+      <p> In September, the group moved the scene of their planning to
 Mexico City. There they solicited the assistance of Guy Gabaldin,
 a CIA agent. Meetings were held in the apartment of Gabaldin,
 attended by Shaw, Ferrie, Seymour, Gabaldin and Oswald on at least
@@ -1450,8 +1451,8 @@ working with Seymour, Santana, Ferrie, Howard and others on the
 Cuban invasion projects in the Florida Keys). Fred Lee Crisman,
 Jim Hicks and Jim Braden (alias Eugene Hale Brading) were also
 recruited at this point.</p>
-   <p> Oswald, the Patsy</p>
-   <p> Oswald continued to inform on the group to the FBI in Dallas.
+      <p> Oswald, the Patsy</p>
+      <p> Oswald continued to inform on the group to the FBI in Dallas.
 In mid-to late September the assassination group decided to make
 Oswald the patsy in the murder. They had discussed the need for a
 patsy in the earliest meetings in New Orleans. Billy Seymour, who
@@ -1462,8 +1463,8 @@ in Mexico City also used Oswald's name in a probable attempt to
 make it appear that Oswald was headed for Cuba. His name may have
 been Johnny Mitchell Deveraux. His picture appears in the Warren
 Commission Volumes as CE 237.</p>
-   <p> Financial Support</p>
-   <p> The team needed financial support for the assassination. They
+      <p> Financial Support</p>
+      <p> The team needed financial support for the assassination. They
 received it from Carlos Prio Socarras in Miami, who brought more
 than 50 million dollars out of Cuba. They also received money from
 Banister, and from three Texas millionaires who hated Kennedy:
@@ -1472,8 +1473,8 @@ Schlumberger Co.). The Murchison-Richardson contribution also
 included soliciting the assistance of high-level men in the Dallas
 police force. They were powerful members of the Dallas Citizens
 Council that controlled the city at that time.</p>
-   <p> Plans for Three Cities</p>
-   <p> The group in Mexico City planned to assassinate JFK in Miami,
+      <p> Plans for Three Cities</p>
+      <p> The group in Mexico City planned to assassinate JFK in Miami,
 Chicago or Dallas, using different gunmen in each case. The Miami
 plan failed because the Secret Service found out about it in
 advance and kept JFK out of the open. The Chicago plan backfired
@@ -1482,8 +1483,8 @@ Soldiers Field in early November. The group set up two
 assassination teams for Dallas. One was in Dealey Plaza; the
 second was near the International Trade Mart where JFK's luncheon
 speech was to be delivered.</p>
-   <p> CIA Support</p>
-   <p> The best evidence of CIA (Deputy-Director of Plans) involvement
+      <p> CIA Support</p>
+      <p> The best evidence of CIA (Deputy-Director of Plans) involvement
 is the fact that the majority of the known participants were
 contract agents or direct agents of the CIA. In Mexico City, the
 meetings were held in the apartment of Guy Gabaldin, a CIA (DDP)
@@ -1505,8 +1506,8 @@ Victor Marchetti, that both Clay Shaw and David Ferrie were CIA
 and assistance in his New Orleans trial. This is a strong
 indication that Hunt and Helms gave "turn of the head" approval to
 the Shaw-Ferrie assassination plan as a minimum form of support.</p>
-   <p> Dallas</p>
-   <p> The assassination group, having failed in Miami and Chicago,
+      <p> Dallas</p>
+      <p> The assassination group, having failed in Miami and Chicago,
 moved an operational team into Dallas during the second week in
 November of 1963. Shaw, Ferrie, Gabaldin and other high-level
 plotters travelled in other directions, establishing alibis as
@@ -1517,8 +1518,8 @@ Frenchy, Fred Crisman, Jim Hicks, Jim Braden, and a new recruit
 from Los Angeles, Jack Lawrence. There was also a back-up rifle
 team of Cubans to be used at a location near the International
 Trade Mart in the event something went wrong at Dealey Plaza.</p>
-   <p> Where the Teams Stayed</p>
-   <p> The teams stayed at two locations in Dallas for two weeks. One
+      <p> Where the Teams Stayed</p>
+      <p> The teams stayed at two locations in Dallas for two weeks. One
 was a rooming house run by a woman named Tammie True. During this
 period final preparations for the assassination in Dealey Plaza
 were made. These included the collecting of and planting of
@@ -1535,8 +1536,8 @@ but he did not go to Dealey Plaza. A fifth gunman, known to
 researchers as the umbrella man, was stationed on the street with
 an umbrella weapon furnished by the CIA. He was accompanied by
 another Cuban acting as a radio man.</p>
-   <p> Framing Oswald</p>
-   <p> The people involved in framing Oswald included Seymour (who used
+      <p> Framing Oswald</p>
+      <p> The people involved in framing Oswald included Seymour (who used
 his identity), someone who posed for two pictures holding a rifle,
 a photographer who took the pictures and someone who superimposed
 Oswald's head on the two negatives. Also, someone who took
@@ -1548,8 +1549,8 @@ Parkland Hospital. The pistol shells were given to William Seymour
 for planting later on. The photographers also planted photos of
 General Walker's house and driveway to implicate Oswald in the
 Walker shooting.</p>
-   <p> Dallas Policemen Involved</p>
-   <p> The policemen involved were J. D. Tippit, who was to drive two
+      <p> Dallas Policemen Involved</p>
+      <p> The policemen involved were J. D. Tippit, who was to drive two
 of the assassins, Seymour and his radio man, away in his police
 car; Bill Alexander; Jerry Hill; Sergeant McDonald; Lieutenant
 Montgomery; Lieutenant Johnson; and Lieutenant Batchelor, who
@@ -1563,8 +1564,8 @@ responsible for making sure that Jack Ruby assassinated Oswald and
 that he didn't talk about it afterward. Alexander was present on
 every occasion when Ruby was questioned or interviewed in the jail,
 in spite of Ruby's efforts to have him removed.</p>
-   <p> Other Persons Involved in Framing Oswald</p>
-   <p> Also involved in framing Oswald were Marina Oswald; her lawyer,
+      <p> Other Persons Involved in Framing Oswald</p>
+      <p> Also involved in framing Oswald were Marina Oswald; her lawyer,
 James Martin; and someone in the Dallas police force. She was
 talked into three points of false testimony: she said she took the
 two fake photos of Oswald with a camera she claimed was his. She
@@ -1576,8 +1577,8 @@ exaggerated his mean treatment of their children. There are good
 indications that these moves were made by the CIA operatives in the
 group who threatened to send Marina back to Russia. (Marina's
 uncle was a high-level officer in the KGB.)</p>
-   <p> Dealey Plaza</p>
-   <p> On the day of the assassination four men with rifles,
+      <p> Dealey Plaza</p>
+      <p> On the day of the assassination four men with rifles,
 accompanied by their radio men and several other team members,
 moved into Dealey Plaza. Seymour and a radio man entered the TSBD
 Building through the freight entrance and worked their way to the
@@ -1601,8 +1602,8 @@ Service agents and asking witnesses and officials questions to find
 out whether the assassins had been detected. There are clear
 photos of one of these men. One other man was at the corner of the
 wall on the grassy knoll.</p>
-   <p> The Shots</p>
-   <p> Upon a visual and oral signal from the man at the wall and upon
+      <p> The Shots</p>
+      <p> Upon a visual and oral signal from the man at the wall and upon
 a radio command from Hicks, the team fired its first round of
 shots. Crisman received the command from Hicks and caused Frenchy
 to fire a shot from a position behind the fence on the knoll, about
@@ -1654,8 +1655,8 @@ bullet fragment that passed through Connally's right wrist at Z
 front of JFK's head, in such a position that Connally's right palm
 was facing JFK as the governor fell into his wife's arms. The
 fragment entered the front of his wrist and exited from the back.</p>
-   <p> Oswald's Actions</p>
-   <p> Lee Harvey Oswald started November 22, 1963 with the knowledge
+      <p> Oswald's Actions</p>
+      <p> Lee Harvey Oswald started November 22, 1963 with the knowledge
 that there might be an attempt on JFK's life during the day. He
 had reported this possibility to the FBI in his informer's role
 five days earlier; he undoubtedly thought the FBI and Secret
@@ -1692,8 +1693,8 @@ realize at first that he had been framed. When this began to
 become clear to him on Saturday, November 23, he remained confident
 that the FBI would get him out of the situation. After all, he
 worked for them!</p>
-   <p> Jack Ruby</p>
-   <p> Jack Ruby, in addition to his Mafia involvements and other
+      <p> Jack Ruby</p>
+      <p> Jack Ruby, in addition to his Mafia involvements and other
 criminal activities, was also running guns to Cuba and carrying
 payoff money to other anti-Castro groups on behalf of various CIA-backed projects. His involvement in the assassination of JFK
 appears to have been minor, even though he knew about it in
@@ -1711,8 +1712,8 @@ Breck Wall. Shaw telephoned Wall from San Francisco and Wall
 called Ruby. He was told it was an official CIA-sponsored act, in
 the best interests of the United States, and that he would be out
 of jail in a few days after his capture.</p>
-   <p> Planted Evidence</p>
-   <p> The planting of the evidence against Oswald first began with
+      <p> Planted Evidence</p>
+      <p> The planting of the evidence against Oswald first began with
 William Seymour, who used Oswald's identity during September and
 October, 1963. Next, the faked photographs of Oswald were created.
 Two of the team members used a camera of their own to take the two
@@ -1738,42 +1739,42 @@ pistol, the retrieval of the shells from rifle and pistol and of
 bullet 399 and the bullet fragments from the rifle all required
 enough time that the event occurred well in advance of the
 assassination .</p>
-   <p> Escape Plans</p>
-   <p> As mentioned before, plans were made for the team to escape by
+      <p> Escape Plans</p>
+      <p> As mentioned before, plans were made for the team to escape by
 car, train, and airplane. Evidence shows:</p>
-   <p> 1. A white car was parked straddling a log barrier behind
+      <p> 1. A white car was parked straddling a log barrier behind
 the western cupola on the grassy knoll. It left that
 spot one minute after the shots were fired and drove
 eastward on the Elm Street extension in front of the
 TSBD.</p>
-   <p> 2. A white station wagon driving west on Elm Street
+      <p> 2. A white station wagon driving west on Elm Street
 stopped at the foot of the grassy knoll at 12:40 p.m.,
 ten minutes after the shots were fired. It picked up a
 man who looked like Oswald and drove under the triple
 overpass.</p>
-   <p> 3. A railroad train carrying three "tramps" began to leave
+      <p> 3. A railroad train carrying three "tramps" began to leave
 the freight train area west and north of the TSBD at
 around one o'clock, thirty minutes after the shots.
 The train was under the tower control of Lee Bowers and
 was stopped by him. The tramps were arrested.</p>
-   <p> 4. A police car stopped in front of Oswald's rooming house
+      <p> 4. A police car stopped in front of Oswald's rooming house
 and honked twice around 1:10 p.m.</p>
-   <p> 5. Policeman Tippit's patrol car was far out of position
+      <p> 5. Policeman Tippit's patrol car was far out of position
 in the Oak Cliff area near Ruby and Oswald's rooming
 houses. Tippit was shot by two men, one of whom was
 Billy Seymour.</p>
-   <p> 6. A small airplane was sitting at the Redbird Airport, a
+      <p> 6. A small airplane was sitting at the Redbird Airport, a
 location in the same direction as Oak Cliff, a little
 further out from Dealey Plaza. Its engines were
 running. It was ready for takeoff at 1 p.m.</p>
-   <p> 7. David Ferrie went to Houston, Texas on the afternoon of
+      <p> 7. David Ferrie went to Houston, Texas on the afternoon of
 November 22, driving at high speed through bad
 thunderstorms to get there. He was positioned at a pay
 telephone at an ice skating rink near the Houston
 airport, until receiving a phone call there. After
 that he returned to New Orleans.</p>
-   <p> Escape Routes</p>
-   <p> These escape plans were modified after the assassination. It
+      <p> Escape Routes</p>
+      <p> These escape plans were modified after the assassination. It
 became unnecessary for any of the Dealey Plaza participants to
 escape by airplane. The framing of Oswald and the failure of the
 Secret Service or FBI to detect any of the escaping gunmen or their
@@ -1802,8 +1803,8 @@ The other Dealey Plaza participants, Crisman, a tall tramp,
 Braden and Hicks escaped by various means. Braden was arrested and
 released. Hicks drove home. Crisman and the tall tramp followed
 Frenchy's route into the box cars.</p>
-   <p> Tippit Shooting</p>
-   <p> David Belin of the Warren and Rockefeller Commission is fond of
+      <p> Tippit Shooting</p>
+      <p> David Belin of the Warren and Rockefeller Commission is fond of
 saying, "Lee Harvey Oswald killed policeman Tippit. Since the
 case against Oswald for the Tippit slaying is so strong, it
 follows that Oswald also shot the President." The case against
@@ -1821,8 +1822,8 @@ Seymour entered the theater in a manner to draw attention and then
 left before the Oswald arrest. While the shells recovered were
 found to match Oswald's pistol, none of the bullets recovered from
 Tippit's body matched.</p>
-   <p> Comments and Congressional Actions Needed</p>
-   <p> The above scenario comes much closer to explaining what happened
+      <p> Comments and Congressional Actions Needed</p>
+      <p> The above scenario comes much closer to explaining what happened
 to John Kennedy than either the Warren Commission Report or the
 Rockefeller Commission report. It matches the known evidence from
 the two prime sources, the Warren Commission files in the National
@@ -1842,17 +1843,17 @@ committee, rather than as the ultimate solution.
 It should be utilized in conjunction with two other documents
 already submitted to the four Congressional groups interested in
 the case. The groups are:</p>
-   <p> (1) The Senate;</p>
-   <p> (2) The House Special Committee on Intelligence;</p>
-   <p> (3) Thomas Downing, Representative from Virginia, who
+      <p> (1) The Senate;</p>
+      <p> (2) The House Special Committee on Intelligence;</p>
+      <p> (3) Thomas Downing, Representative from Virginia, who
 introduced House Resolution 498 to reopen the JFK
 assassination investigation;</p>
-   <p> (4) Henry Gonzalez, Representative from Texas, who
+      <p> (4) Henry Gonzalez, Representative from Texas, who
 introduced House Resolution 204 to reopen the
 assassination inquiries on John and Robert Kennedy,
 Martin Luther King, and George Wallace.</p>
-   <p> The Two Documents</p>
-   <p> 1. "Recommendations for the Senate and House Committee's
+      <p> The Two Documents</p>
+      <p> 1. "Recommendations for the Senate and House Committee's
 Investigations of Illegal and Subversive Domestic Activities of
 the CIA and FBI," memorandum by Richard E. Sprague (submitted
 to them).
@@ -1860,8 +1861,8 @@ to them).
 Involvement of the Central Intelligence Agency in the Plans and
 the Cover-Up," by Richard E. Sprague, in "People and the
 Pursuit of Truth," May, 1975.</p>
-   <p> Dramatis Personae</p>
-   <p> Bill Alexander - Assistant to District Attorney Wade, Dallas
+      <p> Dramatis Personae</p>
+      <p> Bill Alexander - Assistant to District Attorney Wade, Dallas
 County.
 Ronald Augustinovich - CIA agent. Participated in Mexico City
 meetings.
@@ -1980,25 +1981,25 @@ Dallas. Supposedly shot at by Oswald.
 Breck Wall - Friend of Clay Shaw and Jack Ruby.
 Marvin Wise - Dallas police officer, arrested "tramps" in Dealey
 Plaza.</p>
-   <p>____________________</p>
-   <p>[1] For a complete listing of articles on political assassinations in the
+      <p>____________________</p>
+      <p>[1] For a complete listing of articles on political assassinations in the
 United States, published in "Computers and People" (formerly
 "Computers and Automation"), see the issues of "People and the Pursuit
 of Truth," May 1975, p. 6, and June, 1975, p. 5, published by Berkeley
 Enterprises, Inc., 815 Washington St., Newtonville, Mass. 02160.</p>
-   <p>[2] "1978 Los Angeles Free Press" - Special Report No 1, page 16, copy of
+      <p>[2] "1978 Los Angeles Free Press" - Special Report No 1, page 16, copy of
 receipt given to Commander James J. Humes MC, USN "for Missile removed
 on this date (Nov. 22, 1963)," signed by Francis X. O'Neill, Jr.,
 James W. Sibert, FBI Agents.</p>
-   <p> Also "Postmortem," by Harold Weisberg, page 266, the missile receipt.</p>
-   <p>[3] As mentioned earlier, it is also possible that one of the team called
+      <p> Also "Postmortem," by Harold Weisberg, page 266, the missile receipt.</p>
+      <p>[3] As mentioned earlier, it is also possible that one of the team called
 him from a telephone inside the TSBD.</p>
-   <p> * * * * * * *
+      <p> * * * * * * *
 --
 daveus rattus </p>
-   <p> yer friendly neighborhood ratman</p>
-   <p> KOYAANISQATSI</p>
-   <p> ko.yaa.nis.qatsi (from the Hopi Language) n. 1. crazy life. 2. life
+      <p> yer friendly neighborhood ratman</p>
+      <p> KOYAANISQATSI</p>
+      <p> ko.yaa.nis.qatsi (from the Hopi Language) n. 1. crazy life. 2. life
 in turmoil. 3. life out of balance. 4. life disintegrating.
 5. a state of life that calls for another way of living.
 Path: ns-mx!uunet!olivea!sgigate!odin!ratmandu.esd.sgi.com!dave
@@ -2014,11 +2015,11 @@ Organization: Silicon Graphics, Inc.
 Lines: 632
 Xref: ns-mx alt.activism:27381 alt.conspiracy:15473 alt.conspiracy.jfk:1570
 Nntp-Posting-Host: ratmandu.esd.sgi.com</p>
-   <p> Chapter 6
+      <p> Chapter 6
 The Assassinations of Robert Kennedy and
 Dr. Martin Luther King and
 Lyndon B. Johnson's Withdrawal in 1968</p>
-   <p> The Power Control Group faced several dangers in 1968. While
+      <p> The Power Control Group faced several dangers in 1968. While
 President Johnson had cooperated fully with their desires in Viet
 Nam and in other parts of the world, he had not met their
 requirements in other areas. He had gone too far in appeasing the
@@ -2178,28 +2179,28 @@ Group is certainly not through yet. More planted disinformation
 can be expected and more bribing of judges and expert witnesses.
 There may be more killings. Cesar's life and the lives of the two
 hypnotists won't be worth much if they ever start talking.[3]</p>
-   <p>____________________</p>
-   <p>[1] "The Fourth Force" -- L. Fletcher Prouty -- "Gallery Magazine" --
+      <p>____________________</p>
+      <p>[1] "The Fourth Force" -- L. Fletcher Prouty -- "Gallery Magazine" --
 December, 1975</p>
-   <p>[2] "Frame Up: The Martin Luther King/James Earl Ray Case" -- Harold
+      <p>[2] "Frame Up: The Martin Luther King/James Earl Ray Case" -- Harold
 Weisberg -- E.P. Dutton -- 1971</p>
-   <p> "The Assassination of Reverend Martin Luther King, Jr." -- R.E.
+      <p> "The Assassination of Reverend Martin Luther King, Jr." -- R.E.
 Sprague -- "Computers &amp; Automation," December 1970</p>
-   <p> "The Assassination of Reverend Martin Luther King, Jr. -- Parts I to
+      <p> "The Assassination of Reverend Martin Luther King, Jr. -- Parts I to
 II" -- Wayne Chastain -- "Computers &amp; Automation," December 1974.</p>
-   <p>[3] Most of the above information has been published in a series of
+      <p>[3] Most of the above information has been published in a series of
 articles and in two books and one movie.</p>
-   <p> "The Assassination of Senator Robert F. Kennedy" -- R.E. Sprague --
+      <p> "The Assassination of Senator Robert F. Kennedy" -- R.E. Sprague --
 "Computers &amp; Automation" -- September 1972 and October 1970</p>
-   <p> "RFK Must Die" -- Robert Blair Kaiser -- 1970</p>
-   <p> "The Assassination of Robert F. Kennedy, A Searching Look at the
+      <p> "RFK Must Die" -- Robert Blair Kaiser -- 1970</p>
+      <p> "The Assassination of Robert F. Kennedy, A Searching Look at the
 Conspiracy and Cover-Up 1968-1978" -- William Turner and John
 Christian -- 1978</p>
-   <p> "The Second Gun" -- Documentary Movie -- Ted Charach -- American
+      <p> "The Second Gun" -- Documentary Movie -- Ted Charach -- American
 Films -- Beverly Hills</p>
-   <p> Chapter 7
+      <p> Chapter 7
 The Control of the Kennedys - Threats &amp; Chappaquiddick</p>
-   <p> Through the years the most common question of all has been: "If
+      <p> Through the years the most common question of all has been: "If
 there was a conspiracy in the JFK assassination, why didn't Robert
 Kennedy find out about it and take some action? And if there was a
 conspiracy in the RFK assassination why haven't Ted Kennedy and
@@ -2413,23 +2414,23 @@ Kennedy were alive today he would probably make the same statement.
 John Dean summed it up when he said to Richard Nixon as recorded
 on the White House tapes in 1973: "If Teddy knew the bear trap he
 was walking into at Chappaquiddick. . . ."[5]</p>
-   <p>____________________</p>
-   <p>[1] "The fabulous Jackie" -- Christian Cafarakis -- Productions de Paris
+      <p>____________________</p>
+      <p>[1] "The fabulous Jackie" -- Christian Cafarakis -- Productions de Paris
 -- 1972</p>
-   <p>[2] "You the Jury" -- Robert Cutler -- Self Published -- 1974</p>
-   <p>[3] A rope attached to the stick which held the Oldsmobile throttle wide
+      <p>[2] "You the Jury" -- Robert Cutler -- Self Published -- 1974</p>
+      <p>[3] A rope attached to the stick which held the Oldsmobile throttle wide
 open caught the drivers rear view mirror and tore it loose so that
 it was hanging by the rear bolt. There was no other mark on the
 left side of the car.</p>
-   <p>[4] A sliver of glass from two broken windows no doubt caused this
+      <p>[4] A sliver of glass from two broken windows no doubt caused this
 bleeding since Mary Jo was already face down and unconscious in the
 rear seat. Since there was no autopsy this clean cut went
 unnoticed by the embalmers.</p>
-   <p>[5] On page 121, "White House Tapes," Paperback Edition, published by New
+      <p>[5] On page 121, "White House Tapes," Paperback Edition, published by New
 York Times</p>
-   <p> Chapter 8
+      <p> Chapter 8
 1972 - Muskie, Wallace and McGovern</p>
-   <p> In 1972 the Power Control Group was faced with another set of
+      <p> In 1972 the Power Control Group was faced with another set of
 problems. Again the objective was to insure Nixon's election at
 all costs and to continue the cover-ups. Nixon might have made it
 on his own. We'll never know because the Group guaranteed his
@@ -2552,23 +2553,23 @@ private citizen can get anywhere near him. Even if they could he
 might not talk if he had been programmed. Unless an expert
 deprogrammed him, his secret could be locked away in his brain,
 just like Sirhan's secret is locked within his mind.</p>
-   <p>____________________</p>
-   <p>[1] "Report of an Investigation" by William Turner for the Committee
+      <p>____________________</p>
+      <p>[1] "Report of an Investigation" by William Turner for the Committee
 on Government Intelligence.</p>
-   <p> References:</p>
-   <p> "Bremer Wallace and Hunt", The New York Review of Books -- Gore
+      <p> References:</p>
+      <p> "Bremer Wallace and Hunt", The New York Review of Books -- Gore
 Vidal -- December 13, 1973.</p>
-   <p> "The Wallace Shooting" -- Alan Stang -- "American Opinion" --
+      <p> "The Wallace Shooting" -- Alan Stang -- "American Opinion" --
 October, 1972.</p>
-   <p> "Why Was Wallace Shot?" -- R.F. Salant -- Self Published --
+      <p> "Why Was Wallace Shot?" -- R.F. Salant -- Self Published --
 Monsey, N.Y.</p>
-   <p> "Interview With Charles Colson" -- Dick Russell -- "Argosy" --
+      <p> "Interview With Charles Colson" -- Dick Russell -- "Argosy" --
 March, 1976.</p>
-   <p>--
+      <p>--
 daveus rattus </p>
-   <p> yer friendly neighborhood ratman</p>
-   <p> KOYAANISQATSI</p>
-   <p> ko.yaa.nis.qatsi (from the Hopi Language) n. 1. crazy life. 2. life
+      <p> yer friendly neighborhood ratman</p>
+      <p> KOYAANISQATSI</p>
+      <p> ko.yaa.nis.qatsi (from the Hopi Language) n. 1. crazy life. 2. life
 in turmoil. 3. life out of balance. 4. life disintegrating.
 5. a state of life that calls for another way of living.
 From dave@ratmandu.esd.sgi.com Wed Jun 10 10:08:58 1992
@@ -2586,11 +2587,11 @@ From: dave@ratmandu.esd.sgi.com (dave "who can do? ratmandu!" ratcliffe)
 To: PML3@PL122c.EECS.Lehigh.EDU
 Subject: "The Taking of America, 1-2-3" (4/11)
 Status: RO</p>
-   <p>Subject: "The Taking of America, 1-2-3" (4/11)
+      <p>Subject: "The Taking of America, 1-2-3" (4/11)
 Summary: we were robbed of our capability of electing a president we wanted
 Keywords: part 4 of 11: first half of chapter 9
 Lines: 995</p>
-   <p> chapter 9 stands out as one of the most detailed explorations i've ever
+      <p> chapter 9 stands out as one of the most detailed explorations i've ever
 read *anywhere* concerning the media's culpability in the cover-up of
 the assassination of the president. the major media's collusion in
 covering-up the truth of the assassination is one of the most tragic
@@ -2601,9 +2602,9 @@ perpetrated and perpetuated by "the official reality consortium," we will
 continue to experience an evermore expanding strangulating oligarchy and
 ever decreasing accountability.
 --ratitor</p>
-   <p> Chapter 9
+      <p> Chapter 9
 Control of the Media</p>
-   <p> As mentioned in Chapter 1, one of the two clever strategies used
+      <p> As mentioned in Chapter 1, one of the two clever strategies used
 by the Power Control Group in the taking of America has been the
 control of the news media.
 For those American citizens who steadfastly refuse to believe
@@ -2775,8 +2776,8 @@ any further generalization about the performance of the media in
 the JFK case, it will be revealing to examine what happened and
 specifically who took what actions in the case of the eleven
 national organizations and the nine local ones listed earlier.</p>
-   <p> Time-Life</p>
-   <p> The Time Inc. organization let "Life Magazine" establish its
+      <p> Time-Life</p>
+      <p> The Time Inc. organization let "Life Magazine" establish its
 editorial policy while "Time" published more or less standard
 "Time-Life" stories. "Life" became directly involved in the
 assassination action and evidence suppression from the very
@@ -2855,7 +2856,7 @@ assassination, outside of the author's personal collection and the
 collection now located at the headquarters of the Committee to
 Investigate Assassinations in Washington, D.C. Among the photos
 discovered were:</p>
-   <p> The Dorman movie Private
+      <p> The Dorman movie Private
 The Wilma Bond photos Private
 The Robert Hughes movie Private
 The David Weigman TV footage NBC
@@ -2865,8 +2866,8 @@ The William Allen photos "Dallas Times Herald"
 The George Smith photos Ft. Worth "Star Telegram"
 The John Martin movie Private
 Hugh Betzen's photo Private</p>
-   <p> (See "Computers and Automation," May 1970)</p>
-   <p> Many of these were important in proving conspiracy and some
+      <p> (See "Computers and Automation," May 1970)</p>
+      <p> Many of these were important in proving conspiracy and some
 showed pictures of the real assassins.
 The "Life" team headed by Billings was in the process of
 discovering a great deal about the conspiracy during the 1966-1968
@@ -2928,8 +2929,8 @@ slides met the same stiff opposition. In 1971 "Life"
 representatives indicated they might be interested in selling
 rights to the Zapruder film for a sum in the neighborhood of a
 million dollars.</p>
-   <p> CBS</p>
-   <p> The American public is aware of the editorial policy adopted by
+      <p> CBS</p>
+      <p> The American public is aware of the editorial policy adopted by
 the Columbia Broadcasting System toward the Kennedy assassination
 because of a special four-part series with Walter Cronkite which
 was broadcast on network TV in prime time in the summer of 1967.[4]
@@ -3084,8 +3085,8 @@ Someone at CBS who was very disturbed by this called a member of
 the Committee to Investigate Assassinations and told him what had
 been deleted. This led to the story being printed in the
 newspapers.</p>
-   <p> "The New York Times"</p>
-   <p> The record of the "Times" through the 1969-1971 period follows
+      <p> "The New York Times"</p>
+      <p> The record of the "Times" through the 1969-1971 period follows
 the same pattern as CBS and "Life" magazine editorial policies.
 The early editorials following the Warren Report supported the
 Commission. The "Times" cooperated by publishing much of the
@@ -3177,8 +3178,8 @@ conspiracy. The "Times" has been informed of this but they have
 shut off all discussion of the subject. The complete story of the
 complicity of the "New York Times" in the crimes to which they have
 become an accessory would take up an entire volume.[6]</p>
-   <p> NBC</p>
-   <p> The National Broadcasting Company became an active participant
+      <p> NBC</p>
+      <p> The National Broadcasting Company became an active participant
 in the government's efforts to protect Clay Shaw and to ruin Jim
 Garrison.
 Two of NBC's high-level management people, Richard Townley of
@@ -3221,8 +3222,8 @@ knoll and in the parking lot which should contain important
 evidence. Dan Owens took TV movies in and around the Depository
 building which should show how the snipers' nest was faked on the
 sixth floor, and one of the assassins in front of the building.</p>
-   <p> ABC</p>
-   <p> Of the three major television networks, ABC has remained more
+      <p> ABC</p>
+      <p> Of the three major television networks, ABC has remained more
 objective and appears to be less under the thumb of the government
 than the other two. For example, when NBC was busy defending the
 Warren Commission and Clay Shaw and attacking Jim Garrison, ABC was
@@ -3249,8 +3250,8 @@ what the film showed, the next TV broadcast of "The Last Journey"
 (scheduled for the following week) was cancelled without any
 logical explanation. The next time the film appeared on ABC (late
 1971), the three-shot ballroom sequence had been cut.</p>
-   <p> United Press International</p>
-   <p> Of all the fifteen major news organizations included herein, UPI
+      <p> United Press International</p>
+      <p> Of all the fifteen major news organizations included herein, UPI
 has come closest to really pursuing the truth about the JFK
 assassination. Yet they, too, have suppressed evidence, have not
 had the courage of their convictions in analyzing conspiratorial
@@ -3361,8 +3362,8 @@ letters and news releases) has supported the Warren Commission
 through the years. The major difference between UPI and "Life" or
 CBS is that no drastic reversal of management policy took place at
 UPI.</p>
-   <p> AP</p>
-   <p> Associated Press became an accessory after the fact by taking an
+      <p> AP</p>
+      <p> Associated Press became an accessory after the fact by taking an
 action unprecedented for a news wire service. It published a
 three-part report by three AP writers in 1967, completely
 supporting the Warren Commission. The report was transmitted by
@@ -3407,8 +3408,8 @@ the JFK assassination.
 Nevertheless, the broadly announced editorial policy and stance
 of Associated Press between 1964 and 1972 fully supported the
 Warren Commission and the lone assassin fable.</p>
-   <p> "Newsweek"</p>
-   <p> "Newsweek"'s editorial policy and coverage of the assassination
+      <p> "Newsweek"</p>
+      <p> "Newsweek"'s editorial policy and coverage of the assassination
 and its aftermath was largely the doing of one man, Hugh
 Aynesworth. Aynesworth was the Dallas-Houston correspondent for
 "Newsweek" following the assassination. He was in Dealey Plaza
@@ -3424,8 +3425,8 @@ accused Lynn Loisel, a Garrison staff member, of bribing Al
 Beaubolf to testify about a meeting to plot the assassination.
 Beaubolf later denied this accusation in a sworn affidavit and
 proved Aynesworth and "Newsweek" to be fabricators of information.</p>
-   <p> "Saturday Evening Post"</p>
-   <p> The position of the "Saturday Evening Post" solidified after the
+      <p> "Saturday Evening Post"</p>
+      <p> The position of the "Saturday Evening Post" solidified after the
 Garrison probe became public. It was based in large part on the
 reporting of one man, James Phelan. Phelan wrote a blistering
 article for the "Post" published on May 6, 1967. He attacked
@@ -3470,8 +3471,8 @@ Sciambra went on to say that Phelan had neglected the most
 important fact of all in his article. It was that Phelan had been
 told by Russo in Baton Rouge that Russo and Sciambra had discussed
 the plot dialogue (to assassinate JFK) at their initial meeting.</p>
-   <p> Capital City Broadcasting</p>
-   <p> This organization owns several radio stations in the capitol
+      <p> Capital City Broadcasting</p>
+      <p> This organization owns several radio stations in the capitol
 cities of various states and in Washington, D.C. Their interests
 in the JFK assassination increased in 1967 and 1968 when the
 Garrison-Shaw case made headlines. A producer at Capital City,
@@ -3480,8 +3481,8 @@ ferret out the truth. The author furnished various evidence for
 scripts to be used in the programs. After several months of work
 the project was cancelled, presumably by top management, and the
 broadcasts never took place.</p>
-   <p> North American Newspaper Alliance</p>
-   <p> This newspaper chain, with papers affiliated in small
+      <p> North American Newspaper Alliance</p>
+      <p> This newspaper chain, with papers affiliated in small
 communities through the northern and eastern U.S., supported the
 Warren Commission findings as did all the other major newspaper
 services and chains.
@@ -3526,7 +3527,7 @@ Lomax died in a very mysterious manner in 1970. He was traveling
 at a very high speed and was found dead in a car crash, according
 to the State police report. Lomax's wife says he was a very
 careful driver and never drove at high speeds.</p>
-   <p>From dave@ratmandu.esd.sgi.com Thu Jun 11 08:37:11 1992
+      <p>From dave@ratmandu.esd.sgi.com Thu Jun 11 08:37:11 1992
 Received: from pl122c.eecs.lehigh.edu by ns-mx.uiowa.edu (5.64.jnf/920408)
 on Thu, 11 Jun 92 08:37:01 -0500 id AA02015 with SMTP
 Received: from SGI.COM by PL122c.EECS.Lehigh.EDU (5.61/1.34)
@@ -3541,12 +3542,12 @@ From: dave@ratmandu.esd.sgi.com (dave "who can do? ratmandu!" ratcliffe)
 To: PML3@PL122c.EECS.Lehigh.EDU
 Subject: "The Taking of America, 1-2-3" (5/11)
 Status: RO</p>
-   <p>Subject: "The Taking of America, 1-2-3" (5/11)
+      <p>Subject: "The Taking of America, 1-2-3" (5/11)
 Summary: we were robbed of our capability of electing a president we wanted
 Keywords: part 5 of 11: second/last half of chapter 9
 Lines: 908</p>
-   <p> Dallas Newspapers</p>
-   <p> The two newspapers in Dallas, "The Times Herald" and "The
+      <p> Dallas Newspapers</p>
+      <p> The two newspapers in Dallas, "The Times Herald" and "The
 Morning News," became accessories after the fact. They suppressed
 evidence of conspiracy and evidence concerning the Dallas police
 role in framing Lee Harvey Oswald. It was not immediately
@@ -3642,8 +3643,8 @@ testimony that he saw someone in that window with a rifle. If
 Jackson's photo (or anyone else's for that matter) showed Oswald in
 the sixth floor window, the whole world would have heard about it
 on November 22, 1963.</p>
-   <p> Fort Worth "Star Telegram"</p>
-   <p> The Fort Worth "Star Telegram" shines like a light in the Texas
+      <p> Fort Worth "Star Telegram"</p>
+      <p> The Fort Worth "Star Telegram" shines like a light in the Texas
 darkness. It made photographic evidence from five of their
 photographers, Joe McAulay, Harry Cabluck, Jerrold Cabluck, George
 Smith and William Davis available to everyone. Even though the
@@ -3655,23 +3656,23 @@ assassination team under arrest. Jerrold Cabluck's aerial photos
 were instrumental in establishing Dealey Plaza landmarks and
 topography. Joe McAulay's photos of a man arrested in Ft. Worth in
 connection with the shooting might yet become valuable.</p>
-   <p> TV Station WFAA</p>
-   <p> The second shining light in Texas was TV station WFAA, an ABC
+      <p> TV Station WFAA</p>
+      <p> The second shining light in Texas was TV station WFAA, an ABC
 affiliate. WFAA was very cooperative (albeit expensive) in
 providing copies of all their photographic evidence. TV sequences
 by Tom Alyea, Malcolm Couch, A. J. L'Hoste and Ron Reiland were
 made easily viewable and the copies made available. Much of this
 evidence demonstrating conspiracy was also sold to TV networks and
 newsreel companies.</p>
-   <p> WBAP -- Ft. Worth</p>
-   <p> The NBC affiliate in Ft. Worth, WBAP, was less cooperative.
+      <p> WBAP -- Ft. Worth</p>
+      <p> The NBC affiliate in Ft. Worth, WBAP, was less cooperative.
 Even though public statements were made that viewing of Dan Owens
 and Jim Darnell's footage was possible, many roadblocks were thrown
 into the path of researchers. As mentioned in the section on NBC,
 Darnell's footage of the knoll and parking lot is very important.
 It has remained unavailable at WBAP.</p>
-   <p> KTTV -- Dallas</p>
-   <p> Independent TV station KTTV in Dallas also suppressed, or lost,
+      <p> KTTV -- Dallas</p>
+      <p> Independent TV station KTTV in Dallas also suppressed, or lost,
 valuable evidence of conspiracy. Don Cook's TV footage contained
 twelve important sequences. One is a sequence of a man being
 arrested in front of the Depository building at about 1:00 p.m.
@@ -3687,8 +3688,8 @@ in a statement being made to the author that Cook's footage had
 been lost "on the cutting room floor" and was not available for
 viewing. No further efforts have even been made to open up KTTV's
 evidence in the assassination.</p>
-   <p> New Orleans Newspapers</p>
-   <p> The only two publications in the United States that printed the
+      <p> New Orleans Newspapers</p>
+      <p> The only two publications in the United States that printed the
 truth about the Clay Shaw trial were the New Orleans "Times
 Picayune" and the New Orleans "Times Herald."
 Between 1963 and 1967 both New Orleans newspapers used AP and UP
@@ -3746,8 +3747,8 @@ The "Times Picayune" record of the Shaw trial was especially
 accurate. The "Herald"'s record was reasonably accurate, but
 because the paper was printed by 3:00 p.m., the paper missed some
 of the longer sessions.[9]</p>
-   <p> WDSU-TV -- New Orleans</p>
-   <p> As mentioned in the section on NBC, WDSU became directly
+      <p> WDSU-TV -- New Orleans</p>
+      <p> As mentioned in the section on NBC, WDSU became directly
 involved in the JFK assassination aftermath because of Rick Townley
 and Walter Sheridan. Both were under indictment by Garrison for
 bribing witnesses and tampering with evidence. Townley, on the
@@ -3816,8 +3817,8 @@ Of the three possible motives for suppression in the news media,
 the influence from the top and from high government places seems
 the most probable. When will we, as Americans, learn the truth
 about influence in the case of the Kennedy assassination?</p>
-   <p> Conclusions</p>
-   <p> The pattern of internal knowledge of conspiracy followed by the
+      <p> Conclusions</p>
+      <p> The pattern of internal knowledge of conspiracy followed by the
 complete suppression of such information is too strong to ignore.
 Two conclusions suggest themselves as one reviews the evidence
 regarding suppression and secrecy.
@@ -3844,8 +3845,8 @@ Shaw trial and discrediting of Jim Garrison, every one of these
 managers might finally have said, "Stop, cease, desist, lock the
 files, you're fired, shut up, I don't want to hear another word
 about it."</p>
-   <p> 1976</p>
-   <p> How, one may ask, could all of this have happened in the world's
+      <p> 1976</p>
+      <p> How, one may ask, could all of this have happened in the world's
 greatest democracy? What has become of the principles of the
 Founding Fathers, Horace Greeley, Will Rogers and others, in which
 the "free" press is supposedly our best protection from the misuse
@@ -3872,8 +3873,8 @@ Commerce, the military and other government agencies had some
 control over the media or the personal lives of the top managers.
 (It must be remembered that Gerald Ford was and is one of the
 cover-up conspirators in the JFK case.)</p>
-   <p> What is the Evidence?</p>
-   <p> What is the evidence for this? One measures the influence by
+      <p> What is the Evidence?</p>
+      <p> What is the evidence for this? One measures the influence by
 results. In an era when all who have really examined the basic
 evidence know there were conspiracies in the JFK and RFK
 assassinations, we still find the 15 organizations concluding there
@@ -3892,8 +3893,8 @@ Richter's opinion about the 1967 CBS four-part special, as
 expressed in an interview with Jerry Policoff published in "New
 Times" magazine in October 1975,[11] barred him from becoming a
 consultant to Midgely on the November 25 and 26 programs.</p>
-   <p> Hard Evidence Never Mentioned</p>
-   <p> Time, Inc., in their November 17, 1975 issue supported the lone
+      <p> Hard Evidence Never Mentioned</p>
+      <p> Time, Inc., in their November 17, 1975 issue supported the lone
 assassin myth as they have since 1964.[12] Since "Life" was no
 longer in existence, Time management used "Time" and "People"
 magazines to further the causes of the White House and the CIA in
@@ -3910,9 +3911,9 @@ Hedley Donovan's level.[14]
 The fine hand of David Belin can be traced in the "Time"
 article. All of the 1964 arguments against conspiracy were aired
 once again, as though they were brand new.</p>
-   <p> The Forces of Good vs. the Forces of Evil:</p>
-   <p> A Life and Death Struggle</p>
-   <p> David Belin: Belin shows up in several places. He constructed
+      <p> The Forces of Good vs. the Forces of Evil:</p>
+      <p> A Life and Death Struggle</p>
+      <p> David Belin: Belin shows up in several places. He constructed
 a new CIA-White House base on behalf of his superiors by personally
 writing most of Chapter 19 of the Rockefeller Report on the CIA and
 the FBI. That material was used by Belin and others to try and
@@ -3941,8 +3942,8 @@ Liebeler, John J. McCloy, Dr. John Lattimer, the old Ramsey Clark
 panel of doctors who secretly went into the Archives in 1968, and
 some of the coterie of writers who were in their camp in the
 1960's.</p>
-   <p> "I've Seen No New Evidence"</p>
-   <p> Any doubts about Belin's recruitment by Ford and the White House
+      <p> "I've Seen No New Evidence"</p>
+      <p> Any doubts about Belin's recruitment by Ford and the White House
 disappeared with Gerald Ford's press conference on Wednesday,
 November 26, 1975. A reporter asked Ford whether he would support
 reopening the JFK investigation.[16] He said, "I, of course,
@@ -3967,8 +3968,8 @@ refrain, as though all of the things that have been learned since
 1964 about the real assassins of John Kennedy and their planners
 and backers, were false rumors or stories and theories created out
 of whole cloth by the researchers and later by Congress.[17]</p>
-   <p> Pure Coincidence?</p>
-   <p> One CIA-White House lackey is James Phelan, formerly a freelance
+      <p> Pure Coincidence?</p>
+      <p> One CIA-White House lackey is James Phelan, formerly a freelance
 writer for the old "Saturday Evening Post." Phelan was brought out
 of mothballs to do a pro-Warren Commission piece in the "New York
 Times" Sunday magazine section.[18] By pure coincidence, it
@@ -3981,8 +3982,8 @@ years been directed through Harding Bancroft, the Secret Team
 member there. He controlled all stories and editorial positions on
 domestic assassinations. He undoubtedly arranged for both stories
 to appear on the same day.[20]</p>
-   <p> CBS. Cover-Up Broadcasting System</p>
-   <p> The Belin appearance on the CBS show, "Face the Nation", was no
+      <p> CBS. Cover-Up Broadcasting System</p>
+      <p> The Belin appearance on the CBS show, "Face the Nation", was no
 doubt timed to coincide with the first two parts of the new CBS
 whitewash series. (The new name for CBS is "Cover-Up Broadcasting
 System".) The men at the top made the decisions in 1967 and 1975
@@ -4001,8 +4002,8 @@ level of William C. Paley and above the level of Midgeley. That
 leaves Richard Salant and one or two other possibilities. Salant
 is known to have had intelligence connections through the decades
 since World War II.</p>
-   <p> Too Perfect Timing</p>
-   <p> CBS and the "New York Times" are sometimes simultaneously
+      <p> Too Perfect Timing</p>
+      <p> CBS and the "New York Times" are sometimes simultaneously
 orchestrated by the evil forces. One example was the CBS show
 preview by the "Times" on November 24 (the show was scheduled to
 appear on November 25 and 26).[22] The article, written by John J.
@@ -4017,9 +4018,9 @@ How did O'Connor and the "New York Times" take a look at the CBS
 shows *two days in advance* while other publications and reviewers
 had to wait and watch it with the rest of us? There goes the
 orchestration again.</p>
-   <p> "Newsweek" Editorial Position:
+      <p> "Newsweek" Editorial Position:
 Schweiker, Hart and Gonzalez Misled by Kooks</p>
-   <p> The "Washington Post"-"Newsweek" situation is a little more
+      <p> The "Washington Post"-"Newsweek" situation is a little more
 mystifying. It is difficult to believe that Katherine Graham,
 owner of both publications, is a Secret Team member. The
 "Newsweek" story on the JFK assassination, published in the issue
@@ -4038,8 +4039,8 @@ Warren Commission. Yet that has been the "Post"'s editorial stance
 since 1964. It remains adamant in its continuing contention that
 lone madmen assassinated our three leaders and attempted to
 assassinate Wallace.</p>
-   <p> Eliminate Areas of Doubt</p>
-   <p> Researcher Jim Blickenstaff, disturbed by a "Newsweek" article
+      <p> Eliminate Areas of Doubt</p>
+      <p> Researcher Jim Blickenstaff, disturbed by a "Newsweek" article
 in April of 1975, wrote to the editors. Madeline Edmundson replied
 for them. "It was certainly not our aim to discredit those who
 doubt the conclusions of the Warren Commission or to express
@@ -4055,8 +4056,8 @@ Harrison Salisbury, the man at the "New York Times" who knew
 better. Salisbury was quoted in "Newsweek" saying, "A new
 investigation is needed to answer questions of major importance.
 We will go over all the areas of doubt and hope to eliminate them."</p>
-   <p> UPI: Accessory After the Fact in the JFK Conspiracy Cover-Up</p>
-   <p> AP and UPI have not repeated their 1967-1968 performances
+      <p> UPI: Accessory After the Fact in the JFK Conspiracy Cover-Up</p>
+      <p> AP and UPI have not repeated their 1967-1968 performances
 recently in which they sent out the longest stories ever broadcast
 over their news service wires. They were so long that they were
 divided into installments. The stories backed up the Warren
@@ -4069,8 +4070,8 @@ In July of 1975 a UPI alumnus, Maurice Schonfeld, published an
 article in "Columbia Journalism Review"[24] that subtly contended
 one of the riflemen on the knoll as seen in the original Nix film
 was either an illusion or a man without a rifle.</p>
-   <p> "Expert" Opinions</p>
-   <p> Itek: Itek is still at work helping out their friendly
+      <p> "Expert" Opinions</p>
+      <p> Itek: Itek is still at work helping out their friendly
 employers, the U.S. government and the CIA. Itek analyzed the
 Zapruder film and the Hughes film on the CBS program aired in
 November of 1975, giving its "expert" opinion that all shots fired
@@ -4083,12 +4084,12 @@ Lindsay, were CIA Secret Team members. So when Ford, Belin and
 Salant or whoever at CBS needed help, all they had to do was call
 upon good old Itek and Howard Sprague. (Frank Lindsay has since
 departed.)</p>
-   <p> AP: Faithful to the White House and CIA</p>
-   <p> Associated Press has been editorially silent since 1969. They
+      <p> AP: Faithful to the White House and CIA</p>
+      <p> Associated Press has been editorially silent since 1969. They
 have faithfully broadcast all of the White House-CIA cover or
 planted stories without comment.</p>
-   <p> Keeping the Lid On</p>
-   <p> "Los Angeles Times:" "The Los Angeles Times," controlled by
+      <p> Keeping the Lid On</p>
+      <p> "Los Angeles Times:" "The Los Angeles Times," controlled by
 Norman Chandler who was strongly influenced by the Ford
 administration, the CIA and Evelle Younger (the Attorney General of
 California), produced a complete cover-up effort in the Robert
@@ -4107,8 +4108,8 @@ Nixon campaign, undoubtedly was strong-armed by both Nixon and Ford
 the D.A.'s office. Ronald Reagan and his immediate deputy at the
 time also helped sway Chandler and others in California to keep the
 lid on.</p>
-   <p> Zapruder Film Broadcast on Two Occasions</p>
-   <p> The American Broadcasting Corporation was the first of the
+      <p> Zapruder Film Broadcast on Two Occasions</p>
+      <p> The American Broadcasting Corporation was the first of the
 television networks to seemingly break away from CIA-White House
 control. In the spring of 1975, after Robert Groden, Dick Gregory,
 Ralph Schoenman and Jerry Policoff decided to release and publicize
@@ -4120,8 +4121,8 @@ summer months that he was in hot water with high level people. All
 doubts about ABC's position disappeared when they broadcast an
 assassination special during the week of November 17, 1975 that
 supported the lone assassin theory.</p>
-   <p> "Conspiracy Fever"</p>
-   <p> "Commentary:" One surprising newcomer to the cover-up
+      <p> "Conspiracy Fever"</p>
+      <p> "Commentary:" One surprising newcomer to the cover-up
 conspiracy group is "Commentary." The liberal, open-minded, non-government magazine "Commentary" broke their pattern in the October
 1975 issue[25] when it published an article by Dr. Jacob Cohen from
 Brandeis University which attacked the researchers as paranoid
@@ -4129,8 +4130,8 @@ conspiratorialists. Cohen has been writing these defenses for the
 Warren Commission for over ten years. This article was republished
 in several other places in November, 1975, as part of the
 orchestrated campaign by the CIA-White House.</p>
-   <p> A Straight News Story</p>
-   <p> "U.S. News and World Report:" "U.S. News" may be one of the few
+      <p> A Straight News Story</p>
+      <p> "U.S. News and World Report:" "U.S. News" may be one of the few
 media publications to change positions. On September 15, 1975 they
 ran a story entitled, "Behind the Move to Reopen the JFK Case". It
 was a straight news story about Senator Schweiker's efforts and
@@ -4140,8 +4141,8 @@ Commission conclusions will be watching what the Senate does with
 his (Schweiker's) idea." That is as close as any of the fifteen
 organizations came to saying they believe the Warren Commission was
 wrong.</p>
-   <p> A Breath of Fresh Air</p>
-   <p> "Saturday Evening Post:" Like a breath of fresh air from the
+      <p> A Breath of Fresh Air</p>
+      <p> "Saturday Evening Post:" Like a breath of fresh air from the
 heartland of America in Indianapolis, Indiana, the revived
 "Saturday Evening Post" (Bobbs Merrill subsidiary) took an
 editorial stance. The "Post" not only published several strong
@@ -4153,9 +4154,9 @@ of the "National Enquirer," "National Tattler," "National Insider,"
 "Argosy," "Penthouse," "Gallery," "Genesis" and other publications
 of this type, plus nearly all the "underground newspapers" in
 calling for new investigations.</p>
-   <p> CIA Operatives Are Serving as Journalists
+      <p> CIA Operatives Are Serving as Journalists
 For News Organizations Abroad</p>
-   <p> "Variety:" On November 12, 1975, "Variety" published an article
+      <p> "Variety:" On November 12, 1975, "Variety" published an article
 on the House and Senate Intelligence Committees' suspicions about
 relationships between the CIA and broadcasting organizations.[27]
 "Variety" said the committees were probing the CIA's influence on
@@ -4171,8 +4172,8 @@ representative asked Colby in an open session of a House hearing if
 the CIA had ever asked a network to kill a news story. Colby would
 not answer specifics in open session, so the panel went immediately
 behind closed doors to grill him for several hours.</p>
-   <p> Conclusions</p>
-   <p> It is to be hoped that all committees in the House and Senate
+      <p> Conclusions</p>
+      <p> It is to be hoped that all committees in the House and Senate
 will investigate the Secret Team members in the 15 media
 organizations and their influence and control over editorial
 policies on domestic assassination conspiracies. It is also to be
@@ -4196,8 +4197,8 @@ If the Congress leaves the media-government-CIA link untouched-
 -more serious than any of the other problems raised by the
 assassination conspiracies and their cover-ups--the United States
 might, in fact, be headed for the real 1984.</p>
-   <p> Postscript</p>
-   <p> On April 27, 1976 "The New York Times" published a story on the
+      <p> Postscript</p>
+      <p> On April 27, 1976 "The New York Times" published a story on the
 Senate Intelligence Committee revelation that the CIA would be
 keeping twenty-five journalist agents within the news media.[29]
 The Committee disclosed that George Bush planned to keep these
@@ -4229,89 +4230,89 @@ the CIA: Harding Bancroft, Jr. ("New York Times"); Richard Salant
 (CBS); George Love (Time, Inc./"Life"); Walter Sheridan (NBC);
 Lewis Powell, lawyer (ABC); and Benjamin Bradlee ("Washington
 Post").</p>
-   <p>____________________</p>
-   <p> [1] "Accessories After the Fact" is the title of a book by Sylvia
+      <p>____________________</p>
+      <p> [1] "Accessories After the Fact" is the title of a book by Sylvia
 Meagher, published by Bobbs Merrill in 1967, accusing the Warren
 Commission and the various government agencies of covering up the
 crime of the century. This book accuses the national news media
 of the same crimes. </p>
-   <p> [2] Black Star is a New York based organization made up of free-lance photographers, called stringers, in every major city. They
+      <p> [2] Black Star is a New York based organization made up of free-lance photographers, called stringers, in every major city. They
 do contract work for news media with Black Star acting as
 contracting agent.</p>
-   <p> [3] Samuel Thurston, "The Central Intelligence Agency and 'The New
+      <p> [3] Samuel Thurston, "The Central Intelligence Agency and 'The New
 York Times,'" "Computers and Automation," July, 1971.</p>
-   <p> [4] CBS-TV Special on the Assassination of John Kennedy -- June 25,
+      <p> [4] CBS-TV Special on the Assassination of John Kennedy -- June 25,
 26, 27 and 28, 1972.</p>
-   <p> [5] "Computers and Automation," July, 1971</p>
-   <p> [6] For a more detailed analysis of the "Times"' culpability and
+      <p> [5] "Computers and Automation," July, 1971</p>
+      <p> [6] For a more detailed analysis of the "Times"' culpability and
 selective bias in reporting the facts of the assassination, see
 Jerry Policoff's October 1972 article in "The Realist:" "How All
 the News About Political Assassinations In the United States Has
 Not Been Fit to Print in 'The New York Times.'"</p>
-   <p> [7] A detailed review of NBC's performance and Walter Sheridan's and
+      <p> [7] A detailed review of NBC's performance and Walter Sheridan's and
 Richard Townley's involvement is given in "The Kennedy Conspiracy"
 by Paris Flammonde.</p>
-   <p> [8] Those interested in more detail are referred to the map in the
+      <p> [8] Those interested in more detail are referred to the map in the
 May 1970 issue of "Computers and Automation" on the JFK
 assassination. The UPI definition of "the grassy knoll" was the
 area bounded by the picket fence, the stone wall, the top of the
 steps on the south, and the cupola.</p>
-   <p> [9] For a comparison of New Orleans newspapers and all other media
+      <p> [9] For a comparison of New Orleans newspapers and all other media
 coverage of the Shaw trial, see the author's unpublished book
 "The Trial of Clay Shaw -- The Truth and the Fiction."</p>
-   <p>[10] Prouty, L. Fletcher, "The Secret Team," Prentice Hall, 1973.</p>
-   <p>[11] Policoff, Jerry, "The Media and the Murder of John Kennedy", "New
+      <p>[10] Prouty, L. Fletcher, "The Secret Team," Prentice Hall, 1973.</p>
+      <p>[11] Policoff, Jerry, "The Media and the Murder of John Kennedy", "New
 Times," October, 1975.</p>
-   <p>[12] "Who Killed JFK? Just One Assassin," "Time" magazine, November
+      <p>[12] "Who Killed JFK? Just One Assassin," "Time" magazine, November
 24, 1975.</p>
-   <p>[13] "Up Front -- Did One Man With One Gun Kill John F, Kennedy?
+      <p>[13] "Up Front -- Did One Man With One Gun Kill John F, Kennedy?
 Eight Skeptics Who Say No," "People," November 3, 1975.</p>
-   <p>[14] Author's discussion with Jerry Policoff, November 29, 1975.</p>
-   <p>[15] "Warren Panel Aide Calls for 2nd Inquiry Into Kennedy Killing",
+      <p>[14] Author's discussion with Jerry Policoff, November 29, 1975.</p>
+      <p>[15] "Warren Panel Aide Calls for 2nd Inquiry Into Kennedy Killing",
 "New York Times," November 23, 1975, p. 1.</p>
-   <p>[16] Transcript of Gerald Ford Press Conference "New York Times,"
+      <p>[16] Transcript of Gerald Ford Press Conference "New York Times,"
 November 27, 1975.</p>
-   <p>[17] For a summary of the evidence and scenario about what it shows
+      <p>[17] For a summary of the evidence and scenario about what it shows
 the reader is referred to two articles in "People and the
 Pursuit of Truth:" "The Assassination of President John F.
 Kennedy the Involvement of the Central Intelligence Agency in the
 Plans and the Cover-Up," May 1975, and "Who Killed JFK?,"
 October, 1975. Both by the author.</p>
-   <p>[18] Phelan, James R., "The Assassination," "New York Times Magazine
+      <p>[18] Phelan, James R., "The Assassination," "New York Times Magazine
 Section," November 23, 1975.</p>
-   <p>[19] Thurston, Samuel F. (psuedonym for Richard E. Sprague), "The
+      <p>[19] Thurston, Samuel F. (psuedonym for Richard E. Sprague), "The
 Central Intelligence Agency and 'The New York Times'" "Computers
 and Automation," July, 1971.</p>
-   <p>[20] Bancroft retired in early 1976. A successor has undoubtedly been
+      <p>[20] Bancroft retired in early 1976. A successor has undoubtedly been
 groomed by the CIA. However, Bancroft still has a strong
 influence at the "Times" on the subject of assassinations.</p>
-   <p>[21] Based on a discussion among the author, Dan Rather, and Robert
+      <p>[21] Based on a discussion among the author, Dan Rather, and Robert
 Richter at CBS in Washington, D.C., approximately ten days before
 the first Cronkite-CBS section of the 1967 four-part series on
 the JFK assassination.</p>
-   <p>[22] O'Conner, John J., "TV: CBS News is Presenting Two Hour-Long
+      <p>[22] O'Conner, John J., "TV: CBS News is Presenting Two Hour-Long
 Programs on the Assassination of President Kennedy", "New York
 Times," November 24, 1975.</p>
-   <p>[23] "Dallas: New Questions and Answers," "Newsweek," April 28, 1975.</p>
-   <p>[24] Schonfeld, Maurice W., "The Shadow of a Gunman," "Columbia
+      <p>[23] "Dallas: New Questions and Answers," "Newsweek," April 28, 1975.</p>
+      <p>[24] Schonfeld, Maurice W., "The Shadow of a Gunman," "Columbia
 Journalism Review," July-August, 1975.</p>
-   <p>[25] Cohen, John, "Conspiracy Fever," "Commentary," October, 1975.</p>
-   <p>[26] "Saturday Evening Post," September, October, November and
+      <p>[25] Cohen, John, "Conspiracy Fever," "Commentary," October, 1975.</p>
+      <p>[26] "Saturday Evening Post," September, October, November and
 December, 1975 issues.</p>
-   <p>[27] "D.C. Digs Deep Into TV News Ties With CIA," "Variety," November
+      <p>[27] "D.C. Digs Deep Into TV News Ties With CIA," "Variety," November
 12, 1975.</p>
-   <p>[28] Prouty, L. Fletcher, "The Fourth Force," "Gallery," November,
+      <p>[28] Prouty, L. Fletcher, "The Fourth Force," "Gallery," November,
 1975.</p>
-   <p>[29] "CIA Will Keep More Than 25 Journalist-Agents," "New York Times,"
+      <p>[29] "CIA Will Keep More Than 25 Journalist-Agents," "New York Times,"
 April 27, 1976, p. 26.</p>
-   <p>--
+      <p>--
 daveus rattus </p>
-   <p> yer friendly neighborhood ratman</p>
-   <p> KOYAANISQATSI</p>
-   <p> ko.yaa.nis.qatsi (from the Hopi Language) n. 1. crazy life. 2. life
+      <p> yer friendly neighborhood ratman</p>
+      <p> KOYAANISQATSI</p>
+      <p> ko.yaa.nis.qatsi (from the Hopi Language) n. 1. crazy life. 2. life
 in turmoil. 3. life out of balance. 4. life disintegrating.
 5. a state of life that calls for another way of living.</p>
-   <p>From dave@ratmandu.esd.sgi.com Fri Jun 12 09:16:33 1992
+      <p>From dave@ratmandu.esd.sgi.com Fri Jun 12 09:16:33 1992
 Received: from pl122c.eecs.lehigh.edu by ns-mx.uiowa.edu (5.64.jnf/920408)
 on Fri, 12 Jun 92 09:16:18 -0500 id AA05588 with SMTP
 Received: from SGI.COM by PL122c.EECS.Lehigh.EDU (5.61/1.34)
@@ -4326,13 +4327,13 @@ From: dave@ratmandu.esd.sgi.com (dave "who can do? ratmandu!" ratcliffe)
 To: PML3@PL122c.EECS.Lehigh.EDU
 Subject: "The Taking of America, 1-2-3" (6/11)
 Status: RO</p>
-   <p>Subject: "The Taking of America, 1-2-3" (6/11)
+      <p>Subject: "The Taking of America, 1-2-3" (6/11)
 Summary: we were robbed of our capability of electing a president we wanted
 Keywords: part 6 of 11: chapter 10 thru chapter 12
 Lines: 1057</p>
-   <p> Chapter 10
+      <p> Chapter 10
 Techniques and Weapons and 100 Dead Conspirators and Witnesses</p>
-   <p> As Chapter 1 made clear, one of the two fiendish stratagems used
+      <p> As Chapter 1 made clear, one of the two fiendish stratagems used
 by the Power Control Group to cover-up the truth and to fool the
 people was the use of various intelligence techniques and weapons.
 The use of such techniques in assassination and murder completely
@@ -4499,7 +4500,7 @@ The complete list of deaths, including the eight major ones
 (JFK, RFK, MLK, Mary Jo Kopechne, Lee Harvey Oswald, David Ferrie,
 Ruby and Clay Shaw) numbers over a hundred. Here is a partial
 list:</p>
-   <p> 1. John Kennedy
+      <p> 1. John Kennedy
 2. Robert Kennedy
 3. Martin Luther King
 4. Mary Jo Kopechne
@@ -4571,7 +4572,7 @@ list:</p>
 70. Lou Staples
 71. William C. Sullivan
 72. James Chaney</p>
-   <p> The large majority of these murders eliminated witnesses to,
+      <p> The large majority of these murders eliminated witnesses to,
 participants in, or investigators of one of the assassinations.
 People involved with the participants in one of the assassinations
 or cover-ups were also listed above. The participants were: Jack
@@ -4594,26 +4595,26 @@ examining his body exclaimed he had never seen such before. Grant
 Stockdale was found to have died of a heart attack on his way to
 the street from the top of a building (a dart might have killed
 him).</p>
-   <p>____________________</p>
-   <p> [1] "Forgive My Grief" Volumes I, II, III, IV, Penn Jones, Jr., Self
+      <p>____________________</p>
+      <p> [1] "Forgive My Grief" Volumes I, II, III, IV, Penn Jones, Jr., Self
 Published, Midlothian, Texas.</p>
-   <p> [2] "Accessories After the Fact," Sylvia Meagher, Scarecrow Press,
+      <p> [2] "Accessories After the Fact," Sylvia Meagher, Scarecrow Press,
 N.Y., 1976</p>
-   <p> [3] "Miami Herald," March, 1976.</p>
-   <p> [4] "The Mysterious Death of Clay Shaw," Richard Russell, "True
+      <p> [3] "Miami Herald," March, 1976.</p>
+      <p> [4] "The Mysterious Death of Clay Shaw," Richard Russell, "True
 Magazine."</p>
-   <p> [5] "The Umbrella Man," R.B. Cutler, &amp; R.E. Sprague, "Gallery
+      <p> [5] "The Umbrella Man," R.B. Cutler, &amp; R.E. Sprague, "Gallery
 Magazine," June, 1978.</p>
-   <p> [6] "New York Times," September 19, 1975.</p>
-   <p> [7] "RFK Must Die!," Robert Kaiser, E.P. Dutton &amp; Co. Inc., N.Y.C.,
+      <p> [6] "New York Times," September 19, 1975.</p>
+      <p> [7] "RFK Must Die!," Robert Kaiser, E.P. Dutton &amp; Co. Inc., N.Y.C.,
 1970.</p>
-   <p> [8] (a) Self published article by Gary Schoener -- Minneapolis,
+      <p> [8] (a) Self published article by Gary Schoener -- Minneapolis,
 Minn. Researcher.</p>
-   <p> (b) Assassination Information Bureau (AIB), Cambridge, Mass,
+      <p> (b) Assassination Information Bureau (AIB), Cambridge, Mass,
 Research project and article.</p>
-   <p> Chapter 11
+      <p> Chapter 11
 Nixon and Ford -- The Pardon and the Tapes</p>
-   <p> As the Power Control Group grew larger and the number of murders
+      <p> As the Power Control Group grew larger and the number of murders
 increased through the years, it became more and more difficult to
 keep the veil of secrecy surrounding the takeover intact. As
 Nixon's instability increased, the danger of revealing the secret
@@ -4842,53 +4843,53 @@ Ford would either turn them over to Nixon for total destruction or
 sit on them as long as he was president.
 The evidence for the Power Control Group's and Ford/Nixon's
 strategy is as follows:</p>
-   <p> 1. Nixon was White House action officer on Cuban invasion
+      <p> 1. Nixon was White House action officer on Cuban invasion
 plans in 1960.</p>
-   <p> 2. Nixon was in contact with Hunt and others during the
+      <p> 2. Nixon was in contact with Hunt and others during the
 Bay of Pigs planning.</p>
-   <p> 3. Nixon lied to the American people by his own admission
+      <p> 3. Nixon lied to the American people by his own admission
 about the Bay of Pigs during his TV debates with
 Kennedy in 1960.</p>
-   <p> 4. Nixon was financially linked to the Mafia and to Cuban
+      <p> 4. Nixon was financially linked to the Mafia and to Cuban
 casino operations before Castro took over.</p>
-   <p> 5. Nixon was acquainted with Hunt, Baker, Martinez,
+      <p> 5. Nixon was acquainted with Hunt, Baker, Martinez,
 Sturgis, Carlos Prio Socarras, and other Watergate
 people and anti-Castro people in Florida, and he was
 financially linked to Baker, Martinez and Socarras.</p>
-   <p> 6. Hunt, Baker, Sturgis and Socarras were connected with
+      <p> 6. Hunt, Baker, Sturgis and Socarras were connected with
 the assassination group in the murder of JFK.</p>
-   <p> 7. Nixon was in Dallas for three days, including the
+      <p> 7. Nixon was in Dallas for three days, including the
 morning of the JFK assassination. He was trying to
 stir up trouble for Kennedy.</p>
-   <p> 8. Nixon went to Dallas under false pretenses. There was
+      <p> 8. Nixon went to Dallas under false pretenses. There was
 no board meeting of the Pepsi Cola Company as he
 announced his law firm had had to attend.</p>
-   <p> 9. Nixon did not admit being in Dallas on the day Kennedy
+      <p> 9. Nixon did not admit being in Dallas on the day Kennedy
 was shot and did not reveal the true reason for his
 trip. He held two press conferences on the two days
 before the assassination, attacking both Kennedy and
 Johnson and emphasizing the Democratic political
 problems in Texas.</p>
-   <p> 10. Research indicates that Nixon either knew in advance
+      <p> 10. Research indicates that Nixon either knew in advance
 about assassination plans, or learned about them soon
 after the assassination.</p>
-   <p> 11. Nixon proposed to Lyndon Johnson that Gerald Ford serve
+      <p> 11. Nixon proposed to Lyndon Johnson that Gerald Ford serve
 on the Warren Commission.</p>
-   <p> 12. Ford led the Commission cover-up by controlling the
+      <p> 12. Ford led the Commission cover-up by controlling the
 questioning of key witnesses and by several other
 means.</p>
-   <p> 13. Ford helped firmly plant the idea that Oswald was the
+      <p> 13. Ford helped firmly plant the idea that Oswald was the
 only assassin and that there was no conspiracy by
 publishing his own book, "Lee Harvey Oswald: Portrait
 of the Assassin."</p>
-   <p> 14. Ford purposefully covered up the conspiracy of the PCG
+      <p> 14. Ford purposefully covered up the conspiracy of the PCG
 in the JFK assassination and also covered up the fact
 that Oswald was a paid informer for the FBI. He did
 this by dismissing the subject in his book as worthless
 rumor and by keeping the executive sessions of the
 Commission (where Oswald's FBI informer status was
 discussed) classified Top Secret.</p>
-   <p> 15. Ford continued the cover-up when he was questioned
+      <p> 15. Ford continued the cover-up when he was questioned
 before being confirmed by the Senate as Vice President.
 He lied under oath twice to the Senate Committee. He
 stated that he had written his book about Oswald with
@@ -4902,7 +4903,7 @@ skeptical about a lone assassin. By changing one word
 in the title, Ford made the book seem a little less
 like what it actually was--an effort to make Oswald the
 assassin.</p>
-   <p> 16. Jaworski aided in the JFK cover-up by sitting on
+      <p> 16. Jaworski aided in the JFK cover-up by sitting on
 evidence of conspiracy accumulated by Waggoner Carr,
 Texas Attorney General, who he represented in liaison
 with the Warren Commission. He also stopped the
@@ -4910,11 +4911,11 @@ critical testimony of Jack Ruby when he testified
 before the Warren Commission, and diverted attention
 away from Ruby's intent to reveal the conspiracy to
 kill both Kennedy and Oswald.</p>
-   <p> 17. Nixon became president in 1968 only because Robert
+      <p> 17. Nixon became president in 1968 only because Robert
 Kennedy was killed by a conspiracy. Nixon was well
 aware of the conspiracy whether or not he approved of
 it in advance.</p>
-   <p> 18. John Mitchell and J. Edgar Hoover joined Nixon and the
+      <p> 18. John Mitchell and J. Edgar Hoover joined Nixon and the
 lower level members of the PCG in covering up the RFK
 murder conspiracy. They classified the evidence "Top
 Secret" and murdered several witnesses, controlled the
@@ -4923,57 +4924,57 @@ the chief of police in Los Angeles during and after the
 trial. They still control these people and the Los
 Angeles County Board of Supervisors. Clarence Kelly
 also became involved.</p>
-   <p> 19. The plumbers group ordered the assassination of George
+      <p> 19. The plumbers group ordered the assassination of George
 Wallace in 1972 to insure Nixon's election by picking
 up Wallace's vote (about 18%, according to polls).</p>
-   <p> 20. J. Edgar Hoover and Richard Helms were aware of who
+      <p> 20. J. Edgar Hoover and Richard Helms were aware of who
 killed John Kennedy and Robert Kennedy. They helped
 cover-up both conspiracies.</p>
-   <p> 21. John Mitchell controlled the trial of Clay Shaw and the
+      <p> 21. John Mitchell controlled the trial of Clay Shaw and the
 Garrison investigation and discredited Garrison by
 framing him in a New Orleans gambling case.</p>
-   <p> 22. Nixon and Haldeman discussed the assassination of John
+      <p> 22. Nixon and Haldeman discussed the assassination of John
 Kennedy, the conspiracy, Hunt's involvement, the
 possibility that Hunt might talk, the cover-up, the Bay
 of Pigs relationship between Nixon, Hunt and the other
 PCG members, and the briefing Nixon might have had to
 give anyone running against him in 1972, on matters of
 "national security".</p>
-   <p> 23. Nixon and Mitchell discussed the assassinations and the
+      <p> 23. Nixon and Mitchell discussed the assassinations and the
 attempt to assassinate George Wallace. Mitchell
 executed orders to suppress the truth about these
 events.</p>
-   <p> 24. Gerald Ford had possession of the most critical tapes
+      <p> 24. Gerald Ford had possession of the most critical tapes
 on which assassinations and cover-ups were discussed.</p>
-   <p> 25. Jaworski could be counted on to keep the assassination
+      <p> 25. Jaworski could be counted on to keep the assassination
 material under wraps even after his resignation. He
 was aware of the conspiracy evidence and cover-up in
 all three cases (JFK, RFK, George Wallace).</p>
-   <p> 26. Hunt was taken care of and will keep silent. He had
+      <p> 26. Hunt was taken care of and will keep silent. He had
 been out of jail and living on a beautiful $100000
 estate in Florida with plenty of money, across the
 street from his Bay of Pigs friend, Manuel Artime.</p>
-   <p> 27. Clay Shaw was murdered by the PCG, undoubtedly to keep
+      <p> 27. Clay Shaw was murdered by the PCG, undoubtedly to keep
 him from talking once the truth about his CIA position
 was revealed by Victor Marchetti. He was embalmed
 before the coroner could determine the cause of death.
 Evidence indicates he was killed somewhere and then
 brought back to his apartment.</p>
-   <p> 28. Hale Boggs, a Warren, Commission member, was possibly
+      <p> 28. Hale Boggs, a Warren, Commission member, was possibly
 killed by the PCG. Bogg's airplane disappeared in
 Alaska. No trace of it was ever found and no
 explanation of how the plane could have crashed has
 ever been given. Mrs. Boggs has expressed doubts about
 it being an accident.</p>
-   <p> 29. Four of the seven Warren Commission members are dead:
+      <p> 29. Four of the seven Warren Commission members are dead:
 Warren, Dulles, Russell and Boggs. Of the remaining
 members, Ford was President, John McCloy is retired and
 living in Connecticut, and John Sherman Cooper was made
 ambassador to East Germany.</p>
-   <p> 30. Richard Russell, Hale Boggs and Cooper believed there
+      <p> 30. Richard Russell, Hale Boggs and Cooper believed there
 was a conspiracy in the JFK assassination. Russell and
 Boggs both said so publicly.</p>
-   <p> 31. Haldeman erased 18 1/2 minutes of a taped discussion
+      <p> 31. Haldeman erased 18 1/2 minutes of a taped discussion
 with Nixon. This tape undoubtedly contained "national
 security" matters. The fact that Haldeman did the
 erasing can easily be determined by tracing the trail
@@ -4982,10 +4983,10 @@ of the vault to the day the gap was discovered.
 Haldeman had the tape with the recorder alone for
 nearly 48 hours. No one else had the tape alone long
 enough to do the erasing.</p>
-   <p> 32. Ford and the PCG contemplated pardons for Mitchell,
+      <p> 32. Ford and the PCG contemplated pardons for Mitchell,
 Haldeman, Ehrlichman and possibly others who know the
 number one secret.</p>
-   <p> 33. Ford's statements to the sub-committee of the House
+      <p> 33. Ford's statements to the sub-committee of the House
 Judiciary Committee concerning his pardon of Nixon
 dodged the real issue. Only Elizabeth Holtzman asked
 questions coming close to the number one secret. When
@@ -4996,38 +4997,38 @@ the press, but a large number of Americans watched and
 heard him say them. Of course he spoke truthfully
 because the "deal" was made *before* he became Vice
 President.</p>
-   <p>____________________</p>
-   <p> [1] Evans &amp; Novak column -- September 12. 1974.</p>
-   <p> [2] "Paris Herald Tribune" -- September 12, 1974.</p>
-   <p> [3] "Compulsive Spy," Tad Szulc, Viking Press, 1974.</p>
-   <p> [4] "Nixon and the Mafia," Jeff Gerth, "Sundance," December, 1972.</p>
-   <p> [5] "My Six Crises," Richard M. Nixon.</p>
-   <p> [6] "Compulsive Spy."</p>
-   <p> [7] "Nixon and the Mafia."</p>
-   <p> [8] "Nixon, Bay of Pigs &amp; Watergate," -- R.E. Sprague, "Computers and
+      <p>____________________</p>
+      <p> [1] Evans &amp; Novak column -- September 12. 1974.</p>
+      <p> [2] "Paris Herald Tribune" -- September 12, 1974.</p>
+      <p> [3] "Compulsive Spy," Tad Szulc, Viking Press, 1974.</p>
+      <p> [4] "Nixon and the Mafia," Jeff Gerth, "Sundance," December, 1972.</p>
+      <p> [5] "My Six Crises," Richard M. Nixon.</p>
+      <p> [6] "Compulsive Spy."</p>
+      <p> [7] "Nixon and the Mafia."</p>
+      <p> [8] "Nixon, Bay of Pigs &amp; Watergate," -- R.E. Sprague, "Computers and
 Automation," January, 1973.</p>
-   <p> [9] "Nixon, Bay of Pigs &amp; Watergate."</p>
-   <p>[10] Trowbridge Ford, Holy Cross College, Boston, MA, Several papers and
+      <p> [9] "Nixon, Bay of Pigs &amp; Watergate."</p>
+      <p>[10] Trowbridge Ford, Holy Cross College, Boston, MA, Several papers and
 articles.</p>
-   <p>[11] Warren Commission Hearings &amp; Exhibits -- Vol. 23, Pages 941-943.</p>
-   <p>[12] Nixon Transcript of June 23 1972 tape -- "New York Times," August
+      <p>[11] Warren Commission Hearings &amp; Exhibits -- Vol. 23, Pages 941-943.</p>
+      <p>[12] Nixon Transcript of June 23 1972 tape -- "New York Times," August
 6, 1974.</p>
-   <p>[13] Trowbridge Ford -- Article on Gerald Ford &amp; Warren Commission.</p>
-   <p>[14] Ibid.</p>
-   <p>[15] Gerald Ford "Lee Harvey Oswald: Portrait of the Assassin."</p>
-   <p>[16] "The Framing of Jim Garrison", R.E. Sprague, "Computers and
+      <p>[13] Trowbridge Ford -- Article on Gerald Ford &amp; Warren Commission.</p>
+      <p>[14] Ibid.</p>
+      <p>[15] Gerald Ford "Lee Harvey Oswald: Portrait of the Assassin."</p>
+      <p>[16] "The Framing of Jim Garrison", R.E. Sprague, "Computers and
 Automation," December, 1973.</p>
-   <p>[17] "The CIA and the Kennedy Assassination" -- Unpublished article by
+      <p>[17] "The CIA and the Kennedy Assassination" -- Unpublished article by
 R.E. Sprague.</p>
-   <p>[18] Nixon tape, June 23, 1972.</p>
-   <p>[19] Warren Commission Exhibits -- Testimony of Jack Ruby, Vol. V,
+      <p>[18] Nixon tape, June 23, 1972.</p>
+      <p>[19] Warren Commission Exhibits -- Testimony of Jack Ruby, Vol. V,
 Pages 181-213 and Vol. XIV, pages 504-571. Also Trowbridge Ford
 article on Jaworski.</p>
-   <p>[20] "Washington Watch" and Triss Coffin newsletter, August 10, 1974.</p>
-   <p>[21] Zodiac News Service release -- August 20, 1974.</p>
-   <p> Chapter 12
+      <p>[20] "Washington Watch" and Triss Coffin newsletter, August 10, 1974.</p>
+      <p>[21] Zodiac News Service release -- August 20, 1974.</p>
+      <p> Chapter 12
 The Second Line of Defense and Cover-Ups in 1975 and 1976</p>
-   <p> The mini-war waged by assassination researchers and a few
+      <p> The mini-war waged by assassination researchers and a few
 Congressmen from 1964 to 1976 to reopen the major assassination
 inquiries never really disturbed the Power Control Group. But in
 1975, simultaneous with the revelations about all of the terrible
@@ -5257,14 +5258,14 @@ Committee, which was controlled.
 The people are left with no effective way of doing anything
 about the PCG and their crimes. What is worse, there is no way the
 people can elect the man of their choice.</p>
-   <p>--
+      <p>--
 daveus rattus </p>
-   <p> yer friendly neighborhood ratman</p>
-   <p> KOYAANISQATSI</p>
-   <p> ko.yaa.nis.qatsi (from the Hopi Language) n. 1. crazy life. 2. life
+      <p> yer friendly neighborhood ratman</p>
+      <p> KOYAANISQATSI</p>
+      <p> ko.yaa.nis.qatsi (from the Hopi Language) n. 1. crazy life. 2. life
 in turmoil. 3. life out of balance. 4. life disintegrating.
 5. a state of life that calls for another way of living.</p>
-   <p>From dave@ratmandu.esd.sgi.com Mon Jun 15 08:55:21 1992
+      <p>From dave@ratmandu.esd.sgi.com Mon Jun 15 08:55:21 1992
 Received: by icaen.uiowa.edu ( 5.52 (84)/1.1) id AA02287
 on Mon, 15 Jun 92 08:55:17 CDT.
 Received: from pl122c.eecs.lehigh.edu by ns-mx.uiowa.edu (5.64.jnf/920408)
@@ -5281,13 +5282,13 @@ From: dave@ratmandu.esd.sgi.com (dave "who can do? ratmandu!" ratcliffe)
 To: PML3@PL122c.EECS.Lehigh.EDU
 Subject: "The Taking of America, 1-2-3" (7/11)
 Status: RO</p>
-   <p>Subject: "The Taking of America, 1-2-3" (7/11)
+      <p>Subject: "The Taking of America, 1-2-3" (7/11)
 Summary: we were robbed of our capability of electing a president we wanted
 Keywords: part 7 of 11: chapter 13 thru chapter 14
 Lines: 326</p>
-   <p> Chapter 13
+      <p> Chapter 13
 The 1976 Election and Conspiracy Fever</p>
-   <p> To dramatize what might happen and probably did happen in 1976,
+      <p> To dramatize what might happen and probably did happen in 1976,
 this chapter has been prepared by assuming the attitude typical of
 today's innocent Americans. A new disease is sweeping America.
 No, it's not the flu; it's conspiracy fever.[1]
@@ -5373,13 +5374,13 @@ So, wake up America. Wipe out this disease. It's just as
 dangerous as Communism, if not more so. Like the general in "Z",
 Americans must realize that such a disease has to be eliminated
 whenever and wherever it appears.</p>
-   <p>____________________</p>
-   <p>[1] "Conspiracy Fever" is derived from an article with that title by
+      <p>____________________</p>
+      <p>[1] "Conspiracy Fever" is derived from an article with that title by
 Jacob Cohen, a psychologist, in "Commentary" magazine, October,
 1975.</p>
-   <p> Chapter 14
+      <p> Chapter 14
 Congress and the People</p>
-   <p> The last hope of the people to take back their government from
+      <p> The last hope of the people to take back their government from
 the PCG is through Congress. The executive branch is a captive of
 the PCG. The legislative branch has no power in the situation.
 Where courts or judges do have some small measure of power, as in
@@ -5481,8 +5482,8 @@ Congressmen, is too much to swallow. They would rather have the
 whole thing go quietly away than face up to something that
 gigantic. And that is the real source of the PCG's strength, the
 unbelievability of it all.</p>
-   <p> Addendum to Chapter 14</p>
-   <p> Several truly historic and highly encouraging events occurred in
+      <p> Addendum to Chapter 14</p>
+      <p> Several truly historic and highly encouraging events occurred in
 the months of September and October, 1976 that could indicate a
 change in the tide and power and control described in earlier
 chapters.
@@ -5552,17 +5553,17 @@ events were taking place, was very active in spreading its second
 line of defense information. "Castro did it in revenge" stories
 began popping up everywhere. Jack Anderson was revived to back up
 the strategy by publishing another of his "Castro did it" columns.</p>
-   <p>____________________</p>
-   <p>[1] House Resolution 204 -- Henry Gonzalez
+      <p>____________________</p>
+      <p>[1] House Resolution 204 -- Henry Gonzalez
 House Resolution 498 -- Thomas Downing</p>
-   <p>--
+      <p>--
 daveus rattus </p>
-   <p> yer friendly neighborhood ratman</p>
-   <p> KOYAANISQATSI</p>
-   <p> ko.yaa.nis.qatsi (from the Hopi Language) n. 1. crazy life. 2. life
+      <p> yer friendly neighborhood ratman</p>
+      <p> KOYAANISQATSI</p>
+      <p> ko.yaa.nis.qatsi (from the Hopi Language) n. 1. crazy life. 2. life
 in turmoil. 3. life out of balance. 4. life disintegrating.
 5. a state of life that calls for another way of living.</p>
-   <p>From dave@ratmandu.esd.sgi.com Tue Jun 16 09:54:48 1992
+      <p>From dave@ratmandu.esd.sgi.com Tue Jun 16 09:54:48 1992
 Received: by icaen.uiowa.edu ( 5.52 (84)/1.1) id AA04897
 on Tue, 16 Jun 92 09:54:42 CDT.
 Received: from pl122c.eecs.lehigh.edu by ns-mx.uiowa.edu (5.64.jnf/920408)
@@ -5579,17 +5580,17 @@ From: dave@ratmandu.esd.sgi.com (dave "who can do? ratmandu!" ratcliffe)
 To: PML3@PL122c.EECS.Lehigh.EDU
 Subject: "The Taking of America, 1-2-3" (8/11)
 Status: RO</p>
-   <p>Subject: "The Taking of America, 1-2-3" (8/11)
+      <p>Subject: "The Taking of America, 1-2-3" (8/11)
 Summary: we were robbed of our capability of electing a president we wanted
 Keywords: part 8 of 11: chapter 15
 Lines: 1172</p>
-   <p> Chapter 15
+      <p> Chapter 15
 The Select Committee on Assassinations,
 The Intelligence Community and the News Media</p>
-   <p> Part I</p>
-   <p> The Top Down vs. The Bottom Up Approach
+      <p> Part I</p>
+      <p> The Top Down vs. The Bottom Up Approach
 To Assassination Investigations</p>
-   <p> Two vastly different views have been held by both assassination
+      <p> Two vastly different views have been held by both assassination
 researchers and members of Congress during the last three years
 about the best way to arrive at the truth concerning political
 assassinations in the United States. The conservative view
@@ -5633,8 +5634,8 @@ attempts are to be made. The best way the Select Committee can
 succeed against this group is to use what will be labelled the "top
 down" approach to investigating and exposing the truth as a
 supplement to the bottom up approach.</p>
-   <p> The Power Control Group</p>
-   <p> The earlier part of this book described a group of individuals
+      <p> The Power Control Group</p>
+      <p> The earlier part of this book described a group of individuals
 in the United States and labelled them the "Power Control Group."
 The PCG is that group of individuals or organizations that
 knowingly participated in one or more of the assassination
@@ -5652,8 +5653,8 @@ above, who participated or are participating in the cover-ups or
 the cover-ups of the cover-up. There are indications that people
 in every one of the above organizations or groups belong to the
 PCG.</p>
-   <p> Hard Evidence of Conspiracy</p>
-   <p> Anyone who has honestly and openly taken the time to examine a
+      <p> Hard Evidence of Conspiracy</p>
+      <p> Anyone who has honestly and openly taken the time to examine a
 few pieces of hard evidence in any one of the four major cases has
 no trouble deciding there were individual conspiracies in each. In
 the face of this situation, the layman wonders why the Congress
@@ -5677,8 +5678,8 @@ choose to see or to hear the old evidence, even when it is
 literally placed before their very eyes and ears. Thus the words
 "hard evidence" are merely substitutes for the words "no
 conspiracy".</p>
-   <p> The Bottom Up Approach</p>
-   <p> The bottom up approach is doomed to failure no matter how the
+      <p> The Bottom Up Approach</p>
+      <p> The bottom up approach is doomed to failure no matter how the
 Select Committee tries and no matter how much effort any official
 body puts into attempts to offer that "bombshell" that Tip O'Neill
 and others look for to prove conspiracy in the JFK and MLK cases.
@@ -5695,34 +5696,34 @@ and local police files, as long as it controls the courts, and as
 long as it controls the media, no one will be allowed to prove hard
 evidence before the House, the Senate, the President, or any one in
 the Executive Branch.</p>
-   <p> The Events of 1976 and 1977</p>
-   <p> That the PCG's control exists is more clearly evident now than
+      <p> The Events of 1976 and 1977</p>
+      <p> That the PCG's control exists is more clearly evident now than
 it has ever been before. The PCG is operating in an almost blatant
 fashion. Any observer who keeps his eyes wide open and assumes
 that such a group exists, can see it operate almost every day.
 The prime objectives of the PCG in 1976 and 1977 were:</p>
-   <p> 1. To block and eliminate the Select Committee on
+      <p> 1. To block and eliminate the Select Committee on
 Assassinations in the House of Representatives.</p>
-   <p> 2. To firmly implant the idea that the JFK assassination
+      <p> 2. To firmly implant the idea that the JFK assassination
 was a Castro plot.</p>
-   <p> 3. To block any Congressional attempts to investigate the
+      <p> 3. To block any Congressional attempts to investigate the
 four assassination cases.</p>
-   <p> 4. To control the Carter Administration in such a way as
+      <p> 4. To control the Carter Administration in such a way as
 to permit only an executive branch investigation that
 will conclude there was a Castro-based JFK conspiracy
 and no conspiracy in the other cases.</p>
-   <p> The 1977 activities of the PCG lent themselves to a new
+      <p> The 1977 activities of the PCG lent themselves to a new
 approach, the "top down" approach to exposing the truth.</p>
-   <p> Exposing the PCG</p>
-   <p> The top down approach obviously begins with exposing the PCG's
+      <p> Exposing the PCG</p>
+      <p> The top down approach obviously begins with exposing the PCG's
 immediate, present activities. The following examples are
 illustrative. The Select Committee is certainly in a better
 position to know which individuals and actions taken by the PCG
 since the formation of the Committee in September, 1976 would be
 most easily attacked. The first example is the leaked Justice
 Department report on the King case.</p>
-   <p> The Justice Department King Report</p>
-   <p> The PCG members' actions were leaked in the February 2, 1977
+      <p> The Justice Department King Report</p>
+      <p> The PCG members' actions were leaked in the February 2, 1977
 King report and released a few weeks later. To review the list of
 PCG members involved in the cover-up of the King case: J. Edgar
 Hoover, the Memphis FBI, Phil Canale (Memphis D.A.), Fred Vinson
@@ -5740,8 +5741,8 @@ framed and that his lawyer, Percy Foreman, deliberately mishandled
 the case. Nevertheless, McCrea decided that Ray would not get a
 new trial. The case was appealed all the way to the Supreme Court
 with no reversals of the decision.</p>
-   <p> Leaking the Justice Department Report on the King Case</p>
-   <p> Attorney General Levi some years later ordered a review by the
+      <p> Leaking the Justice Department Report on the King Case</p>
+      <p> Attorney General Levi some years later ordered a review by the
 Justice Department of the King assassination and the FBI's handling
 of its investigation. A report was prepared by Michael J. Shaheen,
 who did most of the Justice Department work. No public
@@ -5766,8 +5767,8 @@ assassin. Placed in the hands of the opposition to the Select
 Committee, the statement was strategically useful. Quillen argued
 against continuing the Committee on the strength of the conclusions
 reached in the report.</p>
-   <p> Releasing the Report</p>
-   <p> On February 19, 1977, the King report was released by the
+      <p> Releasing the Report</p>
+      <p> On February 19, 1977, the King report was released by the
 Justice Department. Blaring headlines again emphasized no
 conspiracy and exonerated the FBI's conduct in their investigation.
 A showdown meeting was scheduled for February 21 between Henry
@@ -5797,8 +5798,8 @@ release and leaking of that report and the total whitewash of the
 King conspiracy are too patently obvious to be coincidental. This
 is one area in which the Select Committee has an excellent chance
 to expose a raw nerve of the PCG.</p>
-   <p> Michael Shaheen -- PCG Member</p>
-   <p> A key PCG member in the situation would appear to be Mr.
+      <p> Michael Shaheen -- PCG Member</p>
+      <p> A key PCG member in the situation would appear to be Mr.
 Shaheen, Judge McCrea's law clerk mentioned earlier in the PCG
 cover-up in Memphis. Shaheen was deeply involved in the old
 cover-up as well as the new cover-up. He is from Memphis and part
@@ -5816,8 +5817,8 @@ attacked. It quotes the fake Charlie Stevens testimony all over
 again, as if no one knew he had been bought off by Hoover to
 identify Ray. Stevens was dead drunk and saw nothing on the day of
 the King assassination.</p>
-   <p> Ignoring or Suppressing Conspiracy and Framing Evidence</p>
-   <p> Shaheen's review did not touch upon any of the evidence
+      <p> Ignoring or Suppressing Conspiracy and Framing Evidence</p>
+      <p> Shaheen's review did not touch upon any of the evidence
 regarding the framing of Ray that was introduced at the hearing
 that Judge McCrea and Shaheen knew so very well. The witnesses who
 had seen Ray at a gas station several blocks from the assassination
@@ -5847,8 +5848,8 @@ was ignored.
 Exposure of this segment of the PCG would have done more to
 bolster the 1977 efforts of the Select Committee than any
 presentation of conspiracy evidence in the King case itself.</p>
-   <p> The PCG's Tactics With the Select Committee</p>
-   <p> In the early days of the formation of the Committee in September
+      <p> The PCG's Tactics With the Select Committee</p>
+      <p> In the early days of the formation of the Committee in September
 1976, the PCG might have taken the Committee very lightly. The
 PCG's efforts to stop an investigation from beginning in the spring
 of 1976 through its control of the Rules Committee had been
@@ -5871,8 +5872,8 @@ the right track in both the JFK and MLK investigations, but also
 that the tactics used by the PCG in those weeks were making the
 staff and some of the committee members suspicious about the PCG
 itself.</p>
-   <p> PCG Control of Prior Investigations</p>
-   <p> It became imperative for the PCG to either eliminate the entire
+      <p> PCG Control of Prior Investigations</p>
+      <p> It became imperative for the PCG to either eliminate the entire
 Committee or to gain control of it and to rid it of Dick Sprague
 and the senior staff people who were loyal to him. It was no
 longer possible to turn the investigations around and bury the
@@ -5882,7 +5883,7 @@ investigations (five Senate investigations and one House
 investigation of the JFK assassination) the PCG had controlled the
 results, disbanded the staffs and buried the evidence. The six
 groups were:</p>
-   <p> 1. 1968--A Senate subcommittee under Senator Ed Long of
+      <p> 1. 1968--A Senate subcommittee under Senator Ed Long of
 Missouri conducted a JFK investigation. Bernard
 Fensterwald, Jr., was in charge of a six-person team.
 
@@ -5905,7 +5906,7 @@ Maxwell.
 
 6. 1976--Senate Intelligence Committee under Daniel
 Inouye.</p>
-   <p> In addition, both Howard Baker and Lowell Weicker conducted
+      <p> In addition, both Howard Baker and Lowell Weicker conducted
 their own investigations of the JFK case during the Watergate
 period.
 Sprague and his senior staff people are professionals compared
@@ -5918,46 +5919,46 @@ important evidence uncovered in Florida and elsewhere in their
 final report. The Congress and the public were left with the
 impression that there might have been a Castro conspiracy to
 assassinate JFK.</p>
-   <p> PCG Strategy</p>
-   <p> Faced with the new committee and Sprague's staff, the PCG had
+      <p> PCG Strategy</p>
+      <p> Faced with the new committee and Sprague's staff, the PCG had
 devise a strategy that included:</p>
-   <p> 1. Attacking Dick Sprague to discredit him with dirt and
+      <p> 1. Attacking Dick Sprague to discredit him with dirt and
 print it in the media.</p>
-   <p> 2. Using the media to spread PCG propaganda and control
+      <p> 2. Using the media to spread PCG propaganda and control
 the sources of all stories concerning the Select
 Committee.</p>
-   <p> 3. Using PCG Congressmen to provide biased, distorted
+      <p> 3. Using PCG Congressmen to provide biased, distorted
 quotes to the media for its use.</p>
-   <p> 4. Trying to discredit the entire committee by making it
+      <p> 4. Trying to discredit the entire committee by making it
 appear to be disorganized and unmanageable.</p>
-   <p> 5. Controlling the voting and lobbying against the
+      <p> 5. Controlling the voting and lobbying against the
 continuation of the committee in January and February.</p>
-   <p> 6. Influencing members of the House to vote against the
+      <p> 6. Influencing members of the House to vote against the
 Committee through a massive letter and telegram
 campaign.</p>
-   <p> 7. Exaggerating the emphasis placed on the size of the
+      <p> 7. Exaggerating the emphasis placed on the size of the
 budget requested by Sprague without considering the
 need for such a budget.</p>
-   <p> 8. Demanding that the committee justify its existence by
+      <p> 8. Demanding that the committee justify its existence by
 producing new evidence.</p>
-   <p> 9. Splitting the committee and attempting to create
+      <p> 9. Splitting the committee and attempting to create
 dissension; creating a battle between Henry Gonzalez
 and Richard Sprague and between Gonzalez and Downing.</p>
-   <p> 10. Hamstringing the staff so they could not receive
+      <p> 10. Hamstringing the staff so they could not receive
 salaries, could not travel, did not have subpoena
 power, could not make long distance telephone calls;
 blocking access to the key files at the FBI, Justice
 Department, CIA and Secret Service.</p>
-   <p> 11. Trying to insert their own man at the head of the
+      <p> 11. Trying to insert their own man at the head of the
 staff.</p>
-   <p> 12. Brainwashing Henry Gonzalez into believing that Sprague
+      <p> 12. Brainwashing Henry Gonzalez into believing that Sprague
 and others were agents.</p>
-   <p> 13. Sacrificing Henry Gonzalez when it became obvious the
+      <p> 13. Sacrificing Henry Gonzalez when it became obvious the
 PCG could not control him as their chairman.</p>
-   <p> 14. Leaking stories that seemed to make the committee's
+      <p> 14. Leaking stories that seemed to make the committee's
 efforts unnecessary.</p>
-   <p> Media Control</p>
-   <p> The primary technique used by the PCG is its nearly absolute
+      <p> Media Control</p>
+      <p> The primary technique used by the PCG is its nearly absolute
 control of the media. This is not as difficult to achieve as one
 might imagine. Since most of the stories about the committee
 originate in Washington under rather tightly-knit conditions, it is
@@ -5985,8 +5986,8 @@ made sure that "Newsweek" did their hatchet jobs. Time, Inc., CBS
 David Brinkley), and ABC (with Bob Clark and Howard K. Smith) all
 went on the attack. The overall theme was that the committee would
 soon die out.</p>
-   <p> Media Tactics</p>
-   <p> The tactics first used were to create the impression that the
+      <p> Media Tactics</p>
+      <p> The tactics first used were to create the impression that the
 Committee was not going to find anything of importance. Then Dick
 Sprague became the chief target. One of the dirty tricks used
 against him portrayed him as arrogant, flamboyant, power-mad, and
@@ -6003,8 +6004,8 @@ image would go on uninterrupted. This technique is much less
 obvious than murder, but it works nearly as well. When the time
 comes to destroy or eliminate the man, all the PCG has to do is
 create an image.</p>
-   <p> The Vote to Continue</p>
-   <p> The man chosen to eliminate Sprague was the new chairman of the
+      <p> The Vote to Continue</p>
+      <p> The man chosen to eliminate Sprague was the new chairman of the
 Select Committee, Henry Gonzalez. Before setting up a classic
 "personality conflict" between Gonzalez and Sprague, the PCG used
 another tactic. It attempted to kill the Committee with a vote not
@@ -6028,8 +6029,8 @@ Almost every U.S. citizen has heard and seen Dick Sprague called a
 rattlesnake and an unscrupulous character. However, the PCG lost
 the vote against continuing the Committee and used a new method to
 try to kill it.</p>
-   <p> The New Tactic</p>
-   <p> The PCG decided to use Gonzalez to control the Committee. The
+      <p> The New Tactic</p>
+      <p> The PCG decided to use Gonzalez to control the Committee. The
 stage was set for the PCG to knock off Sprague and to install one
 of their own men. The plan was to do this by brainwashing Henry
 Gonzalez into distrusting Sprague and selected members of the
@@ -6042,8 +6043,8 @@ PCG would then have been in a position to either fold up the
 Committee by March 31, or to direct its efforts toward finding a
 Castro-did-it conspiracy in JFK's case and no conspiracy in the
 King case.</p>
-   <p> Tactic Backfires</p>
-   <p> The PCG did not forecast one important effect their tactics
+      <p> Tactic Backfires</p>
+      <p> The PCG did not forecast one important effect their tactics
 would have. By the time Henry Gonzalez became chairman, the other
 eleven members of the Committee and its staff had begun to smell a
 rat. They noted with curiosity all of the strange coincidences
@@ -6084,8 +6085,8 @@ that said "Henry focuses in on conspiracies, the weird angle of
 things. Once he gets involved in something, he shakes it by the
 throat until it's dead." That was a dead giveaway that the PCG no
 longer wanted Henry around.</p>
-   <p> Next Tactic -- Death By Acclamation</p>
-   <p> The PCG's next tactic was to convince a majority of the House
+      <p> Next Tactic -- Death By Acclamation</p>
+      <p> The PCG's next tactic was to convince a majority of the House
 that the Committee had had it because of the feuding as portrayed
 in the press. They hoped to either eliminate the Committee
 altogether or eliminate the JFK investigation or to force Sprague
@@ -6115,8 +6116,8 @@ to continue the Committee by a very narrow margin, with a swing of
 25 votes determining the result.
 The final weapon used to obtain a vote to continue the Committee
 on March 30 was the resignation of Dick Sprague.</p>
-   <p> Exposing the PCG</p>
-   <p> The best way to expose the PCG is to demonstrate that it has
+      <p> Exposing the PCG</p>
+      <p> The best way to expose the PCG is to demonstrate that it has
 been influencing or controlling the media and attempting to control
 Congress. How can this be done? It will be necessary to show who
 the PCG members are in the House and the media and exactly what
@@ -6133,8 +6134,8 @@ members in the tactics described above could be introduced on the
 floor without media coverage. This happened to a minor extent on
 March 30 when some of the Committee members began to accuse the
 media of improper influence.</p>
-   <p> Who Are The PCG Members</p>
-   <p> The PCG members presently attempting to control the Select
+      <p> Who Are The PCG Members</p>
+      <p> The PCG members presently attempting to control the Select
 Committee must be clearly identified.[1] There are, no doubt, some
 media people and Representatives who sincerely believe that there
 were no conspiracies and who have been playing into the hands of
@@ -6177,9 +6178,9 @@ Gonzalez and Gail Beagle into mistrusting the people they had
 always trusted? Answer these questions and publicize the answers,
 and the top-down approach to exposing the PCG and solving the
 assassination conspiracies will be well along the path to success.</p>
-   <p> Part II</p>
-   <p> "Hard" and "Soft" Propaganda in 1977</p>
-   <p> When the time approached for the Select Committee on
+      <p> Part II</p>
+      <p> "Hard" and "Soft" Propaganda in 1977</p>
+      <p> When the time approached for the Select Committee on
 Assassinations to ask the House of Representatives for its 1978
 budget, it was interesting to once again examine the PCG's control
 over the American news media and the Congress. To those who
@@ -6209,8 +6210,8 @@ Carl Bernstein. Both of these documents were provided to the
 author by Ted Gandolfo in New York, who now has his own weekly
 cable TV show on Friday nights on Manhattan TV entitled,
 "Assassination USA."</p>
-   <p> Evidence of Media Control by the CIA</p>
-   <p> Carl Bernstein wrote an article exposing the CIA's methods of
+      <p> Evidence of Media Control by the CIA</p>
+      <p> Carl Bernstein wrote an article exposing the CIA's methods of
 controlling the news media.[4] The basic technique dictates
 planting a Secret Team member at the top of each major media
 organization, or obtaining tacit agreements from the top man to use
@@ -6230,13 +6231,13 @@ information confirms the author's contention that the CIA controls
 the 15 news media organizations in the U.S.
 The other CIA top level individuals named by Bernstein are as
 follows:</p>
-   <p> "Louisville Courier Journal"--Barry Bingham, Sr.
+      <p> "Louisville Courier Journal"--Barry Bingham, Sr.
 NBC--Richard Wald
 ABC--Sam Jaffe
 Time, Inc.--Henry Luce
 Copley News Service--James Copley
 Hearst--Seymour Freiden</p>
-   <p> The PCG, through their prime intelligence members, are today
+      <p> The PCG, through their prime intelligence members, are today
 still controlling what the media do and say about the subject of
 assassinations and the Select Committee on Assassinations.[5] They
 do this by influencing the heads of each organization who determine
@@ -6258,8 +6259,8 @@ It is inconceivable, however, that men intelligent enough to
 rise to the top of CBS, NBC, ABC, the "New York Times et al." could
 actually believe that Oswald was the lone assassin. Some or most
 of them must be cooperating fully in the PCG cover-up efforts.</p>
-   <p> Proof of CIA Efforts to Discredit Researchers</p>
-   <p> A recently released CIA document[6] was a dispatch issued from
+      <p> Proof of CIA Efforts to Discredit Researchers</p>
+      <p> A recently released CIA document[6] was a dispatch issued from
 CIA headquarters in April 1967 to certain bases and stations to
 mount a campaign through media contacts (called assets) against
 certain assassination researchers. The targets included Mark Lane,
@@ -6293,8 +6294,8 @@ The names of the authors of the document have been blacked out
 of the copy that was released. Further research might reveal who
 actually wrote it and "pulled it together" (as a note in hand print
 at the top states).</p>
-   <p> The Trial of Lee Harvey Oswald</p>
-   <p> The top level media control was demonstrated by the ABC-TV
+      <p> The Trial of Lee Harvey Oswald</p>
+      <p> The top level media control was demonstrated by the ABC-TV
 program, "The Trial of Lee Harvey Oswald", whose co-director,
 Lawrence Schiller, had to have been selected at the suggestion of
 the PCG. Schiller, one of the worst people in the PCG's stable of
@@ -6332,8 +6333,8 @@ there was a conspiracy: why wouldn't ABC go along with the 80% of
 their viewers and portray the truth? The answer again is simple:
 ABC is controlled from the very top, probably much higher than the
 Sam Jaffe level, by the PCG and the CIA.</p>
-   <p> Other TV Shows</p>
-   <p> Both NBC and CBS are planning major TV specials on the
+      <p> Other TV Shows</p>
+      <p> Both NBC and CBS are planning major TV specials on the
 assassinations. CBS is planning a show on Ruby and Oswald. The
 theme will be that the Warren Commission was right and that both
 Oswald and Ruby were lone nuts. Mr. Paley and Mr. Salant are the
@@ -6344,8 +6345,8 @@ out some of the facts, it is certain that the PCG members of NBC,
 including Richard Wald, will not permit any conclusions about Ray's
 innocence or information about Frenchy-Raoul or Jack Youngblood
 (the real assassins) to be included.</p>
-   <p> Priscilla McMillan--CIA Agent</p>
-   <p> One of the more remarkable things about the massive 1977
+      <p> Priscilla McMillan--CIA Agent</p>
+      <p> One of the more remarkable things about the massive 1977
 campaign of the CIA and the PCG is their blatant use of freelance
 writers and news reporters who are well known CIA agents to nearly
 anyone who has taken the time to pay attention. Three agents are
@@ -6388,8 +6389,8 @@ and the Warren Commission had those beliefs reinforced by Priscilla
 McMillan and Marina Oswald. It is wise for researchers, the Select
 Committee on Assassinations and others who know what is really
 going on, not to underestimate this power of the PCG.</p>
-   <p> Fensterwald's Book</p>
-   <p> A book by Bud Fensterwald appeared in 1977 under the sponsorship
+      <p> Fensterwald's Book</p>
+      <p> A book by Bud Fensterwald appeared in 1977 under the sponsorship
 of the PCG.[11] This clever effort on the part of one of the CIA's
 best agents was designed to throw people off the track who have a
 somewhat deeper interest in the JFK assassination. It was meant to
@@ -6416,8 +6417,8 @@ book can be true. It maintains that Oswald at least planned to
 fire from the sixth floor window of the TSBD Building. As all good
 researchers know, the photographs of the window, inside and
 outside, prove there was no one firing from that window that day.</p>
-   <p> The de Mohrenschildt Murder</p>
-   <p> The Murder Inc. branch of the PCG killed George de Mohrenschildt
+      <p> The de Mohrenschildt Murder</p>
+      <p> The Murder Inc. branch of the PCG killed George de Mohrenschildt
 when he became too dangerous for them. The media branch of the PCG
 then undertook a campaign to discredit Willem Oltmans and NOS-TV
 (in Holland) who happened to be in possession of a series of video
@@ -6430,8 +6431,8 @@ demonstrates[14] de Mohrenschildt was quite sane when he
 disappeared from Belgium. He was in the process of giving Ed
 Epstein a story about his involvement in the JFK assassination when
 he was murdered in Florida.</p>
-   <p> Donald Donaldson's Disappearance</p>
-   <p> General Donald Donaldson, alias Dimitri Dimitrov alias Jim
+      <p> Donald Donaldson's Disappearance</p>
+      <p> General Donald Donaldson, alias Dimitri Dimitrov alias Jim
 Adams, was intimately acquainted with the CIA people who planned
 JFK's assassination. He was in Holland to tell his story to NOS-TV
 and Willem Oltmans. He told Oltmans that Allen Dulles was the key
@@ -6455,8 +6456,8 @@ then moved to England, and subsequently disappeared from a London
 hotel, leaving large unpaid bills at both his London and Amsterdam
 hotels. The possibility is very good that he has gone the same
 route as de Mohrenschildt, murdered by the PCG.</p>
-   <p> Attacks on the Select Committee</p>
-   <p> One of a series of attacks on the Select Committee in November
+      <p> Attacks on the Select Committee</p>
+      <p> One of a series of attacks on the Select Committee in November
 and December, leading up to the December vote on the 1978 budget,
 took place in the form of an article by probable CIA agent George
 Lardner, Jr., one of the Select Committee's biggest enemies. He is
@@ -6476,26 +6477,26 @@ part I of this chapter, the only chance the Committee and the House
 have to keep the investigation going is to expose the PCG and their
 media control, from the top down. Otherwise the Committee cannot
 win the battle.</p>
-   <p>____________________</p>
-   <p> [1] Power Control Group (PCG) defined in prior articles and one book
+      <p>____________________</p>
+      <p> [1] Power Control Group (PCG) defined in prior articles and one book
 by the author, as follows:</p>
-   <p> The PCG includes all organizations and individuals who
+      <p> The PCG includes all organizations and individuals who
 knowingly participated in any of the domestic political
 assassinations or attempted assassinations, or in any of the
 efforts to cover-up the truth about those assassinations. This
 includes a large number of murders of witnesses and participants.
 The assassinations involved include, but are not necessarily
 limited to the following:</p>
-   <p> John Kennedy, Robert Kennedy, Martin Luther King, George
+      <p> John Kennedy, Robert Kennedy, Martin Luther King, George
 Wallace and Mary Jo Kopechne.</p>
-   <p> The PCG is a much larger group than just the clandestine parts
+      <p> The PCG is a much larger group than just the clandestine parts
 of the CIA and the FBI, or the Secret Team as defined by L.
 Fletcher Prouty. It would however, include all those members of
 the Secret Team or the CIA or the FBI falling under the
 definition.</p>
-   <p> [2] The author's contentions about media control by the PCG have
+      <p> [2] The author's contentions about media control by the PCG have
 appeared in one self-published book and several articles:</p>
-   <p> (a) Book: "The Taking of America, 1-2-3," R.E. Sprague,
+      <p> (a) Book: "The Taking of America, 1-2-3," R.E. Sprague,
 self-published, Hartsdale, N.Y., 1976. (First Edition. This
 Third Edition contains chapters 15-17 plus the Appendix which
 were written after 1977. --Editor)
@@ -6510,21 +6511,21 @@ and the Pursuit of Truth," May, 1977.
 the United States: The Two Approaches: From the Bottom Up vs.
 From the Top Down," R.E. Sprague, "People and the Pursuit of
 Truth," May, 1977.</p>
-   <p> [3] The two official investigations of the Kennedy assassination
+      <p> [3] The two official investigations of the Kennedy assassination
 referred to here are:</p>
-   <p> (a) The investigation by the office of the district attorney of
+      <p> (a) The investigation by the office of the district attorney of
 Orleans Parish, New Orleans, La. 1966 to 1969 (Jim Garrison).
 (b) The investigation by the Select Committee on Assassinations
 of the U.S. House of Representatives 1976-1977.</p>
-   <p> The investigations by the Schweiker-Hart subcommittee of the
+      <p> The investigations by the Schweiker-Hart subcommittee of the
 Church committee and the Ervin Watergate committee were never
 really approved by Congress, and so lacked the power and
 influence to become a threat to the PCG.</p>
-   <p> [4] "The CIA and the Press," Carl Bernstein, "Rolling Stone," October
+      <p> [4] "The CIA and the Press," Carl Bernstein, "Rolling Stone," October
 4, 1977. A copy of the full unedited manuscript of this article
 was also made available to the author. The "Rolling Stone"
 version had selected names omitted.</p>
-   <p> [5] Bernstein's article also describes the CIA influence over several
+      <p> [5] Bernstein's article also describes the CIA influence over several
 other media organizations without naming the top executives.
 These are:
 "New York Herald Tribune"
@@ -6536,32 +6537,32 @@ These are:
 "Miami Herald"
 And a CIA official told Bernstein, "that's just a small part of
 the list."</p>
-   <p> [6] The CIA document was obtained by Harold Weisberg under the
+      <p> [6] The CIA document was obtained by Harold Weisberg under the
 Freedom of Information Act. It is dated 4/1/67 and labelled
 "Dispatch to Chiefs, Certain Stations and Bases." Document
 Number 1035-960 for "FOIA Review" on September 1976. Object:
 Countering Criticism of the "Warren Report."</p>
-   <p> [7] "The Scavengers and Critics of the Warren Report," Lawrence
+      <p> [7] "The Scavengers and Critics of the Warren Report," Lawrence
 Schiller, Dell Publishing Co., New York, 1967.</p>
-   <p> [8] "The Big If," "London Sunday Times," September 18, 1977.</p>
-   <p> [9] "Marina and Lee," Patricia McMillan, Harper &amp; Row, 1977.</p>
-   <p>[10] A review of the McMillan book appeared in the "Sunday New York
+      <p> [8] "The Big If," "London Sunday Times," September 18, 1977.</p>
+      <p> [9] "Marina and Lee," Patricia McMillan, Harper &amp; Row, 1977.</p>
+      <p>[10] A review of the McMillan book appeared in the "Sunday New York
 Times" book review section on November 6, 1977. It praised the
 book to the skys, backed up the Warren Commission, and severely
 attacked the researchers and the Select Committee.</p>
-   <p>[11] "Coincidence or Conspiracy," Bernard Fensterwald, Jr., Zebra
+      <p>[11] "Coincidence or Conspiracy," Bernard Fensterwald, Jr., Zebra
 Books, New York, 1977.</p>
-   <p>[12] (a) "The Taking of America, 1-2-3," Richard E. Sprague,
+      <p>[12] (a) "The Taking of America, 1-2-3," Richard E. Sprague,
 self-published, 1976.</p>
-   <p> (b) "The Assassination of President John F. Kennedy: The
+      <p> (b) "The Assassination of President John F. Kennedy: The
 Involvement of the Central Intelligence Agency in the Plans
 and the Cover-Up", Richard E. Sprague -- "People and the
 Pursuit of Truth," May, 1975.</p>
-   <p>[13] "Appointment in Dallas," Hugh C. McDonald, Zebra Books, New York,
+      <p>[13] "Appointment in Dallas," Hugh C. McDonald, Zebra Books, New York,
 1975.</p>
-   <p>[14] "George de Mohrenschildt," Willem Oltmans, Published in The
+      <p>[14] "George de Mohrenschildt," Willem Oltmans, Published in The
 Netherlands, Unpublished in the United States.</p>
-   <p>[15] This chapter originally appeared as the article "Congressional
+      <p>[15] This chapter originally appeared as the article "Congressional
 Investigation of Political Assassinations in the United States:
 The Two Approaches: From the Bottom Up vs. From the Top Down,"
 by the author in "People and the Pursuit of Truth," May, 1977.
@@ -6571,14 +6572,14 @@ was sufficient to carry over a few months into 1978. No budget
 request was made in December 1977. The PCG can now be expected
 to continue its attacks until the spring of 1978 when the
 budget request will be made. (January 4, 1978)</p>
-   <p>--
+      <p>--
 daveus rattus </p>
-   <p> yer friendly neighborhood ratman</p>
-   <p> KOYAANISQATSI</p>
-   <p> ko.yaa.nis.qatsi (from the Hopi Language) n. 1. crazy life. 2. life
+      <p> yer friendly neighborhood ratman</p>
+      <p> KOYAANISQATSI</p>
+      <p> ko.yaa.nis.qatsi (from the Hopi Language) n. 1. crazy life. 2. life
 in turmoil. 3. life out of balance. 4. life disintegrating.
 5. a state of life that calls for another way of living.</p>
-   <p>From dave@ratmandu.esd.sgi.com Wed Jun 17 07:55:35 1992
+      <p>From dave@ratmandu.esd.sgi.com Wed Jun 17 07:55:35 1992
 Received: by icaen.uiowa.edu ( 5.52 (84)/1.1) id AA07136
 on Wed, 17 Jun 92 07:55:31 CDT.
 Received: from pl122c.eecs.lehigh.edu by ns-mx.uiowa.edu (5.64.jnf/920408)
@@ -6595,14 +6596,14 @@ From: dave@ratmandu.esd.sgi.com (dave "who can do? ratmandu!" ratcliffe)
 To: PML3@PL122c.EECS.Lehigh.EDU
 Subject: "The Taking of America, 1-2-3" (9/11)
 Status: RO</p>
-   <p>Subject: "The Taking of America, 1-2-3" (9/11)
+      <p>Subject: "The Taking of America, 1-2-3" (9/11)
 Summary: we were robbed of our capability of electing a president we wanted
 Keywords: part 9 of 11: chapter 16
 Lines: 867</p>
-   <p> 1979: The House Select Committee (1)</p>
-   <p> Chapter 16
+      <p> 1979: The House Select Committee (1)</p>
+      <p> Chapter 16
 1984 Here We Come</p>
-   <p> George Orwell undoubtedly did not realize how accurate his 1984
+      <p> George Orwell undoubtedly did not realize how accurate his 1984
 scenario would be by the year 1979. As 1978 drew to a close,
 events in America made Orwell's descriptions of such concepts as
 Newspeak and a supposedly open but actually closed society, very
@@ -6885,7 +6886,7 @@ took no action and did not contact Nagell or Richard Russell, the
 only person who knew where Nagell was to be found.[3]
 Stokes sent me this reply to my inquiries about the witnesses on
 December 41978.</p>
-   <p> "Dear Mr. Sprague:
+      <p> "Dear Mr. Sprague:
 Thank you for your letter of November 24, 1978. I am aware of
 the amount of time you have spent analyzing the assassination of
 President John F. Kennedy and your interest in the work of the
@@ -6900,7 +6901,7 @@ other concerned citizens who have taken the time to write."
 Sincerely,
 Louis Stokes
 Chairman</p>
-   <p> "The Rules" Stokes refers to include the nondisclosure
+      <p> "The Rules" Stokes refers to include the nondisclosure
 agreement. This letter implies that subsequent to December 4,
 1978, the committee might be calling more JFK witnesses. Of
 course, that didn't happen. Except for some high level FBI, Secret
@@ -7380,13 +7381,13 @@ funds they had and the time they had were not enough. Whose fault
 was that? Certainly not the committee's, they can claim.
 This scenario, if true, is really the only hope, though very
 slim, any of us have left. All other avenues have been closed.</p>
-   <p>____________________</p>
-   <p>[1] "New York Daily News" -- Tuesday, December 12, 1979.</p>
-   <p>[2] See the letters in the Appendix for a copy of the nondisclosure
+      <p>____________________</p>
+      <p>[1] "New York Daily News" -- Tuesday, December 12, 1979.</p>
+      <p>[2] See the letters in the Appendix for a copy of the nondisclosure
 agreement itself as well as correspondence between the author
 and Louis Stokes.</p>
-   <p>[3] See copies of this correspondence in the Appendix.</p>
-   <p>[4] Following the December 22 executive session a public hearing was
+      <p>[3] See copies of this correspondence in the Appendix.</p>
+      <p>[4] Following the December 22 executive session a public hearing was
 held on December 29, the last weekday of the Committee's
 existence. Weiss and Barger presented the acoustical evidence
 proving four shots, one from the knoll, thereby causing the
@@ -7421,13 +7422,13 @@ behind at the critical point.
 Cornwell presented the cop driving the Houston Street cycle and
 attempted to elicit testimony from him that it was his microphone
 that was open.</p>
-   <p>[5] Giancana actually died in 1975 before testifying to the Schweicker
+      <p>[5] Giancana actually died in 1975 before testifying to the Schweicker
 JFK assassination subcommittee of the Church Committee.</p>
-   <p>--
+      <p>--
 daveus rattus </p>
-   <p> yer friendly neighborhood ratman</p>
-   <p> KOYAANISQATSI</p>
-   <p> ko.yaa.nis.qatsi (from the Hopi Language) n. 1. crazy life. 2. life
+      <p> yer friendly neighborhood ratman</p>
+      <p> KOYAANISQATSI</p>
+      <p> ko.yaa.nis.qatsi (from the Hopi Language) n. 1. crazy life. 2. life
 in turmoil. 3. life out of balance. 4. life disintegrating.
 5. a state of life that calls for another way of living.
 From dave@ratmandu.esd.sgi.com Thu Jun 18 09:38:16 1992
@@ -7447,16 +7448,16 @@ From: dave@ratmandu.esd.sgi.com (dave "who can do? ratmandu!" ratcliffe)
 To: PML3@PL122c.EECS.Lehigh.EDU
 Subject: "The Taking of America, 1-2-3" (10/11)
 Status: RO</p>
-   <p>Subject: "The Taking of America, 1-2-3" (10/11)
+      <p>Subject: "The Taking of America, 1-2-3" (10/11)
 Summary: we were robbed of our capability of electing a president we wanted
 Keywords: part 10 of 11: chapter 17
 Lines: 769</p>
-   <p> 1985: The House Select Committee (2)</p>
-   <p> Chapter 17
+      <p> 1985: The House Select Committee (2)</p>
+      <p> Chapter 17
 THE FINAL COVER UP: How The CIA Controlled
 The House Select Committee On Assassinations</p>
-   <p> Introduction</p>
-   <p> The final report of the House Select Committee on Assassinations
+      <p> Introduction</p>
+      <p> The final report of the House Select Committee on Assassinations
 (HSCA), issued in 1979, concluded that a conspiracy existed in the
 assassination of President Kennedy. This news should have
 delighted hundreds of researchers who had disagreed with the no-conspiracy finding of the Warren Commission. The fact that it did
@@ -7501,8 +7502,8 @@ they had used previously to control the Warren Commission, the
 Rockefeller Commission, the Garrison Investigation, the
 Schweiker/Hart Committee[2] and the efforts of independent
 researchers.</p>
-   <p> The Situation in 1976</p>
-   <p> In 1976, Henry Gonzalez, member of the House from Texas, and
+      <p> The Situation in 1976</p>
+      <p> In 1976, Henry Gonzalez, member of the House from Texas, and
 Thomas Downing from Virginia, were both convinced there was a
 massive conspiracy in the JFK assassination. They introduced a
 joint bill in the House which resulted in the formation of the HSCA
@@ -7587,8 +7588,8 @@ retiring. At that point, December 1976, Gonzalez and Sprague were
 of the same mind and getting along fine. Researchers were very
 pleased with the way things were going and believed Sprague would
 expose the CIA's involvement in the JFK cover up.</p>
-   <p> The CIA's problem</p>
-   <p> Given this background of the HSCA status in late 1976, it can
+      <p> The CIA's problem</p>
+      <p> Given this background of the HSCA status in late 1976, it can
 easily be seen that the CIA was up against much more serious
 opposition than it ever had been before in the JFK murder and
 cover-up. They had ruined Jim Garrison's reputation and curtailed
@@ -7612,38 +7613,38 @@ murder and the cover-up, they faced a crisis. They knew they had
 to do several things to turn it around and to continue to keep the
 American public from realizing what was happening. Here is what
 they had to do:</p>
-   <p> 1. Get rid of Richard A. Sprague.</p>
-   <p> 2. Get rid of Henry Gonzalez.</p>
-   <p> 3. Get rid of Sprague's key men or keep them away from CIA
+      <p> 1. Get rid of Richard A. Sprague.</p>
+      <p> 2. Get rid of Henry Gonzalez.</p>
+      <p> 3. Get rid of Sprague's key men or keep them away from CIA
 evidence or keep them quiet.</p>
-   <p> 4. Install their own chief counsel to control the
+      <p> 4. Install their own chief counsel to control the
 investigation.</p>
-   <p> 5. Elect a new HSCA chairman who would go along, or who
+      <p> 5. Elect a new HSCA chairman who would go along, or who
 could be fooled.</p>
-   <p> 6. Cut off all Sprague's investigations of CIA people.
+      <p> 6. Cut off all Sprague's investigations of CIA people.
 Make sure none of the people were found or bury any
 testimony that had already been found, or murder CIA
 people who might talk.</p>
-   <p> 7. Keep the committee members from knowing what was
+      <p> 7. Keep the committee members from knowing what was
 happening and segregate the investigation from them.</p>
-   <p> 8. Create a new investigative environment whose purpose
+      <p> 8. Create a new investigative environment whose purpose
 would be to confirm all of the findings of the Warren
 Commission and divert attention away from the who-did-it-and-why approach.</p>
-   <p> 9. Control the committee staff in such a way as to keep
+      <p> 9. Control the committee staff in such a way as to keep
 any of them from revealing what they already knew about
 CIA involvement.</p>
-   <p> 10. Control committee consultants in the same way, and
+      <p> 10. Control committee consultants in the same way, and
 staff members who might leave or who might be fired.</p>
-   <p> 11. Continue to control the media in such a way as to
+      <p> 11. Continue to control the media in such a way as to
 reinforce all of the above.</p>
-   <p> 12. Continue to murder witnesses or assassins in emergency
+      <p> 12. Continue to murder witnesses or assassins in emergency
 situations if necessary.</p>
-   <p> The CIA successfully did all twelve of these things. The
+      <p> The CIA successfully did all twelve of these things. The
 techniques they used were much more subtle and devious than those
 they had used before, although they did continue with murders of
 potential HSCA witnesses and with media control.</p>
-   <p> How The CIA Did It</p>
-   <p> The first step taken by the CIA was to use the media they
+      <p> How The CIA Did It</p>
+      <p> The first step taken by the CIA was to use the media they
 control, along with some members of Congress they control, and two
 planted agents on the staff of and consulting for, Henry Gonzalez,
 to get rid of both Henry and Richard A. Sprague. In taking this
@@ -7688,8 +7689,8 @@ having been achieved, Blakey set about the other parts of his
 assignment very rapidly after he arrived. For Goal 3, he fired Bob
 Tanenbaum, Bob Lehner, and Donovan Gay, three loyal Sprague
 supporters, quickly.</p>
-   <p> The Nondisclosure Agreement</p>
-   <p> The most important weapon used by the CIA and Blakey to pursue
+      <p> The Nondisclosure Agreement</p>
+      <p> The most important weapon used by the CIA and Blakey to pursue
 goals 9 and 10 was instituted within one week after Blakely
 arrived. It is by far the most subtle and far reaching technique
 used by the CIA to date. It is called the "Nondisclosure
@@ -7764,11 +7765,11 @@ happened. The only question is, who is controlling the information
 in the heads of the staff investigators who discovered CIA
 involvement? Was Louis Stokes working for the public or for the
 CIA?</p>
-   <p> Examples of CIA-Control</p>
-   <p> Some specific examples will serve to illustrate how well the CIA
+      <p> Examples of CIA-Control</p>
+      <p> Some specific examples will serve to illustrate how well the CIA
 techniques have worked and are still working.</p>
-   <p> Garrison Evidence and Witnesses Example</p>
-   <p> As mentioned earlier, when Blakey arrived, an investigating team
+      <p> Garrison Evidence and Witnesses Example</p>
+      <p> As mentioned earlier, when Blakey arrived, an investigating team
 headed by Cliff Fenton, reporting to Bob Tanenbaum, had already
 been hard at work tracking down leads to the CIA conspirators
 generated by Jim Garrison's investigation in New Orleans. This
@@ -7811,8 +7812,8 @@ Miami; and Carlos Prio Socarras, former Cuban premier, killed in
 his garage in Miami.
 With the knowledge of these murders, Fenton and his team would
 not have required any more than a gentle hint, to keep quiet.</p>
-   <p> Frenchy Example</p>
-   <p> The "tramp," Frenchy, who appears in seven photos taken in
+      <p> Frenchy Example</p>
+      <p> The "tramp," Frenchy, who appears in seven photos taken in
 Dealey Plaza, is one of the most important CIA individuals in the
 JFK assassination. Researcher Bill Turner discovered that Frenchy
 had been in the Florida Keys working with CIA sponsored anti-Castro
@@ -7833,8 +7834,8 @@ learned from Frenchy. He is not mentioned in the report and was
 not called as a witness. The author dares not reveal the source of
 the above information because of the danger to staff people from
 the nondisclosure agreement.</p>
-   <p> Nagell, Dean, Novel, and Augustinovich</p>
-   <p> The Garrison investigation and a subsequent series of
+      <p> Nagell, Dean, Novel, and Augustinovich</p>
+      <p> The Garrison investigation and a subsequent series of
 investigations by the author and other members of the Committee to
 Investigate Assassinations in 1967 to 1973, turned up several
 witnesses who were willing to talk privately about the CIA
@@ -7912,8 +7913,8 @@ committee. This implies they were planning to call more witnesses
 in December 1978. The committee's life ended on January 1, 1979.
 The CIA witnesses were never called nor ever mentioned right up to
 the very end and the report was silent about them.</p>
-   <p> The Umbrella Man</p>
-   <p> One last example illustrates the way the CIA and Blakey worked
+      <p> The Umbrella Man</p>
+      <p> One last example illustrates the way the CIA and Blakey worked
 together to cancel-out any evidence linking the CIA people and/or
 techniques used in the JFK assassination. For may years, various
 researchers, including Josiah Thompson[5] and the author, had
@@ -8039,8 +8040,8 @@ probability that TUM was Gordon Novel, CIA agent.
 The extreme lengths that the CIA and Blakey went to in this
 charade, made one believe that the umbrella probably *was* the
 Charles Senseney weapon. Otherwise, why bother with TUM?</p>
-   <p> Goal Number Eight</p>
-   <p> What has been presented so far in this article represents direct
+      <p> Goal Number Eight</p>
+      <p> What has been presented so far in this article represents direct
 actions by the CIA to cover-up CIA involvement. Blakey played
 another important role and that was to achieve the eighth goal on
 the list, namely to change the public impression of HSCA's main
@@ -8090,8 +8091,8 @@ the evidence and the witnesses pointing to the real assassins, and
 to the fact that Oswald was framed and did not fire any shots. It
 thus provided an additional shield for the CIA and in effect,
 completed the cover-up.</p>
-   <p> Summary</p>
-   <p> Now, in the spring of 1985, the CIA appears to have under
+      <p> Summary</p>
+      <p> Now, in the spring of 1985, the CIA appears to have under
 control the final cover-up engineered by Robert Blakey with the
 support of a few murders of key witnesses and the existence of the
 insidious, illegal, nondisclosure agreement silencing the HSCA
@@ -8108,35 +8109,35 @@ an election campaign, it probably would. Most Americans react to
 that by saying, "he would be assassinated." Somehow they have
 received the messages about what has gone wrong with the United
 States.</p>
-   <p>____________________</p>
-   <p>[1] Chaired by Prof. Norman Ramsey of M.I.T.</p>
-   <p>[2] Senators Richard Schweiker of Penn. and Gary Hart of Colo. formed
+      <p>____________________</p>
+      <p>[1] Chaired by Prof. Norman Ramsey of M.I.T.</p>
+      <p>[2] Senators Richard Schweiker of Penn. and Gary Hart of Colo. formed
 a sub-committee of the Church Committee.</p>
-   <p>[3] The author became an advisor to Richard A. Sprague as soon as he
+      <p>[3] The author became an advisor to Richard A. Sprague as soon as he
 was appointed counsel to the HSCA.</p>
-   <p>[4] The names of the witnesses in the memo were:
+      <p>[4] The names of the witnesses in the memo were:
 Cooperative Witnesses:
 Louis Ivon (Jim Garrison's chief investigator), Richard Case
 Nagell, Harry Dean, James Hosty, Carver Gaten, Warren du Bruys,
 Regis Kennedy, Victor Marchetti, Gordon Novel, Manuel Garcia
 Gonzalez, Harry Williams, Jim Garrison, George de
 Mohrenschildt, Charles Senseney, Mary Hope and Jim Hicks.</p>
-   <p> Non-Cooperative Witnesses or Assassins or Planners:
+      <p> Non-Cooperative Witnesses or Assassins or Planners:
 Ronald Augustinovich, Guy Gabaldin, Frenchy, William Seymour,
 Emilio Santana, Jack Lawrence, Jim Braden, Sergio Arcacha
 Smith, Fred Lee Crisman, William Sullivan, Carlos Prio
 Socarras, Rolando Masferrer, Major L.M. Bloomfield, E. Howard
 Hunt, and Richard Helms.</p>
-   <p>[5] In his book, "Six Seconds in Dallas," Thompson showed photos of
+      <p>[5] In his book, "Six Seconds in Dallas," Thompson showed photos of
 TUM.</p>
-   <p> I see in the near future a crisis approaching that unnerves me and causes
+      <p> I see in the near future a crisis approaching that unnerves me and causes
 me to tremble for the safety of my country. . . . Corporations have been
 enthroned, an era of corruption in high places will follow, and the
 money-power of the country will endeavor to prolong its reign by working
 upon the prejudices of the people until the wealth is aggregated in a few
 hands and the Republic is destroyed.</p>
-   <p> --- Abraham Lincoln (quoted in Jack London's "The Iron Heel").</p>
-   <p>From dave@ratmandu.esd.sgi.com Fri Jun 19 09:59:20 1992
+      <p> --- Abraham Lincoln (quoted in Jack London's "The Iron Heel").</p>
+      <p>From dave@ratmandu.esd.sgi.com Fri Jun 19 09:59:20 1992
 Received: by icaen.uiowa.edu ( 5.52 (84)/1.1) id AA12962
 on Fri, 19 Jun 92 09:59:15 CDT.
 Received: from pl122c.eecs.lehigh.edu by ns-mx.uiowa.edu (5.64.jnf/920408)
@@ -8153,17 +8154,17 @@ From: dave@ratmandu.esd.sgi.com (dave "who can do? ratmandu!" ratcliffe)
 To: PML3@PL122c.EECS.Lehigh.EDU
 Subject: "The Taking of America, 1-2-3" (11/11)
 Status: RO</p>
-   <p>Subject: "The Taking of America, 1-2-3" (11/11)
+      <p>Subject: "The Taking of America, 1-2-3" (11/11)
 Summary: we were robbed of our capability of electing a president we wanted
 Keywords: part 11 of 11: Appendix
 Lines: 1151</p>
-   <p> Appendix</p>
-   <p> The Secrecy Oath the Author signed after Robert Blakey took over
+      <p> Appendix</p>
+      <p> The Secrecy Oath the Author signed after Robert Blakey took over
 the HSCA, and correspondence between the author and various
 committee members.</p>
-   <p> Exhibit A
+      <p> Exhibit A
 ____________________________________________________________</p>
-   <p> Select Committee on Assassinations Nondisclosure Agreement
+      <p> Select Committee on Assassinations Nondisclosure Agreement
 
 
 [Richard E. Sprague]
@@ -8336,12 +8337,12 @@ give to the committee in
 the near future. I intend
 to publish some of this
 information.]</p>
-   <p> Exhibit B
+      <p> Exhibit B
 ____________________________________________________________</p>
-   <p> 193 Pinewood Road
+      <p> 193 Pinewood Road
 Hartsdale, NY 10530</p>
-   <p> February 10, 1978</p>
-   <p> Mr. Louis Stokes
+      <p> February 10, 1978</p>
+      <p> Mr. Louis Stokes
 Chairman, Select Committee on Assassinations
 U.S. House of Representatives
 Washington, D.C. 20515
@@ -8441,10 +8442,10 @@ Yours sincerely,
 
 
 Richard E. Sprague</p>
-   <p> Exhibit C
+      <p> Exhibit C
 ____________________________________________________________</p>
-   <p> LOUIS STOKES, OHIO, CHAIRMAN</p>
-   <p>RICHARDSON PREYER, N.C. SAMUEL L. DEVINE, OHIO
+      <p> LOUIS STOKES, OHIO, CHAIRMAN</p>
+      <p>RICHARDSON PREYER, N.C. SAMUEL L. DEVINE, OHIO
 WALTER E. FAUNTROY, D.C. STEWART B. MCKINNEY, CONN.
 YVONNE BRATHWAITE BURKE, CALIF. CHARLES THONE, NEBR.
 CHRISTOPHER J. DODD, CONN. HAROLD S. SAWYER, MICH.
@@ -8453,16 +8454,16 @@ FLOYD J. FITHIAN, IND.
 ROBERT W. EDGAR, PA.
 ------------
 (202) 225-4624</p>
-   <p> Select Committee on Assassinations
+      <p> Select Committee on Assassinations
 U.S House of Representatives
 3331 HOUSE OFFICE BUILDING, ANNEX 2
 WASHINGTON, D.C. 20515</p>
-   <p> MAR 16 1978</p>
-   <p> Richard E. Sprague, Esq.
+      <p> MAR 16 1978</p>
+      <p> Richard E. Sprague, Esq.
 193 Pinewood Road
 Hartsdale, New York 10530</p>
-   <p> Dear Mr. Sprague:</p>
-   <p> In response to your letter of February 10, 1978
+      <p> Dear Mr. Sprague:</p>
+      <p> In response to your letter of February 10, 1978
 concerning the non-disclosure agreement which you signed
 with the Committee, I wish to first remind you that the
 agreement was explicitly explained to you provision by
@@ -8494,7 +8495,7 @@ I am not bound by his opinion.
 II. Paragraphs 12 and 14 are indeed legal. Should
 you have any specific questions concerning the legality of
 any of the provisions, I suggest you consult your own attorney.</p>
-   <p> I assure you that the very purpose of the non-disclosure agreement is to give the Select Committee full
+      <p> I assure you that the very purpose of the non-disclosure agreement is to give the Select Committee full
 control over the conduct of the investigation, including
 the ultimate disclosure of information to the American
 public. In no manner should it be construed as the Committee
@@ -8517,17 +8518,17 @@ Committee desires to avoid during its existence.
 If you have any other questions or comments on the
 non-disclosure agreement, they should be addressed to Mr.
 Blakey as Chief Counsel.</p>
-   <p> Sincerely,</p>
-   <p> [Louis Stokes]</p>
-   <p> Louis Stokes
+      <p> Sincerely,</p>
+      <p> [Louis Stokes]</p>
+      <p> Louis Stokes
 Chairman</p>
-   <p> LS:jwc</p>
-   <p> Exhibit D
+      <p> LS:jwc</p>
+      <p> Exhibit D
 ____________________________________________________________</p>
-   <p> 193 Pinewood Road
+      <p> 193 Pinewood Road
 Hartsdale, NY 10530</p>
-   <p> April 5, 1978</p>
-   <p> Representative Louis Stokes
+      <p> April 5, 1978</p>
+      <p> Representative Louis Stokes
 U.S. House of Representatives
 Raybur House Office Building
 Washington, D.C. 20515
@@ -8577,10 +8578,10 @@ press. However, they did agree to delete the statement from any
 
 [the remainder of this letter was missing from the copy of the
 edition used to make this on-line version. --Editor]</p>
-   <p> Exhibit E
+      <p> Exhibit E
 ____________________________________________________________</p>
-   <p> LOUIS STOKES, OHIO, CHAIRMAN</p>
-   <p>RICHARDSON PREYER, N.C. SAMUEL L. DEVINE, OHIO
+      <p> LOUIS STOKES, OHIO, CHAIRMAN</p>
+      <p>RICHARDSON PREYER, N.C. SAMUEL L. DEVINE, OHIO
 WALTER E. FAUNTROY, D.C. STEWART B. MCKINNEY, CONN.
 YVONNE BRATHWAITE BURKE, CALIF. CHARLES THONE, NEBR.
 CHRISTOPHER J. DODD, CONN. HAROLD S. SAWYER, MICH.
@@ -8589,12 +8590,12 @@ FLOYD J. FITHIAN, IND.
 ROBERT W. EDGAR, PA.
 ------------
 (202) 225-4624</p>
-   <p> Select Committee on Assassinations
+      <p> Select Committee on Assassinations
 U.S House of Representatives
 3331 HOUSE OFFICE BUILDING, ANNEX 2
 WASHINGTON, D.C. 20515</p>
-   <p> May 15, 1978</p>
-   <p> Mr. Richard Sprague
+      <p> May 15, 1978</p>
+      <p> Mr. Richard Sprague
 193 Pinewood Road
 Hartsdale, NY 10530
 
@@ -8625,9 +8626,9 @@ LOUIS STOKES
 Chairman
 
 LS:thn</p>
-   <p> Exhibit F
+      <p> Exhibit F
 ____________________________________________________________</p>
-   <p>
+      <p>
 193 Pinewood Road
 Hartsdale, New York 10530
 
@@ -8706,10 +8707,10 @@ P.S. In the case of key witness Richard Case Nagell,
 Mr. Stokes assured me this spring that the committee
 would contact him. As of this date, he has never
 been contacted. He knows who killed President Kennedy.</p>
-   <p> Exhibit G
+      <p> Exhibit G
 ____________________________________________________________</p>
-   <p> LOUIS STOKES, OHIO, CHAIRMAN</p>
-   <p>RICHARDSON PREYER, N.C. SAMUEL L. DEVINE, OHIO
+      <p> LOUIS STOKES, OHIO, CHAIRMAN</p>
+      <p>RICHARDSON PREYER, N.C. SAMUEL L. DEVINE, OHIO
 WALTER E. FAUNTROY, D.C. STEWART B. MCKINNEY, CONN.
 YVONNE BRATHWAITE BURKE, CALIF. CHARLES THONE, NEBR.
 CHRISTOPHER J. DODD, CONN. HAROLD S. SAWYER, MICH.
@@ -8718,12 +8719,12 @@ FLOYD J. FITHIAN, IND.
 ROBERT W. EDGAR, PA.
 ------------
 (202) 225-4624</p>
-   <p> Select Committee on Assassinations
+      <p> Select Committee on Assassinations
 U.S House of Representatives
 3331 HOUSE OFFICE BUILDING, ANNEX 2
 WASHINGTON, D.C. 20515</p>
-   <p> October 10, 1978</p>
-   <p> Mr. Richard Sprague
+      <p> October 10, 1978</p>
+      <p> Mr. Richard Sprague
 193 Pinewood Road
 Hartsdale, New York 10530
 
@@ -8764,9 +8765,9 @@ Chairman
 
 
 LS: icmj</p>
-   <p> Exhibit H
+      <p> Exhibit H
 ____________________________________________________________</p>
-   <p>
+      <p>
 
 193 Pinewood Road
 Hartsdale, NY 10530
@@ -8838,9 +8839,9 @@ Yours Sincerely,
 
 
 Dick Sprague</p>
-   <p> Exhibit I
+      <p> Exhibit I
 ____________________________________________________________</p>
-   <p>
+      <p>
 
 193 Pinewood Road
 Hartsdale, NY 10530
@@ -8929,10 +8930,10 @@ Best regards,
 
 
 Dick Sprague</p>
-   <p> Exhibit J
+      <p> Exhibit J
 ____________________________________________________________</p>
-   <p> LOUIS STOKES, OHIO, CHAIRMAN</p>
-   <p>RICHARDSON PREYER, N.C. SAMUEL L. DEVINE, OHIO
+      <p> LOUIS STOKES, OHIO, CHAIRMAN</p>
+      <p>RICHARDSON PREYER, N.C. SAMUEL L. DEVINE, OHIO
 WALTER E. FAUNTROY, D.C. STEWART B. MCKINNEY, CONN.
 YVONNE BRATHWAITE BURKE, CALIF. CHARLES THONE, NEBR.
 CHRISTOPHER J. DODD, CONN. HAROLD S. SAWYER, MICH.
@@ -8941,12 +8942,12 @@ FLOYD J. FITHIAN, IND.
 ROBERT W. EDGAR, PA.
 ------------
 (202) 225-4624</p>
-   <p> Select Committee on Assassinations
+      <p> Select Committee on Assassinations
 U.S House of Representatives
 3331 HOUSE OFFICE BUILDING, ANNEX 2
 WASHINGTON, D.C. 20515</p>
-   <p> December 4, 1978</p>
-   <p> Mr. Dick Sprague
+      <p> December 4, 1978</p>
+      <p> Mr. Dick Sprague
 193 Pinewood Rqad
 Hartsdale, New York 10530
 
@@ -8979,10 +8980,10 @@ Chairman
 
 
 LS:jl</p>
-   <p> Exhibit K
+      <p> Exhibit K
 ____________________________________________________________</p>
-   <p> LOUIS STOKES, OHIO, CHAIRMAN</p>
-   <p>RICHARDSON PREYER, N.C. SAMUEL L. DEVINE, OHIO
+      <p> LOUIS STOKES, OHIO, CHAIRMAN</p>
+      <p>RICHARDSON PREYER, N.C. SAMUEL L. DEVINE, OHIO
 WALTER E. FAUNTROY, D.C. STEWART B. MCKINNEY, CONN.
 YVONNE BRATHWAITE BURKE, CALIF. CHARLES THONE, NEBR.
 CHRISTOPHER J. DODD, CONN. HAROLD S. SAWYER, MICH.
@@ -8991,14 +8992,14 @@ FLOYD J. FITHIAN, IND.
 ROBERT W. EDGAR, PA.
 ------------
 (202) 225-4624</p>
-   <p> Select Committee on Assassinations
+      <p> Select Committee on Assassinations
 U.S House of Representatives
 3331 HOUSE OFFICE BUILDING, ANNEX 2
 WASHINGTON, D.C. 20515
 </p>
-   <p> JAN 16 1978
+      <p> JAN 16 1978
 </p>
-   <p> Richard E. Sprague, Esq.
+      <p> Richard E. Sprague, Esq.
 193 Pinewood Road
 Hartsdale, New York 10530
 
@@ -9028,12 +9029,12 @@ Sincerely,
 G. Robert Blakey
 
 GRB:jwc</p>
-   <p> Exhibit L
+      <p> Exhibit L
 ____________________________________________________________</p>
-   <p> 193 Pinewood Road
+      <p> 193 Pinewood Road
 Hartsdale, NY 10530</p>
-   <p> August 3, 1978</p>
-   <p> Mr. Robert Blakey
+      <p> August 3, 1978</p>
+      <p> Mr. Robert Blakey
 Select Committee on Assassinations
 U.S. House of Representatives
 Washington, D.C. 20515
@@ -9075,11 +9076,12 @@ August 14.
 
 cc: L. Stokes
 R. Cutler</p>
-   <p> I see in the near future a crisis approaching that unnerves me and causes
+      <p> I see in the near future a crisis approaching that unnerves me and causes
 me to tremble for the safety of my country. . . . Corporations have been
 enthroned, an era of corruption in high places will follow, and the
 money-power of the country will endeavor to prolong its reign by working
 upon the prejudices of the people until the wealth is aggregated in a few
 hands and the Republic is destroyed.</p>
-   <p> --- Abraham Lincoln (quoted in Jack London's "The Iron Heel").</p>
-</div>
+      <p> --- Abraham Lincoln (quoted in Jack London's "The Iron Heel").</p>
+   </div>
+</xml>

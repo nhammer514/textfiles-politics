@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>[What follows is an incomplete transcript of Issue #1 of "Now What", Waves
+<xml>
+   <div class="article">
+      <p>[What follows is an incomplete transcript of Issue #1 of "Now What", Waves
 Forest's periodical. It is explicitly anticopyrighted and so may be freely
 reproduced and distributed.]</p>
-   <p>Greetings --</p>
-   <p> Thankyou for supporting this sort of thing. The publication you requested,
+      <p>Greetings --</p>
+      <p> Thankyou for supporting this sort of thing. The publication you requested,
 "Further Connections", is currently undergoing major updating. The version of
 FC reviewed in "High Weirdness by Mail" is five years old and many listings
 are no longer accurate. Instead you are receiving a copy of NOW WHAT, which
@@ -38,38 +39,38 @@ resources here may delay or prevent individual replies. NOW WHAT carries no
 ads, and is supported mostly by manual labor.
 Applying this information and sharing it with others can make a remarkable
 difference in the quality of life in your community, country and/or planet.</p>
-   <p> Have fun!</p>
-   <p> Waves Forest
+      <p> Have fun!</p>
+      <p> Waves Forest
 Box 768, Monterey, CA 93942</p>
-   <p>ISSUE ONE NOW WHAT FALL 1987 $4</p>
-   <p> AIDS, CANCER CURED BY HYPER-OXYGENATION</p>
-   <p> WHY WAR FREE ENERGY OPTIONS</p>
-   <p> ELECTRO-ACCRETION: GROW SHELTERS FROM SEA MINERALS</p>
-   <p> PLANT GROWTH ACCELERATION METHODS</p>
-   <p> GLOBAL REFORESTATION URGENT</p>
-   <p> AIRWELLS: FREE WATER FROM THE AIR</p>
-   <p>unauthorized information unapplied science clean resources
+      <p>ISSUE ONE NOW WHAT FALL 1987 $4</p>
+      <p> AIDS, CANCER CURED BY HYPER-OXYGENATION</p>
+      <p> WHY WAR FREE ENERGY OPTIONS</p>
+      <p> ELECTRO-ACCRETION: GROW SHELTERS FROM SEA MINERALS</p>
+      <p> PLANT GROWTH ACCELERATION METHODS</p>
+      <p> GLOBAL REFORESTATION URGENT</p>
+      <p> AIRWELLS: FREE WATER FROM THE AIR</p>
+      <p>unauthorized information unapplied science clean resources
 world healing options transition logistics</p>
-   <p> CONTENTS</p>
-   <p>NOW WHAT</p>
-   <p>AIDS, CANCER CURED BY HYPER-OXUGENATION</p>
-   <p>DESIGNER DISEASES: AIDS AS BIOLOGICAL AND PSYCHOLOGICAL WARFARE</p>
-   <p>WHY WAR BOOKS FOR THE BRAVE PREDICTIONS</p>
-   <p>FREE ENERGY OPTIONS</p>
-   <p>ELECTRO-ACCRETION: GROW SHELTERS FROM SEA MINERALS</p>
-   <p>PLANT GROWTH ACCELERATION METHODS: THE ELECTRICAL TICKLE by Mobius Rex</p>
-   <p>GLOBAL REFORESTATION URGENT</p>
-   <p>AIRWELLS: FREE WATER FROM THE AIR</p>
-   <p> (Articles are by Waves Forest except where stated otherwise.)</p>
-   <p>NOW WHAT #1. Uncopyrighted 1987. No rights reserved.
+      <p> CONTENTS</p>
+      <p>NOW WHAT</p>
+      <p>AIDS, CANCER CURED BY HYPER-OXUGENATION</p>
+      <p>DESIGNER DISEASES: AIDS AS BIOLOGICAL AND PSYCHOLOGICAL WARFARE</p>
+      <p>WHY WAR BOOKS FOR THE BRAVE PREDICTIONS</p>
+      <p>FREE ENERGY OPTIONS</p>
+      <p>ELECTRO-ACCRETION: GROW SHELTERS FROM SEA MINERALS</p>
+      <p>PLANT GROWTH ACCELERATION METHODS: THE ELECTRICAL TICKLE by Mobius Rex</p>
+      <p>GLOBAL REFORESTATION URGENT</p>
+      <p>AIRWELLS: FREE WATER FROM THE AIR</p>
+      <p> (Articles are by Waves Forest except where stated otherwise.)</p>
+      <p>NOW WHAT #1. Uncopyrighted 1987. No rights reserved.
 Any or all of this material may be reproduced or transmitted in any form by
 any means available, for any purpose that seems appropriate at the time.
 (Otherwise, when profit is a higher priority than rapid release of vital
 information, it simply encourages the same economic situation that caused
 the suppression of such information in the first place.)</p>
-   <p>NOW WHAT appears irregularly, and costs $4, including postage, or $15 for
+      <p>NOW WHAT appears irregularly, and costs $4, including postage, or $15 for
 four issues. For foreign orders, add $2/issue to cover overseas postage.</p>
-   <p>Notes on format: This unconventional material requires a non-ordinary
+      <p>Notes on format: This unconventional material requires a non-ordinary
 arrangement, if it is to be spread swiftly enough to do its job. Readers are
 encourgaed to make and distribute copies to anyone who might use the
 information. Instead of binding this collection of articles as a standard
@@ -82,13 +83,13 @@ combination occupies an even number of pages, so as not to waste paper or
 postage when being re-copied and mailed to others. Where pages are numbered
 at all, the numbers are for the pages in the article, rather than the sequence
 in the magazine.</p>
-   <p>NOW WHAT is basically an unauthorized informal public service and does not
+      <p>NOW WHAT is basically an unauthorized informal public service and does not
 qualify as either a business or a proper non-profit organization; as far as
 banks are concerned it does not exist as a financial entity at all. However
 its author does, sort of, so checks should be made out to him rather than it.</p>
-   <p> Waves Forest PO Box 768, Monterey, CA 93942 USA
+      <p> Waves Forest PO Box 768, Monterey, CA 93942 USA
 NOW WHAT</p>
-   <p> We still appear to be hanging on the brink of either a New Age or Armageddon
+      <p> We still appear to be hanging on the brink of either a New Age or Armageddon
 or some weird combination of both. Yet real solutions exist and are not widely
 known or used, for all of mankind's supposedly unsolved problems.
 An entire body of unused technology is waiting to be implemented, that works
@@ -321,8 +322,8 @@ could go on battling and absorbing each others' empires, but why beat it into
 the ground? They've thoroughly proved they can plunder the planet and get away
 with it, so enough already. Let the winners and losers shake hands and start a
 new game with more interesting goals, that we can all pursue together.</p>
-   <p>AIDS, CANCER CURED BY HYPER-OXYGENATION</p>
-   <p> (Waves Forest) Several dozen AIDS patients have not only reversed their
+      <p>AIDS, CANCER CURED BY HYPER-OXYGENATION</p>
+      <p> (Waves Forest) Several dozen AIDS patients have not only reversed their
 death sentences, but are now back at work, completely free of the disease.
 They destroyed the virus in their blood by hyper-oxygenation, known in various
 forms as oxygen therapy, bio-oxidative therapy or auto-hemotherapy. This is a
@@ -345,7 +346,7 @@ Republic of Germany.) Dr. S. Rilling of Stuttgart and Dr. Renate Viebahn of
 Iffezheim are among the growing number of physicians who have obtained
 similar results with their patients. They are with Arztlich Gesellschaft fur
 Ozontherapie and JrJ Hansler GmbH, respectively.</p>
-   <p> THE BASIS OF BIO-OXIDATIVE THERAPIES
+      <p> THE BASIS OF BIO-OXIDATIVE THERAPIES
 For many years the health sciences have been seeking to identify the primary
 physical cause of all diseases, and the cure-all that this basic principle
 would yield. Now noth have been found, but their utter simplicity makes them
@@ -370,7 +371,7 @@ easier to obtain and use. These are both highly toxic when concentrated, which
 has tended to obscure their germicidal value except as a skin antiseptic. But
 when diluted to therapeutic levels (for H2O2, 1/2 of 1% or less), they are not
 only non-toxic but uniquely beneficial.</p>
-   <p> OZONE BLOOD TREATMENT
+      <p> OZONE BLOOD TREATMENT
 Ozone overcomes the AIDS virus by a fundamentally different process than
 usually attempted with drugs. Instead of burdening the liver and immune system
 with more elaborate toxic substances, ozone simply oxidizes the molecules in
@@ -399,7 +400,7 @@ treatment to others just for the purpose of accumulating evidence. Thus their
 results are not considered "proof" by the US medical community. So the
 Medizone Company in New York has taken on the task of doing the controlled
 studies required for the treatment to be approved in the US for general use.</p>
-   <p> MEDIZONE TESTING OZONE BLOOD TREATMENT
+      <p> MEDIZONE TESTING OZONE BLOOD TREATMENT
 In the summer of 1986 Medizone obtained from the FDA an IND (Investigative
 New Drug) Approval for ozone, which falls under the heading of drugs even
 though it isn't. They verified that ozone destroys the AIDS virus in vitro,
@@ -442,7 +443,7 @@ effects can be demonstrated in Europe, with minimal cost and no apparent
 harmful effects, must be delayed and kept quiet while panic and deaths mount.
 Surely at this stage the benefits of unauthorized publicity will outweigh the
 risks.</p>
-   <p> SAFE PURIFICATION OF BLOOD FOR TRANSFUSIONS
+      <p> SAFE PURIFICATION OF BLOOD FOR TRANSFUSIONS
 Ozone infusion also provides a simple method of purifying stored blood and
 blood components, eliminating any possibility of disease being transmitted by
 transfusion. It also pre-oxygenates blood to be transfused, greatly reducing
@@ -464,7 +465,7 @@ Some of the medical uses of ozone have been appreciated for years in Europe,
 Brazil and elsewhere, as well as its advantages over chlorine for water
 treatment (no toxic residues, 5000 times more rapid disinfection) but it's
 still relatively unknown in the US.</p>
-   <p> OXYGEN WATER
+      <p> OXYGEN WATER
 A much simpler type of Oxygen Therapy uses hydrogen peroxide (H2O2), which
 is what ozone (O3) forms on contact with water. It can be taken orally if
 diluted with water to 1/200 or less, absorbed through the skin by bathing in
@@ -504,7 +505,7 @@ oxygen and energy tend to occur where cancer is present, and vice versa. This
 wasteful metabolism becomes self-sustaining and dominant unless the oxygen
 and/or energy levels are sharply increased, or the cancer's food source
 eliminated.</p>
-   <p> HEART TRANSPLANT PIONEER RECOMMENDS OXYGEN WATER
+      <p> HEART TRANSPLANT PIONEER RECOMMENDS OXYGEN WATER
 Dr Christiaan Barnard, who performed the first heart transplant, said in
 March 1986 that he was taking peroxide and water himself, several times daily
 to reduce arthritis and aging, and he recommended it highly at that time.
@@ -529,7 +530,7 @@ oxidative enzymes, returning elasticity to arterial walls, dilating coronary
 vessels, and regulating membrane transport. IBOM is at PO Box 61767, Dallas/
 Ft. Worth, TX 75261; 817-481-9772. Dr Farr is at 11330 North May Ave,
 Oklahome City, OK 73120; 405-752-0070 and 799-8781.</p>
-   <p> H2O2 CAN BE SELF-ADMINISTERED
+      <p> H2O2 CAN BE SELF-ADMINISTERED
 The oral and skin applications offer the option of home treatment, as no
 blood needs to be drawn, and hydrogen peroxide is cheap and plentiful. Keep
 it diluted though; in high concentrations it can irritate sensitive skin and
@@ -583,7 +584,7 @@ disinformation.
 The Gerson Institute and La Gloria Clinic in Mexico are also using Hydrogen
 peroxide therapies on their patients, after the staff tested it on themselves
 and found it to be beneficial.</p>
-   <p> HYDROGEN PEROXIDE IN NATURE
+      <p> HYDROGEN PEROXIDE IN NATURE
 Hydrogen peroxide occurs naturally in rain and snow, from atmospheric ozone,
 and in mountain streams where rushing water is continuously separated. Most of
 us learned at an early age to drink from a stream only where the water's
@@ -609,7 +610,7 @@ their blood-cleansing and revitalizing capabiltiies, particularly when they
 are not combined with other foods; this is largely due to the H2O2 they
 contain. Reconstituted frozen juices have much less, and are no longer
 "alive", thus they are not nearly as effective.</p>
-   <p> H2O2 IS HEART OF IMMUNE SYSTEM
+      <p> H2O2 IS HEART OF IMMUNE SYSTEM
 Mother's milk contains a high amount of H2O2, especially colostrum, the
 first milk secreted after birth, which activates the newborn's immune system.
 H2O2 is the first line of the body's defense systems, and key to many other
@@ -620,7 +621,7 @@ organisms. It is made by combining water in the body with the free oxygen that
 is supposed to be constantly available. When the body is oxygen-starved, it
 can't produce enough H2O2 to wipe out invading pathogens, which can then get
 the upper hand and cause visible disease.</p>
-   <p> OXYGEN BOOST IS KEY TO OTHER HEALING METHODS
+      <p> OXYGEN BOOST IS KEY TO OTHER HEALING METHODS
 When penicillin is effective against infection, it is largely due to the
 formation of bactericidal amounts of H2O2, when glucose is oxidized by O2 in
 the presence of penicillin notatin. (General Biochemistry, Fruton &amp; Simmonds
@@ -652,7 +653,7 @@ get cancer. In recent years it has become popular in the US, and it gets by
 the FDA as an "herbal tea" whose distributors wisely make no medical claims
 for it. Again, much of its effectiveness is apparently due to its high oxygen
 content, released in solution when brewed as a tea.</p>
-   <p> CAUSES OF OXYGEN DEPLETION
+      <p> CAUSES OF OXYGEN DEPLETION
 There are several very common practices that drop a person's oxygen level
 far below where it should ideally be. At sea level, 20% of the atmosphere is
 supposed to be oxygen, but city air gets down as low as 10%, due to smog and
@@ -671,7 +672,7 @@ during its journey through the pipes, and being loaded down with chlorine and
 various contaminants. Since cooking drives the extra oxygen out of vegetables,
 if one's diet is mostly cooked or processed foods, there's yet another oxygen
 source lost.</p>
-   <p> EATING, FASTING AND OXYGEN BALANCE
+      <p> EATING, FASTING AND OXYGEN BALANCE
 Overeating is so common in the US it's considered "normal". One cause is the
 widespread use of oral antibiotics. While destroying the target germs, these
 drugs also kill off one's intestinal flora, which are needed for healthy
@@ -713,7 +714,7 @@ fast without discomfort, if one chooses. It reduces appetite, logically
 enough, to a level more in line with the body's actual needs.
 The bacteria that aid digestion are not killed by oral use of H2O2, as long
 as it's diluted properly.</p>
-   <p> OXYWATER MAY EVEN CURE STUPIDITY
+      <p> OXYWATER MAY EVEN CURE STUPIDITY
 Perhaps the greatest potential benefit is the reversal of the slight brain
 damage caused by long-term oxygen depletion, which can be observed in the
 "average" human, and is sometimes not all that slight. It's well known that
@@ -736,7 +737,7 @@ that the Bayer Company which originated it was a subsidiary of IG Farben, the
 German chemical conglomerate that is famous for, among other things,
 developing and mass-producing the lethal gas Zyklon-B specifically for
 exterminations at nazi death camps.</p>
-   <p> ECONOMIC INERTIA
+      <p> ECONOMIC INERTIA
 Dr Terry McGrath, the CEO at Medizone, confirmed that Hydrogen peroxide
 would in principle act much like ozone in destroying the AIDS virus, but
 pointed out that it's never likely to be tested and proven in the laboratory.
@@ -749,7 +750,7 @@ continue to spread and be incurable.
 This is good a place as any for the FDA-required disclaimer: "Information
 given here is for research and educational purposes only and is not intended
 to prescribe treatment."</p>
-   <p> VETERINARY AND AGRICULTURAL APPLICATIONS
+      <p> VETERINARY AND AGRICULTURAL APPLICATIONS
 Humans aren't the only life form that benefit from compensation for their
 oxygen-deficient air, water and/or lifestyle. H2O2 in animals' drinking water,
 not enough to taste unpleasant, knocks out a growing list of illnesses.
@@ -762,7 +763,7 @@ given. Spray the solution on their leaves as well. Seeds germinate faster,
 with bigger sprouts, when they are first soaked in one ounce of 3% H2O2 to a
 pint of water. Instead of cutting trees that are diseased or otherwise
 struggling, spray them with H2O2 and water (1 part 3% to 32 parts water).</p>
-   <p> WHY ISN'T THIS ALREADY IN USE?
+      <p> WHY ISN'T THIS ALREADY IN USE?
 The obvious question is, if hyper-oxygenation is so simple and effective,
 why has it taken so long to discover it? Ozone is hardly new and hydrogen
 peroxide has been on the market for over a century. Why aren't all the doctors
@@ -834,7 +835,7 @@ choice between saving lives and protecting profits, most will be brave enough
 to overhaul their medical belief systems, discard obsolete methodologies,
 and basically tell the pharmacuetical conglomerates to go shove it. The rest
 will simply get left behind.</p>
-   <p> SOURCES FOR FOOD-GRADE HYDROGEN PEROXIDE
+      <p> SOURCES FOR FOOD-GRADE HYDROGEN PEROXIDE
 Most pharmacists have never even heard of it, so it's usually a waste of
 time to ask them. A number of chemical supply houses have 35% H2O2 available;
 check your local directories and call a few. Under FDA pressure, DuPont and
@@ -859,7 +860,7 @@ be just as pure as food-grade and much cheaper. Check with labs that make
 and other computer parts, and the data processing complexes that might use it
 in their cleanrooms, and ask where they buy it. The more sources become known,
 the harder it will be for anyone to make it unavailable.</p>
-   <p> GET THE WORD OUT
+      <p> GET THE WORD OUT
 Write your elected officials, send copies of this information, and point out
 what will happen to a politician whose constituents learn he knew of a cure
 for cancer and AIDS but didn't tell them about it. Call in on radio talk shows
@@ -892,8 +893,8 @@ Major scientific breakthroughs go through three stages: first they are
 ridiculed, then violently opposed, and finally they are accepted as having
 been self-evident all along. Let's see if we can short-cut those first two
 stages a bit, OK?</p>
-   <p> DESIGNER DISEASES: AIDS AS BIOLOGICAL AND PSYCHOLOGICAL WARFARE</p>
-   <p> It is hard to imagine that a cure for AIDS would be withheld for economic
+      <p> DESIGNER DISEASES: AIDS AS BIOLOGICAL AND PSYCHOLOGICAL WARFARE</p>
+      <p> It is hard to imagine that a cure for AIDS would be withheld for economic
 reasons alone. Could there be some other motive?
 Despite repeated denials from Defense Department officials, allegations
 persist that AIDS is a genetically altered virus, which has been deliberately
@@ -1066,8 +1067,8 @@ Covert Action Information Bulletin #28 ($5) Box 50272, Washington, DC 20004;
 Bio-Attack Alert ($20) Dr Robert Strecker, 1501 Colorado Blvd, LA, CA 90041;
 Radio Free America #16 by Dave Emery &amp; Nip Tuck (3 tapes, $10), Davkore Co.,
 1300-D Space Park Way, Mountain View, CA 94043.</p>
-   <p>WHY WAR</p>
-   <p> The vast majority of humans desire peace and cooperation, so why are there
+      <p>WHY WAR</p>
+      <p> The vast majority of humans desire peace and cooperation, so why are there
 curently 43 wars arging around the globe?
 To find what or who is responsible for a problem that persists and gets
 worse no matter how hard you work at correcting what you think is the cause,
@@ -1113,7 +1114,7 @@ enterprise? They have no incentive to stop production of weapons and torture
 equipment as long as their agents are allowed to stimulate markets for such
 things, by creating and funding supposedly leftist terrorist groups, and
 overthrowing legitimate third-world governments to install fascists.</p>
-   <p> The federal deficit is constantly referred to in mass media without ever
+      <p> The federal deficit is constantly referred to in mass media without ever
 acknowledging why it really exists. The world's largest banks derive their
 largest profits from the interest payments on loans made to governments. Only
 governments borrow billions at a time, and they only do that to cover budgets
@@ -1177,14 +1178,14 @@ than maintaining confidence in governments, corporations, schools and
 established media. When the map you're following is of some imaginary land
 instead of where you really are, of course you'll be mystified by what you see
 around you.</p>
-   <p> If while reading this you are experiencing disbelief or outrage, you'd
+      <p> If while reading this you are experiencing disbelief or outrage, you'd
 better start studying some of the references listed below, because you'll be a
 lot more upset if you find out later that it's all true, whe it's too late for
 you to do anything about it.
 Or perhaps nations of sheep deserve to be fleeced, and then...? Come on!
 It's time to stop pretending we don't know any better.</p>
-   <p>BOOKS FOR THE BRAVE</p>
-   <p>_Gehlen:_Spy_of_the_Century_ -- E.H. Cookridge; Random House (formed CIA)
+      <p>BOOKS FOR THE BRAVE</p>
+      <p>_Gehlen:_Spy_of_the_Century_ -- E.H. Cookridge; Random House (formed CIA)
 _The_Warmongers,_and_the_Paper_Aristocracy_ -- Howard S. Katz; Books in Focus
 _The_Secret_Team_ -- L. Fletcher Prouty; Ballantine (CIA "controls" world)
 _Spooks_ (Wm. Morris &amp; Co.), and _Secret_Agenda_ (Random House) -- Jim Hougan
@@ -1213,10 +1214,10 @@ overthrowing a country by member of Reagan's transitionteam); Fawcett
 *The_C.I.A._and_the_Cult_of_Intelligence_ -- V. Marchetti and J. Marks; Dell
 *Trading_with_The_Enemy_, and _American_Swastika_ -- C. Higham; Delacourte
 *Operation_Mind_control_ -- Walter H. Bowart; Dell (CIA/Army &amp; MK ULTRA)</p>
-   <p>*(Titles unavailable from publishers can be obtained from: Tom Davis Research,
+      <p>*(Titles unavailable from publishers can be obtained from: Tom Davis Research,
 P.O. Box 1107, Aptos CA 95001)</p>
-   <p>PREDICTIONS</p>
-   <p> Often those taken in by clever con-jobs don't report it, preferring not to
+      <p>PREDICTIONS</p>
+      <p> Often those taken in by clever con-jobs don't report it, preferring not to
 look like stupid suckers. On a grand scale, this and group agreement
 dependency must explain most Americans' continued tolerance of the high
 treason portrayed as well-intentioned bungling, that passes for U.S. foreign
@@ -1250,8 +1251,8 @@ perpetuating them, will no longer be permitted.
 The dams of deception are about to burst, and the flood of truth will simply
 wash away anyone who tries to stop it. Far safer to help the truth come out
 now and release the pressure less explosively.</p>
-   <p> FREE ENERGY OPTIONS</p>
-   <p> There is no energy shortage, only a blocked information flow on fuelless
+      <p> FREE ENERGY OPTIONS</p>
+      <p> There is no energy shortage, only a blocked information flow on fuelless
 energy sources. The major media are owned mostly by the same characters who
 own the energy conglomerates, so they should not be expected to publicize
 alternatives to their monopolies. Citizens who are tired of being misled need
@@ -1310,27 +1311,27 @@ energy. Theory and device are detailed in "The Energy Machine", $38.45
 including postage, from Joseph Newman Publishing Co, Route 1, Box 52,
 Lucedale, Mississippi 39452; 601-947-7147. Free press releases and brief
 technical decsriptions are also available, send SASE.</p>
-   <p> Much quieter is H R Johnson of Blacksburg, Virginia. His motor simply puts
+      <p> Much quieter is H R Johnson of Blacksburg, Virginia. His motor simply puts
 the continuous power of magnets in a usable rotary form. The device is
 composed of specially curved magnets, and uses the difference in force and
 quality of their north and south poles to create a net unidirectional
 rotation. His patent number is 4151431, granted in 1979, but commercial
 production does not appear to be occurring.</p>
-   <p> Professor Shinichi Seike of Uwajima, Japan has built gravity-field energy
+      <p> Professor Shinichi Seike of Uwajima, Japan has built gravity-field energy
 converters out of coils resembling mobius bands and klein bottles. The
 equations describing electrical flow in such topological curiosities are very
 strange indeed. Imaginary numbers appear in the energy output figures. Power
 seems to well up inside the devices, which have no moving parts.
 Seike's work is covered in his book, "The Principles of Ultra-Relativity",
 $40 from Gravity Research Lab PO Box 33, Uwajima, Ehime (798) Japan.</p>
-   <p> Fourteen years ago Joseph Papp was granted US Patwnt #3670494 for his
+      <p> Fourteen years ago Joseph Papp was granted US Patwnt #3670494 for his
 Noble Gas Plasma Engine. A mixture of inert gases (helium, neon, argon,
 krypton, xenon) is sparked in a sealed cylinder with a piston. The spark
 causes the gases to expand violently though no cpombustion is occurring.
 Mechanical energy is delivered by the piston's displacement. The gases
 immediately collapse to their original density and the cyle is repeated. After
 several thousand hours the gases lose their elasticity and are replaced.</p>
-   <p> Many types of ordinary rock actually emit electricity at a rate of roughly a
+      <p> Many types of ordinary rock actually emit electricity at a rate of roughly a
 volt per foot thickness of rock. Take a slab of granite or basalt, paint
 copper on both ends and attach wires to the painted surfaces, making in effect
 a large capacitor. Hook the wires to an electrostatic type voltmeter that can
@@ -1342,7 +1343,7 @@ waves into electricity. It remains to be seen in this can be adapted to
 provide usable amounts of energy. Details on this phenomenon can be found in
 Townsend Brown's papers on "Petro-voltaics", $17 from Rex Research, Box 1258,
 Berkeley. CA 94701.</p>
-   <p> There are many other free energy systems that have been devised in this
+      <p> There are many other free energy systems that have been devised in this
 century alone, with varying degrees of efficiency and verifiability. None have
 stood a chance so far against the existing energy monopolies. Perhaps the
 threat of nuclear-and oil-induced ecological and economic disasters is
@@ -1350,7 +1351,7 @@ finally severe enough to bring on a massive public demand for re-examination
 of these clean alternatives. In future issues of NOW WHAT we'll examine some
 of these in more detail. Meanwhile a reference list is provided for those who
 are interested in knowing more.</p>
-   <p> The best single source of info is the many detailed folios available from
+      <p> The best single source of info is the many detailed folios available from
 Rex Research, PO Box 1258, Berkeley, CA 94704. The extensive catalog is $2 and
 covers many other areas of exotic science as well.
 Another good source is Fry's Publishing, 9237 Craver, Morongo Valley, CA
@@ -1376,18 +1377,18 @@ OH 44310.
 "Awesome Force", J H Cater, Cadake Industries, PO Box 9478, Winter Haven,
 Florida.
 That's enough to get you started. Welcome to the High Volt Age.</p>
-   <p>[drawing of a truck held in the air by a tree that has grown up beneath it
+      <p>[drawing of a truck held in the air by a tree that has grown up beneath it
 deleted]</p>
-   <p>[TRANSCRIPT OF ISSUE #1 INCOMPLETE]</p>
-   <p>The following is the beginning of a short story by Waves Forest in
+      <p>[TRANSCRIPT OF ISSUE #1 INCOMPLETE]</p>
+      <p>The following is the beginning of a short story by Waves Forest in
 "Three-Fisted Tales of 'Bob'". This part is *not* uncopyrighted.</p>
-   <p>"BOB" AND THE OXYGEN WARS - Waves Forest</p>
-   <p>The SubGenius boasts about Time Control always sound like a bunch of tall
+      <p>"BOB" AND THE OXYGEN WARS - Waves Forest</p>
+      <p>The SubGenius boasts about Time Control always sound like a bunch of tall
 tales, until you get a firsthand taste of the High Volt Age. One of "Bob's"
 Friends from the Future just clued me in, partway at least, and my scrambled
 synapses still haven't settled. How do I apply some of these crazy new ideas
 in time to prevent or at least personally survive you-know-what?</p>
-   <p> Sometimes it seems like your luck has to balance out somehow, where you have
+      <p> Sometimes it seems like your luck has to balance out somehow, where you have
 to undergo a total bummer to set you up for something great you'd never have
 run into otherwise.
 I was hoping this would be one of those times. A blown head gasket on an
@@ -1399,7 +1400,7 @@ being here, and wasn't about to put any more than the bare minimum of survival
 effort into it.
 So much for shortcuts. I'd been walking for three hours and had seen only
 only one car. The e"BOB" AND THE OXYGEN WARS - Waves Forest</p>
-   <p>The SubGenius boasts about Time Control always sound like a bunch of tall
+      <p>The SubGenius boasts about Time Control always sound like a bunch of tall
 tales, until you get a firsthand taste of the High Volt Age. One of "Bob's"
 Friends from the Future just clued me in, partway at least, and my scrambled
 synapses still haven't settled. How do I apply some of these crazy new ideas
@@ -1902,4 +1903,5 @@ up?"
 "Oh, so you're back, eh? I see we can add Giving False Names to the list of
 charges."
 "Not at all. </p>
-</div>
+   </div>
+</xml>

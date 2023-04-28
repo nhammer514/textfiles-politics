@@ -16,11 +16,11 @@ example.</p>
    <p>Although not a city employee, Jeremiah Joyce reportedly has an
 unmarked office in City Hall. He's more powerful than Chicago
 mayor Richie Daley. Joyce and Daley reportedly own Glenrock
-Company (Northlake, Illinois, Brookfield, Wisconsin, and
-Indianapolis, Indiana). They distribute construction supplies of
+Company (<ent type='PERSON'>Northlake</ent>, Illinois, Brookfield, Wisconsin, and
+<ent type='NORP'>Indianapolis</ent>, <ent type='NORP'>Indiana</ent>). They distribute construction supplies of
 chemicals and GE [General Electric] sealants.</p>
    <p>Whether democrat or republican, state contractors in Wisconsin,
-Indiana, and Illinois *know* they have to buy their supplies from
+<ent type='NORP'>Indiana</ent>, and Illinois *know* they have to buy their supplies from
 Glenrock, such as -- tens of millions of dollars of curing
 compounds for pouring cement and wire mesh for state highways;
 materials for parking lots, airport runways, bridges and

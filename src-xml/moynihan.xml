@@ -19,15 +19,15 @@ bureaucratic response has been piecemeal, and at times
 reluctant. </p>
    <p> Consider this as background: In 1975, when I was named
 permanent U.S. representative to the United Nations, Vice
-President Nelson Rockefeller summoned me to his office in the
+President Nelson <ent type='PERSON'>Rockefeller</ent> summoned me to his office in the
 Old Executive Office Building. There was something urgent he
 had to tell me. The first thing I must know about the United
 Nations, he said, is that the Soviets would be listening to
 every call I made from our mission and from the ambassador's
 suite in the Waldorf Towers. I thought this a very deep
 secret, and treated it as such. Only later did I learn that
-Rockefeller had publicly reported this intelligence breach to
-the president in June 1975. The Rockefeller "Report to the
+<ent type='PERSON'>Rockefeller</ent> had publicly reported this intelligence breach to
+the president in June 1975. The <ent type='PERSON'>Rockefeller</ent> "Report to the
 President on CIA Activities Within the United States" notes: </p>
    <p> "We believe these countries (communist bloc) can monitor
 and record thousands of private telephone conversations.
@@ -40,7 +40,7 @@ foreign powers." </p>
 "diplomatic" facilities in New York City; Glen Cove, Long
 Island; San Francisco; and Washington. By some estimates,
 they have been doing so since 1958. President Reagan knows
-this well. He sat on the Rockefeller Commission and signed
+this well. He sat on the <ent type='PERSON'>Rockefeller</ent> Commission and signed
 its final report concluding that such covert activities
 existed. </p>
    <p> If we had any doubts about this eavesdropping effort,
@@ -56,7 +56,7 @@ conversations." </p>
    <p> But we have to worry about more than just parabolic dish
 antennas tucked behind the curtains in the Soviet "apartment"
 building in Riverdale, New York. </p>
-   <p> There are also those Russian trawlers that travel up and
+   <p> There are also those <ent type='NORP'>Russian</ent> trawlers that travel up and
 down our coast. They are fishing, but fishing for what?
 Communications. And now the Soviets have taken their
 eavesdropping a step further and have built two new classes
@@ -185,7 +185,7 @@ there is what we call "spill". This measures about 12.5
 meters in width and the full 25 miles between towers. This is
 where the microwave signal is most at risk. Using a well-aimed parabolic dish antenna (located, let's say, on the top
 of Mount Alto, one of the highest hills in the District of
-Columbia, and the site of the new Soviet embassy) you can
+<ent type='GPE'>Columbia</ent>, and the site of the new Soviet embassy) you can
 intercept this signal and pull it in. And that is just what
 the Soviets are doing. </p>
    <p> My solution: Throw the bastards out if they are listening

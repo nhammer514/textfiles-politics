@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>The A-Z of Conspiracy
+<xml>
+   <div class="article">
+      <p>The A-Z of Conspiracy
 As everyone knows, we are never allowed to know who is really
 controlling our lives/the country/the world. But is this knowledge a
 dangerous thing? To clear up this question beyond reasonable doubt
@@ -9,7 +10,7 @@ sinister back offices in which true power (and general paranoia) may
 (or may not) lie
 02/12/95
 THE GUARDIAN </p>
-   <p> Conspiracy theories are the will-o'-the-wisps of the modern
+      <p> Conspiracy theories are the will-o'-the-wisps of the modern
 world. They provide an alternative history to the authorised
 version of events, a coherent demonology in a godless, devil-less
 age.
@@ -45,7 +46,7 @@ cover up; they do, from time to time, kill people who get in the
 way.
 True or not, a rattling good conspiracy theory requires the
 following qualities:</p>
-   <p> 1 it must be difficult, better still, impossible, to understand
+      <p> 1 it must be difficult, better still, impossible, to understand
 at first glance.
 2 it must contain a spaghetti-heap of leads, all of which cannot
 be followed up. There must always be one more lead left to chase.
@@ -53,7 +54,7 @@ be followed up. There must always be one more lead left to chase.
 through a series of disconnected or unconnected or unfalsifiable
 propositions.
 4 There should be no easy way of verifying it.</p>
-   <p> The theories below demonstrate all of these qualities to a
+      <p> The theories below demonstrate all of these qualities to a
 greater or lesser degree. To savour our A-Z properly, we suggest
 readers mull over it with deadpan credulousness in the small hours
 of the morning listening to the theme music from The X-Files and
@@ -88,7 +89,7 @@ has a black triangular shape, a strange radar print and was, in
 1980, ultra-secret. Project Aurora, a new ultra-ultra-secret
 Pentagon Black Budget reconnaissance aircraft, is probably
 responsible for all subsequent UFO sightings.)</p>
-   <p> B IS FOR THE BILDERBERG GROUP, which organises semi-secret
+      <p> B IS FOR THE BILDERBERG GROUP, which organises semi-secret
 annual three-day meetings of the European-Atlantic great and good
 from the worlds of business, diplomacy and politics. The first
 meetings were organised in 1954 by eminence grise Joseph Retinger,
@@ -104,7 +105,7 @@ Financial Times column 'Lombard' has noted: 'If the Bilderberg
 group is not a conspiracy of some sort, it is conducted in such a
 way as to give a remarkably good imitation of one.' Believability:
 8/10 </p>
-   <p> C IS FOR CEAUSESCU, who was tried and executed on Christmas Day
+      <p> C IS FOR CEAUSESCU, who was tried and executed on Christmas Day
 to hush up the complicity of Romania's new leaders in his crimes.
 The videotape of the Christmas Day show trial of Nicolae and Elena
 Ceausescu is an absorbing spectacle. Time and again, Ceausescu and
@@ -120,7 +121,7 @@ the renamed secret police, the 'Romanian Information Service'.
 Iliescu became and remains president, the tainted hero of a tainted
 revolution.
 Believability: 10/10</p>
-   <p> D IS FOR 'DEEP THROAT', the mole in the Nixon administration
+      <p> D IS FOR 'DEEP THROAT', the mole in the Nixon administration
 guiding the Washington Post journalists, Woodward and Bernstein, to
 the Watergate story. 'Throat' remains unidentified. In his book
 Hidden Agenda (1984) Jim Hougan nominated both Nixon's chief of
@@ -132,7 +133,7 @@ Washington, the late Bob Kunkle. He was allegedly leaking for the
 FBI, which was disgruntled by the Nixon cover-up.
 Believability: 10/10 (Cynics suspect 'Deep Throat' was merely a
 dramatic device or a ploy to keep newspaper lawyers quiet.)</p>
-   <p> E IS FOR ELECTRICITY PYLONS, which fry our brains. A number of
+      <p> E IS FOR ELECTRICITY PYLONS, which fry our brains. A number of
 protesters have complained that electro-magnetic waves in overhead
 electricity pylons have led to depression, headaches, mental and
 physical ill-health. No government ministry has placed much
@@ -140,7 +141,7 @@ credence on these complaints. The epidemiology of environmental
 effect is notoriously hard to prove, but all good conspiracists
 believe there is no smoke without a secret ray.
 Believability: 7/10</p>
-   <p> F IS FOR FREEMASONS, who club together to better themselves in
+      <p> F IS FOR FREEMASONS, who club together to better themselves in
 the world. The majority of active freemasons have sworn not to
 divulge the secrets of the craft, on pain of having their tongues
 'cut out by the root and buried in the sand below low-water mark'.
@@ -169,7 +170,7 @@ Finally a member of the Metropolitan branch came to the rostrum to
 announce the vote. 'I'm not telling,' he said to laughter. 'It's a
 secret.' The opponents of freemasonry lost the vote.
 Believability: 8/10</p>
-   <p> G IS FOR THE GEMSTONE FILE, the conspiracy theory which first
+      <p> G IS FOR THE GEMSTONE FILE, the conspiracy theory which first
 surfaced in 1975. Originally a precis by American journalist
 Stephania Caruana of allegations made in letters by American
 chemist Bruce Roberts, now deceased, Gemstone attributes much of
@@ -183,7 +184,7 @@ have been embedded in the original American narrative. Authorless,
 floating round the world in samizdat form, Gemstone is a perfect,
 small-scale disinformation vehicle for anyone who cares to use it.
 Believability: 0/10</p>
-   <p> H IS FOR HESS, locked up in Spandau prison because he knew all
+      <p> H IS FOR HESS, locked up in Spandau prison because he knew all
 about the secret 1941 negotiations between Britain and Nazi
 Germany. Rudolf Hess's flight in May 1941 remains one of the most
 bizarre episodes of the Second World War. Lord James
@@ -213,7 +214,7 @@ Then the killers burnt the evidence, including an electrical flex,
 with which he was murdered.
 Believability: 5/10 (Hess was mad. His 1917 wound was
 pea-sized.)</p>
-   <p> I IS FOR THE ILLUMINATI, the secret society controlling all the
+      <p> I IS FOR THE ILLUMINATI, the secret society controlling all the
 other secret societies. An 18th-century masonic splinter group
 begun by Adam Weishaupt, the Illimunati were said to be the hidden
 force behind the French Revolution. After the First World War they
@@ -228,7 +229,7 @@ the centre of the web. These theories were brilliantly parodied in
 the Illuminatus! trilogy (1976) by Robert Anton Wilson and Robert
 Shea.
 Believability: 0/10</p>
-   <p> J IS FOR JAMES JESUS ANGLETON, the orchid-growing,
+      <p> J IS FOR JAMES JESUS ANGLETON, the orchid-growing,
 poetry-writing, paranoid head of CIA counter intelligence
 throughout much of the Cold War. Angleton believed the CIA and all
 other spy networks to be so much gorgonzola, riddled with KGB
@@ -245,7 +246,7 @@ Golitsyn remains convinced that it is all a black propaganda ploy.
 However, the confession of top CIA man Aldrich Ames that he was a
 KGB mole have proved some of Angleton's fears correct.
 Believability: 6/10</p>
-   <p> K IS FOR KENNEDY, killed by almost anyone you care to mention.
+      <p> K IS FOR KENNEDY, killed by almost anyone you care to mention.
 According to Captain James T Kirk of the Starship Enterprise, the
 'first rule of assassination is kill the assassins'. The killing of
 Lee Harvey Oswald by Jack Ruby set a hare running that has never
@@ -259,7 +260,7 @@ the FBI and the masons are all contenders. Perhaps the best JFK
 conspiracy theory is that he is, after all, still alive, but kept a
 permanent prisoner by the National Security Council.
 Believability: 1/10</p>
-   <p> L IS FOR LOCKERBIE. On 21 December 1988, 270 people were
+      <p> L IS FOR LOCKERBIE. On 21 December 1988, 270 people were
 murdered when Pan Am 103 exploded over Scotland.
 Six years later no one has been convicted of the crime, although
 investigators on both sides of the Atlantic have consistently
@@ -285,7 +286,7 @@ as to suggest that McKee was flying home to blow the whistle,
 disgusted that deals were being struck with dope dealers in order
 to gain intelligence on the kidnap victims.
 Believability: 8/10</p>
-   <p> M IS FOR DAVID MELLOR, got at by Mossad after his
+      <p> M IS FOR DAVID MELLOR, got at by Mossad after his
 pro-Palestinian outburst in 1988 on the West Bank. The Israelis
 were out to topple Mellor after he became the most prominent critic
 in the British Government of their conduct in the Occupied
@@ -298,7 +299,7 @@ operation which led to the highly embarrassing 'toe-sucking'
 allegations.
 The result: Mellor was forced to quit the Cabinet.
 Believability: 5/10 </p>
-   <p> N IS FOR NOSTRADAMUS, the 16th-century psychic seer who
+      <p> N IS FOR NOSTRADAMUS, the 16th-century psychic seer who
 predicted Napoleon, Hitler and the killing of John Kennedy. The
 seer's muddily-written quatrains have spawned more than 200 books,
 a propaganda war between the Nazis and the Allies during the Second
@@ -324,7 +325,7 @@ there shall be a total desolation of the clergy.' Believability:
 0/10 (The verses of Nostradamus clearly refer to events and places
 in the 16th century. For example, nowhere does he mention 'Hitler',
 only 'Hister', the contemporary name for the Lower Danube.)</p>
-   <p> P IS FOR PROMIS SOFTWARE, stolen from a Washington law firm. In
+      <p> P IS FOR PROMIS SOFTWARE, stolen from a Washington law firm. In
 1982 a Washington DC computer firm, Inslaw, developed a programme
 called Promis (Prosecutors' Management Information System) which it
 supplied to the US Justice Department for $10 million. A year
@@ -355,7 +356,7 @@ Inslaw to investigate the case, concluded: 'It's hard to come up
 with any reason for Casolaro's death other than he was deliberately
 murdered because he was so close to uncovering sinister elements in
 what he called 'the Octopus'.' Believability: 7/10</p>
-   <p> Q IS FOR CARROLL QUIGLEY, the granddaddy of all modern American
+      <p> Q IS FOR CARROLL QUIGLEY, the granddaddy of all modern American
 conspiracists. Quigley's 1340-page volume Tragedy And Hope "
 History Of The World In Our Time (1966) included a dozen pages on
 the existence of a hitherto unknown secret society, run by Alfred,
@@ -375,7 +376,7 @@ students at Georgetown University was Bill Clinton, and the
 conspiracists got quite excited when President Clinton referred to
 the impact Quigley made on him in his inauguration speech.
 Believability: 4/10</p>
-   <p> R IS FOR JAMES RUSBRIDGER, killed and framed as a sex pervert by
+      <p> R IS FOR JAMES RUSBRIDGER, killed and framed as a sex pervert by
 MI5. Rusbridger was a tremendous irritant to the security services.
 His letters to newspapers poured scorn on the Official Secrets Act;
 his books, such as The Intelligence Game, cast doubt on the
@@ -406,7 +407,7 @@ posthumous demolition job by intelligence officials would perhaps
 only be merited by someone who had been a serious thorn in their
 side.
 Believability: 7/10</p>
-   <p> S IS FOR THE SUICIDES OF THE SCIENTISTS WHO WORKED FOR MARCONI.
+      <p> S IS FOR THE SUICIDES OF THE SCIENTISTS WHO WORKED FOR MARCONI.
 In 1988 a host of brilliant researchers working for the defence
 giant killed themselves in a variety of ways: one drove his
 petrolladen car into a disused Little Chef, another jumped off the
@@ -425,11 +426,11 @@ When the numbers are crunched, there is no statistical
 aberration in the number of suicides by Marconi scientists. It is
 too good a story for a newspaper to kill, however.
 Believability: 0/10</p>
-   <p> U IS FOR THE UNIFIED CONSPIRACY THEORY, or the Grand Unified
+      <p> U IS FOR THE UNIFIED CONSPIRACY THEORY, or the Grand Unified
 Conspiracy Theory, which knits all the other conspiracy theories
 into a coherent tapestry.
 Believability: 1/10</p>
-   <p> V IS FOR VATICAN, which knocks off the popes it doesn't like.
+      <p> V IS FOR VATICAN, which knocks off the popes it doesn't like.
 The markedly short reign of John Paul I has given rise to this
 particular crock of conjecture.
 Old men can die quite quickly, even if they are popes. However,
@@ -438,7 +439,7 @@ out the Augean stables of the pontiff's finances and expose the
 scandalous links between the Mafia, the freemasons and senior
 cardinals in the Roman Catholic Church.
 Believability: 2/10</p>
-   <p> W IS FOR COLIN WALLACE, who was forced to resign from the
+      <p> W IS FOR COLIN WALLACE, who was forced to resign from the
 Ministry of Defence in 1975 when he leaked information about a
 covert MI5 operation, 'Clockwork Orange'. Wallace, an Ulsterman,
 claimed he had been involved in the operation, which had been
@@ -457,17 +458,17 @@ dismissal to be unsafe and ordered the Ministry to award him
 pounds 30000 in compensation. The inquiry was not, however,
 empowered to make any judgment on Wallace's allegations.
 Believability: 7/10</p>
-   <p> X IS FOR MR X, the third man who allegedly went to bed with two
+      <p> X IS FOR MR X, the third man who allegedly went to bed with two
 senior Conservative politicians, now in the Cabinet, all at the
 same time. This is a conspiracy theory never to be told.
 Believability: 10/10</p>
-   <p> Y IS FOR YAKUZA, the Japanese mafia who run the world. The
+      <p> Y IS FOR YAKUZA, the Japanese mafia who run the world. The
 Yakuza are the world's richest and most powerful gangsters. They
 control many of the big-name Japanese corporations that now have
 huge leverage in the major western economies. Nothing can be done
 to loosen the grip of the Yakuza on the world economy.
 Believability: 8/10 </p>
-   <p> Z IS FOR THE ZAGREB OPERATION, when the NKVD inducted Robert
+      <p> Z IS FOR THE ZAGREB OPERATION, when the NKVD inducted Robert
 Maxwell as a Soviet double agent. Maxwell was never clear about how
 he escaped from Nazi-occupied Germany. In fact, he was given secret
 passage through Nazi-allied Croatia by Communist partisans, then
@@ -486,4 +487,5 @@ thought had been working for them " was terminated by a crack unit
 of Israeli frogmen.
 Believability: 6/10
 </p>
-</div>
+   </div>
+</xml>

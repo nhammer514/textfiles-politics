@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>
+<xml>
+   <div class="article">
+      <p>
 THE HOLLOW EARTH: A MADDENING THEORY THAT CAN'T BE DISPROVED
 From OMNI Magazine (October 1983), Games section (p. 128)</p>
-   <p> If there were a hall of fame for pseudoscientists, surely Cyrus Teed
+      <p> If there were a hall of fame for pseudoscientists, surely Cyrus Teed
 would deserve a place of honor. It was shortly after the Civil War that
 Teed had his vision: The earth is a hollow sphere, and WE LIVE INSIDE
 IT. Everything else in the universe is in here with us -- planets,
@@ -76,7 +77,7 @@ As we look to the sky and the horizons, our visual field is filled
 with a sphere some 4000 miles in diameter. Celestial bodies that
 revolve around the earth's center appear to "rise" and "set" as they
 enter or leave that sphere.</p>
-   <p> Cyrus Teed said that the moon is an illusion, that gravity is really
+      <p> Cyrus Teed said that the moon is an illusion, that gravity is really
 centrifugal force, and that a horizontal line on the earth's surface
 eventually intersects the earth's upward curvature. We like to think
 that if he were alive today he would junk some of his earlier
@@ -102,4 +103,5 @@ validity is to drill a tunnel straight through the earth. Until such an
 experiment is performed, he writes, "it seems ... that the odds are
 strongly in favor of [a hollow Earth] being our actual universe."
 </p>
-</div>
+   </div>
+</xml>

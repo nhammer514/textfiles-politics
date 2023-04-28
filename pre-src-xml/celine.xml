@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p> CELINE'S LAWS
+<xml>
+   <div class="article">
+      <p> CELINE'S LAWS
 by Hagbard Celine</p>
-   <p> As every thinking person has noticed, our national life has
+      <p> As every thinking person has noticed, our national life has
 become increasingly weird and surrealistic. The waiting lines at
 banks and post offices are growing longer all the time, even
 though demographers tell us US population is no longer rising.
@@ -32,16 +33,16 @@ for this, but three are especially noteworthy.
 ********************************************************************************************
 NATIONAL SECURITY IS THE CHIEF CAUSE OF NATIONAL INSECURITY!!!
 *******************************************************************************</p>
-   <p>1). Infiltration of the secret police, for the purpose of
+      <p>1). Infiltration of the secret police, for the purpose of
 subversion, will always be a prime goal of internal
 revolutionaries. This is an ordinary part of the spy-counterspy
 game. There is nothing Weather Underground would like better
 than having a few agents in the FBI or CIA, for the same reasons
 that the FBI or CIA would like to have a few agents in Weather
 Underground.</p>
-   <p>2). Such infiltration will also be a prime goal of hostile
+      <p>2). Such infiltration will also be a prime goal of hostile
 foreign powers, for the same reasons.</p>
-   <p> Please note that these are simple facts of the secret-police
+      <p> Please note that these are simple facts of the secret-police
 game, well-known even to the general public, the subject of many
 ingenious plots in popular spy films, and not particularly
 alarming...yet. Nonetheless, the seeds of Chaos, Discord,
@@ -54,9 +55,9 @@ ten years in the CIA, with the possibility of infiltration by
 "extraterrestrial" agents. He was eventually retired when he
 began to claim that demons in the form of dogs wanted him to
 assassinate Laverne and Shirley. </p>
-   <p>3). Secret-police officials acquire fantastic capacities to
+      <p>3). Secret-police officials acquire fantastic capacities to
 blackmail and intimidate others in goverment.</p>
-   <p> Stalin executed three chiefs of his secret police in a row,
+      <p> Stalin executed three chiefs of his secret police in a row,
 because of this danger. One of my informants claims that every
 president since the National Security Act was passed in 1947 has
 learned how to have sexual intercourse without making a single
@@ -78,23 +79,23 @@ or to acquiring "too much power" in the opinion of its masters.
 (It may even be subject, if Richard Q. was correct in his
 anxieties, to extraterrestrial manipulation). And so, it, too,
 must be monitored by a secret police of the third order.</p>
-   <p> But this third-order secret-police (such as Nixon's notorious
+      <p> But this third-order secret-police (such as Nixon's notorious
 "plumbers", or more currently, "The Store"). is also subject to
 infiltration or to acquiring too much power...and thus, with
 relentless logic, the infinite regress builds. Once a goverment
 has n orders of secret police spying on each other, all are
 potentially suspect, and to be safe a secret police of order n+1
 must be created. And so on, forever.</p>
-   <p>******************************************
+      <p>******************************************
 * THUS WHO EMPLOY SECRET *
 * POLICE MUST MONITOR THEM TO *
 * BE SURE THEY ARE NOT ACQUIRING *
 * TOO MUCH POWER. *
 ****************************************** </p>
-   <p> In practice, of course, this cannot really regress to
+      <p> In practice, of course, this cannot really regress to
 infinity, but only to the point where every other citizen, or
 until the funding runs out, whichever comes first.</p>
-   <p> National Security in practice, then, must always fall short of
+      <p> National Security in practice, then, must always fall short of
 the logically ideal infinite regress which we have shown is
 necessary to the achievement of its goal. In that gap between
 the ideal of "One nation under survillance, with wiretaps and
@@ -113,7 +114,7 @@ regularly call middle-rank officials on the phone and talk in
 what appears to be a code. The secret police, of course, are no
 fools, and are aware that this might be what it in fact is, a
 form of anarchist humor; but they can't be sure.</p>
-   <p> What usually happens in such cases is this: an official
+      <p> What usually happens in such cases is this: an official
 receives one of these mystery calls, saying perhaps "Pawn to
 queen rook five. No wife, no horse, no mustache. A boy has never
 wept nor dashed a thousand kim." He knows immediately that
@@ -126,7 +127,7 @@ him with eyes that miss nothing and to give a sinister
 interpertation to everything. Within ten days, he usually
 attempts to contact a foreign goverment to seek political
 sanctuary, and the secret-police net closes on him.</p>
-   <p> By the same process of worry leading to more worry and
+      <p> By the same process of worry leading to more worry and
 suspicion leading to more suspicion, the very act of joining a
 ecret-police organization will eventually turn a man or woman
 into a clinical paranoi; in layman's terms, "bananas" or "wigged
@@ -142,7 +143,7 @@ In fact, the exact percentages of believes in these extravagant
 scenarios are quite similar among a group of 1000 CIA agents and
 a control group of 1000 readers of the underground press, as
 shown in table 1.</p>
-   <p>Table 1. True Believes in various Conspiracy Theories Among CIA
+      <p>Table 1. True Believes in various Conspiracy Theories Among CIA
 Agents and Underground-Press Readers.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 :: :: :: UNDERGROUND PRESS ::
@@ -181,13 +182,13 @@ Agents and Underground-Press Readers.
 ::It's the Rock n Roll :: :: ::
 :: Empire :: 2% :: 2% ::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: </p>
-   <p>a). Source: Gallup, Roper, and Hogtied, "WHO'S WATCHING WHOM"
+      <p>a). Source: Gallup, Roper, and Hogtied, "WHO'S WATCHING WHOM"
 (Washington, DC: US Goverment Printing Office, 1979), p. 432.</p>
-   <p>b). All figures are percentages. Figures do not add to 100, for
+      <p>b). All figures are percentages. Figures do not add to 100, for
 a variety of reasons. For a list of them, please send 25 cents
 and a list of suspicious persons in your neighborhood to the US
 Dept. of Bedding, Washington DC 20001.</p>
-   <p>c). Includes those who blame it all on the Bavarian Illuminati;
+      <p>c). Includes those who blame it all on the Bavarian Illuminati;
 those who hold a multiconspiracy theory (e.g., the Lesbian
 Vegetarians are allied with the Yankees and Bilderbergers against
 the Cowboys, the TV Networks, and the Cattle Mutilators); those
@@ -196,11 +197,11 @@ claim that demons in the form of dogs told them it's connected
 somehow with the alligators in New York's sewers.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^</p>
-   <p>************************************
+      <p>************************************
 * IN RUSSIA, THE GOVERMENT IS *
 * TERRIFIED OF PAINTERS AND POETS! *
 ************************************</p>
-   <p> Now, Table 1 clearly gives a picture of a rather schizzed-out
+      <p> Now, Table 1 clearly gives a picture of a rather schizzed-out
 nation. This is the result of the impossible infinite regress
 and its resultant of worry leading to more worry.
 Furthermore, if there is a secret police at all, in any nation
@@ -214,19 +215,19 @@ many nongovernmental agencies, will be regarded by reasonable
 persons with fear and trepidation. Proverbs like "One can't be
 too careful these days" and "Better safe than sorry" become a
 kind of sinister folk wisdom.</p>
-   <p> But further yet: any government which already has a secret
+      <p> But further yet: any government which already has a secret
 police (and a secret police monitoring the secret police, etc).
 will become alarmed on observing that its more hip and
 intelligent citizens now regard it with loathing and misgivings.
 The government will therefore increase the size and powers of the
 secret police. This is the only rational move, within the
 context of the secret-police game.</p>
-   <p>******************************
+      <p>******************************
 * SOMETHING PASSING AS A *
 * BRANCH OF HEW MIGHT BE A *
 * FRONT FOR THE CIA! *
 ****************************** </p>
-   <p> (The only alternative was once suggested sarcastically by
+      <p> (The only alternative was once suggested sarcastically by
 playwright Bert Brecht, who said, "If the government doesn't
 trust the people, why does'nt it dissovle them and elect new
 people?" No way has yet been invented to elect a new people; so
@@ -257,13 +258,13 @@ to have said, "Anybody in Washington these days who isn't
 paranoid is crazy!"
 One could generalize the remark: anyone in the United States
 today who isn't paranoid must be crazy!!!</p>
-   <p>**********************************
+      <p>**********************************
 * "IF THE GOVERMENT DOESN'T *
 * TRUST THE PEOPLE, WHY DOESN'T *
 * IT DISSOLVE THEM AND ELECT A *
 * NEW PEOPLE?" *
 **********************************</p>
-   <p> The deliberate production of misinformation (or, as
+      <p> The deliberate production of misinformation (or, as
 intelligence agencies more euphemistically call it,
 disinformation) creates a situation profoundly disorienting to
 the philosopher, the scientist, and the ordinary Joe who wants to
@@ -297,7 +298,7 @@ gang of special effects experts. Perhaps these archskeptics are
 the sanest ones left among us. Who among the readers of this
 file has a security clearance high enough to be ABSOLUTELY sure
 that these ultraparanoids are wrong?</p>
-   <p> This general tendency toward chaos discord, and confusion,
+      <p> This general tendency toward chaos discord, and confusion,
 once a secret police has been established, is complicated and
 accelerated by Celine's Second Law, to wit: "Accurate
 communication is only possible in a nonpunishing situation."
@@ -318,11 +319,11 @@ above them. This is absolutely vital; job security depends on
 it. It is much less important---a luxury that can easily be
 discarded---that these perceptions be in accord with actual
 reality.</p>
-   <p>*************************
+      <p>*************************
 * COMMUNICATION IS ONLY *
 * BETWEEN EQUALS. *
 *************************</p>
-   <p> For instance, in the FBI under J. Edgar Hoover, the agent had
+      <p> For instance, in the FBI under J. Edgar Hoover, the agent had
 to develop the capacity to see godless communists everywhere.
 Any agent whose perceptions indicated that there were actually
 very few godless communists anywhere in this country wold
@@ -386,7 +387,7 @@ it.
 * THEY DO, THEY ARE CAREFUL TO *
 * HIDE THE FACT! *
 ********************************</p>
-   <p> An honest politician (bocca grande giganticus) is far more
+      <p> An honest politician (bocca grande giganticus) is far more
 dangerous. He or she is sincerley commited to bettering society
 by political action. In practice, that means by writing and
 enacting more laws. Indeed, many groups of idealistic citizens
@@ -406,7 +407,7 @@ rising crime rate is the rising number of laws being enacted. An
 honest politician, who keeps his nose to the grindstone and
 enacts several hundered laws in the course of his career, thereby
 produces as many as several million new criminals. </p>
-   <p> It is furthermore mathematically demonstrable that the more
+      <p> It is furthermore mathematically demonstrable that the more
 laws there are, the more restrictions there are on the freedom of
 the individual. If there were, say, only three laws in a given
 society---e.g., Thou shalt not kill; thau shalt not steal; thou
@@ -436,7 +437,7 @@ prohibited."
 * EVERY LAW CREATES A WHOLE *
 * NEW CRIMINAL CLASS OVERNIGHT! *
 *********************************</p>
-   <p> At that stage the nightmare world of Orwell's 1984 will be
+      <p> At that stage the nightmare world of Orwell's 1984 will be
 achieved. Crooked politicians, merely interested in the normal
 human activity of making themselves rich and comfortable, could
 never create that ultimate horror; but honest and idealistic
@@ -453,7 +454,7 @@ ALL cases. Of course, the American Sociological Association says
 I am mad. Mad, am I? They said the Wright Brothers were mad.
 They said Edison was mad. They said Baron Frankenstein was
 mad...</p>
-   <p>HABARD CELINE was trained in contract law and naval engineering
+      <p>HABARD CELINE was trained in contract law and naval engineering
 but claims he acquired his real education playing the piano in a
 whorehouse. He is captain of the world's largest yellow
 submarine, the Leif Erikson, and president of Gold and Appel
@@ -465,15 +466,16 @@ alternative identities as Howard Cork, Carl Cory, Hugh Crane,
 Clutch Cargo, Captain Nemo, etc., and has appeared in countless
 epics and sagas.
 I am mad. </p>
-   <p> Another file downloaded from: NIRVANAnet(tm)</p>
-   <p> &amp; the Temple of the Screaming Electron 415-935-5845
+      <p> Another file downloaded from: NIRVANAnet(tm)</p>
+      <p> &amp; the Temple of the Screaming Electron 415-935-5845
 Just Say Yes 415-922-2008
 Rat Head 415-524-3649
 Cheez Whiz 408-363-9766</p>
-   <p> Specializing in conversations, obscure information, high explosives,
+      <p> Specializing in conversations, obscure information, high explosives,
 arcane knowledge, political extremism, diversive sexuality,
 insane speculation, and wild rumours. ALL-TEXT BBS SYSTEMS.</p>
-   <p> Full access for first-time callers. We don't want to know who you are,
+      <p> Full access for first-time callers. We don't want to know who you are,
 where you live, or what your phone number is. We are not Big Brother.</p>
-   <p> "Raw Data for Raw Nerves"</p>
-</div>
+      <p> "Raw Data for Raw Nerves"</p>
+   </div>
+</xml>

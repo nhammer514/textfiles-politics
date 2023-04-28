@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>World Bank
+<xml>
+   <div class="article">
+      <p>World Bank
 --------------------------------
 A specialized agency of the United Nations, the World Bank (officially, the
 International Bank for Reconstruction and Development, or IBRD) was established,
@@ -37,10 +38,11 @@ according to members' contributions (capital subscription), and therefore the
 organization is controlled by the wealthier nations. Recent presidents of the
 World Bank include Robert MCNAMARA, A. W. CLAUSEN, and Barber Conable. JOHN G.
 STOESSINGER</p>
-   <p>Bibliography: Heilbroner, Robert L., This Growing World: Economic Development
+      <p>Bibliography: Heilbroner, Robert L., This Growing World: Economic Development
 and the World Bank Group, rev. ed. (1966); Mason, E. S., and Asher, R. E., The
 World Bank since Bretton Woods (1973); Reid, Escott, Strengthening the World
 Bank (1973); Van de Laar, J. M., The World Bank and the World's Poor (1976).
 
 973); Reid, Escott, Strengthening the Worl</p>
-</div>
+   </div>
+</xml>

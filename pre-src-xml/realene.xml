@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>The SPOTLIGHT January 7 &amp; 14, 1991 Data Entry by SYSOP</p>
-   <p>SEARCH FOR REAL ENEMY CENTERED IN WASHINGTON</p>
-   <p>By Jim Townsend</p>
-   <p>The main enemy facing the American people is not located in
+<xml>
+   <div class="article">
+      <p>The SPOTLIGHT January 7 &amp; 14, 1991 Data Entry by SYSOP</p>
+      <p>SEARCH FOR REAL ENEMY CENTERED IN WASHINGTON</p>
+      <p>By Jim Townsend</p>
+      <p>The main enemy facing the American people is not located in
 Iraq, Moscow, Havana or Peking. It,s located in Washington, D.C.
 and it's ruled over by elected congressmen and women who in an
 unholy alliance with its tens of thousands of bureaucrats, are out
@@ -108,4 +109,5 @@ thousands, the public is going to have a fit. By then, however,
 we'll be too involved to get out. Thus, the time to act is now.
 Don't let the Washington warlords use Saddam Hussein to promote a
 shooting war to bring on the New World Order. Act now.</p>
-</div>
+   </div>
+</xml>

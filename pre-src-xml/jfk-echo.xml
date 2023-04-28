@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>From: dona@bilver.uucp (Don Allen)
+<xml>
+   <div class="article">
+      <p>From: dona@bilver.uucp (Don Allen)
 Newsgroups: alt.conspiracy
 Subject: JFK Text: Echoes of Conspiracy - INTRO
 <info type="Message-ID"> 1991Dec26.194623.19758@bilver.uucp</info>
 Date: 26 Dec 91 19:46:23 GMT
 Organization: W. J. Vermillion - Winter Park, FL
 Lines: 46</p>
-   <p>-----------------------------------------------------
+      <p>-----------------------------------------------------
 JFK Text file: "Echoes of Conspiracy" INTRO
 -----------------------------------------------------</p>
-   <p>All this continued discussion on Oliver Stone's movie, "JFK" has
+      <p>All this continued discussion on Oliver Stone's movie, "JFK" has
 prompted me to look through my collection of text files and see
 what I could find. I found this piece, done by Paul L. Hoch in
 1986, which was on a Conspiracy Sig section of a BBS a few
@@ -23,40 +24,40 @@ merit.
 
 Comments are welcome, flames to me are in-appropriate as I didn't write
 the article. Take it or leave it for what it's worth :-)</p>
-   <p>File lengths (excluding header,sig and part designation):
+      <p>File lengths (excluding header,sig and part designation):
 ---------------------------------------------------------</p>
-   <p>eoc1.txt - 41392 bytes
+      <p>eoc1.txt - 41392 bytes
 eoc2.txt - 40344 bytes
 eoc3.txt - 39752 bytes
 eoc4.txt - 41050 bytes
 -----
 162538 bytes - Total </p>
-   <p>---------------------------------------------------------
+      <p>---------------------------------------------------------
 Note: Thanks to jxxl@taurus.cs.nps.navy.mil (John),
 geb@speedy.cs.pitt.edu (Gordon Banks), and acm@ux.acs.umn.edu (Acm) Peter
 Kauffner for their lucid comments on this thread. I've enjoyed all
 of their postings. </p>
-   <p>Happy Holidays to all!</p>
-   <p>Don</p>
-   <p>
+      <p>Happy Holidays to all!</p>
+      <p>Don</p>
+      <p>
 --
 -* Don Allen *- InterNet: dona@bilver.UUCP // Amiga..for the best of us.
 USnail: 1818G Landing Dr, Sanford Fl 32771 \X/ Why use anything else? :-)
 UUCP: ..uunet!tarpit!bilver!dona - Why did the JUSTICE DEPT steal PROMIS?
 /\/\ What is research but a blind date with knowledge. William Henry /\/\</p>
-   <p>From: dona@bilver.uucp (Don Allen)
+      <p>From: dona@bilver.uucp (Don Allen)
 Newsgroups: alt.conspiracy
 Subject: JFK Text: Echoes of Conspiracy - EOC1.TXT
 <info type="Message-ID"> 1991Dec26.194825.19833@bilver.uucp</info>
 Date: 26 Dec 91 19:48:25 GMT
 Organization: W. J. Vermillion - Winter Park, FL
 Lines: 626</p>
-   <p>*EOC1.TXT*</p>
-   <p>------BEGIN PART 1/4---------------------------------------------------------</p>
-   <p>ECHOES OF CONSPIRACY February 28, 1986
+      <p>*EOC1.TXT*</p>
+      <p>------BEGIN PART 1/4---------------------------------------------------------</p>
+      <p>ECHOES OF CONSPIRACY February 28, 1986
 Vol. 8, #1 Paul L. Hoch</p>
-   <p>
-      <special>"Reasonable Doubt":</special>
+      <p>
+         <special>"Reasonable Doubt":</special>
 Henry Hurt's book should be in your local bookstore now, although it did
 not reach some of the big chains quickly. The official publication date was
 January 27. (Holt Rinehart Winston, 555 pp., $19.95)
@@ -82,8 +83,8 @@ Office of Special Investigations.
 Since I don't think I know who killed Kennedy, Hurt's approach generally
 appeals to me. I think the book does a good job of reflecting the ambiguity of
 much of the evidence, and the variety of plausible explanations.</p>
-   <p>
-      <special>A new perspective on the murder of J. D. Tippit:</special>
+      <p>
+         <special>A new perspective on the murder of J. D. Tippit:</special>
 Hurt's most striking new evidence, surprisingly, does go directly to the
 question of "who did it" -- but in the Tippit case. He does not overemphasize
 it, but it is a lead which raises the same kind of basic challenge to the
@@ -112,7 +113,7 @@ The jealous husband and Rosetta "both deny any knowledge of Tippit's
 death other than what is in the official account." (P. 168) Hurt does not go
 into detail, but I doubt that he accepted Mr. Stone's denial at face value.
 8 EOC 1 -2-</p>
-   <p> Hurt does quote a retired DPD officer who "asserted flatly and without
+      <p> Hurt does quote a retired DPD officer who "asserted flatly and without
 prompting that he believed Tippit was killed as a result of a volatile
 personal situation involving his lover and her estranged husband. He added,
 'It would look like hell for Tippit to have been murdered and have it look
@@ -167,12 +168,12 @@ consistent with those to be expected from one who has rehearsed or is reading
 from a script.'" Anderson described Miron as a "longtime FBI consultant."
 The Justice Department should certainly sponsor that kind of analysis of the
 Tippit messages.</p>
-   <p>
-      <special>JFK's physician believes in a conspiracy:</special>
+      <p>
+         <special>JFK's physician believes in a conspiracy:</special>
 There is a second very provocative piece of new evidence, resulting from
 Hurt's 1982 phone call to Adm. George Burkley. He said "that he believed that
 8 EOC 1 -3-</p>
-   <p>President Kennedy's assassination was the result of a conspiracy." He
+      <p>President Kennedy's assassination was the result of a conspiracy." He
 subsequently refused "to discuss any aspect of the case." (P. 49)
 As JFK's personal physician, and the only doctor present at Parkland and
 the Bethesda autopsy, Burkley was in an especially crucial position. He did
@@ -227,7 +228,7 @@ Hurt's manuscript led me to check the record on the authorization of the
 autopsy. Is it possible, I wonder, that the record significantly minimizes
 Jacqueline Kennedy's opposition to an autopsy? If the opposition was very
 8 EOC 1 -4-</p>
-   <p>strong or more prolonged than is generally assumed, I have no trouble
+      <p>strong or more prolonged than is generally assumed, I have no trouble
 believing that someone decided to go ahead with an "inspection" regardless.
 Burkley's own account noted that, while kneeling before Jackie, he
 "expressed [the] complete desire of all of us and especially of myself to
@@ -257,8 +258,8 @@ feelings -- since her wishes were essentially bypassed -- might explain why
 there was no quasi-official detailed rebuttal to Lifton's book. I would be
 glad to share more of my thoughts on this hypothesis with reporters or anyone
 else in a position to work on it.</p>
-   <p>
-      <special>More highlights of "Reasonable Doubt":</special>
+      <p>
+         <special>More highlights of "Reasonable Doubt":</special>
 The chapters on Oswald in New Orleans and on the questions relating to
 intelligence agencies are particularly good.
 Neither the HSCA nor its case against the Mafia gets a lot of attention.
@@ -286,7 +287,7 @@ The book also includes quite a few interesting points which were
 completely new to me. For example:
 A Naval Intelligence officer at the Moscow Embassy says he thought that
 8 EOC 1 -5-</p>
-   <p>Oswald was being handled for the CIA by someone in the Naval Attache's office.
+      <p>Oswald was being handled for the CIA by someone in the Naval Attache's office.
 (P. 243)
 There is some new information from Hurt's old interviews (for "Legend")
 of some of Oswald's Marine associates. One such person told Hurt that he had
@@ -315,8 +316,8 @@ trying to call Oswald in jail. (This should take care of that story.)
 Hurt speculates that the KGB's interest in the Oswalds may have been to
 establish Marina as a sleeper agent. (Might that explain the allegedly
 anomalous friendship between the Oswalds and the DeMohrenschildts?) (P. 240)</p>
-   <p>
-      <special>And now for something completely different:</special>
+      <p>
+         <special>And now for something completely different:</special>
 It's... Chapter 12, "The Confession of Robert Easterling."
 At least, I think it's completely different.
 I find Easterling's story too incredible to be worth summarizing here.
@@ -346,7 +347,7 @@ the evidence he later encountered. His personal experience in dealing with
 the FBI on this matter certainly contributed to his very negative evaluation
 of the official investigations of the JFK case. That is, Hurt learned that
 8 EOC 1 -6-</p>
-   <p>Easterling's was definitely not the best of the conspiracy allegations which
+      <p>Easterling's was definitely not the best of the conspiracy allegations which
 were not taken seriously.
 The publisher's handout (#5, 5 pp.) does devote a paragraph to "the most
 shocking revelation of all" in the book, alleging that "Easterling presents...
@@ -404,7 +405,7 @@ Easterling's story, by someone familiar with the kind of details on the JFK
 case which have been publicized, is a conspicuous deficiency in this chapter.
 As noted in my comments on Blakey's book, there may well be no signif-icance to a claim by Johnny Roselli that he "knew" there was a shot from the
 8 EOC 1 -7-</p>
-   <p>grassy knoll. (3 EOC 3, p. 3) I have no trouble believing that Roselli or
+      <p>grassy knoll. (3 EOC 3, p. 3) I have no trouble believing that Roselli or
 some member of his family (or Family) heard Mark Lane's lecture (if not
 Garrison's scenario) and was convinced. (Everyone has heard Lane, it seems.)
 Admittedly, it is a little harder to picture Easterling in a public library,
@@ -463,7 +464,7 @@ Not surprisingly, the points which Hurt could even try to verify had
 little direct connection to the assassination. Discovering (even with
 difficulty) that there was a fire like one Easterling described does nothing
 8 EOC 1 -8-</p>
-   <p>to support his claim that he was picking up Oswald nearby. The story of Igor
+      <p>to support his claim that he was picking up Oswald nearby. The story of Igor
 Vaganov (Esquire, 8/67) is a useful reminder that there were many odd things
 going on in Dallas in November 1963 which had nothing to do with the JFK
 assassination.
@@ -472,8 +473,8 @@ with some Cubans. Even it if could be established that he knew Ferrie or some
 other person who has been named in the assassination controversy, which
 in itself would not be unusual, the odds would still be high that his
 "confession" was nothing but a delusion.</p>
-   <p>
-      <special>Reviews of "Reasonable Doubt":</special>
+      <p>
+         <special>Reviews of "Reasonable Doubt":</special>
 6. 22 Nov 85 (Pub Wkly) Brief and mostly favorable. "The prose is a
 bit breathless at times," but "the components of [the] mystery are laid out
 with notable clarity." The theory of a "Cuban conspiracy" involving an Oswald
@@ -489,8 +490,8 @@ this book," and the reviewer mentions none, except for the "psychotic drifter"
 Easterling. He endorses the book's least credulous comments on that story:
 "Hurt does not take this source as a touchstone. Instead, he argues that Mr.
 Easterling's story ought to be given official attention."</p>
-   <p>
-      <special>More details about Oswald in Mexico:</special>
+      <p>
+         <special>More details about Oswald in Mexico:</special>
 "The Lobster" has reprinted almost all of the Afterword from the U.S.
 paperback edition of Tony Summers' "Conspiracy." Summers reported significant
 progress in his search for Maurice Bishop, and prepared additional information
@@ -523,7 +524,7 @@ all named. (I'll pass up the opportunity to list unfamiliar people here. Any
 reporter who wants to make a test case out of those CIA names is welcome to do
 so. I hear that "The Lobster" is developing a reputation in the U.K. for
 8 EOC 1 -9-</p>
-   <p>naming sensitive names.)
+      <p>naming sensitive names.)
 A named CIA officer "is believed to have told an untruth to the HSCA"
 about the 1 Oct 63 photo of the mystery man. The 10 Oct 63 teletype to CIA
 headquarters about this "was, in fact, doctored, according to evidence devel-oped by the HSCA investigators." (This sounds like what Counsel Sprague was
@@ -545,8 +546,8 @@ Although I am inclined to trust the HSCA staffers who specialized in the
 CIA investigation, I have many problems with what I know about the unpublished
 and published investigation in other areas, and I know that some HSCA sources
 doubt some conclusions of the Mexico City staff report.</p>
-   <p>
-      <special>Jim Garrison -- on the bench and off the wall:</special>
+      <p>
+         <special>Jim Garrison -- on the bench and off the wall:</special>
 In October 1985, Garrison told Ted Gandolfo that he was working on a new
 book, entitled "A Farewell to Justice." He said that "there is no question in
 my mind that it is the absolute and ultimate truth down to the last detail
@@ -582,7 +583,7 @@ the book published without ever troubling to learn that I have never even seen
 John Rosselli in my life..."
 The reference is to p. 498 of "Conspiracy," by Tony Summers (who is,
 8 EOC 1 -10-</p>
-   <p>indeed, sort of dashing), which accurately asserts that the CIA found such a
+      <p>indeed, sort of dashing), which accurately asserts that the CIA found such a
 meeting "particularly disturbing." Summers quotes (but does not cite) an HSCA
 staff report by Mark Flanagan, which in turn refers to an unpublished page of
 the CIA Inspector General's Report. The allegation of a Garrison-Rosselli
@@ -599,17 +600,17 @@ apparently irrelevant CIA links and homosexuality.
 If any of you want to spring to Garrison's defense, here is my $64
 question: at the time he arrested Clay Shaw, what serious evidence did he
 have that he had in fact conspired with anyone to kill JFK?</p>
-   <p>
-      <special>Subscription information:</special> There were only 3 issues of EOC last year.
+      <p>
+         <special>Subscription information:</special> There were only 3 issues of EOC last year.
 The mimimum rate for a paid subscription is $0.05 per page plus postage, or
 $1.96 for 1985 in the U.S. and Canada. For postage to Europe, add $0.48 per
 issue; to Australia, $0.60. Payment must be in U.S. currency; please make any
 checks payable to me, not to EOC.</p>
-   <p>
-      <special>Credits:</special> Thanks to S. Dorril (#8), G. Hollingsworth (67), H. Hurt (5),
+      <p>
+         <special>Credits:</special> Thanks to S. Dorril (#8), G. Hollingsworth (67), H. Hurt (5),
 R. Ranftel (7), and L. Sproesser (9).</p>
-   <p>
-      <special>More press coverage of Hurt's book:</special>
+      <p>
+         <special>More press coverage of Hurt's book:</special>
 The following items arrived as this issue was being completed. They are
 from the Chicago Sun-Times, 9 Feb 86. (Thanks to J. Gordon.)
 10. "Who killed JFK? Not Oswald, book claims" [2 pp., with a big
@@ -637,27 +638,27 @@ gangsters." (P. 156) They also made the first of many obvious counter-arguments:
 applies no critical judgment to his account.
 12. A photo of Hurt, and a sidebar on his secluded office in Redeye, Va.
 13. Photos accompanying #11. [3 pp., routine]</p>
-   <p>*From Illumi-Net BBS - (404) 377-1141* [ Don's note: I doubt this BBS is
+      <p>*From Illumi-Net BBS - (404) 377-1141* [ Don's note: I doubt this BBS is
 still up ].</p>
-   <p>---END-----------------------------------------------------------------------</p>
-   <p>--
+      <p>---END-----------------------------------------------------------------------</p>
+      <p>--
 -* Don Allen *- InterNet: dona@bilver.UUCP // Amiga..for the best of us.
 USnail: 1818G Landing Dr, Sanford Fl 32771 \X/ Why use anything else? :-)
 UUCP: ..uunet!tarpit!bilver!dona - Why did the JUSTICE DEPT steal PROMIS?
 /\/\ What is research but a blind date with knowledge. William Henry /\/\</p>
-   <p>From: dona@bilver.uucp (Don Allen)
+      <p>From: dona@bilver.uucp (Don Allen)
 Newsgroups: alt.conspiracy
 Subject: JFK Text: Echoes of Conspiracy - EOC2.TXT
 <info type="Message-ID"> 1991Dec26.194933.19897@bilver.uucp</info>
 Date: 26 Dec 91 19:49:33 GMT
 Organization: W. J. Vermillion - Winter Park, FL
 Lines: 617</p>
-   <p>*EOC2.TXT*</p>
-   <p>-----BEGIN PART 2/4-----------------------------------------------------------</p>
-   <p>ECHOES OF CONSPIRACY July 17, 1986
+      <p>*EOC2.TXT*</p>
+      <p>-----BEGIN PART 2/4-----------------------------------------------------------</p>
+      <p>ECHOES OF CONSPIRACY July 17, 1986
 Vol. 8, #2 Paul L. Hoch</p>
-   <p>
-      <special>Quotation of the day:</special>
+      <p>
+         <special>Quotation of the day:</special>
 "An interesting theory can always outrun a set of facts," according to
 psychologist A. Holliday, at a 1959 conference on LSD therapy chaired by Dr.
 Paul Hoch, CIA consultant and "opinion leader."
@@ -672,16 +673,16 @@ wonder, but the book avoids speculation along such lines. There is no mention
 of "Did Lee Harvey Oswald Drop Acid?," the article co-authored by ex-AIB'er
 Lee. (5 EOC 1, p. 4) (#1986.14: Publisher's press release, consisting of
 advance comments by Ginsberg, Stockwell, Krassner, et al.)</p>
-   <p>
-      <special>Forthcoming TV coverage:</special>
+      <p>
+         <special>Forthcoming TV coverage:</special>
 In November, Showtime will present four hours of "The Trial of LHO," with
 Vincent Bugliosi for the prosecution and Jerry Spence for the defense. (Ed
 Bark, DMN, 21 Jun 86, reprinted in Coverups, 6/86 [#15].) An earlier report
 by Jerry Rose identifies the producers as London Weekend Television. (See
 2 3D 3.21; that is, The Third Decade, Vol. 2, #3 [Mar 1986], p. 21) Although
 there are risks in having lawyers present the case, this should a good show.</p>
-   <p>
-      <special>The 22nd anniversary:</special>
+      <p>
+         <special>The 22nd anniversary:</special>
 16. 22 Nov 85 (Fredericksburg, VA "Free Lance-Star") "JFK questions
 persist" A summary of what has and hasn't happened since the HSCA report, by
 guest columnist (and buff) Harry Nash. "The simple fact is that Justice, like
@@ -693,8 +694,8 @@ This is the only anniversary article I recall which dealt with the
 ongoing controversy over the assassination. Were there others? (I have the
 original version of the widely publicized account of how the WC damaged the
 Hoover-Warren relationship; it should be in the next EOC.)</p>
-   <p>
-      <special>The RFK case:</special>
+      <p>
+         <special>The RFK case:</special>
 17. 5 Mar 86 (LA Herald-Examiner) "RFK slaying report lacks all the
 facts" [2 p.] Quotes Paul Schrade and Greg Stone, who said that "what is
 important is the 97% of material which remains withheld." The commission
@@ -715,7 +716,7 @@ March 4] did little to mollify critics...." Schrade accused the police
 commissioners of "arrogance" and challenged Chief Gates to explain the
 trajectory of the bullet which struck him.
 8 EOC 2 -2-</p>
-   <p> 20. 5 Mar (SFX) "RFK murder probe is 'a P.R. gesture,' victim
+      <p> 20. 5 Mar (SFX) "RFK murder probe is 'a P.R. gesture,' victim
 complains" [2 pp.] Also quotes Prof. Melanson.
 21. 4 Mar [25 pp.] Partial transcript of the board meeting, including
 comments by critics.
@@ -731,8 +732,8 @@ report puts spotlight on protection of president" [3 pp.] Primarily an
 interview of Melanson.
 30. 28 Mar (LAT) "Sirhan Denied Parole; Crime's 'Enormity' Cited"
 A staff psychiatrist described him as "generally rehabilitated."</p>
-   <p>
-      <special>"Reasonable Doubt":</special>
+      <p>
+         <special>"Reasonable Doubt":</special>
 31. 20 Apr 86 (Boston Herald) "JFK's death: Let's find the truth"
 An op-ed piece by Henry Hurt, directed at Boston Congressional candidate
 Joseph P. Kennedy. "The bond of silence that began with Robert Kennedy has
@@ -774,7 +775,7 @@ umbrella man, and even the acoustics. In any case, Mack's specifics do not
 establish his most serious criticism, that the book was "very carefully,
 cleverly constructed" to build a case that Castro did it, and to give the
 8 EOC 2 -3-</p>
-   <p>impression that it completely covers the major open questions. I didn't get
+      <p>impression that it completely covers the major open questions. I didn't get
 that impression from the book; if the Justice Department or many reviewers
 were to respond that way, I would reconsider.
 36. Jun 86 (Coverups) Reporter Johann Rush recounts his own
@@ -833,7 +834,7 @@ assassination theories" [2 pp.] A favorable review by Jonathan Marshall, now
 the Trib's editorial page editor, focusing on Burkley, Tippit, and suppression
 of evidence by federal agencies. "Worst of all, however, was the decision of
 8 EOC 2 -4-</p>
-   <p>the [HSCA] to put a 50-year seal on most of the thousands of pages of
+      <p>the [HSCA] to put a 50-year seal on most of the thousands of pages of
 documents it assembled. 'The irony of the situation... is clear,' noted
 Berkeley-based assassination scholar Paul Hoch. 'The congressional
 investigators who broke the JFK case wide open and reversed the official
@@ -892,7 +893,7 @@ confession in Kennedy assassination" [2 pp.] Hurt, who used to work for the
 Jackson News, met with two FBI agents "who had examined Easterling's file.
 'The whole tone was, one of, "Listen, you're a fairly sensible fellow, how can
 8 EOC 2 -5-</p>
-   <p>you get taken in by this man?" And my position was I'm not being taken in by
+      <p>you get taken in by this man?" And my position was I'm not being taken in by
 him. I'm trying to find out the full story. I don't understand why you folks
 haven't taken a more vigorous interest in the man,' Hurt said.... Attempts to
 contact the FBI about Easterling's story were unsuccessful." (#53a: an
@@ -907,8 +908,8 @@ based in part on interviews:
 A few more reviews, short and/or not particularly noteworthy: #58 (19
 Jan), Fort Wayne Journal; #59 (23 Jan), Macon, MS Beacon; #60 (16 Feb),
 Anniston, AL Star; #61, Detroit News; #62 (24 Apr), Daily Express (UK).</p>
-   <p>
-      <special>More thoughts the murder of Officer Tippit:</special>
+      <p>
+         <special>More thoughts the murder of Officer Tippit:</special>
 Several people have challenged me to explain how Tippit's affair might
 have actually played a role in the events of November 22. Indeed, it would be
 quite a coincidence if he happened to be the victim of a killer with a
@@ -923,8 +924,8 @@ who then set him up as they set Oswald up. Also, David Lifton reminded me of
 the eyewitness evidence suggesting that Tippit had been waiting for someone
 coming from the same direction as Oswald. (Ramparts, Nov 66) And of course
 Tippit's affair might explain only why he was in Oak Cliff.</p>
-   <p>
-      <special>Judge Garrison responds (and Hoch dissents):</special>
+      <p>
+         <special>Judge Garrison responds (and Hoch dissents):</special>
 Ted Gandolfo sent Jim Garrison part of 8 EOC 1, and sent me a copy of
 Garrison's reply. (Letter of 14 Apr 86 to Gandolfo, #1986.63; quoted almost
 in full here.)
@@ -951,7 +952,7 @@ matter how virtuously Hoch might couch it, a smear is still a smear."
 I will let you decide if my reference (or Hurt's) was gratuitous. Out
 here, referring to someone's homosexuality stopped being a canard years ago;
 8 EOC 2 -6-</p>
-   <p>at least, it's not as serious as charging someone with conspiring to kill JFK.
+      <p>at least, it's not as serious as charging someone with conspiring to kill JFK.
 Does Garrison now think Shaw was involved in the conspiracy which led to
 JFK's death? If so, the reference to "all his faults or virtues" is
 remarkably mild.
@@ -1010,7 +1011,7 @@ Likewise, when implausible things are said about Oswald in New Orleans
 critical if one believes, as most of us do, that those areas probably are
 central, and that someone might well have come up with new and important
 8 EOC 2 -7-</p>
-   <p>(but unverifiable) evidence.
+      <p>(but unverifiable) evidence.
 So I have no qualms about taking a close look at Garrison's charge that
 the Warren Commission may have relied on a CIA asset to solve one evidentiary
 problem. Garrison wrote that an earlier "Freedom" article on Hemingway "may
@@ -1055,8 +1056,8 @@ assassination in the May issue.) Each issue is $1.50 from 1301 N. Catalina
 St., Los Angeles, CA 90027. Certainly many of the details are correct, and
 maybe some of the big charges are, but I do not think these articles
 consistently meet essential standards of exposition and logical argument.</p>
-   <p>
-      <special>The supporters and friends of Paulino Sierra:</special>
+      <p>
+         <special>The supporters and friends of Paulino Sierra:</special>
 What follows is essentially the complete text of a letter I sent to the
 Justice Department on May 13, 1986. Once again, an assassination lead brings
 us back to the hidden history of the Kennedy administration's war against
@@ -1068,7 +1069,7 @@ published information may be unfair to one of the named individuals, Paulino
 Sierra Martinez.
 Mr. Sierra is mentioned on page 134 of the HSCA report, which states that
 8 EOC 2 -8-</p>
-   <p>a certain "arms deal was being financed through one Paulino Sierra Martinez by
+      <p>a certain "arms deal was being financed through one Paulino Sierra Martinez by
 hoodlum elements in Chicago and elsewhere." A staff report on the organi-zation he headed (JGCE, the Junta del Gobierno de Cuba en el Exilio) is
 published in Vol. l0, pp. 95-103. This HSCA report appears to be based
 entirely on a review of existing documents (mostly from FBI and CIA files).
@@ -1125,7 +1126,7 @@ a meeting in August 1963.
 Scott was able to obtain a memorandum concerning that meeting under the
 Freedom of Information Act.... (Memo by John H. Crimmins, Coordinator of
 8 EOC 2 -9-</p>
-   <p>Cuban Affairs in the State Department, August 17, 1963)
+      <p>Cuban Affairs in the State Department, August 17, 1963)
 The man who repeated Somoza's claims was Paulino Sierra, who said that he
 had been in touch with Somoza, who had offered him a site for a base. "Sierra
 and Rivero said they had to know what truth there was in Somoza's assertion
@@ -1182,8 +1183,8 @@ should at least perform a more complete file review than reflected by the
 published HSCA material.
 In addition, any surviving principals should be allowed to respond to the
 HSCA's charge that the JGCE may have been a tool of organized crime.</p>
-   <p>8 EOC 2 -10-</p>
-   <p> 69. Excerpts from Schlesinger, "Robert Kennedy and his Times."
+      <p>8 EOC 2 -10-</p>
+      <p> 69. Excerpts from Schlesinger, "Robert Kennedy and his Times."
 70. Crimmins memo, 17 Aug 63, 6 pp.
 In an informal interview published in "Lobster" (#1985.99), Peter Scott
 apparently gave Robin Ramsay his "three-hurricane theory" of the
@@ -1228,8 +1229,8 @@ in part with the milieu of the Chicago Junta, and related matters. Although
 the manuscript was set aside after Pocket Books decided not to publish it, we
 have not forgotten about it and still hope to get the information out in due
 course.</p>
-   <p>
-      <special>Credits:</special>
+      <p>
+         <special>Credits:</special>
 This issue of EOC is dedicated to the memory of my mother, Dr. Cornelia
 Hoch-Ligeti, who died in May at age 79, after a long career in medical
 research. (WP, 31 May, p. B6)
@@ -1240,27 +1241,27 @@ J. Marshall (18, 20), P. Melanson (27, 29), J. Mierzejewski (26, 61), H. Nash
 (16), R. Ranftel (33, 41, 65), M. Reynolds (41), J. Rose (34), M. Royden (62),
 P. Scott (69-70), G. Stone (17-8, 21, 28), E. Tatro (31-2), and D. Wrone (46).
 And thanks to L. Iacocca and Cheerios for the address labels.</p>
-   <p>*From Illumi-Net BBS - (404) 377-1141* [ Don's note: I doubt this BBS is
+      <p>*From Illumi-Net BBS - (404) 377-1141* [ Don's note: I doubt this BBS is
 still up ]</p>
-   <p>---END-----------------------------------------------------------------------</p>
-   <p>--
+      <p>---END-----------------------------------------------------------------------</p>
+      <p>--
 -* Don Allen *- InterNet: dona@bilver.UUCP // Amiga..for the best of us.
 USnail: 1818G Landing Dr, Sanford Fl 32771 \X/ Why use anything else? :-)
 UUCP: ..uunet!tarpit!bilver!dona - Why did the JUSTICE DEPT steal PROMIS?
 /\/\ What is research but a blind date with knowledge. William Henry /\/\</p>
-   <p>From: dona@bilver.uucp (Don Allen)
+      <p>From: dona@bilver.uucp (Don Allen)
 Newsgroups: alt.conspiracy
 Subject: JFK Text: Echoes of Conspiracy - EOC3.TXT
 <info type="Message-ID"> 1991Dec26.195034.19962@bilver.uucp</info>
 Date: 26 Dec 91 19:50:34 GMT
 Organization: W. J. Vermillion - Winter Park, FL
 Lines: 613</p>
-   <p>*EOC3.TXT*</p>
-   <p>---BEGIN PART 3/4-------------------------------------------------------------</p>
-   <p>ECHOES OF CONSPIRACY October 31, 1986
+      <p>*EOC3.TXT*</p>
+      <p>---BEGIN PART 3/4-------------------------------------------------------------</p>
+      <p>ECHOES OF CONSPIRACY October 31, 1986
 Vol. 8, #3 Paul L. Hoch</p>
-   <p>
-      <special>The acoustical evidence:</special>
+      <p>
+         <special>The acoustical evidence:</special>
 One reason for questioning the authenticity of the DPD Dictabelt is the
 presence of certain messages relating to Officer Tippit. Basically, the
 following exchanges are suspect because of their content, the formal tone of
@@ -1318,8 +1319,8 @@ this; my letters to Justice are not even routinely acknowledged these days.
 As far as I know, the JD has neither finished nor abandoned its long-overdue
 review of the HSCA report.
 8 EOC 3 -2-</p>
-   <p>
-      <special>London Weekend Television program:</special>
+      <p>
+         <special>London Weekend Television program:</special>
 73. 31 Jul 86 (NY Post) "23 year[s] later, Oswald goes on trial"
 Twenty-five witnesses recently appeared before TV cameras (and a judge and
 jury from Dallas) in London. They included medical, forensic, and ballistics
@@ -1347,8 +1348,8 @@ Showtime can't hurt.
 75. 16 Jul 86 (AP) Comments by U.S. District Judge Lucius Bunton (a
 cousin of LBJ), who was to play the judge (trying the case under present
 federal law, not 1963 Texas law).</p>
-   <p>
-      <special>Also on TV:</special>
+      <p>
+         <special>Also on TV:</special>
 I missed "Yuri Nosenko, KGB" on HBO in September. Would someone like to
 give us more information than these clippings?
 76. 31 Aug 86 (NYT) The story is told "from the perspective of the CIA
@@ -1368,8 +1369,8 @@ script with the help of Edward Jay Epstein." The Russian emigre actor who
 played Nosenko thinks he was a real defector. Davis concluded that "every way
 you turn it around you find it's like a Rubik's Cube that won't ever quite
 work out." Not a bad analogy for the whole JFK case.</p>
-   <p>
-      <special>Worthy organizations:</special>
+      <p>
+         <special>Worthy organizations:</special>
 If you did not get a letter from AARC in mid-August, please ask me for a
 copy. (#80, 2 pp., no charge) This includes a "special plea for permanent
 members" from Bud Fensterwald. The primary goal is not to get the membership
@@ -1378,7 +1379,7 @@ approaching private foundations - the few which are willing to become involved
 with such a controversial topic. Institutional memberships would be
 particularly appreciated.
 8 EOC 3 -3-</p>
-   <p> Item #80 also includes a progress report, dated August 1. Among other
+      <p> Item #80 also includes a progress report, dated August 1. Among other
 things, Jeff Meek's massive index of (mostly) published JFK material has been
 computerized. I am now on the Board of Advisors, not the Board of Directors.
 "The Third Decade" (see 6 EOC 4.4) needs (and deserves) more subscribers.
@@ -1387,8 +1388,8 @@ Reporting." [#81, Sep 86, 2 pp.] The director of this new progressive
 counterpart to AIM is Jeff Cohen; fellow AIB veterans Marty Lee and Bob Katz
 are also involved. FAIR has been involved "in the effort to expose and
 counteract ABC's pending 12-hour miniseries, 'Amerika.'"</p>
-   <p>
-      <special>The saga of Earl and Edgar:</special>
+      <p>
+         <special>The saga of Earl and Edgar:</special>
 A story on the Warren Commission got a lot of newspaper play on the day
 after Thanksgiving last year - remarkable, even though that was, as usual, a
 slow news day. As noted in the NYT's news summary (#82, 29 Nov 85), the WCR
@@ -1431,11 +1432,11 @@ did not see that 1972 manuscript long ago, please let me know if you are
 interested. (98 pages, each two reduced pages of double-spaced clean
 typescript; index included; cost (including postage): $6 or less, depending
 on the number of requests received by January 1, 1987.)</p>
-   <p>
-      <special>A break from clippings (for the rest of this issue, at least):</special>
+      <p>
+         <special>A break from clippings (for the rest of this issue, at least):</special>
 Current clippings are generally less interesting than, e.g., old
 8 EOC 3 -4-</p>
-   <p>clippings and the HSCA volumes. What are people interested in reading about
+      <p>clippings and the HSCA volumes. What are people interested in reading about
 in EOC, or getting copies of? (My Garrison analysis [#1986.68] generated just
 one request for a copy.) What about new FBI and CIA documents, or my old
 files of WC documents?
@@ -1448,8 +1449,8 @@ power, the time, and the interest to divide up work on indexes, lists of
 clippings and documents, and chronologies? I would appreciate help with these
 difficult questions. In the meantime, some documents, more or less from the
 top of the pile on my desk.</p>
-   <p>
-      <special>From the Warren papers:</special>
+      <p>
+         <special>From the Warren papers:</special>
 As noted in 7 EOC 3.10, some of Warren's files at the Library of Congress
 have been released.
 In March 1974, Alfred Goldberg (the WC's staff historian) interviewed
@@ -1493,8 +1494,8 @@ McCloy's draft response, saying that he was not impressed [#90, 16 Jul 69,
 3 pp.], and an exchange of letters between McCloy and Warren [#91, 3 pp.], in
 which Warren agreed with McCloy but suggested that he not send the letter.
 8 EOC 3 -5-</p>
-   <p>
-      <special>CIA interest in identifying the Mexico Mystery Man:</special>
+      <p>
+         <special>CIA interest in identifying the Mexico Mystery Man:</special>
 Last November, the CIA released eleven documents to Bud Fensterwald in
 connection with his FOIA request for records relating to efforts to identify
 the Mexico Mystery Man (MMM), the man whose description (taken from Embassy
@@ -1553,7 +1554,7 @@ in part, "unofficially," and by someone who took the Saul story seriously?
 What else did she and her colleagues believe? Can anyone tell us more about
 this in-depth CIA study? I guess it was related to the Task Force Report
 8 EOC 3 -6-</p>
-   <p>prepared in response to the Schweiker Report. (HSCAR 108, 10 HSCA 156)
+      <p>prepared in response to the Schweiker Report. (HSCAR 108, 10 HSCA 156)
 The memos, as released, do not say much about possible Cuban involvement.
 The second April 1977 memo asks three questions, including "Could [deletion]
 be 'Saul'?" and "Could [deletion], therefore, be mystery man who boarded plane
@@ -1561,8 +1562,8 @@ in Mexico City for Havana on 22 November 1963?" (Cf. HSCAR 117) (The third
 question is deleted.)
 Related released documents: #99, 4 pp. The CIA list of 40 documents on
 this subject (dated 12/62 through 7/78, mostly withheld) is #100, 3 pp.</p>
-   <p>
-      <special>Nazis and other anti-Communists:</special>
+      <p>
+         <special>Nazis and other anti-Communists:</special>
 Former Justice Department official John Loftus made some noteworthy
 comments in his House testimony on a GAO report on Nazi war criminals in the
 U.S. (For more on Loftus, see 6 EOC 4.10.) In a list of 29 areas which he
@@ -1609,8 +1610,8 @@ portraying Oswald as an agent of the State Department, rather than (say) as a
 loner, or as an agent of another intelligence agency? (Just speculating.)
 .CP 6
 8 EOC 3 -7-</p>
-   <p>
-      <special>Book news:</special>
+      <p>
+         <special>Book news:</special>
 Kitty Kelley's new book on Frank Sinatra ("His Way," Bantam, $21.95) is
 rather political, with quite a bit on the Kennedy-Exner-Giancana-Sinatra
 nexus. I think there is some new information, much of it apparently based on
@@ -1668,7 +1669,7 @@ the WC besides Dulles? (See Moldea, pp. 234-5, 338-9; #104 [2 pp.])
 I have also read "Alias Oswald," by W. R. Morris and R. B. Cutler, and
 "JFK: The Mystery Unraveled," from the Liberty Lobby's "Spotlight."
 8 EOC 3 -8-</p>
-   <p>(#105: ad from "Spotlight" for the book [107 pages for $6.95]; see #1985.102
+      <p>(#105: ad from "Spotlight" for the book [107 pages for $6.95]; see #1985.102
 for one chapter.) I would prefer not to have to say more about these books,
 so I won't, at least in this issue.
 I have some relatively routine reviews of the Hurt book, and a few of the
@@ -1679,8 +1680,8 @@ page to impress your friends. (#106, with drawings of the head wound)
 If you are interested in the problems facing authors of serious
 nonfiction, I recommend "Publishers wary of lawsuits: Libel Lawyers Wield
 Blue Pencils on Books." (#107, LAT, 26 Jun 86, 3 pp.)</p>
-   <p>
-      <special>KAL 007:</special>
+      <p>
+         <special>KAL 007:</special>
 Three months after the KAL disaster, while the press was noting the
 twentieth anniversary of the JFK assassination, the government was seemingly
 commemorating it with a major coverup, arguably the biggest in twenty years.
@@ -1727,7 +1728,7 @@ Intelligence. He is not as peculiar as Angleton, but almost as heavy. The
 book, however, does not speculate on the possible importance of the split
 represented by someone of his rank going public with his dissent.
 8 EOC 3 -9-</p>
-   <p> One parallel drawn by "Time" and others is basically misleading - the
+      <p> One parallel drawn by "Time" and others is basically misleading - the
 allegedly nonconspiratorial nature of Hersh's "innocent" explanation. Indeed,
 Hersh seems to treat the ideology of Reagan and his crew as an external,
 almost extenuating, factor. (They rushed to judgment "in what amounted to
@@ -1785,7 +1786,7 @@ in this case "late in 1984." [P. xi] Did the people in the intelligence
 community who knew the story wait until the 1984 elections were out of the way
 before spilling the beans? As with Watergate and Epstein's "Legend", the
 8 EOC 3 -10-</p>
-   <p>disclosure of important information may itself be a bigger part of the real
+      <p>disclosure of important information may itself be a bigger part of the real
 story than the casual reader (of "Time," and even of this book) would think.
 This is in EOC because we all should be interested, not just because of
 the parallels with the JFK case. The case is in the courts and will not just
@@ -1798,8 +1799,8 @@ U.S. military plane. Cutler has published a book, titled "Explo 007." If you
 are willing to keep Occam's Razor sheathed, and if you trust Cutler to have
 convincingly eliminated all simpler explanations, you should read that book;
 I haven't.</p>
-   <p>
-      <special>Queries from readers:</special>
+      <p>
+         <special>Queries from readers:</special>
 Q77. According to P. Maas' book on Ed Wilson, in 1964 the CIA helped get
 Wilson a job as an advance man in Humphrey's VP campaign, in connection with
 his assignment to "Special Operations." (P. 24, #112) On the assumption that
@@ -1808,8 +1809,8 @@ Q78. Can anyone provide a copy (or photocopy) of "Lucky Luciano," by
 Ovid Demaris (Monarch Books paperback, 1960, 148 pp.)?
 Q79. Does anyone have an FBI document describing a test, prior to
 November 29, 1963, of the firing speed of Oswald's rifle?</p>
-   <p>
-      <special>Castro again:</special>
+      <p>
+         <special>Castro again:</special>
 Speaking of theories of Cuban involvement (as we were on page 5): in his
 March 16 speech on Contra aid, president R. Reagan closed with an anecdote
 from Clare Booth Luce, who recently spoke of an encounter with JFK. She said
@@ -1829,38 +1830,38 @@ human events.... History may absolve you, Fidel/ but we'll dissolve you
 first, Fidel." This copy [#114, 4 pp.] bears the rubber stamp of the S. F.
 chapter of the Fair Play for Cuba Committee, with genuine phone and P.O. box
 numbers.</p>
-   <p>
-      <special>Late news:</special>
+      <p>
+         <special>Late news:</special>
 David Phillips is to receive "substantial" damages in a settlement of a
 libel suit against the London Observer, over excepts from Summers' book
 "Conspiracy." ("Challenge" press release and clips, #115, 2 pp.)</p>
-   <p>
-      <special>Credits:</special> Thanks to M. Ewing (#115), B. Fensterwald (80), J. Goldberg (73),
+      <p>
+         <special>Credits:</special> Thanks to M. Ewing (#115), B. Fensterwald (80), J. Goldberg (73),
 L. Haapanen (101), G. Hollingsworth (77-8, 105), M. Lee (81), D. Lifton (106),
 P. McCarthy (83), J. Marshall (102), S. Meagher (84), J. Mierzejewski (79),
 G. Owens (76), R. Ranftel (85-7, 89-94, 96-100, 107, 110), P. Scott (104,
 112), E. Tatro (74-5), and T. Vaughan (72).</p>
-   <p>*From Illumi-Net BBS -- (404) 377-1141* [ Don's note: I doubt this BBS is
+      <p>*From Illumi-Net BBS -- (404) 377-1141* [ Don's note: I doubt this BBS is
 still up ]</p>
-   <p>---END------------------------------------------------------------------------</p>
-   <p>--
+      <p>---END------------------------------------------------------------------------</p>
+      <p>--
 -* Don Allen *- InterNet: dona@bilver.UUCP // Amiga..for the best of us.
 USnail: 1818G Landing Dr, Sanford Fl 32771 \X/ Why use anything else? :-)
 UUCP: ..uunet!tarpit!bilver!dona - Why did the JUSTICE DEPT steal PROMIS?
 /\/\ What is research but a blind date with knowledge. William Henry /\/\</p>
-   <p>From: dona@bilver.uucp (Don Allen)
+      <p>From: dona@bilver.uucp (Don Allen)
 Newsgroups: alt.conspiracy
 Subject: JFK Text: Echoes of Conspiracy - EOC4.TXT (end)
 <info type="Message-ID"> 1991Dec26.195226.20027@bilver.uucp</info>
 Date: 26 Dec 91 19:52:26 GMT
 Organization: W. J. Vermillion - Winter Park, FL
 Lines: 618</p>
-   <p>*EOC4.TXT*</p>
-   <p>-----BEGIN PART 4/4-----------------------------------------------------------</p>
-   <p>ECHOES OF CONSPIRACY December 8, 1986
+      <p>*EOC4.TXT*</p>
+      <p>-----BEGIN PART 4/4-----------------------------------------------------------</p>
+      <p>ECHOES OF CONSPIRACY December 8, 1986
 Vol. 8, #4 Paul L. Hoch</p>
-   <p>
-      <special>Showtime show trial:</special>
+      <p>
+         <special>Showtime show trial:</special>
 Among EOC readers, access to Showtime cable TV seems scarcer than
 interest in the LWT production, "On Trial: Lee Harvey Oswald." I was able to
 see the program, so it seemed like a good idea to get this issue out as soon
@@ -1895,8 +1896,8 @@ might look much more productive after we see the outtakes (or if there is a
 book or long article - I have heard nothing about one.) LWT definitely got
 some interesting comments from potential witnesses who were not even mentioned
 in the final version.</p>
-   <p>
-      <special>Summary and commentary:</special>
+      <p>
+         <special>Summary and commentary:</special>
 The first evening's segment (three hours) comprised the prosecution case.
 It was the basic WC-HSCA evidence against Oswald, presented in a rather
 straightforward way by Bugliosi.
@@ -1918,7 +1919,7 @@ Spence had not lost a jury trial in 17 years; at some level these guys were
 clearly playing for keeps. This may have led to strategies aimed at winning,
 rather than at, say, coming up with newsworthy new evidence or good TV.
 8 EOC 4 -2-</p>
-   <p> Bugliosi began his opening statement with negative comments about
+      <p> Bugliosi began his opening statement with negative comments about
 conspiracy buffs. A frameup is a "preposterous" idea; Oswald was a "deeply
 disturbed and maladjusted man" and a "fanatical Marxist."
 Spence said that when he started work on this trial, he thought Oswald
@@ -1977,7 +1978,7 @@ Officer <special>Marrion Baker</special> described his encounter with Oswald on 
 floor. Spence emphasized that Oswald did not seem excited.
 <special>Ted Callaway</special> told of seeing Oswald run past his used-car lot with his
 8 EOC 4 -3-</p>
-   <p>pistol, and of checking Tippit's pulse and calling in on his radio. On cross,
+      <p>pistol, and of checking Tippit's pulse and calling in on his radio. On cross,
 Bugliosi objected to Spence cutting off Callaway's responses, but was
 overruled. I wonder if anyone got to sit down with these witnesses and have a
 decent session of questioning without playing by legal rules, and if a record
@@ -2035,7 +2036,7 @@ a conflict between the photos and the X-rays, and the real issue here (which
 the HSCA was unable to resolve) was totally obfuscated.
 HSCA firearms expert <special>Monty Lutz</special> described a re-enactment he did for
 8 EOC 4 -4-</p>
-   <p>Bugliosi this May, getting three hits in 3.6 seconds once, and two hits the
+      <p>Bugliosi this May, getting three hits in 3.6 seconds once, and two hits the
 other four times. Spence noted that this was not an exact duplication. He
 made this point in such an obnoxious way that his success with juries both
 surprises and disturbs me.
@@ -2094,7 +2095,7 @@ I hope she doesn't think Spence is a typical critic; I think some of us should
 write to her and apologize.
 If Spence's whole case really were typical of what the critics have to
 8 EOC 4 -5-</p>
-   <p>offer, it would be time to retire. My reaction to Mark Lane in 1964 was that
+      <p>offer, it would be time to retire. My reaction to Mark Lane in 1964 was that
 all those little points must add up to something; my reaction to Spence is
 quite the opposite. His ability and inclination to suggest doubts about
 whatever a prosecution witness said told me less about what happened in Dallas
@@ -2153,7 +2154,7 @@ was so shocking, Bugliosi wondered, why didn't he tell the HSCA? He seemed
 genuinely surprised when O'Connor said he had been "under orders not to talk
 until that time."
 8 EOC 4 -6-</p>
-   <p> Unfortunately, issues relating to these orders were not pursued on the
+      <p> Unfortunately, issues relating to these orders were not pursued on the
 air. O'Connor, who was nervous, referred to getting permission from the HSCA
 to talk to Navy brass, and also indicated that the HSCA had not asked the
 right questions. The sequence of events is unclear: Bugliosi referred to an
@@ -2212,7 +2213,7 @@ I am told that the taped testimony included three additional witnesses,
 and that three more were flown to London but not used. (I do not know the
 names of those witnesses.)
 8 EOC 4 -7-</p>
-   <p> Bugliosi's closing arguments were effectively delivered and generally
+      <p> Bugliosi's closing arguments were effectively delivered and generally
 straightforward. He did not push a "no conspiracy" argument, but alleged that
 Oswald was "guilty as sin." He could have been much worse; he cited Oswald's
 defection to the USSR not as evidence of his serious political beliefs, but as
@@ -2271,7 +2272,7 @@ involvement. The issue, he thinks, is how we can keep our idealism without
 succumbing to "irrationality and to violence."
 Dershowitz emphasized the importance of maintaining the integrity of the
 8 EOC 4 -8-</p>
-   <p>fact-finding process. Even more than Spence, he would have emphasized that
+      <p>fact-finding process. Even more than Spence, he would have emphasized that
 the process had been tampered with. Clark said that sort of thing happens all
 the time. Dershowitz thought Spence got some new facts out, and showed the
 advantages of the adversary process. Clark, correctly, disputed that.
@@ -2298,8 +2299,8 @@ Bugliosi for his prior comparison of some buffs to Dr. Goebbels, I think he
 did an acceptable and often persuasive job on the air.
 The credits included special thanks to Tony Summers and Mary Ferrell.
 The copyright is held by LWT.</p>
-   <p>
-      <special>Clippings:</special>
+      <p>
+         <special>Clippings:</special>
 117. For 15-16 Nov 86 (Seth Kantor, Cox papers and NYT service)
 [3 pp.] "Despite the impact of the testimony, the realistic trial is
 dominated by the hand-to-hand courtroom combat" of Spence and Bugliosi, who
@@ -2329,7 +2330,7 @@ the time is devoted to rehashing old arguments...."
 121. 16 Nov (Schneider, NYT) "Bringing Lee Harvey Oswald to 'Trial'"
 The "main weakness", Bugliosi said, was the time limitation on cross-examination and closing statements.
 8 EOC 4 -9-</p>
-   <p> 122. 19 Nov (AP) "Kennedy case put to a jury" [2 pp.] Researcher
+      <p> 122. 19 Nov (AP) "Kennedy case put to a jury" [2 pp.] Researcher
 Tomlinson said the program "produces no new evidence" and is not "the final
 word on who killed Kennedy." O'Connor's "dramatic" testimony is noted.
 123. 4 Nov (LA News in NY News) "TV gives Oswald his day in court"
@@ -2360,8 +2361,8 @@ Atlantis. More than half "said they are creationists." So let's not take our
 85% in the JFK case too seriously.
 127. 20 Nov 86 (Corry, NYT) A good critique of the lawyers' styles and
 the witnesses' demeanor; quotable, but I'm short on space and time.</p>
-   <p>
-      <special>An excerpt:</special>
+      <p>
+         <special>An excerpt:</special>
 The entire broadcast cross-examination of Prof. Vincent Guinn:
 GS: Well, I'd rather cross-examine Mr. Bugliosi than the doctor, since
 he's the one that's given all the testimony. [Judge: But the doctor's on the
@@ -2388,7 +2389,7 @@ VG: No, this was only an analysis of bullet lead.
 GS: I'm gonna ask you once more, Dr. Guinn, did you analyze the large
 copper fragment that was found in the limousine? [VG: No.]
 8 EOC 4 -10-</p>
-   <p> GS: Are you aware of the fact, doctor, that dishonest evidence can be
+      <p> GS: Are you aware of the fact, doctor, that dishonest evidence can be
 honestly examined? [VG: Of course.]
 GS: That means that an honest examination can be made of evidence that's
 been manufactured or planted. [VG: It's always possible, yes.]
@@ -2409,8 +2410,8 @@ the bullet parts that you examined actually came from the body of the
 President? [VG: No way, unless I were the surgeon.]
 GS: And you just examined what they gave you, isn't that true, doctor?
 VG: Correct. [GS: Thank you, doctor.]</p>
-   <p>
-      <special>Postscripts relating to Tony Summers:</special>
+      <p>
+         <special>Postscripts relating to Tony Summers:</special>
 The "settlement" referred to at 8 EOC 3.10 did not involve any admission
 or court ruling that Phillips had been libeled. It seems safe to assume the
 the potential cost of going to trial resulted in a settlement. The Observer
@@ -2422,8 +2423,8 @@ excerpts from "Conspiracy" but subsequent articles in the South China Morning
 Post based on Summers' research, as distributed by the Observer.
 "Goddess" is out in paperback (Onyx, $4.95), with a substantial new
 chapter (45 pages) on various aspects of the Monroe-Kennedy story.</p>
-   <p>
-      <special>Queries and comments:</special>
+      <p>
+         <special>Queries and comments:</special>
 Q80. WBAI's anniversary program featured John Davis, David Lifton, and
 Phil Melanson. Can someone provide a tape?
 Q81. Investigations of Oswald's activities in New Orleans turned up
@@ -2442,17 +2443,18 @@ disclosures certainly have roots in the Cuban issues of 1963, and we should
 not be surprised if some of the newly prominent names can be linked to people
 who have been mentioned in the assassination controversy. Peter Scott has
 already come up with some interesting ideas along these lines.)</p>
-   <p>
-      <special>Credits</special>: Thanks to B. Fensterwald (#116), J. Goldberg (127), G. Hollingsworth
+      <p>
+         <special>Credits</special>: Thanks to B. Fensterwald (#116), J. Goldberg (127), G. Hollingsworth
 (122, 124), S. Kantor (117), P. Melanson (118, 123), G. Owens (121),
 R. Stetler, and G. Stone (118).</p>
-   <p>*From Illumi-Net BBS - (404) 377-1141* [ Don's note: I doubt this BBS is still
+      <p>*From Illumi-Net BBS - (404) 377-1141* [ Don's note: I doubt this BBS is still
 up ]</p>
-   <p>---END OF ARTICLE---------------------------------------------------------------</p>
-   <p>--
+      <p>---END OF ARTICLE---------------------------------------------------------------</p>
+      <p>--
 -* Don Allen *- InterNet: dona@bilver.UUCP // Amiga..for the best of us.
 USnail: 1818G Landing Dr, Sanford Fl 32771 \X/ Why use anything else? :-)
 UUCP: ..uunet!tarpit!bilver!dona - Why did the JUSTICE DEPT steal PROMIS?
 /\/\ What is research but a blind date with knowledge. William Henry /\/\
 </p>
-</div>
+   </div>
+</xml>

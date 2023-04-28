@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>Date: 20-Jun-87 20:31 MST
+<xml>
+   <div class="article">
+      <p>Date: 20-Jun-87 20:31 MST
 From: Executive News Svc. [76374303]
 Subj: APfl 06/20 1301 UFO Investigations</p>
-   <p>By BILL KACZOR Associated Press Writer
+      <p>By BILL KACZOR Associated Press Writer
 FORT WALTON BEACH, Fla. (AP) -- A retired Air Force pilot says he
 suspects, contrary to official denials, an unknown federal agency is
 investigating reports of unidentified flying objects and other close
@@ -80,7 +81,8 @@ me of getting a lot of satisfaction from identifying feathered objects," he
 said, grinning. "No, I'm just a nature boy."
 
 </p>
-   <p>Copyright 1987 by the Associated Press. All rights reserved.
+      <p>Copyright 1987 by the Associated Press. All rights reserved.
 
 </p>
-</div>
+   </div>
+</xml>

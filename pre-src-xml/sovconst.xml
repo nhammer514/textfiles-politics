@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>To USSR-L subscribers,
+<xml>
+   <div class="article">
+      <p>To USSR-L subscribers,
 There have been some postings lately asking what SOVSET is and
 who it serves. In general it would not be proper to copy
 SOVSET's material and distribute in USSR-L, since SOVSET is
@@ -8,11 +9,11 @@ a service subscribers pay for. In the case of the following
 article, which was posted by SOVSET today (Nov. 13), I own the
 copyright. I am posting it on USSR-L partly to give you an idea
 of the material carried by SOVSET.</p>
-   <p>Darrell Hammer</p>
-   <p> WRITING A NEW RUSSIAN CONSTITUTION</p>
-   <p> Darrell P. Hammer
+      <p>Darrell Hammer</p>
+      <p> WRITING A NEW RUSSIAN CONSTITUTION</p>
+      <p> Darrell P. Hammer
 Indiana University</p>
-   <p> In June the newly elected Congress of People's Deputies of
+      <p> In June the newly elected Congress of People's Deputies of
 the RSFSR resolved to write a new constitution for the republic,
 and appointed a constitutional commission of 100 members under
 the chairmanship of Boris Eltsin.[1] The commission promptly
@@ -367,4 +368,5 @@ Constitutional Court, and there is a second version of this
 section which omits any mention of that court. In the second
 version, the Supreme Court rather than the Constitutional Court
 would be involved in the impeachment process.</p>
-</div>
+   </div>
+</xml>

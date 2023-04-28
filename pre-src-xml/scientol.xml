@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div class="article">
-   <p>
+<xml>
+   <div class="article">
+      <p>
 From TIME Magazine, May 6, 1991:</p>
-   <p>THE THRIVING CULT OF GREED AND POWER</p>
-   <p>Ruined lives. Lost fortunes. Federal crimes.
+      <p>THE THRIVING CULT OF GREED AND POWER</p>
+      <p>Ruined lives. Lost fortunes. Federal crimes.
 Scientology poses as a religion but is really a ruthless
 global scam - and aiming for the mainstream.</p>
-   <p>By Richard Behar</p>
-   <p>By all appearances, Noah Lottick of Kingston, Pa. had been a
+      <p>By Richard Behar</p>
+      <p>By all appearances, Noah Lottick of Kingston, Pa. had been a
 normal, happy 24-year-old who was looking for his place in the world.
 On the day last June when his parents drove to New York to claim his
 body, they were nearly catatonic with grief. The young
@@ -205,7 +206,7 @@ be had for just $1900.
 To gain influence and lure richer, more sophisticated followers,
 Scientology has lately resorted to a wide array of front groups and
 financial scams. Among them:</p>
-   <p>CONSULTING. Sterling Management Systems, formed in 1983, has been
+      <p>CONSULTING. Sterling Management Systems, formed in 1983, has been
 ranked in recent years by INC. magazine as one of America's
 fastest-growing private companies (estimated 1988 revenues: $20
 million). Sterling regularly mails a free newsletter to more than
@@ -248,7 +249,7 @@ $23000 poorer, the Rowes say, they were chased repeatedly by
 Scientologists on foot and in cars. Dentists aren't the only ones at
 risk. Scientology also makes pitches to chiropractors, podiatrists
 and veterinarians.</p>
-   <p>PUBLIC INFLUENCE. One front, the Way to Happiness Foundation, has
+      <p>PUBLIC INFLUENCE. One front, the Way to Happiness Foundation, has
 distributed to children in thousands of the nation's public schools
 more than 3.5 million copies of a booklet Hubbard wrote on morality.
 The church calls the scheme "the largest dissemination project in
@@ -279,7 +280,7 @@ embarassing: two months ago, Illinois Governor Jim Edgar, noting that
 Scientology's founder "has solved the aberrations of the human mind,"
 proclaimed March 13 "L. Ron Hubbard Day." He rescinded the
 proclamation in late March, once he learned who Hubbard really was.</p>
-   <p>HEALTH CARE. HealthMed, a chain of clinics run by Scientologists,
+      <p>HEALTH CARE. HealthMed, a chain of clinics run by Scientologists,
 promotes a grueling and excessive system of saunas, exercise and
 vitamins designed by Hubbard to purify the body. Experts denounce the
 regime as quackery and potentially harmful, yet HealthMed solicits
@@ -295,7 +296,7 @@ physician William Jarvis, who is head of the National Council Against
 Health Fraud. Steinman, who describes Hubbard favorably as a
 "researcher," denies any ties to the church and contends, "HealthMed
 has no affiliation that I know of with Scientology."</p>
-   <p>DRUG TREATMENT. Hubbard's purification treatments are the mainstay of
+      <p>DRUG TREATMENT. Hubbard's purification treatments are the mainstay of
 Narconon, a Scientology-run chain of 33 alcohol and drug
 rehabilitation centers - some in prisons under the name "Criminon" -
 in 12 countries. Narconon, a classic vehicle for drawing addicts into
@@ -308,7 +309,7 @@ turned out to be part of Scientology itself. Today the town is
 battling to keep out the cult, which has fought back through such
 tactics as sending private detectives to snoop on the mayor and the
 local newspaper publisher.</p>
-   <p>FINANCIAL SCAMS. Three Florida Scientologists, including Robert
+      <p>FINANCIAL SCAMS. Three Florida Scientologists, including Robert
 Bernstein, a big contributor to the church's international "war
 chest," pleaded guilty in March to using their rare-coin dealership as
 a money laundry. Other notorious activities by Scientologists include
@@ -363,7 +364,7 @@ disputed by both Fishman and his longtime psychiatrist, Uwe Geertz, a
 prominent Florida hypnotist. Both men claim that when arrested,
 Fishman was ordered by the church to kill Geertz and then do an "EOC,"
 or end of cycle, which is church jargon for suicide.</p>
-   <p>BOOK PUBLISHING. Scientology mischiefmaking has even moved to the
+      <p>BOOK PUBLISHING. Scientology mischiefmaking has even moved to the
 book industry. Since 1985 at least a dozen Hubbard books, printed by
 a church company, have made best-seller lists. They range from a
 5000-page sci-fi decalogy ("Black Genesis," "The Enemy Within," "An
@@ -419,7 +420,7 @@ medical records to blackmail an opposing attorney (who was allegedly
 beaten up instead). Since Yanny quit representing the church, he has
 been the target of death threats, burglaries, lawsuits and other
 harassment.</p>
-   <p>Scientology's critics contend that the U.S. needs to crack down
+      <p>Scientology's critics contend that the U.S. needs to crack down
 on the church in a major, organized way. "I want to know, Where is
 our government?" demands Toby Plevin, a Los Angeles attorney who
 handles victims. "It shouldn't be left to private litigators, because
@@ -464,7 +465,7 @@ Franks, the church's former chairman of the board. "There were no
 outright threats made, but it was implicit. If you leave, they
 immediately start digging up everything." Franks was driven out in
 1981 after attempting to reform the church.</p>
-   <p>The church's former head of security, Richard Aznaran, recalls
+      <p>The church's former head of security, Richard Aznaran, recalls
 Scientology leader Miscavige repeatedly joking to staffers about
 Travolta's allegedly promiscuous homosexual behavior. At this point
 any threat to expose Travolta seems superfluous: last May a male porn
@@ -490,9 +491,9 @@ the end, money is what Scientology is all about. As long as the
 organization's opponents and victims are successfully squelched,
 Scientology's managers and lawyers will keep pocketing millions of
 dollars by helping it achieve its ends.</p>
-   <p>
+      <p>
 MINING MONEY IN VANCOUVER</p>
-   <p>One source of funds for the Los Angeles-based church is the
+      <p>One source of funds for the Los Angeles-based church is the
 notorious, self-regulated stock exchange in Vancouver, British
 Columbia, often called the scam capital of the world. The exchange's
 2300 penny-stock listings account for $4 billion in annual trading.
@@ -566,8 +567,8 @@ Steven McGuire, president of Western Resource: "His is a p.r. firm in
 need of a p.r. firm." But McGuire cannot laugh too freely. Baybak
 and other Scientologists, including the estate of L. Ron Hubbard,
 still control huge blocks of his company's stock.</p>
-   <p>THE SCIENTOLOGISTS AND ME</p>
-   <p>Strange things seem to happen to people who write about
+      <p>THE SCIENTOLOGISTS AND ME</p>
+      <p>Strange things seem to happen to people who write about
 Scientology, Journalist Paulette Cooper wrote a critical book about
 the cult in 1971. This led to a Scientology plot (called Operation
 Freak-Out) whose goal, according to church documents, was "to get P.C.
@@ -628,14 +629,15 @@ family, was that "the church trains people to lie." Baxter and his
 colleagues are hardly in a position to dispute that observation. His
 real name is Barry Silvers, and he is a former investigator for the
 Justice Department's Organized Crime Strike Force.</p>
-   <p>
+      <p>
 </p>
-   <p>
+      <p>
 </p>
-   <p>
+      <p>
 </p>
-   <p>
+      <p>
 </p>
-   <p>
+      <p>
 </p>
-</div>
+   </div>
+</xml>
