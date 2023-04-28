@@ -16,7 +16,7 @@
         <xsl:for-each select="$conspiracy">   
             <xsl:variable name="filename" as="xs:string" select="current() ! base-uri() ! tokenize(., '/')[last()] ! substring-before(., '.xml')"/>
             <xsl:result-document method="xml" indent="yes" href="../docs/collection/{$filename}.html"> 
-    =  <html>
+      <html>
             <head>
                 <title><xsl:value-of select="$filename"/></title>
                 <link rel="stylesheet" href="../CSSstyle.css"/>
