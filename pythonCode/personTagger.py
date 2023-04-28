@@ -1,4 +1,5 @@
 import spacy
+from spacy.pipeline import EntityRuler
 from collections import Counter
 import re as regex
 import os
@@ -37,6 +38,12 @@ patterns = [
     {"label": "NORP", "pattern": [{"TEXT": {"REGEX": "CHRISTIAN(ITY|DOM)?"}}]},
     {"label": "NORP", "pattern": [{"TEXT": {"REGEX": "CHRISTIAN\s+NETWORK"}}]},
     {"label": "NORP", "pattern": [{"TEXT": {"REGEX": "Catholic(ism)?"}}]},
+    {"label": "NORP", "pattern": [{"TEXT": {"REGEX": "Zion(is[tm])?"}}]},
+    {"label": "NORP", "pattern": [{"TEXT": {"REGEX": "Juda(ism)?"}}]},
+    {"label": "NORP", "pattern": [{"TEXT": {"REGEX": "Jew(s|ish)?"}}]},
+    {"label": "GPE", "pattern": [{"TEXT": {"REGEX": "Vatican"}}]},
+    {"label": "ORG", "pattern": [{"TEXT": {"REGEX": "(IBM|CIA|FBI)"}}]},
+    # ebb: Pick up IBM, FBI, etc
     {"label": "NULL", "pattern": [{"TEXT": {"REGEX": "[A-Z]{2,}[A-Z][a-z]+"}}]},
     {"label": "NULL", "pattern": [{"TEXT": {"REGEX": "[a-z]{2,}[A-Z][a-z]+"}}]},
     {"label": "NULL", "pattern": [{"TEXT": {"REGEX": "^.*?[a-z][A-Z].*?$"}}]},

@@ -2,13 +2,13 @@
 <xml>
    <div class="article">
       <p> JOHN STOCKWELL</p>
-      <p> THE SECRET WARS OF THE CIA</p>
+      <p> THE SECRET WARS OF THE <ent type='ORG'>CIA</ent></p>
       <p> 10 October 1987</p>
       <p> A two-part speech.</p>
       <p> Copyright (C) 1987 The Other Americas Radio
-John Stockwell is the highest-ranking CIA official ever to leave the
-agency and go public. He ran a CIA intelligence-gathering post in
-Vietnam, was the task-force commander of the CIA's secret war in
+John Stockwell is the highest-ranking <ent type='ORG'>CIA</ent> official ever to leave the
+agency and go public. He ran a <ent type='ORG'>CIA</ent> intelligence-gathering post in
+Vietnam, was the task-force commander of the <ent type='ORG'>CIA</ent>'s secret war in
 Angola in 1975 and 1976, and was awarded the Medal of Merit before he
 resigned. Stockwell's book In Search of Enemies, published by W.W.
 Norton 1978, is an international best-seller. This is a transcript of
@@ -31,11 +31,11 @@ the NL.CS.CMU.EDU vax. Also available as a paper manuscript, or
 digitally on disk. Write to P.O.Box 81795, Pittsburgh, PA 15217.</p>
       <p> PART I</p>
       <p> THE INNER WORKINGS OF THE NATIONAL SECURITY COUNCIL AND THE
-CIA'S COVERT ACTIONS IN ANGOLA, CENTRAL AMERICA AND VIETNAM</p>
-      <p> "I did 13 years in the CIA altogether. I sat on a subcommittee of
+<ent type='ORG'>CIA</ent>'S COVERT ACTIONS IN ANGOLA, CENTRAL AMERICA AND VIETNAM</p>
+      <p> "I did 13 years in the <ent type='ORG'>CIA</ent> altogether. I sat on a subcommittee of
 the NSC, so I was like a chief of staff, with the GS-18s (like 3-star
-generals) Henry Kissinger, Bill Colby (the CIA director), the GS-18s
-and the CIA, making the important decisions and my job was to put it
+generals) Henry Kissinger, Bill Colby (the <ent type='ORG'>CIA</ent> director), the GS-18s
+and the <ent type='ORG'>CIA</ent>, making the important decisions and my job was to put it
 all together and make it happen and run it, an interesting place from
 which to watch a covert action being done....</p>
       <p> I testified for days before the Congress, giving them chapter and
@@ -49,9 +49,9 @@ for us....</p>
 problem, if you will, for the world, for the U.S. is much, much, much
 graver, astronomically graver, than just Angola and Vietnam. I found
 that the Senate Church committee has reported, in their study of
-covert actions, that the CIA ran several thousand covert actions since
+covert actions, that the <ent type='ORG'>CIA</ent> ran several thousand covert actions since
 1961, and that the heyday of covert action was before 1961; that we
-have run several hundred covert actions a year, and the CIA has been
+have run several hundred covert actions a year, and the <ent type='ORG'>CIA</ent> has been
 in business for a total of 37 years.</p>
       <p> What we're going to talk about tonight is the United States national
 security syndrome. We're going to talk about how and why the U.S.
@@ -64,7 +64,7 @@ about the Korean war, the Vietnam war, and the Central American war.</p>
       <p> Everything I'm going to talk to you about is represented, one way or
 another, already in the public records. You can dig it all out for
 yourselves, without coming to hear me if you so chose. Books, based
-on information gotten out of the CIA under the freedom of information
+on information gotten out of the <ent type='ORG'>CIA</ent> under the freedom of information
 act, testimony before the Congress, hearings before the Senate Church
 committee, research by scholars, witness of people throughout the
 world who have been to these target areas that we'll be talking about.
@@ -72,8 +72,8 @@ I want to emphasize that my own background is profoundly conservative.
 We come from South Texas, East Texas....</p>
       <p> I was conditioned by my training, my marine corps training, and my
 background, to believe in everything they were saying about the cold
-war, and I took the job with great enthusiasm (in the CIA) to join the
-best and the brightest of the CIA, of our foreign service, to go out
+war, and I took the job with great enthusiasm (in the <ent type='ORG'>CIA</ent>) to join the
+best and the brightest of the <ent type='ORG'>CIA</ent>, of our foreign service, to go out
 into the world, to join the struggle, to project American values and
 save the world for our brand of democracy. And I believed this. I
 went out and worked hard....</p>
@@ -85,7 +85,7 @@ just couldn't see the point.</p>
       <p> We were doing things it seemed because we were there, because it was
 our function, we were bribing people, corrupting people, and not
 protecting the U.S. in any visible way. I had a chance to go drinking
-with this Larry Devlin, a famous CIA case officer who had overthrown
+with this Larry Devlin, a famous <ent type='ORG'>CIA</ent> case officer who had overthrown
 Patrice Lumumba, and had him killed in 1960, back in the Congo. He
 was moving into the Africa division Chief. I talked to him in Addis
 Ababa at length one night, and he was giving me an explanation - I was
@@ -110,9 +110,9 @@ necessary for us to intervene.'</p>
       <p> I went back to Washington, however, and I found that others shared
 my concern. A formal study was done in the State Department and
 published internally, highly classified, called the Macomber [sp?]
-report, concluding that the CIA had no business being in Africa for
+report, concluding that the <ent type='ORG'>CIA</ent> had no business being in Africa for
 anything it was known to be doing, that our presence there was not
-justified, there were no national security interests that the CIA
+justified, there were no national security interests that the <ent type='ORG'>CIA</ent>
 could address any better than the ambassador himself. We didn't need
 to have bribery and corruption as a tool for doing business in Africa
 at that time.</p>
@@ -125,7 +125,7 @@ Their bodies brought in and laid out in a lot next to my compound. I
 was up-country in Tayninh. They were laid out next door, until the
 families could come and claim them and take them away for burial.</p>
       <p> I thought about this. I had to work with the sadistic police chief.
-When I reported that he liked to carve people with knives in the CIA
+When I reported that he liked to carve people with knives in the <ent type='ORG'>CIA</ent>
 safe-house - when I reported this to my bosses, they said, '(1). The
 post was too important to close down. (2). They weren't going to get
 the man transferred or fired because that would make problems,
@@ -134,27 +134,27 @@ operations he worked on. (3). Therefore if I didn't have the stomach
 for the job, that they could transfer me.'</p>
       <p> But they hastened to point out, if I did demonstrate a lack of
 'moral fiber' to handle working with the sadistic police chief, that I
-wouldn't get another good job in the CIA, it would be a mark against
+wouldn't get another good job in the <ent type='ORG'>CIA</ent>, it would be a mark against
 my career.</p>
       <p> So I kept the job, I closed the safe-house down, I told my staff
 that I didn't approve of that kind of activity, and I proceeded to
 work with him for the next 2 years, pretending that I had reformed
 him, and he didn't do this sort of thing anymore. The parallel is
-obvious with El Salvador today, where the CIA, the state department,
+obvious with El Salvador today, where the <ent type='ORG'>CIA</ent>, the state department,
 works with the death squads.</p>
       <p> They don't meet the death squads on the streets where they're
 actually chopping up people or laying them down on the street and
-running trucks over their heads. The CIA people in San Salvador meet
+running trucks over their heads. The <ent type='ORG'>CIA</ent> people in San Salvador meet
 the police chiefs, and the people who run the death squads, and they
 do liaise with them, they meet them beside the swimming pool of the
 villas. And it's a sophisticated, civilized kind of relationship.
 And they talk about their children, who are going to school at UCLA or
 Harvard and other schools, and they don't talk about the horrors of
 what's being done. They pretend like it isn't true.</p>
-      <p> What I ran into in addition to that was a corruption in the CIA and
+      <p> What I ran into in addition to that was a corruption in the <ent type='ORG'>CIA</ent> and
 the intelligence business that made me question very seriously what it
 was all about, including what I was doing ... risking my life ... what
-I found was that the CIA, us, the case officers, were not permitted to
+I found was that the <ent type='ORG'>CIA</ent>, us, the case officers, were not permitted to
 report about the corruption in the South <ent type='NORP'>Vietnamese</ent> army....</p>
       <p> Now, the corruption was so bad, that the S. <ent type='NORP'>Vietnamese</ent> army was a
 skeleton army. Colonels would let the troops go home if they would
@@ -176,14 +176,14 @@ out was that in this job, I would sit on a sub-committee of the
 National Security Council, this office that Larry Devlin has told me
 about where they had access to all the information about Angola, about
 the whole world, and I would finally understand national security.
-And I couldn't resist the opportunity to know. I knew the CIA was not
+And I couldn't resist the opportunity to know. I knew the <ent type='ORG'>CIA</ent> was not
 a worthwhile organization, I had learned that the hard way. But the
 question was where did the U.S. government fit into this thing, and I
 had a chance to see for myself in the next big secret war....</p>
       <p> I wanted to know if wise men were making difficult decisions based
 on truly important, threatening information, threatening to our
 national security interests. If that had been the case, I still
-planned to get out of the CIA, but I would know that the system, the
+planned to get out of the <ent type='ORG'>CIA</ent>, but I would know that the system, the
 invisible government, our national security complex, was in fact
 justified and worth while. And so I took the job.... Suffice it to
 say I wouldn't be standing in front of you tonight if I had found
@@ -249,8 +249,8 @@ tell you which paragraph to read. And all four paragraphs would be
 false. Nothing to do with the truth. Designed to play on events, to
 create this impression of Soviet and <ent type='NORP'>Cuban</ent> aggression in Angola. When
 they were in fact responding to our initiatives.</p>
-      <p> And the CIA director was required by law to brief the Congress.
-This CIA director Bill Colby - the same one that dumped our people in
+      <p> And the <ent type='ORG'>CIA</ent> director was required by law to brief the Congress.
+This <ent type='ORG'>CIA</ent> director Bill Colby - the same one that dumped our people in
 Vietnam - he gave 36 briefings of the Congress, the oversight
 committees, about what we were doing in Angola. And he lied. At 36
 formal briefings. And such lies are perjury, and it's a felony to lie
@@ -266,7 +266,7 @@ killing the blacks, a very sensitive issue. The Congress was
 concerned we might be involved in that, and he assured them we had
 nothing to do with it.</p>
       <p> We had in fact formed four little mercenary armies and delivered
-them into Angola to do this dirty business for the CIA. And he lied
+them into Angola to do this dirty business for the <ent type='ORG'>CIA</ent>. And he lied
 to them about that. They asked if we were putting arms into the
 conflict, and he said no, and we were. They asked if we had advisors
 inside the country, and he said 'no, we had people going in to look at
@@ -281,7 +281,7 @@ when we went in, and they went ahead and won, which was, according to
 our consul, the best thing for the country.</p>
       <p> At the end of this thing the <ent type='NORP'>Cubans</ent> were entrenched in Angola, seen
 in the eyes of much of the world as being the heroes that saved these
-people from the CIA and S. <ent type='NORP'>African</ent> forces. We had allied the U.S.
+people from the <ent type='ORG'>CIA</ent> and S. <ent type='NORP'>African</ent> forces. We had allied the U.S.
 literally and in the eyes of the world with the S. <ent type='NORP'>African</ent> army, and
 that's illegal, and it's impolitic. We had hired white mercenaries
 and eventually been identified with them. And that's illegal, and
@@ -292,7 +292,7 @@ did the MPLA do after they had won? Were they lying when they said
 they wanted to be our friends? 3 weeks after we were shut down... the
 MPLA had Gulf oil back in Angola, pumping the Angolan oil from the
 oilfields, with U.S. gulf technicians protected by <ent type='NORP'>Cuban</ent> soldiers,
-protecting them from CIA mercenaries who were still mucking around in
+protecting them from <ent type='ORG'>CIA</ent> mercenaries who were still mucking around in
 <ent type='PERSON'>Northern</ent> Angola.</p>
       <p> You can't trust a communist, can you? They proceeded to buy five
 737 jets from Boeing Aircraft in Seattle. And they brought in 52 U.S.
@@ -301,7 +301,7 @@ planes. They didn't buy [the Soviet Union's] Aeroflot.... David
 <ent type='PERSON'>Rockefeller</ent> himself tours S. Africa and comes back and holds press
 conferences, in which he says that we have no problem doing business
 with the so-called radical states of Southern Africa.</p>
-      <p> I left the CIA, I decided that the American people needed to know
+      <p> I left the <ent type='ORG'>CIA</ent>, I decided that the American people needed to know
 what we'd done in Angola, what we'd done in Vietnam. I wrote my book.
 I was fortunate - I got it out. It was a best-seller. A lot of
 people read it. I was able to take my story to the American people.
@@ -318,7 +318,7 @@ Bernard Cord and Phyllis Cord, to see - these were all educated
 people, and experienced people - and they had a theory, they had
 something they wanted to do, they had rationales and explanations -
 and I went repeatedly to hear them. And then of course I saw the
-U.S., the CIA mounting a covert action against them, I saw us
+U.S., the <ent type='ORG'>CIA</ent> mounting a covert action against them, I saw us
 orchestrating our plan to invade the country. 19 days before he was
 killed, I was in Grenada talking to Maurice Bishop about these things,
 these indicators, the statements in the press by Ronald Reagan, and he
@@ -344,7 +344,7 @@ leadership, to talk to the people, to look and see what happens when
 you give white phosporous or grenades or bombs or bullets to people,
 and they go inside a country, to go and talk to the people, who have
 been shot, or hit, or blown up....</p>
-      <p> We're talking about 10 to 20 thousand covert actions [the CIA has
+      <p> We're talking about 10 to 20 thousand covert actions [the <ent type='ORG'>CIA</ent> has
 performed since 1961]. What I found was that lots and lots of people
 have been killed in these things.... Some of them are very, very
 bloody.</p>
@@ -355,7 +355,7 @@ concluded that this was a model operation that should be copied
 elsewhere in the world. Not only did it eliminate the effective
 communist party (Indonesian communist party), it also eliminated the
 entire segment of the population that tended to support the communist
-party - the ethnic Chinese, Indonesian Chinese. And the CIA's report
+party - the ethnic Chinese, Indonesian Chinese. And the <ent type='ORG'>CIA</ent>'s report
 put the number of dead at 800000 killed. And that was one covert
 action. We're talking about 1 to 3 million people killed in these
 things.</p>
@@ -401,13 +401,13 @@ Europe, from competing with us in the area.</p>
 military this has been, between 1900 and W.W. II, we had 5000 marines
 in Nicaragua for a total of 28 years. We invaded the Dominican
 Republic 4 times. Haiti, we occupied it for 12 years. We put our
-troops into Cuba 4 times, Panama 6 times, Guatemala once, plus a CIA
+troops into Cuba 4 times, Panama 6 times, Guatemala once, plus a <ent type='ORG'>CIA</ent>
 covert action to overthrow the democratic government there once.
 Honduras, 7 times. And by the way, we put 12000 troops into the
 Soviet Union during that same period of time.</p>
       <p> In the 1930's there was public and international pressure about our
 marines in Nicaragua....</p>
-      <p> The next three leaders of Guatemala [after the CIA installed the
+      <p> The next three leaders of Guatemala [after the <ent type='ORG'>CIA</ent> installed the
 puppet, Colonel Armaz in a coup] died violent deaths, and amnesty
 international tells us that the governments we've supported in power
 there since then, have killed 80000 people. You can read about that
@@ -418,14 +418,14 @@ Journal reporter, his book Endless Enemies [7] - all discuss this....</p>
 this program [helping Central America] inevitably went to the rich,
 and not to the people of the countries involved. And while we were
 doing this, while we were trying, at least saying we were trying, to
-correct the problems of Central and Latin America, the CIA was doing
-its thing, too. The CIA was in fact forming the police units that are
-today the death squads in El Salvador. With the leaders on the CIA's
-payroll, trained by the CIA and the United States.</p>
+correct the problems of Central and Latin America, the <ent type='ORG'>CIA</ent> was doing
+its thing, too. The <ent type='ORG'>CIA</ent> was in fact forming the police units that are
+today the death squads in El Salvador. With the leaders on the <ent type='ORG'>CIA</ent>'s
+payroll, trained by the <ent type='ORG'>CIA</ent> and the United States.</p>
       <p> We had the 'public safety program' going throughout Central and
 Latin America for 26 years, in which we taught them to break up
 subversion by interrogating people. Interrogation, including torture,
-the way the CIA taught it. Dan Metrione, the famous exponent of these
+the way the <ent type='ORG'>CIA</ent> taught it. Dan Metrione, the famous exponent of these
 things, did 7 years in Brazil and 3 in Uruguay, teaching
 interrogation, teaching torture. He was supposed to be the master of
 the business, how to apply the right amount of pain, at just the right
@@ -446,7 +446,7 @@ bring in doctors and shoot them up with vitamin B and rest them up for
 the next class. And when they would die, they would mutilate the
 bodies and throw them out on the streets, to terrify the population so
 they would be afraid of the police and the government.</p>
-      <p> And this is what the CIA was teaching them to do. And one of the
+      <p> And this is what the <ent type='ORG'>CIA</ent> was teaching them to do. And one of the
 women who was in this program for 2 years - tortured in Brazil for 2
 years - she testified internationally when she eventually got out.
 She said, 'The most horrible thing about it was in fact, that the
@@ -458,7 +458,7 @@ only Gestapo maniacs, or KGB maniacs, that do inhuman things to other
 people, it's people that do inhuman things to other people. And we
 are responsible for doing these things, on a massive basis, to people
 of the world today. And we do it in a way that gives us this
-plausible denial to our own consciences; we create a CIA, a secret
+plausible denial to our own consciences; we create a <ent type='ORG'>CIA</ent>, a secret
 police, we give them a vast budget, and we let them go and run these
 programs in our name, and we pretend like we don't know it's going on,
 although the information is there for us to know; and we pretend like
@@ -486,10 +486,10 @@ the guard. We went back to create an army of these people. We are
 killing, and killing, and terrorizing people. Not only in Nicaragua
 but the Congress has leaked to the press - reported in the <ent type='GPE'>New York</ent>
 Times, that there are 50 covert actions going around the world today,
-CIA covert actions going on around the world today.</p>
+<ent type='ORG'>CIA</ent> covert actions going on around the world today.</p>
       <p> You have to be asking yourself, why are we destabilizing 50 corners
 of the troubled world? Why are we about to go to war in Nicaragua,
-the Central American war? It is the function, I suggest, of the CIA,
+the Central American war? It is the function, I suggest, of the <ent type='ORG'>CIA</ent>,
 with its 50 de-stabilization programs going around the world today, to
 keep the world unstable, and to propagandize the American people to
 hate, so we will let the establishment spend any amount of money on
@@ -584,15 +584,15 @@ movie stars one day, or are we going to stand up and fight, and insist
 on our freedoms?' It's up to us - you and I can watch this history
 play in the next year and 2 and 3 years.</p>
       <p> PART II</p>
-      <p> CIA COVERT OPERATIONS IN CENTRAL AMERICA, CIA MANIPULATION
-OF THE PRESS, CIA EXPERIMENTATION ON THE U.S. PUBLIC</p>
-      <p> I just got my latest book back from the CIA censors. If I had not
+      <p> <ent type='ORG'>CIA</ent> COVERT OPERATIONS IN CENTRAL AMERICA, <ent type='ORG'>CIA</ent> MANIPULATION
+OF THE PRESS, <ent type='ORG'>CIA</ent> EXPERIMENTATION ON THE U.S. PUBLIC</p>
+      <p> I just got my latest book back from the <ent type='ORG'>CIA</ent> censors. If I had not
 submitted it to them, I would have gone to jail, without trial - blow
 off juries and all that sort of thing - for having violated our
 censorship laws....</p>
       <p> In that job [Angola] I sat on a sub-committee of the NSC, so I was
 like a chief of staff, with the GS-18s (like 3-star generals) Henry
-Kissinger, Bill Colby (the CIA director), the GS-18s and the CIA,
+Kissinger, Bill Colby (the <ent type='ORG'>CIA</ent> director), the GS-18s and the <ent type='ORG'>CIA</ent>,
 making important decisions and my job was to put it all together and
 make it happen and run it, an interesting place from which to watch a
 covert action being done....</p>
@@ -602,7 +602,7 @@ they erased the board and started over has been to have big world
 wars, and erase countries and bomb cities and bomb banks and then
 start from scratch again. This is not an option to us now because of
 all these 52000 nuclear weapons....</p>
-      <p> The United States CIA is running 50 covert actions, destabilizing
+      <p> The United States <ent type='ORG'>CIA</ent> is running 50 covert actions, destabilizing
 further almost one third of the countries in the world today....</p>
       <p> By the way, everything I'm sharing with you tonight is in the public
 record. The 50 covert actions - these are secret, but that has been
@@ -619,7 +619,7 @@ and excited to do things that are not in your interest to do....</p>
 one. Afghanistan is, we spent several hundred million dollars in
 Afghanistan. We've spent somewhat less than that, but close, in
 Nicaragua....</p>
-      <p> [When the U.S. doesn't like a government], they send the CIA in,
+      <p> [When the U.S. doesn't like a government], they send the <ent type='ORG'>CIA</ent> in,
 with its resources and activists, hiring people, hiring agents, to
 tear apart the social and economic fabric of the country, as a
 technique for putting pressure on the government, hoping that they can
@@ -650,7 +650,7 @@ government offices, schools, health centers. They ambush trucks so
 the produce can't get to market. They raid farms and villages. The
 farmer has to carry a gun while he tries to plow, if he can plow at
 all.</p>
-      <p> If you want one example of hard proof of the CIA's involvement in
+      <p> If you want one example of hard proof of the <ent type='ORG'>CIA</ent>'s involvement in
 this, and their approach to it, dig up 'The Sabotage Manual', that
 they were circulating throughout Nicaragua, a comic-book type of a
 paper, with visual explanations of what you can do to bring a society
@@ -695,7 +695,7 @@ are many, many more documentations of details, of names, of the
 incidents that have happened.</p>
       <p> Part of a de-stabilization is propaganda, to dis-credit the targeted
 government. This one actually began under Jimmy Carter. He
-authorized the CIA to go in and try to make the Sandinistas look to be
+authorized the <ent type='ORG'>CIA</ent> to go in and try to make the Sandinistas look to be
 evil. So in 1979 [when] they came in to power, immediately we were
 trying to cast them as totalitarian, evil, threatening Marxists.
 While they abolished the death sentence, while they released 8000
@@ -739,7 +739,7 @@ witnessed in Central America in many years. We said they were
 fraudulent, they were rigged, because it was a totalitarian system.
 Instead we said, the elections that were held in El Salvador were
 models of democracy to be copied elsewhere in the world. And then the
-truth came out about that one. And we learned that the CIA had spent
+truth came out about that one. And we learned that the <ent type='ORG'>CIA</ent> had spent
 2.2 million dollars to make sure that their choice of candidates -
 Duarte - would win. They did everything, we're told, by one of their
 spokesmen, indirectly, but stuff the ballot boxes....</p>
@@ -754,15 +754,15 @@ flying things back and forth to Cuba. We have airplanes and picket
 ships watching everything that flies out of that country, and into it.
 How are they going to have a steady flow of drug-smuggling planes into
 the U.S.? Not likely! However, there are <ent type='NORP'>Nicaraguan</ent>s, on these bases
-in Honduras, that have planes flying into CIA training camps in
+in Honduras, that have planes flying into <ent type='ORG'>CIA</ent> training camps in
 Florida, Alabama, Louisiana, several times a week.</p>
       <p> Now, obviously i'm not going to stand in front of you and say that
-the CIA might be involved in drug trafficking, am I? READ THE BOOK.
-Read The Politics of Heroin in Southeast Asia. For 20 years the CIA
+the <ent type='ORG'>CIA</ent> might be involved in drug trafficking, am I? READ THE BOOK.
+Read The Politics of Heroin in Southeast Asia. For 20 years the <ent type='ORG'>CIA</ent>
 was helping the Kuomantang to finance itself and then to get rich,
 smuggling heroin. When we took over from the French in 1954 their
 intelligence service had been financing itself by smuggling the heroin
-out of Laos. We replaced them - we put Air America, the CIA
+out of Laos. We replaced them - we put Air America, the <ent type='ORG'>CIA</ent>
 subsidiary - it would fly in with crates marked humanitarian aid,
 which were arms, and it would fly back out with heroin. And the first
 target, market, of this heroin was the U.S. GI's in Vietnam. If
@@ -795,11 +795,11 @@ Soviet bastion in this hemisphere. And that's true. They do have a
 lot of arms in there now. But the question is, how did they get
 invited in? You have to ask yourself, what's the purpose of this
 destabilization program? For this I direct you back to the Newsweek
-article in Sept. 1981, where they announce the fact that the CIA was
+article in Sept. 1981, where they announce the fact that the <ent type='ORG'>CIA</ent> was
 beginning to put together this force of Somoza's ex-guard. Newsweek
 described it as 'the only truly evil, totally unacceptable factor in
 the <ent type='NORP'>Nicaraguan</ent> equation'. They noted that neither the white house nor
-the CIA pretended it ever could have a chance of winning. So then
+the <ent type='ORG'>CIA</ent> pretended it ever could have a chance of winning. So then
 they asked, rhetorically, 'what's the point?' and they concluded that
 the point is that by attacking the country, you can force the
 Sandinistas into a more radical position, from which you have more
@@ -812,13 +812,13 @@ plan of the Reagan Administration to have a war in Nicaragua, they
 have been working on this since 1981, they have been stopped by the
 will of the American people so far, but they're working harder than
 ever to engineer their war there.</p>
-      <p> Now, CIA destabilizations are nothing new, they didn't begin with
+      <p> Now, <ent type='ORG'>CIA</ent> destabilizations are nothing new, they didn't begin with
 Nicaragua. We've done it before, once or twice. Like the Church
-committee, investigating CIA covert action in 1975, found that we had
+committee, investigating <ent type='ORG'>CIA</ent> covert action in 1975, found that we had
 run several hundred a year, and we'd been in the business of running
-covert actions, the CIA has, for 4 decades. You're talking about 10
+covert actions, the <ent type='ORG'>CIA</ent> has, for 4 decades. You're talking about 10
 to 20 thousand covert actions.</p>
-      <p> CIA apologists leap up and say, 'well, most of these things are not
+      <p> <ent type='ORG'>CIA</ent> apologists leap up and say, 'well, most of these things are not
 so bloody'. And that's true. You're giving a politician some money
 so he'll throw his party in this direction or that one, or make false
 speeches on your behalf, or something like that. It may be
@@ -828,14 +828,14 @@ world in which law, rules of behaviour, are respected, or is it going
 to be a world of bullies, where the strongest can violate and
 brutalize the weakest, and ignore the laws?</p>
       <p> But many of these things are very bloody indeed, and we know a lot
-about a lot of them. Investigations by the Congress, testimony by CIA
-directors, testimony by CIA case officers, books written by CIA case
+about a lot of them. Investigations by the Congress, testimony by <ent type='ORG'>CIA</ent>
+directors, testimony by <ent type='ORG'>CIA</ent> case officers, books written by <ent type='ORG'>CIA</ent> case
 officers, documents gotten out of the government under the freedom of
 information act, books that are written by by pulitzer-prize-winning
 journalists who've documented their cases. And you can go and read
-from these things, classic CIA operations that we know about, some of
+from these things, classic <ent type='ORG'>CIA</ent> operations that we know about, some of
 them very bloody indeed. Guatemala 1954, Brazil, Guyana, Chile, the
-Congo, Iran, Panama, Peru, Bolivia, Equador, Uruguay - the CIA
+Congo, Iran, Panama, Peru, Bolivia, Equador, Uruguay - the <ent type='ORG'>CIA</ent>
 organized the overthrow of constitutional democracies. Read the book
 Covert Action: 35 years of Deception by the journalist Godswood. [6]
 Remember the Henry Kissinger quote before the Congress when he was
@@ -850,26 +850,26 @@ Vietnam, very much like the one that we're running in Nicaragua today,
 that tracked us directly into the Vietnam war. Read the book, The
 Hidden History of the Korean War by I. F. Stone. [14] Read Deadly
 Deceits by Ralph McGehee [9] for the Vietnam story. In Thailand, the
-Congo, Laos, Vietnam, Taiwan, and Honduras, the CIA put together large
+Congo, Laos, Vietnam, Taiwan, and Honduras, the <ent type='ORG'>CIA</ent> put together large
 standing armies. In Vietnam, Laos, Cambodia, Thailand, the Congo,
-Iran, Nicaragua, and Sri Lanka, the CIA armed and encouraged ethnic
+Iran, Nicaragua, and Sri Lanka, the <ent type='ORG'>CIA</ent> armed and encouraged ethnic
 minorities to rise up and fight. The first thing we began doing in
 Nicaragua, 1981 was to fund an element of the Mesquite indians, to
 give them money and training and arms, so they could rise up and fight
 against the government in Managua. In El Salvador, Vietnam, Korea,
-Iran, Uganda and the Congo, the CIA helped form and train the death
+Iran, Uganda and the Congo, the <ent type='ORG'>CIA</ent> helped form and train the death
 squads.</p>
       <p> In El Salvador specifically, under the 'Alliance for Progress' in
-the early 1960's, the CIA helped put together the treasury police.
+the early 1960's, the <ent type='ORG'>CIA</ent> helped put together the treasury police.
 These are the people that haul people out at night today, and run
 trucks over their heads. These are the people that the <ent type='NORP'>Catholic</ent>
 church tells us, have killed something over 50000 civilians in the
 last 5 years. And we have testimony before our Congress that as late
-as 1982, leaders of the treasury police were still on the CIA payroll.</p>
+as 1982, leaders of the treasury police were still on the <ent type='ORG'>CIA</ent> payroll.</p>
       <p> Then you have the 'Public Safety Program.' I have to take just a
 minute on this one because it's a very important principle involved
 that we must understand, if we're to understand ourselves and the
-world that we live in. In this one, the CIA was working with police
+world that we live in. In this one, the <ent type='ORG'>CIA</ent> was working with police
 forces throughout Latin America for about 26 years, teaching them how
 to wrap up subversive networks by capturing someone and interrogating
 them, torturing them, and then getting names and arresting the others
@@ -881,7 +881,7 @@ investigate it, and they found the horror that was being done, and by
 law they forced it to stop. You can read these reports -- the Amnesty
 International findings, and our own Congressional hearings.</p>
       <p> These things kill people. 800000 in Indonesia alone according to
-CIA's estimate, 12000 in Nicaragua, 10000 in the Angolan operation
+<ent type='ORG'>CIA</ent>'s estimate, 12000 in Nicaragua, 10000 in the Angolan operation
 that I was sitting on in Washington, managing the task force. They
 add up. We'll never know how many people have been killed in them.
 Obviously a lot. Obviously at least a million. 800000 in Indonesia
@@ -904,7 +904,7 @@ the jungles of Southeast Asia, and now the hills of northern Nicaragua
 - 12000 peasants. We have not killed KGB or <ent type='NORP'>Russian</ent> army advisors in
 Nicaragua. We are not killing <ent type='NORP'>Cuban</ent> advisors. We're not killing very
 many Sandinistas. The 12000 that we have killed in Nicaragua are
-peasants, who have the misfortune of living in a CIA's chosen
+peasants, who have the misfortune of living in a <ent type='ORG'>CIA</ent>'s chosen
 battlefield. Mostly women and children. Communists? Far, far, far
 more <ent type='NORP'>Catholics</ent> than anything else.</p>
       <p> Now case officers that do these things in places in Nicaragua, they
@@ -937,9 +937,9 @@ were destabilizing Cuba for 7 years - we launched the swine fever
 epidemic, in the hog population, trying to kill out all of the pigs -
 a virus. We experimented in Haiti on the people with viruses.</p>
       <p> I'm not saying, I do not have the slightest shred of evidence, that
-there is any truth or indication to the rumor that the CIA and its
+there is any truth or indication to the rumor that the <ent type='ORG'>CIA</ent> and its
 experimentations were responsible for AIDS. But we do have it
-documented that the CIA has been experimenting on people, with
+documented that the <ent type='ORG'>CIA</ent> has been experimenting on people, with
 viruses. And now we have some deadly, killer viruses running around
 in society. And it has to make you wonder, and it has to make you
 worry.</p>
@@ -954,33 +954,33 @@ dig up the Congressional record and read it for yourself.</p>
       <p> There's one book called 'In Search of the Manchurian Candidate'.
 It's written by John Marks, based on 14000 documents gotten out of
 the government under the Freedom of Information Act. Read for
-yourselves. The thing was shut down but not one CIA case officer who
+yourselves. The thing was shut down but not one <ent type='ORG'>CIA</ent> case officer who
 was involved was in any way punished. Not one case officer involved
 in these experimentations on the American public, lost a single
 paycheck for what they had done.</p>
-      <p> The Church committee found that the CIA had co-opted several hundred
+      <p> The Church committee found that the <ent type='ORG'>CIA</ent> had co-opted several hundred
 journalists, including some of the biggest names in the business, to
 pump its propaganda stories into our media, to teach us to hate Fidel
 Castro, and Ho Chi Minh, and the Chinese, and whomever. The latest
 flap or scandal we had about that was a year and a half ago. Lesley
 Gelp, the heavyweight with the <ent type='ORG'>New York Times</ent>, was exposed for having
-been working covertly with the CIA in 1978 to recruit journalists in
+been working covertly with the <ent type='ORG'>CIA</ent> in 1978 to recruit journalists in
 Europe, who would introduce stories, print stories that would create
 sympathy for the neutron bomb.</p>
       <p> The Church committee found that they had published over 1000 books,
-paying someone to write a book, the CIA puts its propaganda lines in
+paying someone to write a book, the <ent type='ORG'>CIA</ent> puts its propaganda lines in
 it, the professor or the scholar gets credit for the book and gets the
 royalties. The latest flap we had about that was last year. A
 professor at Harvard was exposed for accepting 105000 dollars from
-the CIA to write a book about the Middle East. Several thousand
-professors and graduate students co-opted by the CIA to run its
+the <ent type='ORG'>CIA</ent> to write a book about the Middle East. Several thousand
+professors and graduate students co-opted by the <ent type='ORG'>CIA</ent> to run its
 operations on campuses and build files on students.</p>
       <p> And then we have evidence - now, which has been hard to collect in
-the past but we knew it was happening - of CIA agents participating,
+the past but we knew it was happening - of <ent type='ORG'>CIA</ent> agents participating,
 trying to manipulate, our elections. FDN, Contra commanders,
-traveling this country on CIA plane tickets, going on television and
+traveling this country on <ent type='ORG'>CIA</ent> plane tickets, going on television and
 pin-pointing a Congressional and saying, 'That man is soft on
-Communism. That man is a Sandinista lover.' A CIA agent going on
+Communism. That man is a Sandinista lover.' A <ent type='ORG'>CIA</ent> agent going on
 television, trying to manipulate our elections.</p>
       <p> All of this, to keep America safe for freedom and democracy.</p>
       <p> In Nicaragua the objective is to stop the <ent type='NORP'>Cuban</ent> and Soviet
@@ -991,8 +991,8 @@ same thing - <ent type='NORP'>Cubans</ent> and Soviets.</p>
 because I wrote a book about it, I detailed it. And you can get a
 copy of that book and read it for yourselves. I have to urge you,
 however - please do not rush out and buy a copy of that book because
-the CIA sued me. All of my profits go to the CIA, so if you buy a
-copy of the book you'll be donating 65 cents to the CIA. So check it
+the <ent type='ORG'>CIA</ent> sued me. All of my profits go to the <ent type='ORG'>CIA</ent>, so if you buy a
+copy of the book you'll be donating 65 cents to the <ent type='ORG'>CIA</ent>. So check it
 out from your library!</p>
       <p> If you have to buy a copy, well buy one copy and share it with all
 your friends. If your bookstore is doing real well and you want to
@@ -1000,10 +1000,10 @@ just sort of put a copy down in your belt...</p>
       <p> I don't know what the solution is when a society gets into
 censorship, government censorship, but that's what we're in now. Do
 the rules change? I just got my book back, my latest book back from
-the CIA censors. If I had not submitted it to them, I would have gone
+the <ent type='ORG'>CIA</ent> censors. If I had not submitted it to them, I would have gone
 to jail, without trial - blow off juries and all that sort of thing -
 for having violated our censorship laws....</p>
-      <p> So now we have the CIA running the operation in Nicaragua, lying to
+      <p> So now we have the <ent type='ORG'>CIA</ent> running the operation in Nicaragua, lying to
 us, running 50 covert actions, and gearing us up for our next war, the
 Central American war. Let there be no doubt about it, President
 Reagan has a fixation on Nicaragua. He came into office saying that
@@ -1102,8 +1102,8 @@ people that we're serious people. This is the man who likens the
 Contras to the moral equivalents of our own founding fathers. This is
 the man who says South Africa is making progress on racial equality.
 This is the man who says that the Sandinistas are hunting down and
-hounding and persecuting Jews in Nicaragua. And the Jewish leaders go
-on TV the next day in this country and say there are 5 Jewish families
+hounding and persecuting <ent type='NORP'>Jews</ent> in Nicaragua. And the <ent type='NORP'>Jewish</ent> leaders go
+on TV the next day in this country and say there are 5 <ent type='NORP'>Jewish</ent> families
 in Nicaragua, and they're not having any problems at all. This is the
 man who says that they're financing their revolution by smuggling
 drugs into the U.S. And the DEA says, 'It ain't true, it's president
@@ -1127,7 +1127,7 @@ high and all the other people can burn in hell's fires on earth.
 President Reagan sees himself as playing the role of the greatest
 leader of all times forever. Leading us into Armageddon. As he goes
 out at the end of his long life, we'll all go out with him....</p>
-      <p> Why does the CIA run 10000 brutal covert actions? Why are we
+      <p> Why does the <ent type='ORG'>CIA</ent> run 10000 brutal covert actions? Why are we
 destabilizing a third of the countries in the world today when there's
 so much instability and misery already? Why are our leaders now
 taking us into another war? Why are we systematically taught to hate
@@ -1140,7 +1140,7 @@ they don't think. It's the pep-rally, the football pep-rally factor.
 When you get people worked up to hate, they'll let you spend huge
 amounts of money on arms.</p>
       <p> Read The Power Elite by C. Wright Mills. [11] Read The Permanent War
-Complex by Seymour Melman. [10] CIA covert actions have the function
+Complex by Seymour Melman. [10] <ent type='ORG'>CIA</ent> covert actions have the function
 of keeping the world hostile and unstable....</p>
       <p> We can't take care of the poor, we can't take care of the old, but
 we can spend millions, hundreds of millions of dollars to destabilize
@@ -1197,7 +1197,7 @@ Congdon and Weed, 1984.</p>
 Inevitable Revolutions; The United States in Central America.
 Norton, 1984.</p>
       <p>[9] McGehee, Ralph.
-Deadly Deceits: My Twenty-Five Years in the CIA.
+Deadly Deceits: My Twenty-Five Years in the <ent type='ORG'>CIA</ent>.
 Sheridan Square, 1983.</p>
       <p>[10] Melman, Seymour.
 The Permanent War Complex.

@@ -94,7 +94,7 @@ efforts at the Justice Department to move toward an open environment?</p>
       <p>COOPER: We basically have done a lot of work with the IRM directors and the
 components in the agencies. We are putting together a policy paper that
 covers multiuser systems below the mainframe level, because we've got a lot
-of IBM-compatible mainframes.</p>
+of <ent type='ORG'>IBM</ent>-compatible mainframes.</p>
       <p>Systems will be Posix-complaint and use the Government Open systems
 Interconnection Profile. The department's default for local area network
 transmission media will be 10-megabit/sec, twisted-pair Ethernet servers.
@@ -102,7 +102,7 @@ It's a very flexible way to transmit.</p>
       <p>For office automation, since everybody uses WordPerfect, we've said you've
 got to use WordPerfect or at least have compatibility. We mostly use Version
 5.1.</p>
-      <p>We're also working at bringing some version of Unix up on the IBM-compatible
+      <p>We're also working at bringing some version of Unix up on the <ent type='ORG'>IBM</ent>-compatible
 mainframes.</p>
       <p>Justice, like most agencies, is very paperwork-oriented. So we're trying to
 come up with standards on how we image documents.</p>
@@ -231,7 +231,7 @@ proprietary system and convert it over. What we're saying is, if you buy
 something new, this is what you should do. We're trying to get a rational
 move to open systems without throwing the baby out with the bathwater.</p>
       <p>I've been very pleased with the response. Justice has a heavily
-IBM-compatible mainframe background, yet I've found great interest in going
+<ent type='ORG'>IBM</ent>-compatible mainframe background, yet I've found great interest in going
 to open systems. I think the handwriting is on the wall.</p>
       <p>Journal: Government Computer News Jan 20 1992 v11 n2 p4(1)
 -----------------------------------------------------------------------------
@@ -280,7 +280,7 @@ Court in 1987 found in <ent type='ORG'>Inslaw</ent>'s favor. The U.S. District C
 affirmed that ruling in 1988 and awarded <ent type='ORG'>Inslaw</ent> $6 million.</p>
       <p>Last year, the U.S. Appeals Court for D.C. overturned those rulings, saying
 the bankruptcy court did not have the authority to rule on the matter.</p>
-      <p><ent type='ORG'>Inslaw</ent> came out of Chapter 11 bankruptcy in 1988 with a loan from IBM Corp.,
+      <p><ent type='ORG'>Inslaw</ent> came out of Chapter 11 bankruptcy in 1988 with a loan from <ent type='ORG'>IBM</ent> Corp.,
 Nancy Hamilton said. The company still sells Promis to state and local
 governments, William Hamilton said.</p>
       <p>The company also sells software for legal and insurance workload management
@@ -553,8 +553,8 @@ Richardson, now attorney for <ent type='ORG'>Inslaw</ent>, has demanded a federa
 Casolaro's death and has been quoted that <ent type='ORG'>Inslaw</ent> "is far worse than
 Watergate."</p>
       <p>Cannan also responded to Newsbytes questions concerning rumors that William
-Casey, ex-CIA Director often named in the "October Surprise" allegations was
-legal counsel to <ent type='ORG'>Wackenhut</ent> before joining the government and that former CIA
+Casey, ex-<ent type='ORG'>CIA</ent> Director often named in the "October Surprise" allegations was
+legal counsel to <ent type='ORG'>Wackenhut</ent> before joining the government and that former <ent type='ORG'>CIA</ent>
 officials Frank Carlucci and Admiral Bobby Ray Inman were <ent type='ORG'>Wackenhut</ent>
 directors. Cannan said: "Although Casey's law firm represented <ent type='ORG'>Wackenhut</ent>,
 Casey himself never had any connection with us. Carlucci was a director of
@@ -1482,7 +1482,7 @@ software company to subpoena information from certain Justice bureaus to
 determine whether the department illegally distributed Promis.</p>
       <p>Robinson gave Justice 30 days to respond to the subpoenas.</p>
       <p><ent type='ORG'>Inslaw</ent> will subpoena information from the Drug Enforcement Administration,
-the U.S. Marshals Service, the FBI, the Bureau of Prisons, the Immigration
+the U.S. Marshals Service, the <ent type='ORG'>FBI</ent>, the Bureau of Prisons, the Immigration
 and Naturalization Service and the Justice Management Division, Hamilton
 said.</p>
       <p>Before granting the motion, Robinson said, "This case has had so many
@@ -1574,7 +1574,7 @@ court and resubmit it to the district court because the discovery request is
 not a bankruptcy question.</p>
       <p><ent type='ORG'>Inslaw</ent> president William A. Hamilton said he now believes Promis has been
 illegally distributed to the Central Intelligence Agency, the Defense
-Intelligence Agency, the National Security Agency and the FBI.</p>
+Intelligence Agency, the National Security Agency and the <ent type='ORG'>FBI</ent>.</p>
       <p>Meanwhile, <ent type='ORG'>Inslaw</ent> has submitted to the bankruptcy court an affidavit from
 regional sales manager Patricia Hamilton that claims Canadian government
 officials told her their government was using pirated copies of Promis in as
@@ -1610,7 +1610,7 @@ Legal Services</p>
 Number sold: 18
 Release date: 1983
 Application: Legal Services-Docket Scheduling
-Compatible with: IBM 9370, 30XX, 43XX/DOS, OS, MVS, <ent type='ORG'>CICS</ent>; DEC
+Compatible with: <ent type='ORG'>IBM</ent> 9370, 30XX, 43XX/DOS, OS, MVS, <ent type='ORG'>CICS</ent>; DEC
 VAX/ULTRIX; Wang/VS; Unisys; AT&amp;T 3B/UNIX System V; HP/HP-UX
 Minimum RAM required: 2 MB
 Source language: COBOL
@@ -1634,7 +1634,7 @@ Government/Public Administration</p>
 Number sold: 14
 Release date: 1982
 Application: Law Enforcement/Emergency Services
-Compatible with: IBM 9370, 30XX, 43XX/DOS, OS, MVS, <ent type='ORG'>CICS</ent>; DEC
+Compatible with: <ent type='ORG'>IBM</ent> 9370, 30XX, 43XX/DOS, OS, MVS, <ent type='ORG'>CICS</ent>; DEC
 VAX/ULTRIX; Wang/VS; Unisys; AT&amp;T 3B/UNIX System V; HP/HP-UX
 Minimum RAM required: 2 MB
 Source language: COBOL
@@ -1661,7 +1661,7 @@ Legal Services</p>
 Number sold: 15
 Release date: 1983
 Application: Legal Services-Practice Management
-Compatible with: IBM 9370, 30XX, 43XX/DOS, OS, MVS, <ent type='ORG'>CICS</ent>; DEC
+Compatible with: <ent type='ORG'>IBM</ent> 9370, 30XX, 43XX/DOS, OS, MVS, <ent type='ORG'>CICS</ent>; DEC
 VAX/ULTRIX; Wang/VS; Unisys; AT&amp;T 3B/UNIX System V; HP/HP-UX
 Minimum RAM required: 2 MB
 Source language: COBOL
@@ -1689,7 +1689,7 @@ Legal Services</p>
 Number sold: 13
 Release date: 1986
 Application: Legal Services
-Compatible with: IBM 9370, 30XX, 43XX/DOS, OS, MVS, <ent type='ORG'>CICS</ent>; DEC
+Compatible with: <ent type='ORG'>IBM</ent> 9370, 30XX, 43XX/DOS, OS, MVS, <ent type='ORG'>CICS</ent>; DEC
 VAX/ULTRIX; Wang/VS; Unisys; AT&amp;T 3B/UNIX System V; HP/HP-UX
 Minimum RAM required: 2 MB
 Source language: COBOL
@@ -1715,7 +1715,7 @@ Government/Public Administration</p>
 Number sold: 75
 Release date: 1980
 Application: Law Enforcement/Emergency Services
-Compatible with: IBM 9370, 30XX, 43XX/DOS, OS, MVS, <ent type='ORG'>CICS</ent>; DEC
+Compatible with: <ent type='ORG'>IBM</ent> 9370, 30XX, 43XX/DOS, OS, MVS, <ent type='ORG'>CICS</ent>; DEC
 VAX/ULTRIX; Wang/VS; Unisys; AT&amp;T 3B/UNIX System V; HP/HP-UX
 Minimum RAM required: 2 MB
 Source language: COBOL

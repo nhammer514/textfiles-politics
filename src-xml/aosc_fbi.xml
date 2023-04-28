@@ -4,21 +4,21 @@
       <p>FROM THE ALL OHIO SCANNER CLUB:</p>
       <p>SYSTEM PROFILE - The FEDERAL BUREAU OF INVESTIGATION</p>
       <p>History</p>
-      <p>The FBI traces its roots back to the year 1908 when then U.S. Attorney General
+      <p>The <ent type='ORG'>FBI</ent> traces its roots back to the year 1908 when then U.S. Attorney General
 Charles Bonaparte directed that Department of Justice investigations be handled
 by a small group of special investigators. The group was formed as the Bureau
 of Investigation and, in 1935, the present day name was designated by Congress.</p>
       <p>Duties</p>
-      <p>The primary functions of the FBI and its agents are the investigations of
+      <p>The primary functions of the <ent type='ORG'>FBI</ent> and its agents are the investigations of
 violations of certain Federal statutes and the collection of evidence in cases
-in which the United States is or may be an interested party. The FBI performs
+in which the United States is or may be an interested party. The <ent type='ORG'>FBI</ent> performs
 other duties specifically imposed by law or Presidential directive and conducts
-a number of service activities for other law enforcement agencies. The FBI can
+a number of service activities for other law enforcement agencies. The <ent type='ORG'>FBI</ent> can
 investigate a matter only when it has authority to do so under a law passed by
 Congress or on instructions of the President or the Attorney General.</p>
-      <p>The FBI is not a Federal police force, it is a fact-finding organization
+      <p>The <ent type='ORG'>FBI</ent> is not a Federal police force, it is a fact-finding organization
 investigating violations of Federal laws and its authority is strictly limited
-to matters within its jurisdiction. FBI agents may make arrests without a
+to matters within its jurisdiction. <ent type='ORG'>FBI</ent> agents may make arrests without a
 warrant for any Federal offense committed in their presence, or when they have
 reasonable grounds to believe that the person to be arrested has committed or
 is attempting to commit a felony violation of United States laws. Agents may
@@ -28,51 +28,51 @@ arrests are made, if at all possible, the facts of each case are presented tom
 the U.S. Attorney who decides whether or not a Federal violation has occurred
 and, if so, the U.S. Attorney may authorize agents to file a complaint which
 serves as the basis of the arrest warrant.</p>
-      <p>The FBI has no authority to investigate local crimes which are not within its
-jurisdiction. The FBI will, however, render all possible assistance to the
-local police through the FBI Laboratory and Identification Division. The FBI
+      <p>The <ent type='ORG'>FBI</ent> has no authority to investigate local crimes which are not within its
+jurisdiction. The <ent type='ORG'>FBI</ent> will, however, render all possible assistance to the
+local police through the <ent type='ORG'>FBI</ent> Laboratory and Identification Division. The <ent type='ORG'>FBI</ent>
 LID maintains fingerprint files on approximately 70 million (yes, million)
-people. The FBI also maintains the National Crime Information Center (<ent type='ORG'>NCIC</ent>)
+people. The <ent type='ORG'>FBI</ent> also maintains the National Crime Information Center (<ent type='ORG'>NCIC</ent>)
 which keeps records of missing persons, serialized stolen property, wanted
 persons for whom an arrest warrant is outstanding, and criminal histories on
 individuals arrested and fingerprinted for serious or significant offenses.</p>
-      <p>The <ent type='ORG'>NCIC</ent> is a computerized information system established by the FBI as a
+      <p>The <ent type='ORG'>NCIC</ent> is a computerized information system established by the <ent type='ORG'>FBI</ent> as a
 service to all criminal justice agencies: local, state and Federal. The
 information can be instantly retrieved over a vast communications network
 through the use of telecommunications equipment in criminal justice centers in
 various locations in the United States, <ent type='GPE'>Canada</ent> and Puerto Rico. Many times when
 monitoring the local or county police/sheriff departments a reference to a <ent type='ORG'>NCIC</ent>
 check is heard.</p>
-      <p>The FBI is involved in criminal investigations and foreign counterintelligence
+      <p>The <ent type='ORG'>FBI</ent> is involved in criminal investigations and foreign counterintelligence
 efforts. Most notably criminal investigations are those of bank robberies and
-kidnapping cases. The FBI can also investigate criminal activity associated
-with interstate transportation of stolen property, and the FBI can investigate
+kidnapping cases. The <ent type='ORG'>FBI</ent> can also investigate criminal activity associated
+with interstate transportation of stolen property, and the <ent type='ORG'>FBI</ent> can investigate
 graft and corruption cases of local government under certain circumstances.
 Department of Justice offices mat be found on some military installations as
-the FBI has jurisdiction when a crime involves Government property, or funds,
+the <ent type='ORG'>FBI</ent> has jurisdiction when a crime involves Government property, or funds,
 or when only civilians are involved.</p>
-      <p>The FBI's responsibility with respect to foreign counterintelligence, within
+      <p>The <ent type='ORG'>FBI</ent>'s responsibility with respect to foreign counterintelligence, within
 the United States, is to detect, lawfully counteract, and/or prevent espionage
 and other clandestine intelligence activities, sabotage, international
 terrorist activities, or assassinations conducted for or on behalf of foreign
-powers, organizations, or persons. The FBI also investigates murders,
+powers, organizations, or persons. The <ent type='ORG'>FBI</ent> also investigates murders,
 kidnappings, and assaults against foreign diplomatic officials while in the
 United States, as well as damage to property of foreign governments in the
 United States.</p>
       <p>Organization</p>
-      <p>The FBI is an agency within the U.S. Department of Justice, which is lead by
-the U.S. Attorney General. The head of the FBI is the Director who is appointed
+      <p>The <ent type='ORG'>FBI</ent> is an agency within the U.S. Department of Justice, which is lead by
+the U.S. Attorney General. The head of the <ent type='ORG'>FBI</ent> is the Director who is appointed
 by the President with the advice and consent of the Senate. Assistant directors
-are the next level of command within the FBI. The FBI has ten assistant
+are the next level of command within the <ent type='ORG'>FBI</ent>. The <ent type='ORG'>FBI</ent> has ten assistant
 directors who are accountable to the Director for all matters within their
 sphere of operations.</p>
-      <p>The FBI has 59 field offices located in major cities throughout the United
+      <p>The <ent type='ORG'>FBI</ent> has 59 field offices located in major cities throughout the United
 States and in San Juan, Puerto Rico. Each, with the exception of the <ent type='GPE'>New York</ent>
 Office which is headed by an Assistant Director, is under the direct
 supervision of a Special Agent In Charge (SAIC). The SAIC is supervised and
-receives directions from the FBI headquarters in Washington, D.C.</p>
-      <p>Each FBI Field Office has Resident Agencies which are local offices in some of
-the larger cities within the field offices jurisdiction. Refer to the FBI field
+receives directions from the <ent type='ORG'>FBI</ent> headquarters in Washington, D.C.</p>
+      <p>Each <ent type='ORG'>FBI</ent> Field Office has Resident Agencies which are local offices in some of
+the larger cities within the field offices jurisdiction. Refer to the <ent type='ORG'>FBI</ent> field
 office map for the sectioning of the field offices across the United States.
 The following list of the field offices and associated data was generated by
 data contributed from several readers who wish to remain anonymous and from
@@ -146,7 +146,7 @@ administrations.</p>
 Example Cincinnati F.O. call is KQC 390 (or simply 390 as often will be heard)
 or Cleveland F.O. call is KEX 740 (740).</p>
       <p>The following is a list of Resident Agencies for the primary coverage states of
-the AOSC. The list is as of 1 October 1987. I will send a copy of the FBI Field
+the AOSC. The list is as of 1 October 1987. I will send a copy of the <ent type='ORG'>FBI</ent> Field
 Office and Resident Agency map for a SASE to those who desire a copy. A list of
 RA's may be obtained from the map for your local area. The map will be a copy
 of a copy, however it will be fairly legible. Note the two Ohio Field Office
@@ -194,7 +194,7 @@ Traverse City KEX 772</p>
       <p>Frequencies per MFFD (1986) and others: 163.925/267.2625 R.A. repeater;
 163.8875/167.750 F.O. repeater; 163.8625/167.5375R; 167.3125; 167.3625;
 167.400; 167.450; 167.500; 167.650; 414.500 is a state-wide UHF link to Detroit
-F.O. and 419.250 is believed to a FBI UHF link, continuous tone.</p>
+F.O. and 419.250 is believed to a <ent type='ORG'>FBI</ent> UHF link, continuous tone.</p>
       <p><ent type='NORP'>Indianapolis</ent> "IP" Field Office - RA's</p>
       <p> <ent type='GPE'>Bloomington</ent>
 Evansville
@@ -280,7 +280,7 @@ East Scanner News - more data at the end of this column) members during 1989 or
       <p>Still with Boston from NESN: 163.8375, 163.8875, 163.900 and 163.925/164.125,
 163.975/167.275 repeaters. Also 164.150, 167.250, 167.325, 167.425, 167.450,
 167.500, 167.6375, and 167.750.</p>
-      <p>CT/NY FBI - 163.750 NY; 163.8625 CH 6 CT; 163.8875 CT; 164.125 Long Island;
+      <p>CT/NY <ent type='ORG'>FBI</ent> - 163.750 NY; 163.8625 CH 6 CT; 163.8875 CT; 164.125 Long Island;
 164.150 NY; 167.2375 CT; 167.2625 NY; 167.2875 NY?; 167.3375 Long Island;
 167.3875 NY; 167.425 CT primary; 167.4375 CT; 167.4625 NY; 167.5375 CT (note
 input to 163.8625 CH 6); 167.5625; 167.600 NY; 167.6875 NY; 167.775 Long
@@ -288,8 +288,8 @@ Island; 167.7875 CT; 413.625 NY; 414.075 CT; 414.350 NY "Bronco Base" and
 419.350 CT tone. Also note from the previous American Scannergram
 169.975/168.850 as a new NYC repeater.</p>
       <p>Also several with "?" as follows: 165.925 NY; 167.175 NY; 169.575 NY, possible
-FBI/DEA; and 419.250 NY. One other interesting frequency - 170.825 as a U.S.
-Marshal/INS/FBI NY "tie-in" frequency.</p>
+<ent type='ORG'>FBI</ent>/DEA; and 419.250 NY. One other interesting frequency - 170.825 as a U.S.
+Marshal/INS/<ent type='ORG'>FBI</ent> NY "tie-in" frequency.</p>
       <p>Charlotte F.O.: 163.9125/? A-1 Greensboro (R.A. repeater)
 163.9625/?R, 167.750 and 167.7125.</p>
       <p>Knoxville F.O.: A-1 163.9875R Knoxville F.O., also A-5 (probably different
@@ -300,14 +300,14 @@ C-5 163.8375R R.A. repeater
 Johnson City base call is KEV-243
 Knoxville Unit Numbers: 99 - Aircraft; mobile units 1 - 69.</p>
       <p>Los Angeles F.O.: An excellent complete and detailed listing is available from
-Mobile Radio Resources (2661 Carol Drive, San Jose, CA 95125). The FBI in LA
+Mobile Radio Resources (2661 Carol Drive, San Jose, CA 95125). The <ent type='ORG'>FBI</ent> in LA
 utilizes repeater channels in the 162, 163, 164, and 165 MHZ frequency range.
 Inputs can be found in the 167 MHz frequencies. The 165 repeater frequencies
 are 167.5875 and 165.7125.</p>
       <p>Memphis F.O.: R.A. repeater - 163.9375; F.O. repeater 163.8625</p>
       <p>Norfolk F.O.: 163.8375/167.600 F1; 167.2375 F2; 167.4875 F3; and 167.5625 F4.</p>
       <p><ent type='GPE'>Richmond</ent> F.O.: 163.8875/167.625 Operations Repeater; 167.5625 (note -
-nationwide FBI simplex common); 163.8625/167.5375 (note - this is the only
+nationwide <ent type='ORG'>FBI</ent> simplex common); 163.8625/167.5375 (note - this is the only
 repeater frequency pair that is common nationwide, usually used for SWAT or
 special operations - ed.); 414.250 and 419.525 as UHF links.</p>
       <p>San Diego F.O. sampling via Mobile Radio Resources Government Radio Systems
@@ -491,16 +491,16 @@ Toledo - 1100 - 1119, 1130
 1300 - 1399 Radio Technicians and Vehicle Maintenance
 Radio Techs - 1302, 1303, 1304, 1307 and 1319
 Vehicle Maintenance - 1300, 1301, 1305, 1306 and 1318.</p>
-      <p>FBI COMMON FREQUENCY RANGES</p>
-      <p>I suggest searching the following frequency ranges for FBI radio activity. Note
-that in many areas across the U.S. the FBI have picked up many traditional
-non-FBI frequencies. Originally the Department of Justice had only 82 VHf
-frequencies assigned for ALL of its members, let alone just the FBI. The FBI
+      <p><ent type='ORG'>FBI</ent> COMMON FREQUENCY RANGES</p>
+      <p>I suggest searching the following frequency ranges for <ent type='ORG'>FBI</ent> radio activity. Note
+that in many areas across the U.S. the <ent type='ORG'>FBI</ent> have picked up many traditional
+non-<ent type='ORG'>FBI</ent> frequencies. Originally the Department of Justice had only 82 VHf
+frequencies assigned for ALL of its members, let alone just the <ent type='ORG'>FBI</ent>. The <ent type='ORG'>FBI</ent>
 originally had less than 40 of the 82 frequencies for their exclusive use.</p>
-      <p>During the change over to DES nationwide, the FBI has received additional
+      <p>During the change over to DES nationwide, the <ent type='ORG'>FBI</ent> has received additional
 frequencies from other branches and departments who did not utilize or need
-them. In the NE region the FBI received 110 VHF frequencies - almost 300%
-increase in the number of frequencies available. The early days saw the FBI in
+them. In the NE region the <ent type='ORG'>FBI</ent> received 110 VHF frequencies - almost 300%
+increase in the number of frequencies available. The early days saw the <ent type='ORG'>FBI</ent> in
 the 163 MHz range for repeaters and the 167 MHz range for simplex operations.</p>
       <p>Limit your search to 500 KHz at a time, certainly no more than a 1 MHz. The
 following are common ranges reported nationwide:</p>
@@ -511,7 +511,7 @@ following are common ranges reported nationwide:</p>
 167.100 - 167.7875 Repeater Inputs; Outputs; Simplex; 12.5KHz steps
 168.825 - 169.000 Repeater Inputs; 25KHz steps
 169.825 - 169.975 Repeater Outputs; 25KHz steps</p>
-      <p>FBI COMMON TEN CODES</p>
+      <p><ent type='ORG'>FBI</ent> COMMON TEN CODES</p>
       <p> 10-0 Negative 10-29 O.L. Check
 10-4 Affirmative 10-42 Residence
 10-7 Out-of-Service 10-58 Mileage
@@ -524,7 +524,7 @@ following are common ranges reported nationwide:</p>
 10-23 Stand-By 10-99 Assist Agent
 10-26 N.C.I.C. Check
 10-28 Registration check</p>
-      <p>FBI COMMON CODE WORDS</p>
+      <p><ent type='ORG'>FBI</ent> COMMON CODE WORDS</p>
       <p>ASAIC - Assistant Special Agent In Charge
 AUSA - Assistant U.S. Attorney
 Big K - K-Mart
@@ -570,23 +570,23 @@ Unit - A vehicle
 USA - U.S. Attorney
 Wagon - Surveillance Van
 Wire - Body Transmitter</p>
-      <p>FEDERAL NEWS - FBI</p>
+      <p>FEDERAL NEWS - <ent type='ORG'>FBI</ent></p>
       <p>The FCC has established a nationwide radio frequency for stolen vehicle
 tracking systems operating on the frequency of 173.025. The frequency was
-reported as a FBI assignment (wouldn't we like to see the exact frequency
+reported as a <ent type='ORG'>FBI</ent> assignment (wouldn't we like to see the exact frequency
 assignment chart?) Nationwide. Perhaps this frequency was used for wireless
 microphones or bugs, and if so perhaps others operate on nearby similar
 frequencies. Give it a listen and let us know.</p>
-      <p>The FBI Academy, located 40 miles south of Washington, is the host to the most
+      <p>The <ent type='ORG'>FBI</ent> Academy, located 40 miles south of Washington, is the host to the most
 crime ridden town in the United States - Hogan's Alley. Hogan's Alley is a
 "Hollywood" town with a motel, bank, post office, drug store, laundry and even
-a theater. It is used as a training ground for FBI agent trainees. Various
+a theater. It is used as a training ground for <ent type='ORG'>FBI</ent> agent trainees. Various
 scenarios are enacted under the careful eyes of supervisors. The trainees
 performance are evaluated with each exercise.</p>
       <p>One thing about Hogan's Alley - it has a 100% success rate in solving of cases,
-pretty impressive. Something that is not pretty impressive about the FBI is the
+pretty impressive. Something that is not pretty impressive about the <ent type='ORG'>FBI</ent> is the
 starting pay agents earn. According to a 8 January 1990 U.S. News and World
-Report quirk the starting pay of a FBI agent is $26261. Consider that an agent
+Report quirk the starting pay of a <ent type='ORG'>FBI</ent> agent is $26261. Consider that an agent
 does not choice his assignment location, the agent could be placed in a very
 high cost of living area. Placement in certain cities such as NYC offer
 slightly more pay, however it is not enough for the work that they perform for

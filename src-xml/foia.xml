@@ -47,9 +47,9 @@ photocopies and mailed as is or retyped on your own stationary.
 Be sure to keep a copy of each letter.
 Step 3: Addressing the letters: Consult list of agency
 addresses.
-FBI: A complete request requires a minimum of two letters.
-Sen done letter to FBI Headquarters and separate letter to each
-FBI field office nearest the location of the individual, the
+<ent type='ORG'>FBI</ent>: A complete request requires a minimum of two letters.
+Sen done letter to <ent type='ORG'>FBI</ent> Headquarters and separate letter to each
+<ent type='ORG'>FBI</ent> field office nearest the location of the individual, the
 organization or the subject matter/event. Consdier the location
 of residences, schools, work and other activities.
 INS: Send a request letter to each district office nearest
@@ -156,7 +156,7 @@ packets. Each of these offices will have assigned the
 investigation a separate file number. Try to find the numbering
 system. Usually the lower righthand corner of the first page
 carries a hand-written file and document number. For instance, an
-FBI document might be marked "100-7142-22". This would indicate
+<ent type='ORG'>FBI</ent> document might be marked "100-7142-22". This would indicate
 that it is the 22nd document in the 7142nd file in the 100
 classification. As you inspect the documents, make a list of
 these file numbers and which office they represent. In this way
@@ -221,7 +221,7 @@ reviewed.
 If you are still dissatisfied after the administrative
 appeal process, the FOIA gives you the right to bring a lawsuit
 in federal district court on an expedited basis.</p>
-      <p>SAMPLE FBI REQUEST LETTER</p>
+      <p>SAMPLE <ent type='ORG'>FBI</ent> REQUEST LETTER</p>
       <p>Date:</p>
       <p>To: FOIA/PA Unit
 Federal Bureau of Investigation</p>
@@ -439,8 +439,8 @@ ultimately not to file suit.]</p>
       <p>signature: ___________________________________________</p>
       <p>[Mark clearly on envelope: Attention: Freedom of Information
 Appeals]</p>
-      <p>FBI ADDRESSES AND PHONE NUMBERS</p>
-      <p>FBI Headquarters, J. Edgar Hoover Bldg, Washington, D.C., 20535,
+      <p><ent type='ORG'>FBI</ent> ADDRESSES AND PHONE NUMBERS</p>
+      <p><ent type='ORG'>FBI</ent> Headquarters, J. Edgar Hoover Bldg, Washington, D.C., 20535,
 202-324-5520 (FOI/PA Unit)</p>
       <p>Field Offices
 <ent type='GPE'>Albany</ent>, NY 12207, U.S. Post Office and Courthouse, 518-465-7551

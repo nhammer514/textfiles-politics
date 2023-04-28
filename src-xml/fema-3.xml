@@ -16,7 +16,7 @@ Reviewed by Dennis M. Culnan Copyright 1990, Gannett News Service All
 Rights Reserved Short excerpt posted here under applicable copyright
 laws</p>
       <p>[Oliver] <ent type='LOC'>North</ent> managed to network himself into the highest levels of
-the CIA and power centers around the world. There he lied and
+the <ent type='ORG'>CIA</ent> and power centers around the world. There he lied and
 boastfully ignored the constitutional process, Bradlee writes.</p>
       <p>Yet more terrifying is the plan hatched by <ent type='LOC'>North</ent> and other Reagan
 people in the Federal Emergency Manpower Agency (FEMA): A blueprint
@@ -124,10 +124,10 @@ Reagan as president moved Giuffrida up to the big leagues, appointing
 him director of FEMA.</p>
       <p>According to <ent type='PERSON'>Reynolds</ent>, however, it was the actions of George Bush in
 1976, while he was the director of the Central Intelligence Agency
-(CIA), that provided the stimulus for centralization of vast powers in
+(<ent type='ORG'>CIA</ent>), that provided the stimulus for centralization of vast powers in
 FEMA.</p>
       <p>Bush assembled a group of hawkish outsiders, called Team B, that
-released a report claiming the CIA ("Team A") had underestimated the
+released a report claiming the <ent type='ORG'>CIA</ent> ("Team A") had underestimated the
 dangers of Soviet nuclear attack. The report advised the development
 of elaborate plans for "civil defense" and post-nuclear government.
 Three years later, in 1979, FEMA was given ultimate responsibility for
@@ -167,13 +167,13 @@ would "have as a primary function intelligence, counterintelligence,
 investigative, or national security work." Recent events indicate that
 domestic spying in response to the looming Middle East war is now
 under way.</p>
-      <p><ent type='PERSON'>Reynolds</ent> reports that "the CIA is going to various campuses asking for
+      <p><ent type='PERSON'>Reynolds</ent> reports that "the <ent type='ORG'>CIA</ent> is going to various campuses asking for
 information on Middle Eastern students. I'm sure that there are
 intelligence organizations monitoring peace demonstrations."
 According to the University of Connecticut student paper, the Daily
-Campus, CIA officials have recently met there to discuss talking with
+Campus, <ent type='ORG'>CIA</ent> officials have recently met there to discuss talking with
 Middle Eastern students.</p>
-      <p>The <ent type='ORG'>New York Times</ent> reports that the FBI has ordered its agents around
+      <p>The <ent type='ORG'>New York Times</ent> reports that the <ent type='ORG'>FBI</ent> has ordered its agents around
 the country to question Arab-American leaders and business people in
 search of information on potential Iraqi "terrorist" attacks in
 response to a Gulf war.</p>
@@ -333,7 +333,7 @@ valuable to a foreign adversary like the Soviet Union.
 Mead Data Central -- which runs some of the nation's largest
 computer databases, such as Lexis and Nexis, and has nearly
 200000 users -- says it has already been approached by a team of
-agents from the Air Force and officials from the CIA and the FBI
+agents from the Air Force and officials from the <ent type='ORG'>CIA</ent> and the <ent type='ORG'>FBI</ent>
 who asked for the names of subscribers and inquired what Mead
 officials might do if information restrictions were imposed. In
 response to government pressure, Mead Data Central in effect
@@ -471,7 +471,7 @@ handful of industry and government officials. The NCC is staffed
 around the clock by representatives of a dozen of the nation's
 largest commercial communications companies -- the so-called
 "common carriers" -- including AT&amp;T, MCI, GTE, Comsat, and ITT.
-Also on hand are officials from the State Department, the CIA,
+Also on hand are officials from the State Department, the <ent type='ORG'>CIA</ent>,
 the Federal Aviation Administration, and a number of other
 federal agencies. During a 606 emergency the Pentagon can order
 the companies that make up the National Coordinating Center to

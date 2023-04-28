@@ -9,7 +9,7 @@ Mesquite, TX 75150</p>
       <p> October 17, 1990</p>
       <p> listed on KeelyNet as FOOD1.ZIP
 --------------------------------------------------------------------
-FBI License Plate Codes</p>
+<ent type='ORG'>FBI</ent> License Plate Codes</p>
       <p> Somewhere in the vicinity of 2500 Soviet and Eastern European
 officials live in the United States at any given time. The U.S.
 State Department estimates that 30% to 40% of them are spies.</p>
@@ -22,7 +22,7 @@ red, white and blue with the word DIPLOMAT printed at the top.</p>
       <p> All diplomatic licenses have a D. The other two letters indicate
 the nation. SX for example, indicates that the car carries diplomats
 from the Soviet Union.</p>
-      <p> FBI counter-intelligence agents are given wallet-sized cards listing
+      <p> <ent type='ORG'>FBI</ent> counter-intelligence agents are given wallet-sized cards listing
 the codes for eighteen "problem" nations.</p>
       <p> These nations are identified by the following codes :</p>
       <p> Albania CP Libya FM
