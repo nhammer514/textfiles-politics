@@ -1523,7 +1523,7 @@ ruler.add_patterns(patterns)
 
 workingDir = os.getcwd()
 CollPath = os.path.join(workingDir, '../pre-src-xml')
-outputPath = os.path.join(workingDir, 'personTestingOutput/')
+outputPath = os.path.join(workingDir, '../src-xml')
 # Everything in original conspiracy directory.
 insideDir = os.listdir(CollPath)
 print(insideDir)
@@ -1628,7 +1628,6 @@ def checkTags(file):
             newLine = regex.sub(r"(<ent type='[A-z]+?'>[^<]*?)<ent type='[A-z]+?'>([^<]+?)</ent>([^<]*?</ent>)", r"\1\2\3", newLine)
             newLine = regex.sub(r"(<ent type='[A-z]+?'>[^<]*?)<ent type='[A-z]+?'>([^<]+?)</ent>([^<]*?</ent>)", r"\1\2\3", newLine)
             newLine = regex.sub(r"(<ent type='[A-z]+?'>[^<]*?)<ent type='[A-z]+?'>([^<]+?)</ent>([^<]*?</ent>)", r"\1\2\3", newLine)
-            newLine = regex.sub(r"<name type='\w+?'>(\w+?)</name>(\w+)", r"\1\2", newLine)
             # ebb: I'm repeating the above just in case of the weird event of triple or quadruple nested <ent> tags in <ent> tags.
             # We saw it happen on the LOTR project and running it through multiple passes of the above line ultimately got rid of them all
             # preserving only the outermost tags.
