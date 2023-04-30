@@ -1,0 +1,567 @@
+[33mcommit 50314b5f2656e7ff01f31854e5d158e1e372a969[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: HadleighJae <hjb5471@psu.edu>
+Date:   Fri Apr 28 11:17:11 2023 -0400
+
+    Writing my bio on About
+
+[33mcommit 28738b6afa289b72b120a67f8a642f85d0737ac3[m
+Merge: 2043635 e00e90f
+Author: Hadleigh Jae Bills <113136860+HadleighJae@users.noreply.github.com>
+Date:   Fri Apr 28 10:55:30 2023 -0400
+
+    Merge pull request #5 from nhammer514/pipeline-patch
+    
+    Looking good
+
+[33mcommit e00e90f54299c6d393016b119426656539346684[m[33m ([m[1;31morigin/pipeline-patch[m[33m)[m
+Author: ebeshero <ebbondar@gmail.com>
+Date:   Fri Apr 28 10:48:13 2023 -0400
+
+    update, should be more tags now
+
+[33mcommit 8fb8198fe708ce6ca675d7611699b67bb2fb5059[m
+Author: ebeshero <ebbondar@gmail.com>
+Date:   Fri Apr 28 10:30:24 2023 -0400
+
+    freshly autotagged src-xml
+
+[33mcommit ea5425869a88677b607701f726ee0874bb645d07[m
+Author: ebeshero <ebbondar@gmail.com>
+Date:   Fri Apr 28 08:18:41 2023 -0400
+
+    updating HTML output collection, small CSS update
+
+[33mcommit 9fbf8f51b78219920cf51cdc3cd96ef008f65ce7[m
+Author: ebeshero <ebbondar@gmail.com>
+Date:   Fri Apr 28 08:02:24 2023 -0400
+
+    updated tagging from personTagger.py
+
+[33mcommit 0d68297335d10ce2e723a9360877110cc4f88b8c[m
+Author: ebeshero <ebbondar@gmail.com>
+Date:   Fri Apr 28 05:35:52 2023 -0400
+
+    fresh python-tagged ents from personTagger.py
+
+[33mcommit 22a4906740bcc833b932c15436b38d3db8bab2f8[m
+Author: ebeshero <ebbondar@gmail.com>
+Date:   Fri Apr 28 02:15:04 2023 -0400
+
+    restores xml root element to pre-src
+
+[33mcommit cb909e97f37fb5053bb029eaefda215b51ca7320[m
+Author: ebeshero <ebbondar@gmail.com>
+Date:   Fri Apr 28 01:40:42 2023 -0400
+
+    redirecting filepaths in personTagger.py
+
+[33mcommit c4ad94695be18f57920cdb87294d9c24387d9605[m
+Author: ebeshero <ebbondar@gmail.com>
+Date:   Fri Apr 28 01:34:59 2023 -0400
+
+    updating xml files and gitignore to screen oxygen xpr project files
+
+[33mcommit 946f25035e76bd97c1deb22fd5aec98312d07014[m
+Author: ebeshero <ebbondar@gmail.com>
+Date:   Fri Apr 28 01:26:51 2023 -0400
+
+    repairing and restoring XSLT, spot fixes to personTagger.py
+
+[33mcommit 204363595d8fece680df6198b3ce238376077687[m
+Merge: 437c492 a787c49
+Author: nhammer514 <122374657+nhammer514@users.noreply.github.com>
+Date:   Thu Apr 27 21:35:03 2023 -0400
+
+    Merge pull request #4 from nhammer514/drb-xslt
+    
+    Updating website
+
+[33mcommit a787c499417b8cd85bbbe3bdfa64e12f2664d422[m[33m ([m[1;31morigin/drb-xslt[m[33m, [m[1;32mdrb-xslt[m[33m)[m
+Author: Nate Hammer <nhammer514@gmail.com>
+Date:   Thu Apr 27 21:33:38 2023 -0400
+
+    Updating fulltext page with whole lotta conspiracies
+
+[33mcommit 884c7f1d744302a4d90167f324c6c44fc12678ce[m
+Author: ebeshero <ebbondar@gmail.com>
+Date:   Thu Apr 27 14:05:16 2023 -0400
+
+    revised XSLT to keep info and special elements
+
+[33mcommit d64cb18953a21efba2f508b92b8fbe774d0223d0[m
+Author: ebeshero <ebbondar@gmail.com>
+Date:   Thu Apr 27 13:36:11 2023 -0400
+
+    revised xml output
+
+[33mcommit d40883cf529968b694102c115d3d33eee66cbb46[m
+Author: ebeshero <ebbondar@gmail.com>
+Date:   Thu Apr 27 13:30:47 2023 -0400
+
+    added paragraphs to XML
+
+[33mcommit af166aaccab3385e9c9e39570ad0fe9be616a012[m
+Author: ebeshero <ebbondar@gmail.com>
+Date:   Thu Apr 27 12:08:25 2023 -0400
+
+    working on new XSLT
+
+[33mcommit 437c492fef0a75de6a2f863d04e5dca52ae5ec73[m
+Merge: d23f1b6 bb492e0
+Author: nhammer514 <122374657+nhammer514@users.noreply.github.com>
+Date:   Thu Apr 27 11:40:57 2023 -0400
+
+    Merge pull request #3 from nhammer514/hjb-branch
+    
+    Hjb branch
+
+[33mcommit bb492e0ea4bddf48cb236f609a1b0eea7ea43b59[m[33m ([m[1;31morigin/hjb-branch[m[33m)[m
+Author: HadleighJae <hjb5471@psu.edu>
+Date:   Thu Apr 27 00:54:09 2023 -0400
+
+    trying my best to fix the regex and editing python code
+
+[33mcommit d23f1b6c8b8fad4bfcd532ac949b64ead5dcf79c[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Wed Apr 26 16:08:05 2023 -0400
+
+    links underlined fixed
+
+[33mcommit f2500a4353b7e01cb3129f810db762185cbfbbba[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Wed Apr 26 16:06:09 2023 -0400
+
+    small change to about page
+
+[33mcommit e74ea0b9003e93e57d40d059862e6f4e26463146[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Wed Apr 26 15:54:19 2023 -0400
+
+    methods page staged
+
+[33mcommit 34ca5871a71289833c2659cbb6e446e73c2e70e1[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Wed Apr 26 15:46:14 2023 -0400
+
+     repos link on splash fixed
+
+[33mcommit 50c26a1acd60aef9be104751c33d36ef81db5146[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Wed Apr 26 15:34:33 2023 -0400
+
+    corrections
+
+[33mcommit 319cbf63385ff86b9b43fb707be678a80c60f547[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Wed Apr 26 15:21:51 2023 -0400
+
+    slightly brightened background
+
+[33mcommit a74b7b749e463f3d402716fc73003d7608e0d508[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Wed Apr 26 15:17:10 2023 -0400
+
+    minor change to splash
+
+[33mcommit 0e6d1c734cc9080b64557f8af1e5175cc042fed9[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Wed Apr 26 15:11:21 2023 -0400
+
+    splash page summary changed
+
+[33mcommit 0be8b978276c4527dcf6a6f90cd6dfd5c6503301[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Wed Apr 26 15:00:56 2023 -0400
+
+    gallery page added
+
+[33mcommit 370f4023de0d11eccad1fd24343cb74ae019ed6a[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Wed Apr 26 14:44:12 2023 -0400
+
+    changes we talked about
+
+[33mcommit 8a031d6eb77e17d76a5bd6df00fbf42fdddc6486[m
+Author: HadleighJae <hjb5471@psu.edu>
+Date:   Wed Apr 26 13:37:54 2023 -0400
+
+    pushing a new xquery and another test Regex directory
+
+[33mcommit c8fd2f1ec0dff59d5bca8e15b8d687501a5b39a2[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Tue Apr 25 15:49:55 2023 -0400
+
+    typo fixed
+
+[33mcommit 3f090bcd613f420f52076df61b30f43e26beacd3[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Tue Apr 25 15:36:21 2023 -0400
+
+    about contributions added
+
+[33mcommit 7b03c3f6f303bd8ba84682a85810566950072080[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Tue Apr 25 15:31:09 2023 -0400
+
+    minor changes to about
+
+[33mcommit c7f80ee55ab394a5fee8f3a713efaa7219be8a65[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Tue Apr 25 15:23:33 2023 -0400
+
+    changes to my about me bio
+
+[33mcommit fbc0515d798e207a26639b7ba85f351e8eefc9a4[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Tue Apr 25 15:04:43 2023 -0400
+
+    changes to about page
+
+[33mcommit e439b214295510f395515f242709f848ee8e9812[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Tue Apr 25 14:49:25 2023 -0400
+
+    background fixed
+
+[33mcommit fb8d840a47833e7ccf9b05ef70d5e6c44560c2ce[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Tue Apr 25 14:13:31 2023 -0400
+
+    new background test
+
+[33mcommit 2e5545037b3cddad36ed8c71062a9c525b9d095d[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Tue Apr 25 14:00:16 2023 -0400
+
+    creative common licenses added
+
+[33mcommit ae0fbee5c8e0959bafe923cb2f8e1173d1f31b5a[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Mon Apr 24 17:31:03 2023 -0400
+
+    fixed website borders
+
+[33mcommit 908f8889040ea9debc96e28020efac9e5f89a991[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Mon Apr 24 15:58:37 2023 -0400
+
+    background added
+
+[33mcommit 0035b351139f6fcc323a4a8d2ae0e1a823d24af5[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Mon Apr 24 15:23:32 2023 -0400
+
+    layout
+
+[33mcommit 0bd37b968892198110fd82f587e9b6f86f116c4b[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Mon Apr 24 15:01:42 2023 -0400
+
+    corrections made to the website
+
+[33mcommit c9e1519fb68971acc32740bed2003fd345ce538d[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Mon Apr 24 14:59:26 2023 -0400
+
+    methods page added for SVG
+
+[33mcommit 780f7e4c00f6b91607a6af28bbafb42a96d35870[m
+Author: HadleighJae <hjb5471@psu.edu>
+Date:   Mon Apr 24 14:37:38 2023 -0400
+
+    lots of stuff, python names, xquery to html, xml regex clean-ish
+
+[33mcommit 8838b667df94efd4fc5d2c3a4a27720b55865e32[m
+Author: ebeshero <ebbondar@gmail.com>
+Date:   Thu Apr 20 14:59:24 2023 -0400
+
+    XSLT intro with a couple of sample HTML outputs
+
+[33mcommit c904696d1306a757cc7fb5f71ecbc001b90c2269[m
+Author: Nate Hammer <nhammer514@gmail.com>
+Date:   Mon Apr 17 12:55:55 2023 -0400
+
+    readme and flowchart
+
+[33mcommit 4da66915dbc83a3b386356aaa48eb0b43cffb8ae[m
+Author: Nate Hammer <nhammer514@gmail.com>
+Date:   Wed Apr 12 12:27:46 2023 -0400
+
+    conspiracy network
+
+[33mcommit 994ee16c3245891113aa8f3f18a887573b16d4c7[m
+Merge: e77fae3 8f5dd57
+Author: nhammer514 <122374657+nhammer514@users.noreply.github.com>
+Date:   Mon Apr 10 12:28:49 2023 -0400
+
+    Merge pull request #2 from nhammer514/drb-python
+    
+    Drb python
+
+[33mcommit 8f5dd57739c53f9ad99cfbed25e71eac4cab50d5[m[33m ([m[1;31morigin/drb-python[m[33m)[m
+Author: ebeshero <ebbondar@gmail.com>
+Date:   Sun Apr 9 10:47:55 2023 -0400
+
+    repaired regex in checkTags
+
+[33mcommit 01b77812fe411ca39e2ef8c7ff3bfedacec3b3c2[m
+Author: ebeshero <ebbondar@gmail.com>
+Date:   Sat Apr 8 20:16:14 2023 -0400
+
+    work on Python with Jermaine
+
+[33mcommit 1f771f237a83222aecddff2c39adc390f32b525b[m[33m ([m[1;31morigin/python[m[33m)[m
+Merge: 8fde2c8 e77fae3
+Author: ebeshero <ebbondar@gmail.com>
+Date:   Sat Apr 8 17:56:12 2023 -0400
+
+    Merge branch 'main' into python
+
+[33mcommit e77fae397767cccd9ce08990cd74a21d9728fc41[m
+Author: ebeshero <ebbondar@gmail.com>
+Date:   Sat Apr 8 17:40:40 2023 -0400
+
+    repairing analysis.html page for links
+
+[33mcommit 8121b54d4b465da4be6a24c59f7406a830e4a90f[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Wed Apr 5 16:24:37 2023 -0400
+
+    links to full text added
+
+[33mcommit 57b209726b871a1a5ea61a8ac1fdb1a76645e24a[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Wed Apr 5 16:22:24 2023 -0400
+
+    full text page added
+
+[33mcommit 20d452ae9a48b83f96482137fde77c5c9ceae195[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Wed Apr 5 16:09:52 2023 -0400
+
+    corrections to the website
+
+[33mcommit 6653080dfc08fbe7737586a53dfb5eafb67a536f[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Wed Apr 5 16:02:23 2023 -0400
+
+    added about page
+
+[33mcommit 8fde2c887291d307d9af4e1e9ef9c73971291a05[m
+Author: Nate Hammer <nhammer514@gmail.com>
+Date:   Fri Mar 31 15:01:49 2023 -0400
+
+    added comments to main.py
+
+[33mcommit b08a35eceba652850364520f17821710af628cbf[m
+Author: Nate Hammer <nhammer514@gmail.com>
+Date:   Fri Mar 31 13:41:41 2023 -0400
+
+    improved main.py, can wrap all names in document now
+
+[33mcommit 0d359c52a81d6d0a839fcc8ff39c76d4db4525a7[m
+Author: nhammer514 <122374657+nhammer514@users.noreply.github.com>
+Date:   Thu Mar 30 17:09:44 2023 -0400
+
+    Update README.md
+
+[33mcommit f5d13e3484f6b1881e3dfad34d961950c9699338[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Thu Mar 30 15:30:35 2023 -0400
+
+    changes to CSS
+
+[33mcommit 0829fa86a41ea8b92941a364277bb958ff66d9a1[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Thu Mar 30 15:16:34 2023 -0400
+
+    links to GitHub page fixed
+
+[33mcommit 79143f0b40f0a7b6b484abb937ebe59e77e93368[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Thu Mar 30 14:43:57 2023 -0400
+
+    GitHub page added
+
+[33mcommit 94006710502a2ef0aa602e2bffba9c7573d50dca[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Thu Mar 30 13:56:22 2023 -0400
+
+    images and text added to analysis page
+
+[33mcommit de12e615d823a81cf970a6155016762dc881179c[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Thu Mar 30 13:05:33 2023 -0400
+
+    added content to Analysis page
+
+[33mcommit 90ee096be9d51644449b65eb1617508791f821ae[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Thu Mar 30 12:07:03 2023 -0400
+
+    changes to Analysis page
+
+[33mcommit 8be17e85bbc017f9cb5d9f7c001f5136ff5c4df7[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Thu Mar 30 12:00:05 2023 -0400
+
+    Added Analysis page
+
+[33mcommit 6c04235b78376a3276720f0c302ace978bc74bb5[m
+Author: Nate Hammer <nhammer514@gmail.com>
+Date:   Wed Mar 29 14:22:05 2023 -0400
+
+    main.py outputs new files and wraps elements around tokens
+
+[33mcommit 183eedad450b466919deb38ec46853de001b58ce[m
+Author: HadleighJae <hjb5471@psu.edu>
+Date:   Wed Mar 29 12:25:14 2023 -0400
+
+    Fixing up more regex
+
+[33mcommit 21283b1ebbeac8b6d1d05ef50e0c5d354ebf2c6f[m
+Author: Nate Hammer <nhammer514@gmail.com>
+Date:   Mon Mar 27 18:35:05 2023 -0400
+
+    modified some code and new markdown file with notes
+
+[33mcommit b5373e4b4bb9a0bed68cecfc4c2c81cd66ce7c97[m
+Author: Nate Hammer <nhammer514@gmail.com>
+Date:   Mon Mar 27 18:22:30 2023 -0400
+
+    modifed main.py to test regex lib
+
+[33mcommit d18a6f5b16b56c1c403a54b90bd386d50df0da7e[m
+Author: Nate Hammer <nhammer514@gmail.com>
+Date:   Mon Mar 27 17:14:07 2023 -0400
+
+    created main.py with code
+
+[33mcommit 3dfe20153dfd87c7fad804a4a0079951370f7e30[m
+Author: Nate Hammer <nhammer514@gmail.com>
+Date:   Mon Mar 27 15:19:29 2023 -0400
+
+    python file
+
+[33mcommit c6be99d4c88132bb50128c001e007a81e30e1395[m
+Author: Nate Hammer <nhammer514@gmail.com>
+Date:   Mon Mar 27 15:14:39 2023 -0400
+
+    fixing git ignore
+
+[33mcommit 6d0bb219c145c5b3bbfc310b2de8ca5ded2d3011[m
+Author: Nate Hammer <nhammer514@gmail.com>
+Date:   Mon Mar 27 15:09:44 2023 -0400
+
+    new branch for python testing
+
+[33mcommit f22dc28126861965e17f18cdff3cf189d05dcdfa[m
+Merge: 2d607a6 d00927e
+Author: Hadleigh Jae Bills <113136860+HadleighJae@users.noreply.github.com>
+Date:   Sun Mar 26 22:10:37 2023 -0400
+
+    Merge pull request #1 from nhammer514/drb-regex
+    
+    Looks great! Thank you so much!
+
+[33mcommit d00927e00ca919c21afae94a34acd7dc212413ad[m[33m ([m[1;31morigin/drb-regex[m[33m)[m
+Author: ebeshero <ebbondar@gmail.com>
+Date:   Sat Mar 25 21:39:22 2023 -0400
+
+    valid and well-formed xml collection
+
+[33mcommit 8f604245a03db57af6584eb25c399508d1ae50a1[m
+Author: ebeshero <ebbondar@gmail.com>
+Date:   Sat Mar 25 21:07:16 2023 -0400
+
+    more space and paragraph cleanup
+
+[33mcommit 2267f3bbb97d7d37514360b5097a25def32d5a36[m
+Author: ebeshero <ebbondar@gmail.com>
+Date:   Sat Mar 25 20:46:28 2023 -0400
+
+    replacing \f space characters
+
+[33mcommit d55ff470abc0437d1ec2caebf0476f38d0f176cc[m
+Author: ebeshero <ebbondar@gmail.com>
+Date:   Sat Mar 25 20:41:17 2023 -0400
+
+    replacing old ellipsis point spaces
+
+[33mcommit e5b6eff36cb56e81576fe0bc406d83941c2f58bc[m
+Author: ebeshero <ebbondar@gmail.com>
+Date:   Sat Mar 25 20:37:15 2023 -0400
+
+    repaired castro file
+
+[33mcommit b5239ab4d0815915a0f6770dfc504cdd7bd806a5[m
+Author: ebeshero <ebbondar@gmail.com>
+Date:   Sat Mar 25 20:00:24 2023 -0400
+
+    Relax NG schema for XML validation
+
+[33mcommit 34841f6e9da0245bc4b3a63123f77d75a8ac98ca[m
+Author: ebeshero <ebbondar@gmail.com>
+Date:   Sat Mar 25 14:58:49 2023 -0400
+
+    deleting stashed txt in favor of xml
+
+[33mcommit dd80b08a16bc0be5cb4df3a6bb4b3da81a229c38[m
+Author: ebeshero <ebbondar@gmail.com>
+Date:   Sat Mar 25 12:40:02 2023 -0400
+
+    adding closing p tags, changed file extension to preview as xml, illuminated unicode problems
+
+[33mcommit 1a46136e1b3aa85f5414fad43e2c96ba69de5b7a[m
+Author: ebeshero <ebbondar@gmail.com>
+Date:   Fri Mar 24 15:25:37 2023 -0400
+
+    possibly full xml files
+
+[33mcommit 96c811c12cec47b5e63b614bc7e2923c8f2340c5[m
+Author: ebeshero <ebbondar@gmail.com>
+Date:   Fri Mar 24 15:17:52 2023 -0400
+
+    lots of regex changes, up to paragraphs
+
+[33mcommit 2d607a6d314a7eb5cab8d2b1bebea68bdd821f8a[m
+Author: HadleighJae <hjb5471@psu.edu>
+Date:   Sat Mar 18 22:06:02 2023 -0400
+
+    pushing current regex files
+
+[33mcommit 52b725ce608c082bbac188d21e64e99e5f0f46ec[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Fri Mar 17 13:14:06 2023 -0400
+
+    add to splash page
+
+[33mcommit 56edd121a88034050e49dd8d5fd04cebfb480399[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Fri Mar 17 13:01:12 2023 -0400
+
+    changes to splash page
+
+[33mcommit bd1ab136e5f8e5469ed443eb7a4d4e35faeb8d09[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Wed Mar 15 14:56:05 2023 -0400
+
+    changes to splash page
+
+[33mcommit ea5a5fd3bb7885bbb2ad8691d8c61ddfab8efa98[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Wed Mar 15 14:23:34 2023 -0400
+
+    css Illuminati photo added
+
+[33mcommit 62490a67aa30c975074533369912d940eeef5b9e[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Wed Mar 15 13:58:09 2023 -0400
+
+    minor change
+
+[33mcommit 0cee1041122b0fc5353b6a133019def5645c6594[m
+Author: jms9354 <jms9354@psu.edu>
+Date:   Wed Mar 15 13:56:09 2023 -0400
+
+    test2
