@@ -312,3 +312,10 @@ span{color:orange;}
 span.PERSON{
     color: red;
 }
+
+#cy {
+     width: 65vw;
+     height:100vh;
+     margin:auto;
+     border-style:double;
+ }
