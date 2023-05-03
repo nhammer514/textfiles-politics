@@ -1,14 +1,81 @@
 body {
-      
-      background-color: transparent; 
+      background-color: black; 
       color: white; 
       font-family: arial, helvetica, sans-serif; 
       padding:15px; 
-      line-height:2em;
+      line-height:1.5em;
       background-image: url('Images/Background4.jpg');
       border: 1px solid black
 }
-      
+div.graph{
+    margin: 5px;
+}
+h1{
+    margin-top: 3px;
+}
+h2.analysis{
+    margin-top: 0px;
+}
+section.Analysis{
+}
+p{
+    margin: 5px;
+}
+iframe.conspiracy{
+    float: left;
+	width: 100%;
+	height: 100%;
+    
+}
+iframe.conspiracy2{
+    float: left;
+	width: 640px;
+	height: 480px;
+    
+}
+div.content1{
+    height: 80vh;;
+    width: 80%;
+    margin: auto;
+    border: 1px white solid;
+    margin-top: 25px;
+    overflow-y:scroll;
+}
+div.mySlides{
+    height: 400px;
+}
+.gallery_button{
+    float: right;
+}
+img.myFigure{
+    height: 400px;
+    width: 500px;
+    border: 2px white solid;
+}
+div.content2{
+    height: 80vh;
+    width: 80%;
+    margin: auto;
+    border: 1px white solid;
+    margin-top: 25px;
+}
+div.index{
+    border-top: 1px white solid;
+    height: 70vh;
+    overflow-y:scroll;
+}
+hr.about{
+    width: 50%
+}
+div.conspiracy_text{
+    flex-grow : 1;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+div.flex-container {
+  display: flex;
+  flex-direction: row;
+}
 a {
     color: white;
     text-decoration: none;
@@ -117,6 +184,9 @@ div.button {
   padding: 15px;
   border-radius: 4px;
 }
+section{
+    padding-left: 2em;
+}
 #to-top:hover {
   background-color: #555;
 }
@@ -160,16 +230,7 @@ img.red.JPG {
     max-width:100%;
     height:auto;
 }
- 
-ul {
-    list-style-type: none;
-    padding-top:5em;
-    text-align: center;
-    line-height: 1.5;
-    display: inline-block;
-    vertical-align: middle;
-    font-size: 30px;
-}
+
 
 /*  
 section.Gallery figure img:hover {
@@ -218,10 +279,6 @@ img.dahlia {
 #gallery-title {
     text-align: center;
     padding-top: 30px;
-}
-
-.Gallery > h2 {
-    text-align: center;
 }
 
 .Gallery {

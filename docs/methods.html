@@ -1,57 +1,102 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Our Methods and what we Discovered</title>
+        <title>Politics-Conspiracies (Methods/Reflection)</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" href="CSSstyle.css">
     </head>
-    <body><button onclick="topFunction()" id="to-top" title="Go to top"><img alt="up arrow"
-        src="https://cdn.onlinewebfonts.com/svg/img_231938.png" width="30" /></button>
-        <script>
-                    // Get the button
-                    let mybutton = document.getElementById("to-top");
-                    
-                    // When the user scrolls down 20px from the top of the document, show the button
-                    window.onscroll = function () {
-                        scrollFunction()
-                    };
-                    
-                    function scrollFunction() {
-                        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-                            mybutton.style.display = "block";
-                        } else {
-                            mybutton.style.display = "none";
-                        }
-                    }
-                    
-                    // When the user clicks on the button, scroll to the top of the document
-                    function topFunction() {
-                        document.body.scrollTop = 0;
-                        document.documentElement.scrollTop = 0;
-                    }</script>
-        <h1 id="title-index">What we Discovered using SVG</h1>
+    <body>
+        <h1 id="title-index">Politics-Conspiracies (Methods/Reflection)</h1>
         <nav id="menu">
-            <a href="index.html"><div class="button">Home</div></a>
-            <a href="fulltext.html"><div class="button">Fulltext</div></a>
-            <a href="analysis.html"><div class="button">Analysis</div></a>
-            <a href="visualization.html"><div class="button">Visualization</div></a>
-            <a href="methods.html"><div class="button">Methods</div></a>
-            <a href="about.html"><div class="button">About</div></a>
-            <a href="GitHub.html"><div class="button">GitHub <img
-                alt="github icon"
-                src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png"
-                width="15" /></div></a>
+            <a href="index.html">
+                <div class="button">Home</div>
+            </a>
+            <a href="conspiracies.html">
+                <div class="button">Conspiracies</div>
+            </a>
+            <a href="analysis.html">
+                <div class="button">Analysis</div>
+            </a>
+            <a href="methods.html">
+                <div class="button">Reflection/Methods</div>
+            </a>
+            <a href="about.html">
+                <div class="button">About</div>
+            </a>
+            <a href="https://github.com/nhammer514/textfiles-politics">
+                <div class="button">GitHub <img alt="github icon"
+                        src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png"
+                        width="15" /></div>
+            </a>
         </nav>
-        <h1 id="Analysis-title">Process to our research</h1>
-        <hr/>
-        <h2>XML/Xquery Results</h2>
-        <hr/>
-        <h1 id="Analysis-python">Python</h1>
-        <hr/>
-        <h2 id="copyright">
-            <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="GNU Public License e" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
+        <div class="content1">
+            <h2 id="Analysis-title" style="text-align: center;">Reflection</h2>
+            <p>&emsp;Building a website about conspiracy theories using <b>XML</b>, <b>XQuery</b>, and <b>Python</b> was
+                a challenging but rewarding project. The use of <b>XML</b> and <b>XQuery</b> provided a structured
+                and flexible way to organize the website's content, making it easier to manage and
+                update. <b>Python</b>, on the other hand, helped automate tasks and streamline the
+                website's functionality. However, one of the most significant challenges was
+                ensuring that the website's content was balanced and presented in an objective
+                manner, especially given the sensitive nature of conspiracy theories. Overall, the
+                project required a combination of technical skills, critical thinking, and
+                sensitivity to ensure that the final product was informative and thought-provoking
+                without promoting any specific conspiracy theory.</p>
+            <p>&emsp;In addition to <b>XML</b>, <b>XQuery</b>, and <b>Python</b>, incorporating Spacy and Cytoscape into
+                the project added another layer of complexity and functionality. Spacy, a natural
+                language processing library, allowed for more advanced analysis of the website's
+                content and provided the ability to extract and analyze data from unstructured text.
+                Cytoscape, a network analysis and visualization tool, provided a way to visualize
+                relationships between various conspiracy theories and the people, organizations, or
+                events they involve. The integration of these tools into the website not only
+                enhanced its functionality but also improved its overall user experience by
+                presenting the content in a more interactive and engaging way. However, it also
+                required a greater understanding of the technical aspects of these tools, which
+                added an extra level of complexity to the project. Overall, the use of Spacy and
+                Cytoscape showcased the possibilities of incorporating cutting-edge technologies
+                into website development and demonstrated the importance of staying up-to-date with
+                emerging technologies. </p>
+            <p>&emsp;Building a website using <b>HTML</b> and <b>CSS</b> comes with its own set of challenges. One
+                of the biggest challenges is ensuring that the website is responsive and looks good
+                on different devices with different screen sizes. This involves writing code that
+                can adapt to different screen sizes and resolutions, which can be time-consuming and
+                requires attention to detail. This also allowed us to display all our work in one
+                place for anyone to see and experience. The html allowed us to give the website
+                structure, while css allowed us to express ourselves with the styling of the
+                website.</p>
+            <p> One of the main challenges behind the scenes was the text files. We had to grab any viable documents from
+                textfiles.com, and wrap any nodes that referenced any entity. To solve this, we
+                pushed all the files through a pipeline of techniques and scripts.</p>
+            <p> Once we scrapped the usable conspiracies from textfiles.com, we had to replace all
+                characters that would be incompatible with the .xml or .html file format. When all
+                special characters were replaced, it was time to move onto wrapping paragraphs or
+                any loose strings of text into &lt;p&gt; elements, in order for the texts to be
+                legible on the website. Once we had each file has been appropriately wrapped and
+                checked for any errors, the next step was pushing each file into a <b>Python</b> script
+                that uses Natural Language Processing, RegeX, and SpaCey to wrap any found entities.
+                Unfortunately, the script's work was not perfect. There were issues with overlapping
+                tags, and many names were not wrapped at all. The script would have go through each
+                file again, and check for any invalid wrapping. If all the files were valid, and
+                lacked any errors, it was time to use <b>xQuery</b> and <b>XSLT</b> to turn the files into pages
+                that can be viewed from a browser. </p>
+            <p> After all of that, text files are viewable on the website and would be wrapped accordingly to what entities were referenced. But there was still more to be done in regards to the vizualization of the text files and their entities. Using <b>xQuery</b>, we were able to generate a .tsv file consists of a table, counting how many times an entity was referenced and what file said entity is referenced from. Then, we throw the .tsv file into CytoScape, and generate a vast network of all of the interconnecting nodes.</p>
+            <hr/>
+            <h2 style="text-align: center;"> Software/Methods Used </h2>
+            <ol>
+                <li> Python/PyCharm</li>
+                <li> XML/oXygen text editor</li>
+                <li> CytoScape and AntConc</li>
+                <li> eXide, xQuery</li>
+                <li> XSLT</li>
+            </ol>
+        </div>
+        <hr />
+        <p> Very special thanks to <a href="https://textfiles.com">TextFiles.com</a> for their awesome directory of text files! They were the foundation of this project, and this would of fell apart without them.</p>
+        <h2 id="copyright" style="margin:auto;">
+            <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+                <img alt="GNU Public License e" style="border-width:0"
+                    src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" />
+            </a>
+            <br />
         </h2>
-            
-        
     </body>
 </html>
